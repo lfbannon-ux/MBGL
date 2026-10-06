@@ -135,3 +135,29 @@ FY23 89 / 89 · FY24 90 / 90 · FY25 112 / ~100 · Q1-26 28 / ~21 · Q2-26 36 / 
 | Payout on NI ex after-tax amortization | ~18% |
 | Notes coupon | $110.6m a year (5.53%) |
 | Printed pro forma interest | $114m |
+
+## D4_disclosure_changes.md — SPGI Mobility segment vs Form 10/A carve-out (FY2023–25, $m)
+| Item | FY23 SPGI | FY23 10A | FY24 SPGI | FY24 10A | FY25 SPGI | FY25 10A | Explanation |
+|---|---|---|---|---|---|---|---|
+| Revenue | 1,484 [D] | 1,485 [D] | 1,609 | 1,613 | 1,747 | 1,750 | US subscription only; SPGI data-sharing revenue 3/3/3 [D] (10A p.465) eliminated at SPGI |
+| Segment OP (pre-corporate) | 260 | 271 | 312 | 328 | 378 | 384 | carve-out moves costs to Corporate Unallocated (32/30/45) |
+| Total OP | 260 | 239 | 312 | 298 | 378 | 339 | bridge: +amort Δ (6/7/7) +rev Δ −Corp; residual +4/+5/−4 [C] |
+| Amortization | 301 | 295 | 303 | 296 | 303 | 296 | unexplained in text read |
+| Adj. margin | 38.8% adj OP | 40.3% Adj EBITDA [C] | 39.0% | 40.8% [C] | 39.9% | 40.6% | measure change: EBITDA adds back depreciation + SBC |
+
+## D7_pricing.md — Price vs new business, 1H-2026 ($m; 10Q p.27)
+| | Q1-26 (implied) | Q2-26 | 6M-26 |
+|---|---|---|---|
+| Revenue Δ | 35 [C] | 29 [D] | 64 [D] |
+| Price | ~20 [C] | ~16 [D] | ~36 [D] |
+| New business | ~12 [C] (10A said 26) | ~8 [D] | ~20 [D] |
+| Price pts of growth | ~4.8 [C] | ~3.6 [C] | ~4.2 [C] |
+
+## D10_guidance_vs_execution.md — Mobility guidance scorecard
+| Year | Rev guide initial → final | Rev actual | Margin guide initial → final | Margin actual |
+|---|---|---|---|---|
+| FY23 (SPGI) | 6.5–8.5 → 9.0–10.0 | +10% | 39–40 → 38.5–39.5 (adj OP) | 38.8% |
+| FY24 (SPGI) | 8.5–10.0 → 8.0–8.5 (pos.) | +8% (8.4% [C]) | 39–40 → 38.5–39.0 | 39.0% |
+| FY25 (SPGI) | 7.0–8.5 → 8–9 | +8.6% | 39–40 → 39.5–40 | 39.9% |
+| 2025/26 target (SPGI ID 2022-12-01) | 7–9% organic | met | 41–43% adj OP | missed (39.9%) |
+| FY26 | 7.5–9 OCC (SPGI Feb/Apr; MBGL ID May) → 6.9–7.7 reported (Aug-7; ≈6.6–7.4 OCC [C]) | 1H 7.45% rep / ~6.9% ex-FX [C] | Adj EBITDA $745–760m (~40%) (Aug-7) | 1H $386m, 41.8% [C] |

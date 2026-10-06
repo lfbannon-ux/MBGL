@@ -1,0 +1,96 @@
+source_doc,page,statement,fiscal_period,period_end,section,line_item,value,unit,is_subtotal,order_index
+InvDay_2026-05-12,10,PRES,FY2025,2025-12-31,"Mobility Global today : Scaled industry leader",TOTAL REVENUE (printed $ 1.75B),1.75,text,1,1
+InvDay_2026-05-12,10,PRES,FY2025,2025-12-31,"Mobility Global today : Scaled industry leader",REVENUE BY SEGMENT - B2B Solutions,35,pct,0,2
+InvDay_2026-05-12,10,PRES,FY2025,2025-12-31,"Mobility Global today : Scaled industry leader",REVENUE BY SEGMENT - CARFAX,65,pct,0,3
+InvDay_2026-05-12,10,PRES,FY2025,2025-12-31,"Mobility Global today : Scaled industry leader",SUBSCRIPTION REVENUE,81,pct,0,4
+InvDay_2026-05-12,10,PRES,FY2025,2025-12-31,"Mobility Global today : Scaled industry leader",REVENUE BY CUSTOMER TYPE - OEM & Supplier,20,pct,0,5
+InvDay_2026-05-12,10,PRES,FY2025,2025-12-31,"Mobility Global today : Scaled industry leader",REVENUE BY CUSTOMER TYPE - Financial / Consumer / Other,18,pct,0,6
+InvDay_2026-05-12,10,PRES,FY2025,2025-12-31,"Mobility Global today : Scaled industry leader",REVENUE BY CUSTOMER TYPE - Dealer ( B2B & CARFAX ),62,pct,0,7
+InvDay_2026-05-12,10,PRES,FY2025,2025-12-31,"Mobility Global today : Scaled industry leader",REVENUE BY GEOGRAPHY - International,17,pct,0,8
+InvDay_2026-05-12,10,PRES,FY2025,2025-12-31,"Mobility Global today : Scaled industry leader",REVENUE BY GEOGRAPHY - U.S.,83,pct,0,9
+InvDay_2026-05-12,11,PRES,FY2025,2025-12-31,"Mobility Global at a glance - FY25 BUSINESS HIGHLIGHTS",Revenue growth,8.5,pct,0,10
+InvDay_2026-05-12,11,PRES,FY2025,2025-12-31,"Mobility Global at a glance - FY25 BUSINESS HIGHLIGHTS",Adj . EBITDA Margin,40.6,pct,0,11
+InvDay_2026-05-12,11,PRES,FY2025,2025-12-31,"Mobility Global at a glance - FY25 BUSINESS HIGHLIGHTS",Top 40 OEMs (customers),100,pct,0,12
+InvDay_2026-05-12,11,PRES,FY2025,2025-12-31,"Mobility Global at a glance - FY25 BUSINESS HIGHLIGHTS",Top 100 Suppliers (customers),94,pct,0,13
+InvDay_2026-05-12,11,PRES,FY2025,2025-12-31,"Mobility Global at a glance - FY25 BUSINESS HIGHLIGHTS",Dealer Customers (printed 40K +),40000,count,0,14
+InvDay_2026-05-12,11,PRES,FY2025,2025-12-31,"Mobility Global at a glance - FY25 BUSINESS HIGHLIGHTS",Car Care Users (printed 53M +),53,count_m,0,15
+InvDay_2026-05-12,11,PRES,FY2023,2023-12-31,"Mobility Global at a glance - REVENUE GROWTH",Revenue,1485,usd_m,1,16
+InvDay_2026-05-12,11,PRES,FY2024,2024-12-31,"Mobility Global at a glance - REVENUE GROWTH",Revenue,1613,usd_m,1,17
+InvDay_2026-05-12,11,PRES,FY2025,2025-12-31,"Mobility Global at a glance - REVENUE GROWTH",Revenue,1750,usd_m,1,18
+InvDay_2026-05-12,11,PRES,FY2023-FY2025,2025-12-31,"Mobility Global at a glance - REVENUE GROWTH",Revenue CAGR,8.6,pct,0,19
+InvDay_2026-05-12,12,PRES,2025,2025-12-31,"Accelerating industry demand for data and intelligence (MOBILITY GLOBAL ESTIMATES , 2025)",Global Auto Market (printed $ 8T),8,text,0,20
+InvDay_2026-05-12,12,PRES,2025,2025-12-31,"Accelerating industry demand for data and intelligence (MOBILITY GLOBAL ESTIMATES , 2025)",New vehicles sold annually (printed 90M +),90,count_m,0,21
+InvDay_2026-05-12,12,PRES,2025,2025-12-31,"Accelerating industry demand for data and intelligence (MOBILITY GLOBAL ESTIMATES , 2025)",Vehicles in operation globally (printed 1.5B +),1500,count_m,0,22
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Revenue from unique data / proprietary IP and analytics (printed > 90 %),>90,text,0,23
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Vehicle records (printed 60B),60000,count_m,0,24
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Data sources (printed 177K),177000,count,0,25
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Service Shops (printed 92K +),92000,count,0,26
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Police agencies (printed 6K +),6000,count,0,27
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Unique vehicles tracked (printed ~ 832M),832,count_m,0,28
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Households modeled (printed 126M +),126,count_m,0,29
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",VH - based valuations (printed 250M),250,count_m,0,30
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Behavior Prediction Scores calculated daily (printed 215M),215,count_m,0,31
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Vehicle history report views monthly (printed 28M +),28,count_m,0,32
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",users logging into Strategy & Planning platforms monthly (printed 23K),23000,count,0,33
+InvDay_2026-05-12,17,PRES,FY2025,2025-12-31,"Deepest , most valuable proprietary data estate in automotive",Data research inquiries in the last year (printed ~ 170K),170000,count,0,34
+InvDay_2026-05-12,18,PRES,FY2025,2025-12-31,"Our trusted , leading brands define their categories",CARFAX Total in - market Awareness,96,pct,0,35
+InvDay_2026-05-12,18,PRES,2021,2021-05-31,"Our trusted , leading brands define their categories (fn1: TENEO SURVEY OF 1257 AUTOMOTIVEMASTERMIND CUSTOMERS IN MAY 2021)","of Key Decision Makers believe automotive Mastermind is "" needed in their dealerships """,90,pct,0,36
+InvDay_2026-05-12,18,PRES,FY2025,2025-12-31,"Our trusted , leading brands define their categories",Car Fox mascot Recognition,85,pct,0,37
+InvDay_2026-05-12,18,PRES,2000-2025,2025-12-31,"Our trusted , leading brands define their categories (fn2: INTERNAL CARFAX DATA 2000 TO 2025; incl. TV/radio, paid digital, classified partners, dealer POP, ad production - data only available since 2015)",Media Investment Since 2000 (printed $ 1.5B),1500,usd_m,0,38
+InvDay_2026-05-12,18,PRES,FY2025,2025-12-31,"Our trusted , leading brands define their categories",Years as Market Leading Forecast (printed 30+ Years),30+,text,0,39
+InvDay_2026-05-12,19,PRES,FY2025,2025-12-31,"Unmatched scale and reach across the automotive ecosystem",Of Top 20 Financial Institutions (customers),17,count,0,40
+InvDay_2026-05-12,19,PRES,FY2025,2025-12-31,"Unmatched scale and reach across the automotive ecosystem",Top 40 Global OEMs,100,pct,0,41
+InvDay_2026-05-12,19,PRES,FY2025,2025-12-31,"Unmatched scale and reach across the automotive ecosystem",Top 100 Global Automotive Suppliers,94,pct,0,42
+InvDay_2026-05-12,19,PRES,FY2025,2025-12-31,"Unmatched scale and reach across the automotive ecosystem",Dealer Network (printed 40K +),40000,count,0,43
+InvDay_2026-05-12,19,PRES,FY2025,2025-12-31,"Unmatched scale and reach across the automotive ecosystem",Annual Trade - In Leads (printed 1.4M +),1.4,count_m,0,44
+InvDay_2026-05-12,19,PRES,FY2025,2025-12-31,"Unmatched scale and reach across the automotive ecosystem",Monthly Unique Visitors to CARFAX US Website and App (printed 23M +),23,count_m,0,45
+InvDay_2026-05-12,19,PRES,FY2025,2025-12-31,"Unmatched scale and reach across the automotive ecosystem",Vehicle History Report Views Monthly (printed 28M +),28,count_m,0,46
+InvDay_2026-05-12,19,PRES,FY2025,2025-12-31,"Unmatched scale and reach across the automotive ecosystem",CARFAX Car Care Consumer Audience (printed 53M +),53,count_m,0,47
+InvDay_2026-05-12,24,PRES,2026,,"Unifying Mobility Global",Employees (printed ~ 3,500 highly talented people),3500,count,0,48
+InvDay_2026-05-12,25,PRES,2026,,"Infusing Al everywhere to accelerate growth and drive efficiency",accelerated engineering velocity (printed 10-15 %),10-15,text,0,49
+InvDay_2026-05-12,25,PRES,2026,,"Infusing Al everywhere to accelerate growth and drive efficiency",more signals (printed 3.8B),3800,count_m,0,50
+InvDay_2026-05-12,25,PRES,2026,,"Infusing Al everywhere to accelerate growth and drive efficiency",daily prediction scores (printed 215M),215,count_m,0,51
+InvDay_2026-05-12,27,PRES,2025,2025-12-31,"Growth vectors unlocking a $ 78B TAM opportunity (source: 2025 ESTIMATES FROM INDEPENDENT THIRD - PARTY CONSULTING FIRM; MIDPOINT OF RANGES)",2025 TAM,78,usd_bn,1,52
+InvDay_2026-05-12,27,PRES,2025,2025-12-31,"Growth vectors unlocking a $ 78B TAM opportunity (source: 2025 ESTIMATES FROM INDEPENDENT THIRD - PARTY CONSULTING FIRM; MIDPOINT OF RANGES)",ADJACENT TAM (Aftermarket services; P & C claims & repair; Engineering / cost solutions),38,usd_bn,0,53
+InvDay_2026-05-12,27,PRES,2025,2025-12-31,"Growth vectors unlocking a $ 78B TAM opportunity (source: 2025 ESTIMATES FROM INDEPENDENT THIRD - PARTY CONSULTING FIRM; MIDPOINT OF RANGES)",CORE + EXTENDED TAM,40,usd_bn,1,54
+InvDay_2026-05-12,27,PRES,2025,2025-12-31,"Growth vectors unlocking a $ 78B TAM opportunity (source: 2025 ESTIMATES FROM INDEPENDENT THIRD - PARTY CONSULTING FIRM; MIDPOINT OF RANGES)",EXTENDED TAM (Digital Ads; Sell My Car; Data Studio; Procurement Intelligence; Internationalization),26,usd_bn,0,55
+InvDay_2026-05-12,27,PRES,2025,2025-12-31,"Growth vectors unlocking a $ 78B TAM opportunity (source: 2025 ESTIMATES FROM INDEPENDENT THIRD - PARTY CONSULTING FIRM; MIDPOINT OF RANGES)",CORE TAM (Vehicle History; Service Loyalty; Car Listings; OEM & Dealer Marketing Solutions; Vehicle Forecasting / Supply Chain & Tech),14,usd_bn,0,56
+InvDay_2026-05-12,27,PRES,2025,2025-12-31,"Growth vectors unlocking a $ 78B TAM opportunity (source: 2025 ESTIMATES FROM INDEPENDENT THIRD - PARTY CONSULTING FIRM; MIDPOINT OF RANGES)",SHARE OF CORE,13,pct,0,57
+InvDay_2026-05-12,30,PRES,MT,,"Framework for investor value creation",Predictable Organic Revenue Growth (printed: 7.5-10 % annually),7.5-10,text,0,58
+InvDay_2026-05-12,30,PRES,MT,,"Framework for investor value creation",Margin Expansion (printed: + 50bps annually after standalone reset),+50bps,text,0,59
+InvDay_2026-05-12,30,PRES,MT,,"Framework for investor value creation",Compounding EBITDA Growth (printed: 8-11 % Adj . EBITDA growth),8-11,text,0,60
+InvDay_2026-05-12,30,PRES,MT,,"Framework for investor value creation",Dividend Distributor (printed: 20-25 % of GAAP net income),20-25,text,0,61
+InvDay_2026-05-12,30,PRES,MT,,"Framework for investor value creation (fn1: FCF for capital return = FCF after investments, defined as FCF minus acquisitions)",Consistent Capital Returns (printed: 75 % + of FCF returned annually ( 1 )),75+,text,0,62
+InvDay_2026-05-12,30,PRES,MT,,"Framework for investor value creation",M & A as an Accelerant (printed: Additional capacity while maintaining IG rating),Additional capacity while maintaining IG rating,text,0,63
+InvDay_2026-05-12,34,PRES,FY2025,2025-12-31,"Diversified , resilient and subscription - led revenue - FY25 REVENUE BREAKDOWN",B2B REVENUE,608,usd_m,1,64
+InvDay_2026-05-12,34,PRES,FY2025,2025-12-31,"Diversified , resilient and subscription - led revenue - FY25 REVENUE BREAKDOWN",B2B REVENUE BY TYPE - Transactional,18,pct,0,65
+InvDay_2026-05-12,34,PRES,FY2025,2025-12-31,"Diversified , resilient and subscription - led revenue - FY25 REVENUE BREAKDOWN",B2B REVENUE BY TYPE - Subscription,82,pct,0,66
+InvDay_2026-05-12,34,PRES,FY2025,2025-12-31,"Diversified , resilient and subscription - led revenue - FY25 REVENUE BREAKDOWN",B2B REVENUE BY BUSINESS LINE - Strategy & Planning,26,pct,0,67
+InvDay_2026-05-12,34,PRES,FY2025,2025-12-31,"Diversified , resilient and subscription - led revenue - FY25 REVENUE BREAKDOWN",B2B REVENUE BY BUSINESS LINE - Marketing & Sales,74,pct,0,68
+InvDay_2026-05-12,34,PRES,FY2025,2025-12-31,"Diversified , resilient and subscription - led revenue - FY25 REVENUE BREAKDOWN",B2B REVENUE BY GEOGRAPHY - International,21,pct,0,69
+InvDay_2026-05-12,34,PRES,FY2025,2025-12-31,"Diversified , resilient and subscription - led revenue - FY25 REVENUE BREAKDOWN",B2B REVENUE BY GEOGRAPHY - United States,79,pct,0,70
+InvDay_2026-05-12,35,PRES,FY2025,2025-12-31,"B2B Solutions at a glance - FY25 BUSINESS HIGHLIGHTS",Top 40 Global OEMS,100,pct,0,71
+InvDay_2026-05-12,35,PRES,FY2025,2025-12-31,"B2B Solutions at a glance - FY25 BUSINESS HIGHLIGHTS",Transaction Records (printed 13B +),13000,count_m,0,72
+InvDay_2026-05-12,35,PRES,FY2025,2025-12-31,"B2B Solutions at a glance - FY25 BUSINESS HIGHLIGHTS",VINS Tracked (printed ~ 832M),832,count_m,0,73
+InvDay_2026-05-12,35,PRES,FY2025,2025-12-31,"B2B Solutions at a glance - FY25 BUSINESS HIGHLIGHTS",Global Vehicle Production Covered,99,pct,0,74
+InvDay_2026-05-12,35,PRES,FY2023,2023-12-31,"B2B Solutions at a glance - REVENUE GROWTH",B2B Revenue,557,usd_m,1,75
+InvDay_2026-05-12,35,PRES,FY2024,2024-12-31,"B2B Solutions at a glance - REVENUE GROWTH",B2B Revenue,574,usd_m,1,76
+InvDay_2026-05-12,35,PRES,FY2025,2025-12-31,"B2B Solutions at a glance - REVENUE GROWTH",B2B Revenue,608,usd_m,1,77
+InvDay_2026-05-12,35,PRES,FY2023-FY2025,2025-12-31,"B2B Solutions at a glance - REVENUE GROWTH",B2B Revenue CAGR,4.5,pct,0,78
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",Markets Covered (printed 145+),145,count,0,79
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",of Global Production Covered,99,pct,0,80
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",Sales Brands Covered (printed 400+),400,count,0,81
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",Supplier Plant Locations (printed 2,900+ across 80+ Countries),2900,count,0,82
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",Rows of Actively Covered Vehicle Data (printed 80M +),80,count_m,0,83
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",Vehicle variants (printed 85K +),85000,count,0,84
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",Suppliers (printed 4,400+; > 60 % of Value),4400,count,0,85
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",Vehicle Attributes (printed 2,000+),2000,count,0,86
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",Vehicle Production Plants (printed 990+ across 50+ Countries),990,count,0,87
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Strategy & Planning",Engine Manufacturers (printed 200+),200,count,0,88
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Marketing & Sales",New & Used Vehicle records (printed ~ 9B +),9000,count_m,0,89
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Marketing & Sales",Households (printed 126M),126,count_m,0,90
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Marketing & Sales",Household Records (printed 4B +),4000,count_m,0,91
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Marketing & Sales",Unique VINS Tracked (printed 832M),832,count_m,0,92
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Marketing & Sales",Ownership Data (printed 30 years),30,text,0,93
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Marketing & Sales",New Vehicle Pricing and Incentive Records (printed 19B +),19000,count_m,0,94
+InvDay_2026-05-12,40,PRES,FY2025,2025-12-31,"Unmatched breadth and depth of data - Marketing & Sales",Transaction Records (printed 13B +),13000,count_m,0,95

@@ -1,0 +1,271 @@
+source_doc,page,statement,fiscal_period,period_end,section,line_item,value,unit,is_subtotal,order_index
+Form10A_2026-05-27,430,NOTE_PENSION,Q1-2026,2026-03-31,Defined Contribution Plan,401(k) plan expense for Mobility employees,8,usd_m,0,1
+Form10A_2026-05-27,430,NOTE_PENSION,Q1-2025,2025-03-31,Defined Contribution Plan,401(k) plan expense for Mobility employees,7,usd_m,0,1
+Form10A_2026-05-27,430,NOTE_EQUITY,Q1-2026,2026-03-31,Stock-Based Compensation,total stock-based compensation expense related to restricted stock and other stock-based awards for the dedicated Mobility employees,4,usd_m,0,1
+Form10A_2026-05-27,430,NOTE_EQUITY,Q1-2025,2025-03-31,Stock-Based Compensation,total stock-based compensation expense related to restricted stock and other stock-based awards for the dedicated Mobility employees,5,usd_m,0,1
+Form10A_2026-05-27,430,NOTE_EQUITY,Q1-2026,2026-03-31,Stock-Based Compensation,S&P Global granted shares of restricted stock and other stock-based awards to dedicated Mobility employees,0.1,shares_m,0,2
+Form10A_2026-05-27,430,NOTE_EQUITY,Q1-2026,2026-03-31,Stock-Based Compensation,weighted-average grant-date fair value per share,441.68,usd_per_share,0,3
+Form10A_2026-05-27,430,NOTE_EQUITY,Q1-2026,2026-03-31,Stock-Based Compensation,Total unrecognized compensation expense related to unvested equity awards,44,usd_m,0,4
+Form10A_2026-05-27,430,NOTE_EQUITY,Q1-2026,2026-03-31,Stock-Based Compensation,weighted average period to recognize unrecognized compensation (years),1.63,count,0,5
+Form10A_2026-05-27,433,NOTE_LEASES,Q1-2026,2026-03-31,Lease balance sheet,Lease right-of-use assets,23,usd_m,0,1
+Form10A_2026-05-27,433,NOTE_LEASES,FY2025,2025-12-31,Lease balance sheet,Lease right-of-use assets,16,usd_m,0,1
+Form10A_2026-05-27,433,NOTE_LEASES,Q1-2026,2026-03-31,Lease balance sheet,Current lease liabilities,6,usd_m,0,2
+Form10A_2026-05-27,433,NOTE_LEASES,FY2025,2025-12-31,Lease balance sheet,Current lease liabilities,7,usd_m,0,2
+Form10A_2026-05-27,433,NOTE_LEASES,Q1-2026,2026-03-31,Lease balance sheet,Non-current lease liabilities,19,usd_m,0,3
+Form10A_2026-05-27,433,NOTE_LEASES,FY2025,2025-12-31,Lease balance sheet,Non-current lease liabilities,11,usd_m,0,3
+Form10A_2026-05-27,433,NOTE_LEASES,Q1-2026,2026-03-31,Lease expense,Lease expense for our operating leases,2,usd_m,0,4
+Form10A_2026-05-27,433,NOTE_LEASES,Q1-2025,2025-03-31,Lease expense,Lease expense for our operating leases,2,usd_m,0,4
+Form10A_2026-05-27,433,NOTE_LEASES,Q1-2026,2026-03-31,Supplemental,Operating cash flows for operating leases,2,usd_m,0,5
+Form10A_2026-05-27,433,NOTE_LEASES,Q1-2025,2025-03-31,Supplemental,Operating cash flows for operating leases,2,usd_m,0,5
+Form10A_2026-05-27,433,NOTE_LEASES,Q1-2026,2026-03-31,Supplemental,Right of use assets obtained in exchange for lease obligations - Operating leases,9,usd_m,0,6
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Lease terms,Weighted-average remaining lease term (years),5.6,count,0,7
+Form10A_2026-05-27,434,NOTE_LEASES,FY2025,2025-12-31,Lease terms,Weighted-average remaining lease term (years),4.7,count,0,7
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Lease terms,Weighted-average discount rate,3.71,pct,0,8
+Form10A_2026-05-27,434,NOTE_LEASES,FY2025,2025-12-31,Lease terms,Weighted-average discount rate,2.79,pct,0,8
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Maturities,2026 (Excluding the three months ended March 31 2026),6,usd_m,0,9
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Maturities,2027,4,usd_m,0,10
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Maturities,2028,3,usd_m,0,11
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Maturities,2029,3,usd_m,0,12
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Maturities,2030,3,usd_m,0,13
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Maturities,2031 and beyond,9,usd_m,0,14
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Maturities,Total undiscounted lease payments,28,usd_m,1,15
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Maturities,Less: Imputed interest,3,usd_m,0,16
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Maturities,Present value of lease liabilities,25,usd_m,1,17
+Form10A_2026-05-27,434,NOTE_LEASES,Q1-2026,2026-03-31,Not yet commenced,lease agreements not yet commenced - total estimated future lease payments (2026 through 2037),74,usd_m,0,18
+Form10A_2026-05-27,434,NOTE_RELATED,Q1-2026,2026-03-31,Related party summary,Data sharing revenues,1,usd_m,0,1
+Form10A_2026-05-27,434,NOTE_RELATED,Q1-2025,2025-03-31,Related party summary,Data sharing revenues,1,usd_m,0,1
+Form10A_2026-05-27,434,NOTE_RELATED,Q1-2026,2026-03-31,Related party summary,Corporate allocations from Parent (2),28,usd_m,0,3
+Form10A_2026-05-27,434,NOTE_RELATED,Q1-2025,2025-03-31,Related party summary,Corporate allocations from Parent (2),22,usd_m,0,3
+Form10A_2026-05-27,434,NOTE_RELATED,Q1-2026,2026-03-31,Related party summary,Total expenses,28,usd_m,1,4
+Form10A_2026-05-27,434,NOTE_RELATED,Q1-2025,2025-03-31,Related party summary,Total expenses,22,usd_m,1,4
+Form10A_2026-05-27,434,NOTE_RELATED,Q1-2026,2026-03-31,Related party summary,Related party loan interest expense net,3,usd_m,0,5
+Form10A_2026-05-27,434,NOTE_RELATED,Q1-2025,2025-03-31,Related party summary,Related party loan interest expense net,4,usd_m,0,5
+Form10A_2026-05-27,435,NOTE_RELATED,Q1-2026,2026-03-31,Stand-up costs,transaction costs related to the stand-up of Mobility as a standalone entity,21,usd_m,0,6
+Form10A_2026-05-27,435,NOTE_RELATED,Q1-2026,2026-03-31,Stand-up costs,of which allocated to the Company from S&P Global (approximately),7,usd_m,0,7
+Form10A_2026-05-27,435,NOTE_DEBT,Q1-2026,2026-03-31,Canada Carfax Loan (related party; IHS Canada; dated 2018-10-01; matures 2027-10-05),principal amount (CAD) at origination,403,usd_m,0,1
+Form10A_2026-05-27,435,NOTE_DEBT,Q1-2026,2026-03-31,Canada Carfax Loan,interest rate per annum,6.0,pct,0,2
+Form10A_2026-05-27,435,NOTE_DEBT,Q1-2026,2026-03-31,Canada Carfax Loan,outstanding loan balance payable to S&P Global inclusive of accrued interest (Due to related parties - non-current),227,usd_m,0,3
+Form10A_2026-05-27,435,NOTE_DEBT,FY2025,2025-12-31,Canada Carfax Loan,outstanding loan balance payable to S&P Global inclusive of accrued interest (Due to related parties - non-current),230,usd_m,0,3
+Form10A_2026-05-27,435,NOTE_DEBT,Q1-2026,2026-03-31,Canada Carfax Loan,related party interest expense,3,usd_m,0,4
+Form10A_2026-05-27,435,NOTE_DEBT,Q1-2025,2025-03-31,Canada Carfax Loan,related party interest expense,4,usd_m,0,4
+Form10A_2026-05-27,435,NOTE_DEBT,Q1-2026,2026-03-31,Canada Carfax Loan,voluntary prepayments on principal,0,usd_m,0,5
+Form10A_2026-05-27,435,NOTE_DEBT,Q1-2025,2025-03-31,Canada Carfax Loan,voluntary prepayments on principal,10,usd_m,0,5
+Form10A_2026-05-27,435,NOTE_DEBT,Q1-2026,2026-03-31,Canada Carfax Loan,payments of interest,3,usd_m,0,6
+Form10A_2026-05-27,435,NOTE_DEBT,Q1-2025,2025-03-31,Canada Carfax Loan,payments of interest,3,usd_m,0,6
+Form10A_2026-05-27,436,NOTE_DEBT,Q1-2026,2026-03-31,Europe Carfax Loan (receivable from IHS Holdings; matured 2026-02-14; 6M LIBOR+0.5%),maximum aggregate principal (EUR),10,usd_m,0,7
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2026,2026-03-31,Parent company investment components,Cash pooling and general financing activities,-30,usd_m,0,10
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2025,2025-03-31,Parent company investment components,Cash pooling and general financing activities,-112,usd_m,0,10
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2026,2026-03-31,Parent company investment components,Unbilled corporate allocations,27,usd_m,0,11
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2025,2025-03-31,Parent company investment components,Unbilled corporate allocations,21,usd_m,0,11
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2026,2026-03-31,Parent company investment components,Stock-based compensation,4,usd_m,0,12
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2025,2025-03-31,Parent company investment components,Stock-based compensation,5,usd_m,0,12
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2026,2026-03-31,Parent company investment components,Assumed income tax payments,41,usd_m,0,13
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2025,2025-03-31,Parent company investment components,Assumed income tax payments,42,usd_m,0,13
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2026,2026-03-31,Parent company investment components,Net increase (decrease) in Parent company investment,42,usd_m,1,14
+Form10A_2026-05-27,436,NOTE_EQUITY,Q1-2025,2025-03-31,Parent company investment components,Net increase (decrease) in Parent company investment,-44,usd_m,1,14
+Form10A_2026-05-27,437,NOTE_DEBT,Q1-2026,2026-03-31,Subsequent event,revolving credit facility entered 2026-05-06 (the Credit Facility),500,usd_m,0,8
+Form10A_2026-05-27,447,NOTE_DEFREV,FY2025,2025-12-31,Unearned Revenue,revenues recognized that were included in the unearned revenue balance at the beginning of the period,73,usd_m,0,1
+Form10A_2026-05-27,447,NOTE_DEFREV,FY2025,2025-12-31,Remaining Performance Obligations,aggregate transaction price allocated to remaining performance obligations (majority over next 12 months),78,usd_m,0,2
+Form10A_2026-05-27,442,NOTE_DEFREV,FY2025,2025-12-31,Balance sheet,Unearned revenue,78,usd_m,0,3
+Form10A_2026-05-27,442,NOTE_DEFREV,FY2024,2024-12-31,Balance sheet,Unearned revenue,75,usd_m,0,3
+Form10A_2026-05-27,441,NOTE_OCI,FY2025,2025-12-31,OCI,Foreign currency translation adjustments,-7,usd_m,0,1
+Form10A_2026-05-27,441,NOTE_OCI,FY2024,2024-12-31,OCI,Foreign currency translation adjustments,18,usd_m,0,1
+Form10A_2026-05-27,441,NOTE_OCI,FY2023,2023-12-31,OCI,Foreign currency translation adjustments,-6,usd_m,0,1
+Form10A_2026-05-27,444,NOTE_OCI,FY2022,2023-01-01,AOCI balance,Accumulated Other Comprehensive Income (Loss) balance as of January 1 2023,-9,usd_m,1,2
+Form10A_2026-05-27,444,NOTE_OCI,FY2023,2023-12-31,AOCI balance,Accumulated Other Comprehensive Income (Loss) balance,-15,usd_m,1,2
+Form10A_2026-05-27,444,NOTE_OCI,FY2024,2024-12-31,AOCI balance,Accumulated Other Comprehensive Income (Loss) balance,3,usd_m,1,2
+Form10A_2026-05-27,444,NOTE_OCI,FY2025,2025-12-31,AOCI balance,Accumulated Other Comprehensive Income (Loss) balance,-4,usd_m,1,2
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2022,2023-01-01,Parent company investment roll-forward,Parent Company Investment balance as of January 1 2023,11791,usd_m,1,1
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2023,2023-12-31,Parent company investment roll-forward,Comprehensive income net of tax (net income),163,usd_m,0,2
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2023,2023-12-31,Parent company investment roll-forward,Net decrease in Parent company investment,-137,usd_m,0,3
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2023,2023-12-31,Parent company investment roll-forward,Parent Company Investment balance,11817,usd_m,1,4
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2024,2024-12-31,Parent company investment roll-forward,Comprehensive income net of tax (net income),208,usd_m,0,2
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2024,2024-12-31,Parent company investment roll-forward,Net decrease in Parent company investment,-345,usd_m,0,3
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2024,2024-12-31,Parent company investment roll-forward,Parent Company Investment balance,11680,usd_m,1,4
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2025,2025-12-31,Parent company investment roll-forward,Comprehensive income net of tax (net income),220,usd_m,0,2
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2025,2025-12-31,Parent company investment roll-forward,Net decrease in Parent company investment,-411,usd_m,0,3
+Form10A_2026-05-27,444,NOTE_EQUITY,FY2025,2025-12-31,Parent company investment roll-forward,Parent Company Investment balance,11489,usd_m,1,4
+Form10A_2026-05-27,452,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan acquisition,total purchase consideration,223,usd_m,1,50
+Form10A_2026-05-27,452,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan acquisition,cash consideration,214,usd_m,0,51
+Form10A_2026-05-27,452,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan acquisition,contingent consideration liability,9,usd_m,0,52
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Current assets,4,usd_m,0,53
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Property and equipment,1,usd_m,0,54
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Right of use assets,1,usd_m,0,55
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Goodwill,150,usd_m,0,56
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Other intangible assets,97,usd_m,0,57
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Total assets acquired,253,usd_m,1,58
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Accounts payable,2,usd_m,0,59
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Unearned revenue,22,usd_m,0,60
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Lease liabilities - non-current,1,usd_m,0,61
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Deferred tax liability - non-current,25,usd_m,0,62
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Other non-current liabilities,9,usd_m,0,63
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Total liabilities assumed,39,usd_m,1,64
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan PPA,Net assets acquired,214,usd_m,1,65
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan intangibles,Databases and software - fair value (8 years),10,usd_m,0,66
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan intangibles,Customer relationships - fair value (20 years),81,usd_m,0,67
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan intangibles,Trade names - fair value (7 years),6,usd_m,0,68
+Form10A_2026-05-27,453,NOTE_GOODWILL_INTANG,FY2023,2023-02-16,Market Scan intangibles,Total Identifiable Intangible Assets (18 years weighted average),97,usd_m,1,69
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Goodwill by segment,CARFAX,5912,usd_m,0,1
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Goodwill by segment,B2B,2933,usd_m,0,2
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Goodwill by segment,Total,8845,usd_m,1,3
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Goodwill by segment,CARFAX,5912,usd_m,0,1
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Goodwill by segment,B2B,2933,usd_m,0,2
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Goodwill by segment,Total,8845,usd_m,1,3
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Goodwill by segment,CARFAX,5912,usd_m,0,1
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Goodwill by segment,B2B,2933,usd_m,0,2
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Goodwill by segment,Total,8845,usd_m,1,3
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Intangibles - Cost,Databases and software,1077,usd_m,0,10
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Intangibles - Cost,Customer relationships,2753,usd_m,0,11
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Intangibles - Cost,Trade names,1087,usd_m,0,12
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Intangibles - Cost,Total,4917,usd_m,1,13
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Cost,Databases and software,1077,usd_m,0,10
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Cost,Customer relationships,2753,usd_m,0,11
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Cost,Trade names,1087,usd_m,0,12
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Cost,Total,4917,usd_m,1,13
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Cost,Databases and software,1077,usd_m,0,10
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Cost,Customer relationships,2753,usd_m,0,11
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Cost,Trade names,1087,usd_m,0,12
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Cost,Total,4917,usd_m,1,13
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Intangibles - Accumulated amortization,Databases and software,181,usd_m,0,20
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Intangibles - Accumulated amortization,Customer relationships,199,usd_m,0,21
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Intangibles - Accumulated amortization,Trade names,156,usd_m,0,22
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Intangibles - Accumulated amortization,Total,536,usd_m,1,23
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Accumulated amortization,Databases and software,280,usd_m,0,20
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Accumulated amortization,Customer relationships,310,usd_m,0,21
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Accumulated amortization,Trade names,242,usd_m,0,22
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Accumulated amortization,Total,832,usd_m,1,23
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Accumulated amortization,Databases and software,379,usd_m,0,20
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Accumulated amortization,Customer relationships,421,usd_m,0,21
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Accumulated amortization,Trade names,328,usd_m,0,22
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Accumulated amortization,Total,1128,usd_m,1,23
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Current year amortization,Databases and software,99,usd_m,0,30
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Current year amortization,Customer relationships,111,usd_m,0,31
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Current year amortization,Trade names,86,usd_m,0,32
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Intangibles - Current year amortization,Total,296,usd_m,1,33
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Current year amortization,Databases and software,99,usd_m,0,30
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Current year amortization,Customer relationships,111,usd_m,0,31
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Current year amortization,Trade names,86,usd_m,0,32
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles - Current year amortization,Total,296,usd_m,1,33
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Net definite-lived intangibles,Databases and software,797,usd_m,0,40
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Net definite-lived intangibles,Customer relationships,2443,usd_m,0,41
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Net definite-lived intangibles,Trade names,845,usd_m,0,42
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Net definite-lived intangibles,Total,4085,usd_m,1,43
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Net definite-lived intangibles,Databases and software,698,usd_m,0,40
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Net definite-lived intangibles,Customer relationships,2332,usd_m,0,41
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Net definite-lived intangibles,Trade names,759,usd_m,0,42
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Net definite-lived intangibles,Total,3789,usd_m,1,43
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Expected amortization expense,2026,296,usd_m,0,70
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Expected amortization expense,2027,296,usd_m,0,71
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Expected amortization expense,2028,296,usd_m,0,72
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Expected amortization expense,2029,296,usd_m,0,73
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Expected amortization expense,2030,293,usd_m,0,74
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles policy,weighted-average life of the intangible assets (approximately; years),15,count,0,80
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Intangibles policy,maximum straight-line amortization period (years),25,count,0,81
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2025,2025-12-31,Amortization,Amortization expense,296,usd_m,0,82
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2024,2024-12-31,Amortization,Amortization expense,296,usd_m,0,82
+Form10A_2026-05-27,454,NOTE_GOODWILL_INTANG,FY2023,2023-12-31,Amortization,Amortization expense,295,usd_m,0,82
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Income before taxes by source,Domestic operations,276,usd_m,0,1
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Income before taxes by source,Foreign operations,50,usd_m,0,2
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Income before taxes by source,Total income before taxes,326,usd_m,1,3
+Form10A_2026-05-27,455,NOTE_TAX,FY2024,2024-12-31,Income before taxes by source,Domestic operations,225,usd_m,0,1
+Form10A_2026-05-27,455,NOTE_TAX,FY2024,2024-12-31,Income before taxes by source,Foreign operations,59,usd_m,0,2
+Form10A_2026-05-27,455,NOTE_TAX,FY2024,2024-12-31,Income before taxes by source,Total income before taxes,284,usd_m,1,3
+Form10A_2026-05-27,455,NOTE_TAX,FY2023,2023-12-31,Income before taxes by source,Domestic operations,184,usd_m,0,1
+Form10A_2026-05-27,455,NOTE_TAX,FY2023,2023-12-31,Income before taxes by source,Foreign operations,40,usd_m,0,2
+Form10A_2026-05-27,455,NOTE_TAX,FY2023,2023-12-31,Income before taxes by source,Total income before taxes,224,usd_m,1,3
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,Federal: Current,110,usd_m,0,10
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,Federal: Deferred,-62,usd_m,0,11
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,Total federal,48,usd_m,1,12
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,Foreign: Current,30,usd_m,0,13
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,Foreign: Deferred,-12,usd_m,0,14
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,Total foreign,18,usd_m,1,15
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,State and local: Current,56,usd_m,0,16
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,State and local: Deferred,-16,usd_m,0,17
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,Total state and local,40,usd_m,1,18
+Form10A_2026-05-27,455,NOTE_TAX,FY2025,2025-12-31,Provision for taxes on income,Total provision for taxes,106,usd_m,1,19
+Form10A_2026-05-27,455,NOTE_TAX,FY2024,2024-12-31,Provision for taxes on income,Federal: Current,103,usd_m,0,10
+Form10A_2026-05-27,455,NOTE_TAX,FY2024,2024-12-31,Provision for taxes on income,Federal: Deferred,-64,usd_m,0,11
+Form10A_2026-05-27,455,NOTE_TAX,FY2024,2024-12-31,Provision for taxes on income,Total provision for taxes,76,usd_m,1,19
+Form10A_2026-05-27,455,NOTE_TAX,FY2023,2023-12-31,Provision for taxes on income,Federal: Current,90,usd_m,0,10
+Form10A_2026-05-27,455,NOTE_TAX,FY2023,2023-12-31,Provision for taxes on income,Federal: Deferred,-59,usd_m,0,11
+Form10A_2026-05-27,455,NOTE_TAX,FY2023,2023-12-31,Provision for taxes on income,Total provision for taxes,61,usd_m,1,19
+Form10A_2026-05-27,455,NOTE_TAX,FY2024,2024-12-31,Provision for taxes on income,Total federal,39,usd_m,1,12
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),U.S. federal statutory tax rate,68,usd_m,0,30
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),U.S. federal statutory tax rate,21.0,pct,0,50
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),"State & local income taxes, net of federal income tax (1)",31,usd_m,0,31
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),"State & local income taxes, net of federal income tax (1)",9.6,pct,0,51
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),Foreign tax effects - Canada - Local Taxes,4,usd_m,0,32
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Foreign tax effects - Canada - Local Taxes,1.1,pct,0,52
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),Foreign tax effects - Canada - Other,-2,usd_m,0,33
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Foreign tax effects - Canada - Other,-0.6,pct,0,53
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),Foreign tax effects - United Kingdom - Changes in valuation allowance,5,usd_m,0,34
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Foreign tax effects - United Kingdom - Changes in valuation allowance,1.5,pct,0,54
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),Foreign tax effects - United Kingdom - Other,-1,usd_m,0,35
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Foreign tax effects - United Kingdom - Other,-0.2,pct,0,55
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Foreign tax effects - Other foreign jurisdictions,0.7,pct,0,56
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Effect of cross-border tax laws,-0.1,pct,0,57
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),Tax credits,-3,usd_m,0,38
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Tax credits,-0.9,pct,0,58
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),Nontaxable or nondeductible items,1,usd_m,0,39
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Nontaxable or nondeductible items,0.2,pct,0,59
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),Changes in unrecognized tax benefits,1,usd_m,0,40
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Changes in unrecognized tax benefits,0.2,pct,0,60
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (amount),Effective income tax rate,106,usd_m,1,41
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,ETR reconciliation (percent),Effective income tax rate,32.5,pct,1,61
+Form10A_2026-05-27,456,NOTE_TAX,FY2024,2024-12-31,ETR reconciliation (percent; pre-ASU 2023-09),U.S. federal statutory income tax rate,21.0,pct,0,50
+Form10A_2026-05-27,456,NOTE_TAX,FY2024,2024-12-31,ETR reconciliation (percent; pre-ASU 2023-09),State and local income taxes,6.0,pct,0,51
+Form10A_2026-05-27,456,NOTE_TAX,FY2024,2024-12-31,ETR reconciliation (percent; pre-ASU 2023-09),Foreign operations,2.4,pct,0,52
+Form10A_2026-05-27,456,NOTE_TAX,FY2024,2024-12-31,ETR reconciliation (percent; pre-ASU 2023-09),Stock-based compensation,-0.6,pct,0,53
+Form10A_2026-05-27,456,NOTE_TAX,FY2024,2024-12-31,ETR reconciliation (percent; pre-ASU 2023-09),Tax credits and incentives,-2.7,pct,0,54
+Form10A_2026-05-27,456,NOTE_TAX,FY2024,2024-12-31,ETR reconciliation (percent; pre-ASU 2023-09),"Other, net",0.7,pct,0,55
+Form10A_2026-05-27,456,NOTE_TAX,FY2024,2024-12-31,ETR reconciliation (percent; pre-ASU 2023-09),Effective income tax rate,26.8,pct,1,56
+Form10A_2026-05-27,456,NOTE_TAX,FY2023,2023-12-31,ETR reconciliation (percent; pre-ASU 2023-09),U.S. federal statutory income tax rate,21.0,pct,0,50
+Form10A_2026-05-27,456,NOTE_TAX,FY2023,2023-12-31,ETR reconciliation (percent; pre-ASU 2023-09),State and local income taxes,6.3,pct,0,51
+Form10A_2026-05-27,456,NOTE_TAX,FY2023,2023-12-31,ETR reconciliation (percent; pre-ASU 2023-09),Foreign operations,2.7,pct,0,52
+Form10A_2026-05-27,456,NOTE_TAX,FY2023,2023-12-31,ETR reconciliation (percent; pre-ASU 2023-09),Stock-based compensation,-0.2,pct,0,53
+Form10A_2026-05-27,456,NOTE_TAX,FY2023,2023-12-31,ETR reconciliation (percent; pre-ASU 2023-09),Tax credits and incentives,-3.4,pct,0,54
+Form10A_2026-05-27,456,NOTE_TAX,FY2023,2023-12-31,ETR reconciliation (percent; pre-ASU 2023-09),"Other, net",0.9,pct,0,55
+Form10A_2026-05-27,456,NOTE_TAX,FY2023,2023-12-31,ETR reconciliation (percent; pre-ASU 2023-09),Effective income tax rate,27.3,pct,1,56
+Form10A_2026-05-27,456,NOTE_TAX,FY2025,2025-12-31,Income tax payments,net income tax payments,26,usd_m,0,70
+Form10A_2026-05-27,456,NOTE_TAX,FY2024,2024-12-31,Income tax payments,net income tax payments,29,usd_m,0,70
+Form10A_2026-05-27,456,NOTE_TAX,FY2023,2023-12-31,Income tax payments,net income tax payments,15,usd_m,0,70
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Deferred tax assets: Accrued expenses,15,usd_m,0,80
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Deferred tax assets: Losses and other carryforwards,5,usd_m,0,81
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Deferred tax assets: Research & Development expenditures,46,usd_m,0,82
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Deferred tax assets: Other,12,usd_m,0,83
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Total deferred tax assets,78,usd_m,1,84
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Deferred tax liabilities: Goodwill and intangible assets,-1066,usd_m,0,85
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Deferred tax liabilities: Other,-13,usd_m,0,86
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Total deferred tax liabilities,-1079,usd_m,1,87
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Net deferred income tax asset before valuation allowance,-1001,usd_m,1,88
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Deferred tax assets and liabilities,Net deferred income tax liability,-1006,usd_m,1,89
+Form10A_2026-05-27,457,NOTE_TAX,FY2024,2024-12-31,Deferred tax assets and liabilities,Deferred tax assets: Accrued expenses,14,usd_m,0,80
+Form10A_2026-05-27,457,NOTE_TAX,FY2024,2024-12-31,Deferred tax assets and liabilities,Deferred tax assets: Research & Development expenditures,34,usd_m,0,82
+Form10A_2026-05-27,457,NOTE_TAX,FY2024,2024-12-31,Deferred tax assets and liabilities,Deferred tax assets: Other,12,usd_m,0,83
+Form10A_2026-05-27,457,NOTE_TAX,FY2024,2024-12-31,Deferred tax assets and liabilities,Total deferred tax assets,60,usd_m,1,84
+Form10A_2026-05-27,457,NOTE_TAX,FY2024,2024-12-31,Deferred tax assets and liabilities,Deferred tax liabilities: Goodwill and intangible assets,-1141,usd_m,0,85
+Form10A_2026-05-27,457,NOTE_TAX,FY2024,2024-12-31,Deferred tax assets and liabilities,Deferred tax liabilities: Other,-15,usd_m,0,86
+Form10A_2026-05-27,457,NOTE_TAX,FY2024,2024-12-31,Deferred tax assets and liabilities,Total deferred tax liabilities,-1156,usd_m,1,87
+Form10A_2026-05-27,457,NOTE_TAX,FY2024,2024-12-31,Deferred tax assets and liabilities,Net deferred income tax asset before valuation allowance,-1096,usd_m,1,88
+Form10A_2026-05-27,457,NOTE_TAX,FY2024,2024-12-31,Deferred tax assets and liabilities,Net deferred income tax liability,-1096,usd_m,1,89
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Carryforwards,gross interest carryforward,20,usd_m,0,95
+Form10A_2026-05-27,457,NOTE_TAX,FY2025,2025-12-31,Carryforwards,foreign net operating loss carryforwards,1,usd_m,0,96
+Form10A_2026-05-27,458,NOTE_TAX,FY2025,2025-12-31,Unrecognized tax benefits,Balance at beginning of year,5,usd_m,0,100
+Form10A_2026-05-27,458,NOTE_TAX,FY2024,2024-12-31,Unrecognized tax benefits,Balance at beginning of year,4,usd_m,0,100
+Form10A_2026-05-27,458,NOTE_TAX,FY2023,2023-12-31,Unrecognized tax benefits,Balance at beginning of year,3,usd_m,0,100
+Form10A_2026-05-27,458,NOTE_TAX,FY2024,2024-12-31,Unrecognized tax benefits,Additions based on tax positions related to the current year,1,usd_m,0,101
+Form10A_2026-05-27,458,NOTE_TAX,FY2023,2023-12-31,Unrecognized tax benefits,Additions based on tax positions related to the current year,1,usd_m,0,101
+Form10A_2026-05-27,458,NOTE_TAX,FY2025,2025-12-31,Unrecognized tax benefits,Reduction for settlements,-3,usd_m,0,102
+Form10A_2026-05-27,458,NOTE_TAX,FY2025,2025-12-31,Unrecognized tax benefits,Balance at end of year,2,usd_m,1,103
+Form10A_2026-05-27,458,NOTE_TAX,FY2024,2024-12-31,Unrecognized tax benefits,Balance at end of year,5,usd_m,1,103
+Form10A_2026-05-27,458,NOTE_TAX,FY2023,2023-12-31,Unrecognized tax benefits,Balance at end of year,4,usd_m,1,103
+Form10A_2026-05-27,458,NOTE_PENSION,FY2025,2025-12-31,Defined Contribution Plan,401(k) plan expense for Mobility employees,22,usd_m,0,1
+Form10A_2026-05-27,458,NOTE_PENSION,FY2024,2024-12-31,Defined Contribution Plan,401(k) plan expense for Mobility employees,20,usd_m,0,1
+Form10A_2026-05-27,458,NOTE_PENSION,FY2023,2023-12-31,Defined Contribution Plan,401(k) plan expense for Mobility employees,18,usd_m,0,1
+Form10A_2026-05-27,459,NOTE_EQUITY,FY2025,2025-12-31,Stock-Based Compensation,Restricted stock and other stock-based awards expense,22,usd_m,0,20
+Form10A_2026-05-27,459,NOTE_EQUITY,FY2025,2025-12-31,Stock-Based Compensation,Tax benefit,5,usd_m,0,21
+Form10A_2026-05-27,459,NOTE_EQUITY,FY2024,2024-12-31,Stock-Based Compensation,Restricted stock and other stock-based awards expense,28,usd_m,0,20
+Form10A_2026-05-27,459,NOTE_EQUITY,FY2024,2024-12-31,Stock-Based Compensation,Tax benefit,8,usd_m,0,21
+Form10A_2026-05-27,459,NOTE_EQUITY,FY2023,2023-12-31,Stock-Based Compensation,Restricted stock and other stock-based awards expense,20,usd_m,0,20
+Form10A_2026-05-27,459,NOTE_EQUITY,FY2023,2023-12-31,Stock-Based Compensation,Tax benefit,6,usd_m,0,21
+Form10A_2026-05-27,459,NOTE_EQUITY,FY2025,2025-12-31,Stock-Based Compensation,IHS Markit merger exchange ratio applied to assumed awards,0.2838,count,0,22

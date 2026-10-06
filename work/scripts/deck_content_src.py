@@ -97,6 +97,8 @@ P("tax_FY2025", "Tax provision FY25", 106, "IS.tax", "FY2025")
 P("int_FY2025", "Interest expense, net FY25", 13, "IS.int", "FY2025")
 P("amort_FY2025", "Amortization of acquired intangibles FY25", 296, "IS.amort", "FY2025")
 P("sbc_FY2025", "Stock-based compensation FY25", 22, "CF.sbc", "FY2025")
+P("sbc_FY2024", "Stock-based compensation FY24", 28, "CF.sbc", "FY2024")
+P("sbc_FY2023", "Stock-based compensation FY23", 20, "CF.sbc", "FY2023")
 P("cash_Q2", "Cash at 6/30/26", 186, "BS.cash", "Q2-2026")
 P("ltd_Q2", "Long-term debt (carrying) at 6/30/26", 1981, "BS.ltd", "Q2-2026")
 P("eps_6M26", "Diluted EPS 6M-26 (10-Q)", 0.37, "IS.eps_d", "6M-2026", unit="usd_per_share")
@@ -319,6 +321,9 @@ C("c_occ_lo", "FY26 guide in OCC terms, low", 6.6, "((g_rev_lo-k_fx_6M)/rev_FY20
 C("c_occ_hi", "FY26 guide in OCC terms, high", 7.4, "((g_rev_hi-k_fx_6M)/rev_FY2025-1)*100", unit="pct")
 C("c_q1_occ", "Q1-26 OCC growth (FX ~$4m)", 7.4, "((rev_Q1-2026-4)/rev_Q1-2025-1)*100", unit="pct")
 C("c_standalone_bp", "150bp of FY25 revenue", 26.3, "0.015*rev_FY2025")
+C("c_sbc3", "SBC at 3% of FY26 guide midpoint", 56.3, "0.03*c_rev_mid")
+C("c_sbc4", "SBC at 4% of FY26 guide midpoint", 75.1, "0.04*c_rev_mid")
+C("c_sbc_pct", "SBC / revenue FY25", 1.3, "sbc_FY2025/rev_FY2025*100", unit="pct")
 C("c_ae_mid", "FY26 Adj. EBITDA guide midpoint", 752.5, "(g_ae_lo+g_ae_hi)/2")
 C("c_rev_mid", "FY26 revenue guide midpoint", 1877.5, "(g_rev_lo+g_rev_hi)/2")
 # moat
@@ -367,6 +372,75 @@ A("a_pm11", "International start-up losses", "10-20", "E", "analysis/D11_premort
 A("a_beat_years", "Years organic beat industry", "10 of 11", "C", "analysis/D1_moat.md", "section 4.1", "In ten of eleven years")
 A("a_recurring_2020", "2020 recurring organic growth", 3, "D", "analysis/D1_moat.md", "section 4.2", "**recurring organic +3%**", unit="pct")
 A("a_new_biz_drop", "New business Q1 -> Q2", "12 -> 8", "C", "analysis/K_session_tables.md", "D7_pricing", "| New business | ~12 [C] (10A said 26) | ~8 [D] | ~20 [D] |")
+
+# --- additional traced facts (text numbers) ---
+A("a_filing_mix", "Filing customer mix: dealers / OEMs", "60 / 10", "D", "analysis/QUALITATIVE.md", "section 2 (10A p.299)", "about **60%** of revenue came from dealerships and **10%** from OEMs")
+PP("pp_carfax_seg", "CARFAX share of revenue (deck)", 65, 10, "REVENUE BY SEGMENT - CARFAX", "FY2025", unit="pct")
+PP("pp_b2b_seg", "B2B share of revenue (deck)", 35, 10, "REVENUE BY SEGMENT - B2B Solutions", "FY2025", unit="pct")
+A("a_carproof", "CARPROOF price", 459, "D", "analysis/QUALITATIVE.md", "section 11 (INFO16 p.60)", "$459.2m net of cash", unit="usd_m")
+A("a_mktscan", "Market Scan price", 223, "D", "analysis/QUALITATIVE.md", "section 1 (10A p.452)", "Acquired 2023-02-16 for $223m", unit="usd_m")
+A("a_am78", "automotiveMastermind stake acquired", 78, "D", "analysis/QUALITATIVE.md", "section 1 (INFO17 p.62)", "78% for about $432", unit="pct")
+PR("p_auto80", "Automotive share of Transportation FY16", 80, "Segment description (summary)", "FY2016", unit="pct", text_contains="about 80 percent")
+PR("p_auto90", "Automotive share of Transportation FY21", 90, "Segment description (summary)", "FY2021", unit="pct", text_contains="more than 90 percent")
+A("a_fy22_10m", "FY22 SPGI period length (months)", 10, "D", "analysis/SYNTHESIS.md", "caveats", "FY22 is a ~10-month SPGI period")
+A("a_alloc100", "S&P allocations in carve-out (~$m)", 100, "C", "analysis/SYNTHESIS.md", "caveats", "The carve-out includes ~$100m of S&P allocations")
+A("a_excl", "Adj. EBITDA exclusions 10 -> 6", "10 -> 6", "D", "analysis/SYNTHESIS.md", "caveats", "shrank from 10 to 6 exclusions")
+A("a_lfl", "Like-for-like growth step-down", "~10% (2015-22) / ~8.5% / ~7%", "C", "analysis/SYNTHESIS.md", "Inference", "growth has stepped down from ~10% (2015–22) to ~8.5% (2023–25) to ~7% (2026)")
+A("a_bear_frame", "Bear framing: 6-7% grower, ~39% margin, 2.7x", "6-7 / 39 / 2.7", "C", "analysis/D11_premortem.md", "section 2 inference", "6–7% grower with ~39% margins and 2.7x leverage")
+A("a_txn57", "Stand-up transaction costs 6M-26", 57, "D", "analysis/QUALITATIVE.md", "section 9 (10Q p.17)", "$21m in Q1-26, $57m in 6M-26", unit="usd_m")
+C("c_ni_6m_yoy", "Net income 6M y/y", -12.2, "(ni_6M-2026/ni_6M-2025-1)*100", unit="pct")
+C("c_growth_ratio", "CARFAX vs B2B revenue growth FY23-25 (x)", 2.5, "(carfax_rev_FY2025/carfax_rev_FY2023-1)/(b2b_rev_FY2025/b2b_rev_FY2023-1)", unit="x")
+C("c_margin_gap", "CARFAX minus B2B Adj. EBITDA margin FY25 (pt)", 14.5, "c_carfax_m_FY2025-c_b2b_m_FY2025", unit="pt")
+C("c_mix_sum", "CARFAX product mix total", 101, "pp_adv+pp_fco+pp_list+pp_intl", unit="pct", decimals=0)
+C("c_cpn29", "2029 notes cash coupon", 32.8, "n29*n29c/100")
+C("c_cpn31", "2031 notes cash coupon", 35.4, "n31*n31c/100")
+C("c_cpn36", "2036 notes cash coupon", 42.4, "n36*n36c/100")
+N("n_pay19", "10/A approximate payment to S&P Global", 1900, "approximate cash payment to S&P Global from senior notes proceeds (printed as approximately $1.9 billion)", "Q1-2026")
+A("a_revolver", "Revolver size", 500, "D", "analysis/QUALITATIVE.md", "section 9 (10A p.363)", "$500m, signed 2026-05-06", unit="usd_m")
+A("a_cov", "Revolver max net leverage", "3.50x / 4.00x", "D", "analysis/QUALITATIVE.md", "section 9", "maximum net leverage 3.50x (4.00x step-up)")
+A("a_cov_ae", "Adj. EBITDA / interest", 6.5, "C", "analysis/D3_group_decomposition.md", "section 3", "711 / 110 = 6.5x", unit="x")
+A("a_cov_op", "Normalized OP / interest", 3.2, "C", "analysis/D3_group_decomposition.md", "section 3", "353 / 110 = 3.2x", unit="x")
+A("a_dtl", "Cash tax above provision", "89 / 12 yrs", "IR", "transcripts/TARGETS_TIMELINE.md", "DTL row", "~$89M/yr above provision for 12 yrs")
+A("a_dppa", "DPPA custodianship", "three decades", "D", "analysis/QUALITATIVE.md", "section 4", "in place for over three decades")
+A("a_am3200", "automotiveMastermind dealers", 3200, "IR", "analysis/D2_unit_economics.md", "(c)", "3,200 dealers [IR]", unit="count")
+A("a_products", "Products per dealer", "1.5-2", "IR", "analysis/D2_unit_economics.md", "(a)", '"between one and a half and two"')
+PP("pp_roi", "Claimed dealer ROI", "10-15x", 68, "ROI (printed 10-15x)", "2023", unit="text")
+PP("pp_turn", "Faster inventory turn (claimed)", 9, 68, "Faster inventory turn", "2023", unit="pct")
+S("k_analysts", "Forecasting analyst team", 195, "Forecasting analyst team (experts)", "FY2025", unit="count")
+A("a_payout_rng", "Payout on standalone normalized NI", "34-44%", "C", "analysis/SYNTHESIS.md", "finding 4", "is actually 34–44%")
+A("a_fred_metric", "Fredericks STI metric", 100, "D", "analysis/D5_incentives.md", "section 2.2", "**100% CARFAX U.S. EBITA**", unit="pct")
+A("a_fred_beat", "CARFAX U.S. EBITA vs target", 102.6, "C", "analysis/D5_incentives.md", "section 2.2", "102.6% of target", unit="pct")
+A("a_psu_floor", "CARFAX PSU floor", 50, "D", "analysis/D5_incentives.md", "section 2.3", "(the floor is 50%)", unit="pct")
+A("a_sev", "CEO CIC severance multiple", 2, "D", "analysis/D5_incentives.md", "section 3.4", "2× (base + target bonus)", unit="x")
+A("a_lfl_cut", "Like-for-like FY26 cut (pt)", "0.9-1.6", "C", "analysis/D4_disclosure_changes.md", "section 4", "~**0.9–1.6 pt**")
+A("a_head_cut", "Headline FY26 cut (pt)", "0.6-1.3", "C", "analysis/D4_disclosure_changes.md", "section 4", "0.6–1.3 pt")
+A("a_reset", "Reset margin base", 39.1, "IR", "analysis/D4_disclosure_changes.md", "section 9", "39.1-ish%", unit="pct")
+A("a_50bp", "Margin expansion target (bp/yr)", 50, "IR", "analysis/D4_disclosure_changes.md", "section 9", "~50bps annual margin expansion target", unit="bp")
+A("a_nrr", "NRR description", 100, "IR", "analysis/D4_disclosure_changes.md", "section 10", '"meaningfully north of 100%"', unit="pct")
+A("a_mfg", "Manufacturing growth Q3-25", -3, "IR", "analysis/D4_disclosure_changes.md", "section 0", "−3% Q3-25", unit="pct")
+A("a_2h_growth", "Implied 2H-26 revenue growth", "6.3-8.0", "C", "analysis/D10_guidance_vs_execution.md", "section 3", "**+6.3%** | **+8.0%**")
+A("a_recast", "Q2-25 Adj. EBITDA recast", "186 -> 188", "D", "analysis/D3_group_decomposition.md", "section 1", "186 → **recast** to 188")
+A("a_cut1pt", "FY26 cut like-for-like (~pt)", 1, "C", "analysis/SYNTHESIS.md", "honest counters", "The FY26 cut is ~1pt like-for-like", unit="pt")
+A("a_12m", "Recovery period after 2020 (months)", 12, "D", "analysis/D11_premortem.md", "section 3", "recovery came within 12 months", unit="months")
+C("c_fcf_cover", "Standalone FCF / dividend (x)", 5.2, "c_fcf_standalone/c_div", unit="x")
+A("a_canon", "Canonical cells / collisions", "390 / 0", "D", "deliverables/PART_A_SUMMARY.md", "verification counts", "390 primary cells; 0 collisions")
+A("a_quartr6", "Quartr Q2-26 cross-check", "6 of 6", "D", "deliverables/PART_A_SUMMARY.md", "verification counts", "matched 6 of 6")
+A("a_lev50", "Leverage per $50m EBITDA shortfall", "0.15-0.2x", "C", "analysis/D11_premortem.md", "table row 7", "$50m of EBITDA shortfall is ≈0.15–0.2x")
+S("k_recall_FY24", "Lower recall activity FY24", -15, "Lower recall activity (non-subscription)", "FY2024")
+C("c_nonsub_share", "Non-subscription share FY25", 18.5, "(rev_FY2025-sub_FY2025)/rev_FY2025*100", unit="pct")
+A("a_25claim", "Management dividend claim: 25% of normalized GAAP NI", 25, "IR", "transcripts/TARGETS_TIMELINE.md", "Dividend row", "25% of normalised GAAP NI", unit="pct")
+A("a_150bp", "Standalone cost ~150bp (high end)", 150, "IR", "transcripts/TARGETS_TIMELINE.md", "Standalone run-rate cost row", "~150bp of margin vs FY25 = **high end**", unit="bp")
+A("a_reset_mo", "Reset period 12-18 months", "12-18", "IR", "transcripts/TARGETS_TIMELINE.md", "Margin expansion row", "after a 12–18-month reset")
+A("a_sleeve19", "Transactional sleeve share", 19, "D", "analysis/D9_demand_drivers.md", "section 0", "sleeve (~19% of revenue [D])", unit="pct")
+A("a_lev50m", "EBITDA shortfall step", 50, "C", "analysis/D11_premortem.md", "table row 7", "Every $50m of EBITDA shortfall", unit="usd_m")
+A("a_rpo78", "RPO at 12/31/25", 78, "D", "analysis/D2_unit_economics.md", "(c)", "RPO / FY25 subscription revenue = 78 ÷ 1,426 = 5.5%", unit="usd_m")
+C("c_rpo_ratio", "RPO / FY25 subscription revenue", 5.5, "a_rpo78/sub_FY2025*100", unit="pct")
+G = [("g23r", "6.5–8.5% (Feb-23)"), ("g23r2", "9.0–10.0% (Q3-23)"), ("g23m", "38.5–39.5% (Q1-23)"), ("g24r", "8.5–10.0% (Feb-24)"),
+     ("g24r2", "8.0–8.5% (Q3-24, pos.)"), ("g24m", "38.5–39.0% (Q3-24)"), ("g25r", "7.0–8.5% (Feb-25)"), ("g25r2", "↑ 8–9% (Q3-25)"),
+     ("g25m", "39.5–40% (Q3-25)"), ("ga23m", "**38.8%** [D]"), ("ga24m", "**39.0%** [D]"), ("ga23r", "**+10%** [D]"), ("ga25r", "**8.6%** [D]"),
+     ("gmiss", "missed by 110–310 bp"), ("gsa", "$20–25m (ID)"), ("got", "$75–100m (ID)"), ("got2", "$75–110m (10Q)"), ("glev", "≤2.5x target")]
+for gid, ev in G:
+    A(f"a_{gid}", f"Guidance scorecard: {ev}", ev.replace("*", "").replace(" [D]", ""), "D", "analysis/D10_guidance_vs_execution.md", "section 1 scorecard", ev)
 
 # =============================================================================
 # QUOTES (verbatim; fact_check verifies each string appears in transcripts/*.md)
@@ -445,18 +519,18 @@ slide(layout="content", kicker="EXECUTIVE SUMMARY",
           {"type": "panel", "box": [9.05, 1.5, 3.85, 5.15], "fill": "EEF3F8"},
           {"type": "text", "box": [9.25, 1.62, 3.5, 0.4], "size": 13, "bold": True, "color": NAVY, "text": "Bottom line"},
           {"type": "bullets", "box": [9.25, 2.05, 3.5, 3.0], "size": 11.5, "items": [
-              {"text": "Likeliest loss: a slow de-rating of a ~7% grower with ~39-40% margins and 2.7x gross leverage, not a moat collapse [Inference]."},
+              {"text": "Likeliest loss: a slow de-rating of a 6-7% grower with ~39% margins and 2.7x gross leverage, not a moat collapse [Inference]."},
               {"text": "Like-for-like growth has stepped down: ~10% (2015-22) to 8.6% (FY23-25) to ~7% (FY26 guide)."},
               {"text": "What would change our mind: printed dealer-location, retention and price-per-location KPIs."},
           ]},
           {"type": "kpis", "box": [9.25, 5.1, 3.5, 1.4], "cols": 2, "value_size": 20, "items": [
-              {"value": "8.6%", "label": "Revenue CAGR FY23-25", "tier": "C"},
+              {"value": "8.6%", "label": "FY23-25 CAGR", "tier": "C"},
               {"value": "6.9-7.7%", "label": "FY26 guide (cut Aug-7)", "tier": "D"},
           ]},
       ],
       sources=["analysis/SYNTHESIS.md", "analysis/D1_moat.md", "analysis/D3_group_decomposition.md", "analysis/D4_disclosure_changes.md",
                "analysis/D5_incentives.md", "analysis/D7_pricing.md", "extraction/segments_kpi.csv (10Q p.27)", "canonical/primary.csv"],
-      fact_ids=["k_price_6M", "c_6m_drev", "c_price_pts_6m", "c_1h_growth", "c_q1_nb", "k_nbq_Q2", "k_sources", "k_records", "c_rec_cagr",
+      fact_ids=["a_50bp", "a_lfl", "a_bear_frame", "c_q1_drev", "k_price_6M", "c_6m_drev", "c_price_pts_6m", "c_1h_growth", "c_q1_nb", "k_nbq_Q2", "k_sources", "k_records", "c_rec_cagr",
                 "a_beat_years", "c_b2b_g24", "c_b2b_g25", "ft_b2b_FY25", "a_spgi_target", "a_spgi_m25", "int_FY2025", "b_interest",
                 "c_int_share", "b_ni", "ni_FY2025", "c_payout_fy25", "c_div_fcf", "a_b2b_op_q2", "c_rev_cagr", "g_gr_lo", "g_gr_hi", "a_gross_lev"])
 
@@ -488,14 +562,14 @@ slide(layout="content", kicker="BUSINESS AT A GLANCE",
            "note": "Filing basis differs: dealers ~60%, OEMs ~10% (10A p.299)."},
       ],
       sources=["canonical/primary.csv", "extraction/segments_kpi.csv (10A p.262-263, 358-361, 462-463)", "extraction/presentations.csv (ID s.10)", "analysis/QUALITATIVE.md §1-3"],
-      fact_ids=["rev_FY2025", "ae_FY2025", "c_m_FY2025", "fcf_FY2025", "sub_FY2025", "c_sub_share", "k_sources", "k_records", "k_dealers",
+      fact_ids=["a_filing_mix", "pp_carfax_seg", "pp_b2b_seg", "rev_FY2025", "ae_FY2025", "c_m_FY2025", "fcf_FY2025", "sub_FY2025", "c_sub_share", "k_sources", "k_records", "k_dealers",
                 "intl_FY2025", "c_intl_share", "c_carfax_share", "c_carfax_m_FY2025", "c_b2b_m_FY2025", "pp_dealer", "pp_oem", "pp_fin"])
 
 # 4 ---------------------------------------------------------------- history / eras
 slide(layout="content", kicker="HISTORY",
-      title="Four ownership eras since 2013: every change of owner breaks the comparability of the numbers",
+      title="Three corporate parents since 2013: every change of owner breaks the comparability of the numbers",
       elements=[
-          {"type": "timeline", "box": [0.45, 1.55, 12.45, 3.65],
+          {"type": "timeline", "box": [0.45, 1.5, 12.45, 3.2],
            "eras": [
                {"label": "IHS / IHS Markit: Transportation segment (FY14-FY21, Nov FYE)", "start": 2013.0, "end": 2022.15, "color": GREY},
                {"label": "S&P Global: Mobility segment (FY22-FY25)", "start": 2022.15, "end": 2026.0, "color": BLUE},
@@ -514,7 +588,7 @@ slide(layout="content", kicker="HISTORY",
                {"x": 2026.4, "date": "May-2026", "label": "Form 10/A; $2.0bn notes issued", "pos": "up", "level": 1},
                {"x": 2026.5, "date": "Jul-1-2026", "label": "Distribution; NYSE: MBGL", "pos": "down", "level": 1},
            ]},
-          {"type": "table", "box": [0.45, 5.3, 12.45, 1.4], "font_size": 10, "col_widths": [2.0, 3.1, 3.6, 3.75],
+          {"type": "table", "box": [0.45, 4.85, 12.45, 1.8], "font_size": 10.5, "col_widths": [2.0, 3.1, 3.6, 3.75],
            "columns": ["Series", "Period / basis", "Why it is not comparable", "Where used in this deck"],
            "rows": [
                ["IHS Transportation [D]", "FY14-FY21, Nov FYE, IHS Adj. EBITDA", "Includes Maritime & Trade; Jane's to 2019; automotive ~80% to >90%", "Slide 7 only (separate chart)"],
@@ -523,11 +597,11 @@ slide(layout="content", kicker="HISTORY",
            ]},
       ],
       sources=["analysis/QUALITATIVE.md §11", "deliverables/PART_A_SUMMARY.md (structural breaks)", "extraction/predecessor_NOTES.md", "analysis/SYNTHESIS.md (caveats)"],
-      fact_ids=[])
+      fact_ids=["a_carproof", "a_mktscan", "a_am78", "n_total", "p_auto80", "p_auto90", "a_fy22_10m", "a_alloc100", "a_excl", ])
 
 # 5 ---------------------------------------------------------------- segments & mix
 slide(layout="content", kicker="SEGMENTS & REVENUE MIX",
-      title="CARFAX is two-thirds of revenue and has grown 2-3x faster than B2B, at a 15pt higher margin",
+      title="CARFAX is two-thirds of revenue and grew ~2.5x faster than B2B over FY23-25, at a ~15pt higher margin",
       elements=[
           {"type": "chart", "box": [0.45, 1.5, 6.1, 4.0], "chart": "column_stacked", "title": "Revenue by segment, $m", "tier": "D",
            "categories": ["FY23", "FY24", "FY25"],
@@ -546,7 +620,7 @@ slide(layout="content", kicker="SEGMENTS & REVENUE MIX",
            "text": "B2B is 74% Marketing & Sales (aM, Polk audiences, Market Scan) and 26% Strategy & Planning [D, deck s.34]. Revenue by brand, product or B2B line is not in the filings. CARFAX margin rose from 45.5% to 48.0% (6M-26); B2B's fell from 35.4% to 32.4% in FY25 [C]."},
       ],
       sources=["extraction/segments_kpi.csv (10A p.359-361, 461-462; 10Q p.14)", "extraction/presentations.csv (ID s.34, s.57)", "analysis/D2_unit_economics.md (d)"],
-      fact_ids=["carfax_rev_FY2023", "carfax_rev_FY2024", "carfax_rev_FY2025", "b2b_rev_FY2023", "b2b_rev_FY2024", "b2b_rev_FY2025",
+      fact_ids=["c_growth_ratio", "c_margin_gap", "c_mix_sum", "carfax_rev_FY2023", "carfax_rev_FY2024", "carfax_rev_FY2025", "b2b_rev_FY2023", "b2b_rev_FY2024", "b2b_rev_FY2025",
                 "pp_adv", "pp_fco", "pp_list", "pp_intl", "c_carfax_g24", "c_carfax_g25", "c_carfax_g6m", "c_b2b_g24", "c_b2b_g25", "c_b2b_g6m",
                 "c_carfax_m_FY2025", "c_b2b_m_FY2025", "pp_ms", "pp_sp", "c_carfax_m_FY2023", "c_carfax_m_6M-2026", "c_b2b_m_FY2024"])
 
@@ -567,7 +641,7 @@ slide(layout="content", kicker="FINANCIAL HISTORY: CARVE-OUT",
            "text": "GAAP operating profit is only $339m (FY25) because ~$296m/yr of IHS Markit purchase amortization is pushed down. 6M-26 net income fell to $108m (-12%) on $57m of stand-up transaction costs. Q2-26 measure: 6 exclusions vs 10 at FY [D]."},
       ],
       sources=["canonical/primary.csv (IS.revenue)", "extraction/segments_kpi.csv (10A p.358 Adj. EBITDA recon; 10Q p.15 Note 7)", "deliverables/PART_A_SUMMARY.md"],
-      fact_ids=["rev_FY2023", "rev_FY2024", "rev_FY2025", "rev_6M-2025", "rev_6M-2026", "ae_FY2023", "ae_FY2024", "ae_FY2025", "ae_6M-2025", "ae_6M-2026",
+      fact_ids=["c_ni_6m_yoy", "a_txn57", "a_excl", "rev_FY2023", "rev_FY2024", "rev_FY2025", "rev_6M-2025", "rev_6M-2026", "ae_FY2023", "ae_FY2024", "ae_FY2025", "ae_6M-2025", "ae_6M-2026",
                 "c_m_FY2023", "c_m_FY2024", "c_m_FY2025", "c_m_6M-2025", "c_m_6M-2026", "c_rev_cagr", "c_ae_cagr", "op_FY2025", "amort_FY2025",
                 "ni_6M-2026", "ni_6M-2025"])
 
@@ -603,13 +677,13 @@ slide(layout="content", kicker="FREE CASH FLOW",
           {"type": "chart", "box": [7.7, 1.5, 5.2, 2.6], "chart": "line", "title": "FCF conversion (FCF / Adj. EBITDA), %", "tier": "C",
            "categories": ["FY23", "FY24", "FY25", "6M-25", "6M-26"],
            "series": [{"name": "Conversion", "facts": ["c_conv_FY2023", "c_conv_FY2024", "c_conv_FY2025", "c_conv_6M-2025", "c_conv_6M-2026"], "color": AMBER}],
-           "number_format": "0", "legend": "none", "label_pos": "t", "y_min": 30, "y_max": 75},
+           "number_format": "0", "legend": "none", "label_pos": "t", "y_min": 30, "y_max": 75, "major_unit": 15},
           {"type": "table", "box": [7.7, 4.25, 5.2, 1.5], "font_size": 10, "col_widths": [1.6, 0.9, 0.9, 0.9, 0.9],
            "columns": ["", "FY23", "FY24", "FY25", "6M-26"],
            "rows": [["CFO, $m", "393", "427", "485", "189"], ["Capex, $m", "(18)", "(15)", "(24)", "(12)"], ["Capex / revenue", "1.2%", "0.9%", "1.4%", "1.3%"]],
            "tier": "D/C"},
           {"type": "callout", "box": [0.45, 5.9, 12.45, 0.78], "size": 11,
-           "text": "FCF margin 25.3% to 26.3% (FY23-25) [C]; there is no capitalized-software asset, so FCF is not flattered. Standalone FCF ~$365m after ~$110m of interest [C/E], before ~$100m of one-time stand-up cash (about half capitalized) [IR]."},
+           "text": "FCF margin 25.3% to 26.3% (FY23-25) [C]; there is no capitalized-software asset, so FCF is not flattered. Standalone FCF ~$365m after after-tax interest and standalone costs [C/E], before ~$100m of one-time stand-up cash (about half capitalized) [IR]."},
       ],
       sources=["extraction/segments_kpi.csv (10A p.361 FCF recon; 10Q p.26)", "canonical/primary.csv (CF.cfo, CF.capex)", "extraction/presentations.csv (ID s.111)", "analysis/D2_unit_economics.md (e)", "analysis/D3_group_decomposition.md §5"],
       fact_ids=["fcf_FY2023", "fcf_FY2024", "fcf_FY2025", "fcf_6M-2025", "fcf_6M-2026", "c_conv_FY2023", "c_conv_FY2024", "c_conv_FY2025", "c_conv_6M-2025",
@@ -644,17 +718,17 @@ slide(layout="content", kicker="CAPITAL STRUCTURE POST-SPIN",
           ]},
       ],
       sources=["extraction/notes.csv (10A p.337)", "canonical/primary.csv (BS.cash, BS.ltd, IS.int)", "analysis/D3_group_decomposition.md §3", "transcripts/TARGETS_TIMELINE.md", "analysis/QUALITATIVE.md §9"],
-      fact_ids=["n29", "n31", "n36", "n29c", "n31c", "n36c", "n_total", "c_coupon", "c_wtd_coupon", "a_gross_lev", "a_net_lev", "cash_Q2", "ltd_Q2",
+      fact_ids=["c_cpn29", "c_cpn31", "c_cpn36", "n_pay19", "a_revolver", "a_cov", "a_cov_ae", "a_cov_op", "a_dtl", "n29", "n31", "n36", "n29c", "n31c", "n36c", "n_total", "c_coupon", "c_wtd_coupon", "a_gross_lev", "a_net_lev", "cash_Q2", "ltd_Q2",
                 "int_FY2025", "op_FY2025", "c_int_share_co", "c_int_share", "b_norm_op", "b_interest", "pp_gross_lev"])
 
 # 10 --------------------------------------------------------------- moat architecture
 slide(layout="content", kicker="MOAT ARCHITECTURE",
       title="Six interlocking moat elements; the decades-deep archive is the one a rival cannot buy",
       elements=[
-          {"type": "cards", "box": [0.45, 1.5, 8.2, 5.15], "cols": 2, "rows": 3, "gap": 0.15, "title_size": 12, "body_size": 10.5,
+          {"type": "cards", "box": [0.45, 1.5, 8.2, 5.15], "cols": 2, "rows": 3, "gap": 0.15, "title_size": 12.5, "body_size": 12,
            "items": [
                {"title": "Give-get data network", "tag": "D", "body": "177k+ sources, many exclusive; ~6m records added a day; 92k+ dealers and shops, 6,300 police agencies, 36 OEMs."},
-               {"title": "An archive that cannot be rebuilt", "tag": "IR", "body": "38bn+ records; years of service history \"just doesn't exist anymore anywhere else\" (Eager, Q2-26)."},
+               {"title": "An archive that cannot be rebuilt", "tag": "IR", "body": "38bn+ records. Old service history \"just doesn't exist anymore anywhere else\", per CEO Bill Eager."},
                {"title": "Two-sided brand", "tag": "D", "body": "96% in-market awareness; ~2m \"Show me the CARFAX\" requests a month [X]; $1.5bn of media since 2000."},
                {"title": "OEM lock-in", "tag": "D/IR", "body": "36 OEM CPO programs require the report; 100% of the top-40 carmakers buy MBGL data."},
                {"title": "Workflow embedding", "tag": "D", "body": "95 dealer-tool integrations; 17 of the top-20 banks and insurers; Market Scan in ~10,500 dealerships."},
@@ -687,7 +761,7 @@ slide(layout="content", kicker="DATA NETWORK",
                {"title": "Dealers and service shops", "stat": "92,000+ in the network [D]"},
                {"title": "Police agencies", "stat": "6,300+ data partnerships [D]"},
                {"title": "OEMs (CPO programs)", "stat": "36 contribute data [D]"},
-               {"title": "DMVs / governments", "stat": "DPPA custodian for 30+ years [D]"},
+               {"title": "DMVs / governments", "stat": "DPPA custodian for over three decades [D]"},
            ],
            "center_title": "CARFAX / POLK ARCHIVE",
            "center": ["177,000+ sources [D]", "38bn+ vehicle history records [D]", "13bn+ transaction records [D]", "~832m unique VINs [D]", "2,000+ attributes per vehicle [D]", "~6m records added a day [D]"],
@@ -702,7 +776,7 @@ slide(layout="content", kicker="DATA NETWORK",
           {"type": "quote", "box": [0.45, 6.2, 12.45, 0.5], "quote": "q_sources", "size": 11},
       ],
       sources=["extraction/segments_kpi.csv (10A p.262-272, 340, 349)", "analysis/QUALITATIVE.md §1-4", "analysis/D1_moat.md §2", "transcripts/MBGL_2026-05-12_investor-day.md"],
-      fact_ids=["k_shops", "k_police", "k_oem_src", "k_sources", "k_records", "k_txn", "k_vins", "k_attr", "k_daily", "k_dealers", "k_muv", "k_views",
+      fact_ids=["a_filing_mix", "a_dppa", "k_shops", "k_police", "k_oem_src", "k_sources", "k_records", "k_txn", "k_vins", "k_attr", "k_daily", "k_dealers", "k_muv", "k_views",
                 "k_top40", "k_banks", "k_underwrite_FY25", "k_carcare"],
       quote_ids=["q_sources"])
 
@@ -730,12 +804,12 @@ slide(layout="content", kicker="VALUE PROPOSITION BY CUSTOMER",
            "text": "One dataset monetized four ways. Caveat: most value proof (ROI, turn, default reduction) comes from company studies; no ARPU, retention or churn is disclosed."},
       ],
       sources=["analysis/D6_value_prop.md §1", "extraction/segments_kpi.csv (10A p.263-272, 349)", "extraction/presentations.csv (ID s.10, s.68)", "analysis/K_session_tables.md (D6)"],
-      fact_ids=["k_dealers", "pp_dealer", "pp_oem", "pp_fin", "k_mktscan", "k_top40", "k_top100sup", "k_banks", "k_underwrite_FY24", "k_underwrite_FY25",
+      fact_ids=["a_filing_mix", "a_am3200", "a_products", "pp_roi", "pp_turn", "k_analysts", "k_dealers", "pp_dealer", "pp_oem", "pp_fin", "k_mktscan", "k_top40", "k_top100sup", "k_banks", "k_underwrite_FY24", "k_underwrite_FY25",
                 "k_aware", "k_carcare", "k_muv", "k_cpo"])
 
 # 13 --------------------------------------------------------------- unit economics
 slide(layout="content", kicker="UNIT ECONOMICS",
-      title="Segment margins and flow-through are disclosed; price per rooftop, retention and churn are not",
+      title="Margins and flow-through are disclosed; price per rooftop, retention and churn are not",
       elements=[
           {"type": "chart", "box": [0.45, 1.5, 6.6, 3.9], "chart": "column", "title": "Incremental Adj. EBITDA flow-through (ΔAdj. EBITDA / Δrevenue), %", "tier": "C",
            "categories": ["FY24", "FY25", "6M-26"],
@@ -750,13 +824,13 @@ slide(layout="content", kicker="UNIT ECONOMICS",
           {"type": "twocol", "box": [7.3, 1.5, 5.6, 5.15],
            "left_title": "Disclosed", "left_color": TEAL,
            "left": ["Segment revenue, Adj. EBITDA, subscription split", "Dealer customer count (40k+, a floor)", "Price vs new-business $ (10-Q, from Q2-26)",
-                    "Capex 0.9-1.4% of revenue", "RPO $102m (6/30/26): ~5.5% of FY25 subscription revenue"],
+                    "Capex 0.9-1.4% of revenue", "RPO $78m at FY25 (~5.5% of subscription revenue); $102m at 6/30/26"],
            "right_title": "Not disclosed", "right_color": RED,
            "right": ["Price per location (the 10/A's own revenue driver)", "Enrolled locations over time", "NRR (pulled), gross retention, churn",
                      "Report volumes, consumer price", "Brand / country P&L; Europe losses"]},
       ],
       sources=["extraction/segments_kpi.csv (10A p.359-360; 10Q p.10, 14)", "extraction/presentations.csv (ID s.57)", "analysis/D2_unit_economics.md (a), (c), (d)", "analysis/K_session_tables.md (D2)"],
-      fact_ids=["ft_carfax_FY24", "ft_carfax_FY25", "ft_carfax_6M", "ft_b2b_FY24", "ft_b2b_FY25", "ft_b2b_6M", "c_per_dealer", "c_adv_dealer", "c_carfax_dealer",
+      fact_ids=["a_rpo78", "c_rpo_ratio", "ft_carfax_FY24", "ft_carfax_FY25", "ft_carfax_6M", "ft_b2b_FY24", "ft_b2b_FY25", "ft_b2b_6M", "c_per_dealer", "c_adv_dealer", "c_carfax_dealer",
                 "c_adv_list", "k_dealers", "rpo_FY25_q2", "sub_FY2025", "c_capint_FY2024", "c_capint_FY2025"])
 
 # 14 --------------------------------------------------------------- group decomposition & EPS bridge
@@ -788,7 +862,7 @@ slide(layout="content", kicker="EARNINGS POWER: STANDALONE BRIDGE",
            "text": "FY25 Adj. EBITDA identity: CARFAX $536m + B2B $197m - Corporate $22m = $711m [D]. S&P allocations of $112m (FY25) sit mostly inside segment costs [D]."},
       ],
       sources=["analysis/D3_group_decomposition.md §1, §4, §5", "canonical/primary.csv (IS.ni, IS.tax, IS.int, IS.eps_d)", "extraction/segments_kpi.csv (10A p.359; 10Q p.14)"],
-      fact_ids=["ni_FY2025", "tax_FY2025", "int_FY2025", "b_taxint", "b_op", "b_onetime", "b_standalone", "b_norm_op", "b_interest", "b_pretax", "b_tax", "b_ni",
+      fact_ids=["a_25claim", "a_payout_rng", "ni_FY2025", "tax_FY2025", "int_FY2025", "b_taxint", "b_op", "b_onetime", "b_standalone", "b_norm_op", "b_interest", "b_pretax", "b_tax", "b_ni",
                 "b_ni_fy26", "shares", "c_eps_norm", "c_eps_fy26", "c_eps_carve", "eps_6M26", "ni_6M-2026", "div_q", "c_div", "c_payout_fy25", "c_payout_fy26",
                 "c_div_needed", "c_fcf_standalone", "c_div_fcf", "carfax_ae_FY2025", "b2b_ae_FY2025", "corp_ae_FY2025", "ae_FY2025", "a_alloc_FY25"])
 
@@ -818,19 +892,19 @@ slide(layout="content", kicker="GUIDANCE VS EXECUTION",
           {"type": "quote", "box": [0.45, 6.2, 12.45, 0.5], "quote": "q_2028", "size": 11},
       ],
       sources=["analysis/D10_guidance_vs_execution.md §1-3", "analysis/D4_disclosure_changes.md §4, §7-9", "transcripts/TARGETS_TIMELINE.md", "extraction/segments_kpi.csv (8-K p.3 guidance)"],
-      fact_ids=["a_spgi_m25", "a_spgi_target", "g_gr_lo", "g_gr_hi", "c_1h_growth", "c_standalone_bp", "g_onetime", "a_gross_lev", "c_q1_occ",
+      fact_ids=["a_150bp", "a_reset_mo", "a_g23r", "a_g23r2", "a_g23m", "a_g24r", "a_g24r2", "a_g24m", "a_g25r", "a_g25r2", "a_g25m", "a_ga23m", "a_ga24m", "a_ga23r", "a_ga25r", "a_gmiss", "a_gsa", "a_got", "a_got2", "a_glev", "a_reset", "a_50bp", "a_spgi_m25", "a_spgi_target", "g_gr_lo", "g_gr_hi", "c_1h_growth", "c_standalone_bp", "g_onetime", "a_gross_lev", "c_q1_occ",
                 "c_2h_m_lo", "c_2h_m_hi", "c_2h25_m", "g_rev_lo", "g_rev_hi", "g_ae_lo", "g_ae_hi", "rev_6M-2026", "ae_6M-2026"],
       quote_ids=["q_2028"])
 
 # 16 --------------------------------------------------------------- pricing
 slide(layout="content", kicker="PRICING",
-      title="Price drove ~56% of 1H-26 revenue growth; new business faded from ~$12m in Q1 to ~$8m in Q2",
+      title="Price drove ~56% of 1H-26 growth; new business faded from ~$12m in Q1 to ~$8m in Q2",
       elements=[
           {"type": "chart", "box": [0.45, 1.5, 6.6, 4.3], "chart": "column_stacked", "title": "Revenue increase y/y by driver, $m", "tier": "D/C",
            "categories": ["Q1-26 (implied)", "Q2-26", "6M-26"],
            "series": [{"name": "Price", "facts": ["c_q1_price", "k_price_Q2", "k_price_6M"], "color": NAVY},
                       {"name": "New business", "facts": ["c_q1_nb", "k_nbq_Q2", "k_nbq_6M"], "color": TEAL},
-                      {"name": "Other (underwriting, FX, non-sub.)", "facts": ["c_q1_other", "c_q2_other", "c_6m_other"], "color": "BFBFBF"}],
+                      {"name": "Other", "facts": ["c_q1_other", "c_q2_other", "c_6m_other"], "color": "BFBFBF"}],
            "number_format": "0", "legend": "bottom", "label_pos": "ctr", "gap": 70},
           {"type": "table", "box": [7.3, 1.5, 5.6, 1.6], "font_size": 10, "col_widths": [2.0, 1.2, 1.2, 1.2],
            "columns": ["Points of growth", "Q1-26", "Q2-26", "6M-26"],
@@ -845,18 +919,18 @@ slide(layout="content", kicker="PRICING",
           {"type": "quote", "box": [6.8, 5.95, 6.1, 0.72], "quote": "q_value", "size": 10.5},
       ],
       sources=["extraction/segments_kpi.csv (10Q p.27 revenue drivers; 10A p.347)", "canonical/primary.csv (IS.revenue)", "analysis/D7_pricing.md §1-5", "analysis/D4_disclosure_changes.md §3", "transcripts/MBGL_2026-05-12_investor-day.md"],
-      fact_ids=["c_q1_price", "k_price_Q2", "k_price_6M", "c_q1_nb", "k_nbq_Q2", "k_nbq_6M", "c_q1_other", "c_q2_other", "c_6m_other", "c_price_share_6m",
+      fact_ids=["c_q1_nb", "c_q1_price", "k_price_Q2", "k_price_6M", "c_q1_nb", "k_nbq_Q2", "k_nbq_6M", "c_q1_other", "c_q2_other", "c_6m_other", "c_price_share_6m",
                 "c_price_pts_q1", "c_price_pts_q2", "c_price_pts_6m", "c_nb_pts_6m", "c_q1_growth", "c_q2_growth", "c_1h_growth", "k_nb_Q1_10A", "c_q1_drev", "c_6m_drev"],
       quote_ids=["q_cars", "q_value"])
 
 # 17 --------------------------------------------------------------- demand vs industry
 slide(layout="content", kicker="DEMAND DRIVERS VS INDUSTRY",
-      title="Organic growth beat US vehicle sales in 10 of 11 years; the only common move was the 2020-21 shock",
+      title="Organic growth beat US vehicle sales in 10 of 11 years; only the 2020-21 shock moved both",
       elements=[
-          {"type": "chart", "box": [0.45, 1.5, 8.4, 4.55], "chart": "column", "title": "MBGL organic growth vs US vehicle sales growth (FRED), %", "tier": "D/C",
+          {"type": "chart", "box": [0.45, 1.5, 8.4, 4.55], "chart": "column", "title": "MBGL organic vs US vehicle sales growth, % (both as printed on Investor Day slide 91)", "tier": "D/C",
            "categories": [str(y) for y in range(2015, 2026)],
            "series": [{"name": "MBGL organic growth (deck s.91)", "facts": [f"org_{y}" for y in range(2015, 2026)], "color": NAVY},
-                      {"name": "US vehicle sales growth (FRED)", "facts": [f"ind_{y}" for y in range(2015, 2026)], "color": "A6A6A6"}],
+                      {"name": "US vehicle sales growth (FRED via slide 91; not independently fetched)", "facts": [f"ind_{y}" for y in range(2015, 2026)], "color": "A6A6A6"}],
            "number_format": "0", "legend": "bottom", "label_pos": "outEnd", "gap": 60, "overlap": -10, "y_min": -20, "y_max": 25, "label_size": 8},
           {"type": "kpis", "box": [9.1, 1.5, 3.8, 2.2], "cols": 2, "value_size": 20, "items": [
               {"value": "9.9%", "label": "Mean organic, 2015-25", "tier": "C"},
@@ -872,7 +946,7 @@ slide(layout="content", kicker="DEMAND DRIVERS VS INDUSTRY",
            "text": "Caveats: slide 91 is \"NOT prepared on a consistent basis\"; year mapping inferred [C]; \"industry\" is new light-vehicle sales, not used-vehicle transactions; no 2008-09 data."},
       ],
       sources=["extraction/presentations.csv (ID s.91 data labels)", "analysis/K_session_tables.md (D9, D1)", "analysis/D9_demand_drivers.md §3", "analysis/D1_moat.md §4"],
-      fact_ids=[f"org_{y}" for y in range(2015, 2026)] + [f"ind_{y}" for y in range(2015, 2026)] + ["c_org_mean", "c_ind_mean", "a_corr", "a_beat_years", "a_recurring_2020"],
+      fact_ids=["a_sleeve19", "c_nonsub_share"] + [f"org_{y}" for y in range(2015, 2026)] + [f"ind_{y}" for y in range(2015, 2026)] + ["c_org_mean", "c_ind_mean", "a_corr", "a_beat_years", "a_recurring_2020"],
       quote_ids=[])
 
 # 18 --------------------------------------------------------------- incentives
@@ -893,21 +967,25 @@ slide(layout="content", kicker="INCENTIVES",
            ], "tier": "D/C"},
           {"type": "panel", "box": [8.3, 1.5, 4.6, 4.3], "fill": "F2F2F2"},
           {"type": "text", "box": [8.5, 1.6, 4.2, 0.35], "size": 12.5, "bold": True, "color": NAVY, "text": "What to watch"},
-          {"type": "bullets", "box": [8.5, 2.0, 4.25, 3.75], "size": 11, "items": [
-              {"head": "SBC ramp:", "text": " from ~1.3% of revenue ($22m FY25) to 3-4% ($56-75m on FY26 guide), excluded from Adj. EBITDA."},
+          {"type": "bullets", "box": [8.5, 1.98, 4.25, 1.75], "size": 10.5, "items": [
+              {"head": "SBC ramp:", "text": " from ~1.3% of revenue ($22m FY25) to 3-4% ($56-75m on the FY26 guide), excluded from Adj. EBITDA."},
               {"head": "Metric risk:", "text": " if pay uses Adj. EBITDA, SBC and \"other\" add-backs never reach the bonus."},
               {"head": "First proxy (~Apr-2027):", "text": " STI/PSU metrics, TSR, ownership guidelines."},
           ]},
+          {"type": "chart", "box": [8.5, 3.75, 4.25, 1.98], "chart": "column", "title": "Stock-based compensation, $m", "tier": "D/C",
+           "categories": ["FY23", "FY24", "FY25", "3% of FY26", "4% of FY26"],
+           "series": [{"name": "SBC", "facts": ["sbc_FY2023", "sbc_FY2024", "sbc_FY2025", "c_sbc3", "c_sbc4"], "color": TEAL}],
+           "number_format": "0", "legend": "none", "label_pos": "outEnd", "gap": 60, "y_max": 90, "label_size": 9, "point_colors": {"3": "A6A6A6", "4": "A6A6A6"}},
           {"type": "callout", "box": [0.45, 5.95, 12.45, 0.72], "size": 11,
            "text": "Counter: unit EBITA metrics suit a 40%+ margin data business, converting PSUs at spin is standard, and severance (CEO 2x, double trigger, no gross-up) is mid-market [E]."},
       ],
       sources=["analysis/D5_incentives.md §2-5 (10/A p.391-414; 10-Q Ex.10.17-10.18)", "canonical/primary.csv (CF.sbc)"],
-      fact_ids=["a_eager_sct", "a_eager_sti", "a_fred_sti", "a_psu", "a_carfax_psu_band", "a_cfo_tdc", "a_ceo_tdc", "a_cfo_onetime", "a_ltip", "a_ltip_sh",
-                "sbc_FY2025", "a_sbc_step", "a_sbc_ramp"])
+      fact_ids=["a_fred_metric", "a_fred_beat", "a_psu_floor", "a_sev", "c_m_FY2025", "a_eager_sct", "a_eager_sti", "a_fred_sti", "a_psu", "a_carfax_psu_band", "a_cfo_tdc", "a_ceo_tdc", "a_cfo_onetime", "a_ltip", "a_ltip_sh",
+                "sbc_FY2023", "sbc_FY2024", "sbc_FY2025", "c_sbc3", "c_sbc4", "c_sbc_pct", "a_sbc_step", "a_sbc_ramp"])
 
 # 19 --------------------------------------------------------------- red flags
 slide(layout="content", kicker="RED FLAGS: DISCLOSURE CHANGES",
-      title="Six of seven disclosure changes coincided with the affected metric turning worse",
+      title="Five of seven disclosure changes coincided with the affected metric turning worse",
       elements=[
           {"type": "table", "box": [0.45, 1.5, 12.45, 4.55], "font_size": 10, "col_widths": [3.1, 2.0, 5.3, 2.05],
            "columns": ["Change", "Vintage", "What it hid or reframed", "Coincided with weaker metric?"],
@@ -923,7 +1001,7 @@ slide(layout="content", kicker="RED FLAGS: DISCLOSURE CHANGES",
           {"type": "quote", "box": [0.45, 6.15, 12.45, 0.5], "quote": "q_nrr", "size": 11},
       ],
       sources=["analysis/D4_disclosure_changes.md §0-4, §9-11", "extraction/segments_kpi.csv (10A p.347; 10Q p.27)", "transcripts/MBGL_2026-05-12_investor-day.md"],
-      fact_ids=["k_nb_Q1_10A", "c_q1_nb", "c_q1_price", "a_b2b_op_q2", "a_txn_6M_b2b", "a_spgi_target", "c_occ_lo", "c_occ_hi"],
+      fact_ids=["a_lfl_cut", "a_head_cut", "a_reset", "a_50bp", "a_nrr", "a_mfg", "a_excl", "k_nb_Q1_10A", "c_q1_nb", "c_q1_price", "a_b2b_op_q2", "a_txn_6M_b2b", "a_spgi_target", "c_occ_lo", "c_occ_hi"],
       quote_ids=["q_nrr"])
 
 # 20 --------------------------------------------------------------- pre-mortem
@@ -946,36 +1024,39 @@ slide(layout="content", kicker="PRE-MORTEM",
            "text": "Cases 1, 2, 4 and 6 are one cluster (growth ~6-7%, no margin expansion); magnitudes overlap and must not be summed. FY28 plan base: revenue ~$2,220m, Adj. EBITDA ~$870m [E]."},
       ],
       sources=["analysis/D11_premortem.md §1-3", "analysis/D7_pricing.md", "analysis/D2_unit_economics.md", "analysis/D3_group_decomposition.md"],
-      fact_ids=["a_pm1", "a_pm2", "a_pm3", "a_pm4", "a_pm5", "a_pm6", "a_pm7", "a_pm8", "a_fy28_rev", "a_fy28_ae", "c_price_pts_6m", "c_q1_nb", "k_nbq_Q2",
+      fact_ids=["a_lev50m", "a_bear_frame", "k_recall_FY24", "a_lev50", "a_products", "a_pm1", "a_pm2", "a_pm3", "a_pm4", "a_pm5", "a_pm6", "a_pm7", "a_pm8", "a_fy28_rev", "a_fy28_ae", "c_price_pts_6m", "c_q1_nb", "k_nbq_Q2",
                 "c_ad_growth", "c_rev_growth_2y", "c_b2b_g24", "c_b2b_g25", "ft_b2b_FY25", "a_gross_lev", "c_int_share"])
 
 # 21 --------------------------------------------------------------- Q&A
 slide(layout="content", kicker="MANAGEMENT Q&A",
       title="Three questions decide the thesis: dealer volume vs price, a dollar margin bridge, and AI's effect on traffic",
       elements=[
-          {"type": "cards", "box": [0.45, 1.5, 12.45, 3.6], "cols": 3, "rows": 1, "gap": 0.2, "title_size": 12, "body_size": 10.5,
+          {"type": "cards", "box": [0.45, 1.5, 12.45, 2.95], "cols": 3, "rows": 1, "gap": 0.2, "title_size": 12.5, "body_size": 12,
            "items": [
                {"title": "Q1  Price, volume, retention", "tag": "Bear case 1",
-                "body": "How did enrolled CARFAX dealer locations change in 2025 and 1H-26, what was gross revenue retention, and what share of dealers took a price increase at renewal? Will you print NRR?\n\nGood answer: numbers, plus a reconciliation of the 10/A \"new business\" to the 10-Q \"price\" split."},
+                "body": ["How did enrolled CARFAX dealer locations change in 2025 and 1H-26, what was gross revenue retention, and what share of dealers took a price increase at renewal? Will you print NRR?",
+                         {"head": "Good answer: ", "text": "numbers, plus a reconciliation of the 10/A \"new business\" to the 10-Q \"price\" split."}]},
                {"title": "Q2  A dollar margin bridge", "tag": "Bear cases 6, 10",
-                "body": "Bridge FY25's $711m (10-item definition) to the FY27 base on today's 6-item definition: standalone cost, allocations replaced, segment reallocation, \"severance and other\". Will SBC at 3-4% be excluded from pay metrics?\n\nGood answer: dollars, and a capped \"other\" add-back."},
-               {"title": "Q3  Traffic, ad intensity and AI", "tag": "Bear case 3",
-                "body": "What share of sessions and report views arrive via search or AI answer engines, how has cost per visitor trended, and do you license history data to any AI provider?\n\nGood answer: traffic mix and cost per visitor; a concrete licensing position."},
+                "body": ["Bridge FY25's $711m (10-item definition) to the FY27 base on today's 6-item definition: standalone cost, allocations replaced, reallocation, \"severance and other\". Is SBC excluded from pay metrics?",
+                         {"head": "Good answer: ", "text": "dollars, and a capped \"other\" add-back."}]},
+               {"title": "Q3  Traffic, ad intensity, AI", "tag": "Bear case 3",
+                "body": ["What share of sessions and report views arrive via search or AI answer engines, how has cost per visitor trended, and do you license history data to any AI provider?",
+                         {"head": "Good answer: ", "text": "traffic mix and cost per visitor; a concrete licensing position."}]},
            ]},
-          {"type": "table", "box": [0.45, 5.25, 12.45, 1.42], "font_size": 10, "col_widths": [3.4, 9.05],
+          {"type": "table", "box": [0.45, 4.65, 12.45, 2.0], "font_size": 11.5, "col_widths": [4.0, 8.45],
            "columns": ["Secondary question", "Why it matters"],
            "rows": [["Why were stand-up costs booked in B2B?", "B2B OP fell to $3m in Q2-26 as the segment measure switched [D]"],
                     ["Define \"normalized GAAP NI\" for the 25% payout", "$70.8m dividend is ~34-44% of standalone NI on our math [C]"],
                     ["What re-accelerates 2H revenue?", "Guide implies 2H +6.3-8.0% while new business was slowing [C]"]]},
       ],
       sources=["analysis/D12_management_QA.md", "analysis/D11_premortem.md", "analysis/D3_group_decomposition.md §5", "analysis/D10_guidance_vs_execution.md §3"],
-      fact_ids=["ae_FY2025", "a_b2b_op_q2", "c_div", "a_sbc_step"])
+      fact_ids=["a_25claim", "a_payout_rng", "a_2h_growth", "a_excl", "a_sbc_step", "ae_FY2025", "a_b2b_op_q2", "c_div", "a_sbc_step"])
 
 # 22 --------------------------------------------------------------- honest counters
 slide(layout="content", kicker="HONEST COUNTERS",
       title="The bull case is strong where it is audited: moat evidence, cash generation and revenue delivery",
       elements=[
-          {"type": "cards", "box": [0.45, 1.5, 12.45, 4.4], "cols": 3, "rows": 2, "gap": 0.18, "title_size": 12, "body_size": 10.5,
+          {"type": "cards", "box": [0.45, 1.5, 12.45, 4.4], "cols": 3, "rows": 2, "gap": 0.18, "title_size": 13, "body_size": 13,
            "items": [
                {"title": "Moat evidence is largely audited", "tag": "D/C", "body": "Revenue, margins, source and record counts are filing data; the CARFAX margin rose from 45.5% to 48.0% (6M-26)."},
                {"title": "Downturns brought price relief, not churn", "tag": "D", "body": "Recurring revenue grew +3% in 2020 while organic was -2%; recovery came within 12 months."},
@@ -987,7 +1068,7 @@ slide(layout="content", kicker="HONEST COUNTERS",
           {"type": "quote", "box": [0.45, 6.05, 12.45, 0.6], "quote": "q_firewall", "size": 11},
       ],
       sources=["analysis/SYNTHESIS.md (honest counters)", "analysis/D11_premortem.md §3", "analysis/D4_disclosure_changes.md (honest counters)", "analysis/D2_unit_economics.md", "transcripts/MBGL_2026-09-10_goldman-sachs-communacopia.md"],
-      fact_ids=["c_carfax_m_FY2023", "c_carfax_m_6M-2026", "a_recurring_2020", "ae_Q2-2025", "ft_b2b_6M", "ft_b2b_FY25", "c_fcf_standalone", "c_capint_FY2025", "c_div_fcf"],
+      fact_ids=["a_recast", "a_cut1pt", "a_12m", "c_fcf_cover", "c_capint_FY2024", "c_carfax_m_FY2023", "c_carfax_m_6M-2026", "a_recurring_2020", "ae_Q2-2025", "ft_b2b_6M", "ft_b2b_FY25", "c_fcf_standalone", "c_capint_FY2025", "c_div_fcf"],
       quote_ids=["q_firewall"])
 
 # 23 --------------------------------------------------------------- appendix: source limitations
@@ -1009,7 +1090,7 @@ slide(layout="content", kicker="APPENDIX: SOURCE LIMITATIONS",
            "text": "Tiers: [D] printed in a filing or deck; [C] computed from [D] inputs; [E] estimate with stated assumption; [IR] management verbal; [X] third party."},
       ],
       sources=["deliverables/PART_A_SUMMARY.md (verification, gaps)", "canonical/VERIFICATION.md", "analysis/D_SPEC.md", "extraction/presentations_NOTES.md"],
-      fact_ids=[])
+      fact_ids=["a_canon", "a_quartr6", "a_alloc100", "a_fy22_10m", ])
 
 
 # =============================================================================

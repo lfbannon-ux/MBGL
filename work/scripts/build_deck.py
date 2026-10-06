@@ -129,6 +129,9 @@ def rect(slide, box, fill, line=None, shape=MSO_SHAPE.RECTANGLE, name=None, radi
         s.line.color.rgb = rgb(line)
         s.line.width = Pt(0.75)
     s.shadow.inherit = False
+    st = s._element.find(qn("p:style"))
+    if st is not None:
+        s._element.remove(st)
     if radius is not None and shape == MSO_SHAPE.ROUNDED_RECTANGLE:
         s.adjustments[0] = radius
     tf = s.text_frame
@@ -297,6 +300,8 @@ def add_chart(slide, el, doc):
             va.minimum_scale = el["y_min"]
         if "y_max" in el:
             va.maximum_scale = el["y_max"]
+        if "major_unit" in el:
+            va.major_unit = el["major_unit"]
         for i, s in enumerate(el["series"]):
             ser = plot.series[i]
             col = s.get("color", NAVY)
@@ -314,6 +319,10 @@ def add_chart(slide, el, doc):
                 ser.format.fill.fore_color.rgb = rgb(col)
                 ser.format.line.fill.background()
                 ser.invert_if_negative = False
+                for pi, pc in (el.get("point_colors") or {}).items():
+                    pt = ser.points[int(pi)]
+                    pt.format.fill.solid()
+                    pt.format.fill.fore_color.rgb = rgb(pc)
             dl = ser.data_labels
             dl.show_value = True
             dl.number_format = nf
@@ -436,9 +445,11 @@ def add_table(slide, el):
     widths[-1] = E(w) - sum(widths[:-1])
     for i, wd in enumerate(widths):
         tbl.columns[i].width = Emu(int(wd))
-    rh = E(h / nr)
-    for r in range(nr):
-        tbl.rows[r].height = Emu(int(rh))
+    hdr_h = el.get("header_h", 0.5 if any(len(str(c)) * el.get("font_size", 10) * 0.0078 > (cw[i] / tot * w - 0.12) for i, c in enumerate(cols)) else 0.36)
+    body_h = (h - hdr_h) / (nr - 1)
+    tbl.rows[0].height = Emu(E(hdr_h))
+    for r in range(1, nr):
+        tbl.rows[r].height = Emu(E(body_h))
     fs = el.get("font_size", 10)
     for c, txt in enumerate(cols):
         cell = tbl.cell(0, c)
@@ -495,8 +506,16 @@ def add_cards(slide, el):
         textbox(slide, (bx + 0.12, by + 0.07, cw - 0.24 - tag_w, 0.42), it["title"], size=ts, bold=True, color=NAVY)
         title_lines = 1 if len(it["title"]) * ts * 0.0075 < (cw - 0.24 - tag_w) else 2
         ty = by + 0.07 + 0.22 * title_lines + 0.12
-        paras = [p for p in clean(it["body"]).split("\n\n")]
-        textbox(slide, (bx + 0.12, ty, cw - 0.24, chh - (ty - by) - 0.06), paras, size=bs, color=TXT)
+        body = it["body"] if isinstance(it["body"], list) else [it["body"]]
+        paras = []
+        for para in body:
+            if isinstance(para, dict):
+                paras.append([(para["head"], {"bold": True, "color": TEAL}), (para["text"], {})])
+            else:
+                paras.append(para)
+        tb = textbox(slide, (bx + 0.12, ty, cw - 0.24, chh - (ty - by) - 0.06), paras, size=bs, color=TXT)
+        for p in tb.text_frame.paragraphs:
+            p.space_after = Pt(8)
 
 
 def add_kpis(slide, el):
@@ -522,8 +541,9 @@ def add_kpis(slide, el):
 def add_quote(slide, el, doc):
     q = doc["quotes"][el["quote"]]
     x, y, w, h = el["box"]
+    qt = q["text"] if q["text"][0].isupper() else "…" + q["text"]
     size = el.get("size", 11)
-    textbox(slide, (x, y, w, h), [[("“" + q["text"] + "”", {"italic": True, "color": NAVY, "size": size}),
+    textbox(slide, (x, y, w, h), [[("“" + qt + "”", {"italic": True, "color": NAVY, "size": size}),
                                    ("   " + q["who"], {"color": MUTED, "size": size - 1.5})]],
             size=size, anchor=MSO_ANCHOR.MIDDLE)
 
@@ -547,7 +567,7 @@ def add_timeline(slide, el):
     def X(t):
         return x + (t - t0) / (t1 - t0) * w
 
-    band_y, band_h = y + 1.6, 0.44
+    band_y, band_h = y + 1.0, 0.44
     for era in el["eras"]:
         bx0, bx1 = X(era["start"]), X(era["end"])
         s = rect(slide, (bx0, band_y, bx1 - bx0, band_h), era["color"], name=f"Era {era['label'][:20]}")
@@ -559,12 +579,11 @@ def add_timeline(slide, el):
         cx = X(ev["x"])
         lx = min(max(cx - lw / 2, x), x + w - lw)
         if ev["pos"] == "up":
-            ly = band_y - 0.35 - 0.58 * ev.get("level", 1) - 0.1 * (ev.get("level", 1) - 1)
-            ly = band_y - 0.95 if ev.get("level", 1) == 1 else band_y - 1.6
+            ly = band_y - 0.95
             line_y0, line_y1 = ly + 0.55, band_y
         else:
-            ly = band_y + band_h + 0.32 if ev.get("level", 1) == 1 else band_y + band_h + 0.95
-            line_y0, line_y1 = band_y + band_h, ly
+            ly = band_y + band_h + 0.62 if ev.get("level", 1) == 1 else band_y + band_h + 1.25
+            line_y0, line_y1 = band_y + band_h + 0.25, ly
         conn = slide.shapes.add_connector(MSO_CONNECTOR.STRAIGHT, Emu(E(cx)), Emu(E(line_y0)), Emu(E(cx)), Emu(E(line_y1)))
         conn.line.color.rgb = rgb("A6A6A6")
         conn.line.width = Pt(0.75)
@@ -738,8 +757,8 @@ def set_theme_fonts(prs):
 def main():
     doc = json.load(open(SRC))
     prs = Presentation()
-    prs.slide_width = Emu(E(13.333))
-    prs.slide_height = Emu(E(7.5))
+    prs.slide_width = Emu(12192000)  # exact 13.333in
+    prs.slide_height = Emu(6858000)  # exact 7.5in
     set_theme_fonts(prs)
     for s in doc["slides"]:
         sl = build_title(prs, s, doc) if s["layout"] == "title" else build_content(prs, s, doc)

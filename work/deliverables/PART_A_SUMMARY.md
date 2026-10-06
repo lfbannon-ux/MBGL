@@ -1,0 +1,75 @@
+# Mobility Global (MBGL): Part A historical model summary
+
+**Workbook:** `deliverables/MBGL_Historical_Model.xlsx` (26 tabs). Figures are as originally reported, in USD millions.
+**Tiers:** [D] disclosed; [C] computed, with the method in the Key Metrics tab.
+
+## The numbers
+
+The company's own statements are carve-out financials from the Form 10/A and the 10-Q.
+
+| | FY2023 | FY2024 | FY2025 | 2-yr CAGR [C] | 6M-2025 | 6M-2026 | y/y [C] |
+|---|---|---|---|---|---|---|---|
+| Revenue [D] | 1,485 | 1,613 | 1,750 | 8.6% | 859 | 923 | +7.5% |
+| Operating profit [D] | 239 | 298 | 339 | 19.1% | 180 | 163 | −9.4% |
+| Operating margin [C] | 16.1% | 18.5% | 19.4% | | 21.0% | 17.7% | |
+| Adjusted EBITDA (company definition) [D] | 598 | 658 | 711 | 9.0% | 357 | 386 | +8.1% |
+| Net income [D] | 163 | 208 | 220 | 16.2% | 123 | 108 | −12.2% |
+| Cash from operations [D] | 393 | 427 | 485 | 11.1% | 233 | 189 | −18.9% |
+| Capex [D] | (18) | (15) | (24) | | (8) | (12) | |
+
+**Quarterly growth.** Revenue grew +8.3% in Q1-26 and +6.6% in Q2-26 [C]. FY2026 guidance (Aug 7, 2026) is revenue of $1,870–1,885m (+6.9–7.7%) and Adjusted EBITDA of $745–760m [D].
+
+**Acquisition amortization.** About $296m a year of amortization from the IHS Markit merger depresses GAAP operating profit. Operating profit plus D&A gives an EBITDA margin of about 37% [C].
+
+**Predecessor history.** This sits on the Predecessor Segments tab and is not comparable across eras.
+- **IHS Markit Transportation (Nov FYE):** revenue grew from $758m (FY15) to $1,354m (FY21), a 10.1% CAGR [C]. The scope included Maritime & Trade throughout, and Aerospace & Defense until December 2019.
+- **S&P Global Mobility (Dec FYE):** revenue grew from $1,484m (2023) to $1,747m (2025), an 8.5% CAGR [C]. FY2022 is only about 10 months.
+
+## Structural breaks, in order
+
+1. **Dec 2015:** CARPROOF acquired (Canada).
+2. **Sep 2017:** automotiveMastermind acquired (78%).
+3. **Dec 2019:** Aerospace & Defense sold out of IHS Markit Transportation.
+4. **Feb 28, 2022:** S&P Global–IHS Markit merger. The segment becomes Mobility; the fiscal year-end moves from November to December; purchase-accounting step-up.
+5. **Feb 2023:** Market Scan acquired. **Aug 2023:** Catalyst for Aftersales sold.
+6. **Apr 29, 2025:** spin announced. The 2025 realignment means segments are CARFAX and B2B, recast.
+7. **May 2026:** Form 10 and Form 10/A filed. $2.0bn Senior Notes issued May 29. $2.0bn dividend paid to S&P Global.
+8. **Q2-2026:** the segment measure changes to Adjusted EBITDA. The Adjusted EBITDA definition narrows from 10 exclusions to 6.
+9. **Jul 1, 2026:** distribution (1:1); standalone from Q3-2026.
+
+## Genuine non-disclosures
+
+- Revenue by brand or product, and by B2B business line.
+- Organic or constant-currency growth: MBGL does not print it, although S&P Global did every quarter.
+- Retention/NRR, ACV/ARR, ARPU, churn.
+- Segment assets: dropped in the 10-Q.
+- Transition services agreement (TSA) fees.
+- Deferred-revenue roll-forward.
+- A standalone Q2 cash-flow statement.
+
+The full list is on the Accounting Notes tab (33 rows).
+
+## Verification counts
+
+- **Extraction:** 4,859 rows across 6 files, all self-verified for footing and ties.
+- **Canonical layer:** 390 primary cells; 0 collisions (59 identical duplicates absorbed and logged); 0 leftovers; 3 gap-fills from the MD&A, logged.
+- **Recalc:** 0 formula errors; 106 integrity-check cells all tie.
+- **Independent check:** Quartr standardized Q2-2026 values matched 6 of 6. Annual periods aren't available there.
+- **XBRL cross-check:** not done, because sec.gov is blocked (see `canonical/VERIFICATION.md`).
+
+## Known gaps (need native filings)
+
+- Annual working-capital lines in the cash-flow statement.
+- Q1 cash-flow components.
+- Tax provision split for 2024/2023.
+- Lease maturity table.
+- Market Scan PPA liabilities (the lines sum to 59 against a printed total of 39).
+
+## Files
+
+- `deliverables/MBGL_Historical_Model.xlsx`
+- `extraction/`: 6 long CSVs plus notes files and SPEC.md
+- `canonical/`: primary.csv, caption map, merge log, accounting_notes.csv, VERIFICATION.md
+- `scripts/`: canon_primary.py, build_workbook.py, verify_workbook.py
+- `transcripts/`: quote banks, index.csv, TARGETS_TIMELINE.md
+- `analysis/`: D1–D10, D5, QUALITATIVE, K_session_tables

@@ -80,3 +80,57 @@ FY25 customer mix:
 | OEM CPO mandates (36) | stable |
 | Workflow integrations (95) | mixed (DMS gatekeepers) |
 | AI / data processing | falling |
+# K_session_tables — reusable tables (appended by Part D analysts)
+
+## From D2_unit_economics.md (2026-10-06)
+
+### Flow-through by segment [C] (ΔProfit / ΔRevenue, $m)
+| Period | Segment | ΔRev | ΔOP (10/A basis) | OP flow | ΔAdj. EBITDA | Adj. EBITDA flow |
+|---|---|---|---|---|---|---|
+| FY24 | CARFAX | 111 | 49 | 44% | 54 | 49% |
+| FY25 | CARFAX | 103 | 63 | 61% | 60 | 58% |
+| 6M-26 | CARFAX | 46 | 24 | 52% | 21 | 46% |
+| FY24 | B2B | 17 | 8 | 47% | 12 | 71% |
+| FY25 | B2B | 34 | −7 | −21% | −6 | −18% |
+| 6M-26 | B2B | 18 | −22 | n/m | 9 | 50% |
+| FY24 | Total | 128 | 59 | 46% | 60 | 47% |
+| FY25 | Total | 137 | 41 | 30% | 53 | 39% |
+| 6M-26 | Total | 64 | −17 | n/m | 29 | 45% |
+
+### CARFAX per-dealer anchors, FY25 [C]
+Advantage + Listings ≈ 60% × 1,142 = ~685. Divided by >40,000 dealer customers, that is ~$17.1k/yr. Advantage alone is ~$10.8k/yr. The segment upper bound is $28.6k/yr. Listings ~251, or 8.4% of a >$3bn US market.
+
+### Capex intensity [D/C]
+Capex 18 / 15 / 24 (FY23-25) = 1.2% / 0.9% / 1.4% of revenue. 6M-26 capex 12 (1.3%). Capex/depreciation 1.2-1.7x. FCF conversion 63% / 63% / 65%; 6M-26 46%.
+
+## From D3_group_decomposition.md (2026-10-06)
+
+### Combined profit identity ($m)
+| Period | CARFAX OP | B2B OP | Corp | Total OP | CARFAX Adj. EBITDA | B2B Adj. EBITDA | Corp | Total Adj. EBITDA |
+|---|---|---|---|---|---|---|---|---|
+| FY23 | 210 | 61 | (32) | 239 | 422 | 191 | (16) | 598* |
+| FY24 | 259 | 69 | (30) | 298 | 476 | 203 | (20) | 658* |
+| FY25 | 322 | 62 | (45) | 339 | 536 | 197 | (22) | 711 |
+| Q1-25 | 77 | 14 | (7) | 84 | 130 | 44 | (5) | 169 |
+| Q1-26 | 89 | 5 | (13) | 81 | 140 | 49 | (5) | 184 |
+| Q2-25 | 89 | 16 | (9) | 96 | 142 | 49 | (3) | 188 |
+| Q2-26 | 101 | 3 | (22) | 82 | 153 | 53 | (4) | 202 |
+| 6M-25 | 166 | 30 | (16) | 180 | 272 | 93 | (8) | 357 |
+| 6M-26 | 190 | 8 | (35) | 163 | 293 | 102 | (9) | 386 |
+*Printed total; the segment columns sum to 597 / 659.
+
+### S&P Global corporate allocations ($m) [D] / ex one-time [C]
+FY23 89 / 89 · FY24 90 / 90 · FY25 112 / ~100 · Q1-26 28 / ~21 · Q2-26 36 / ~19 · 6M-26 64 / ~40.
+
+### Standalone normalized NI and dividend test [C]
+| Item | Value |
+|---|---|
+| Standalone normalized NI, FY25 base | ~171 (range 161-182) |
+| FY26 run-rate | ~209 |
+| Pro forma printed | 139 |
+| Dividend | $0.06 × 4 × 294.82m = $70.8m |
+| Payout on standalone normalized NI | 34-44% |
+| NI required for a 25% payout | $283m |
+| Payout on NI ex after-tax amortization | ~18% |
+| Notes coupon | $110.6m a year (5.53%) |
+| Printed pro forma interest | $114m |

@@ -1,0 +1,1165 @@
+source_doc,page,statement,fiscal_period,period_end,section,line_item,value,unit,is_subtotal,order_index
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Revenue,1750,usd_m,1,1
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Revenue,1613,usd_m,1,1
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Revenue,1485,usd_m,1,1
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Operating-related expenses,516,usd_m,0,2
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Operating-related expenses,475,usd_m,0,2
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Operating-related expenses,448,usd_m,0,2
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Selling and general expenses,585,usd_m,0,3
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Selling and general expenses,531,usd_m,0,3
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Selling and general expenses,491,usd_m,0,3
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Depreciation,14,usd_m,0,4
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Depreciation,13,usd_m,0,4
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Depreciation,12,usd_m,0,4
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Amortization of intangibles,296,usd_m,0,5
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Amortization of intangibles,296,usd_m,0,5
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Amortization of intangibles,295,usd_m,0,5
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Total expenses,1411,usd_m,1,6
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Total expenses,1315,usd_m,1,6
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Total expenses,1246,usd_m,1,6
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Operating profit,339,usd_m,1,7
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Operating profit,298,usd_m,1,7
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Operating profit,239,usd_m,1,7
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,"Other income, net",-1,usd_m,0,8
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,"Other income, net",-2,usd_m,0,8
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,"Interest expense, net",13,usd_m,0,9
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,"Interest expense, net",15,usd_m,0,9
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,"Interest expense, net",17,usd_m,0,9
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Income before taxes on income,326,usd_m,1,10
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Income before taxes on income,284,usd_m,1,10
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Income before taxes on income,224,usd_m,1,10
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Provision for taxes on income,106,usd_m,0,11
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Provision for taxes on income,76,usd_m,0,11
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Provision for taxes on income,61,usd_m,0,11
+Form10A_2026-05-27,440,IS,FY2025,2025-12-31,Combined Statements of Income,Net income,220,usd_m,1,12
+Form10A_2026-05-27,440,IS,FY2024,2024-12-31,Combined Statements of Income,Net income,208,usd_m,1,12
+Form10A_2026-05-27,440,IS,FY2023,2023-12-31,Combined Statements of Income,Net income,163,usd_m,1,12
+Form10A_2026-05-27,441,IS,FY2025,2025-12-31,Combined Statements of Comprehensive Income,Net income,220,usd_m,1,20
+Form10A_2026-05-27,441,IS,FY2024,2024-12-31,Combined Statements of Comprehensive Income,Net income,208,usd_m,1,20
+Form10A_2026-05-27,441,IS,FY2023,2023-12-31,Combined Statements of Comprehensive Income,Net income,163,usd_m,1,20
+Form10A_2026-05-27,441,IS,FY2025,2025-12-31,Combined Statements of Comprehensive Income,Foreign currency translation adjustments,-7,usd_m,0,21
+Form10A_2026-05-27,441,IS,FY2024,2024-12-31,Combined Statements of Comprehensive Income,Foreign currency translation adjustments,18,usd_m,0,21
+Form10A_2026-05-27,441,IS,FY2023,2023-12-31,Combined Statements of Comprehensive Income,Foreign currency translation adjustments,-6,usd_m,0,21
+Form10A_2026-05-27,441,IS,FY2025,2025-12-31,Combined Statements of Comprehensive Income,Comprehensive income,213,usd_m,1,22
+Form10A_2026-05-27,441,IS,FY2024,2024-12-31,Combined Statements of Comprehensive Income,Comprehensive income,226,usd_m,1,22
+Form10A_2026-05-27,441,IS,FY2023,2023-12-31,Combined Statements of Comprehensive Income,Comprehensive income,157,usd_m,1,22
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,Cash and cash equivalents,38,usd_m,0,1
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,Cash and cash equivalents,27,usd_m,0,1
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,"Due from related parties, current",8,usd_m,0,2
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,"Due from related parties, current",4,usd_m,0,2
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2025 - $2; 2024 - $3",203,usd_m,0,3
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2025 - $2; 2024 - $3",195,usd_m,0,3
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,Prepaid and other current assets,32,usd_m,0,4
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,Prepaid and other current assets,24,usd_m,0,4
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,Total current assets,281,usd_m,1,5
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,Total current assets,250,usd_m,1,5
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,25,usd_m,0,6
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,23,usd_m,0,6
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Property and equipment,Equipment and furniture,75,usd_m,0,7
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Property and equipment,Equipment and furniture,80,usd_m,0,7
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Property and equipment,Total property and equipment,100,usd_m,1,8
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Property and equipment,Total property and equipment,103,usd_m,1,8
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,-81,usd_m,0,9
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,-83,usd_m,0,9
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,"Property and equipment, net",19,usd_m,1,10
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,"Property and equipment, net",20,usd_m,1,10
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Right of use assets,16,usd_m,0,11
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Right of use assets,20,usd_m,0,11
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,12
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,12
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Other intangible assets - net,3789,usd_m,0,13
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Other intangible assets - net,4085,usd_m,0,13
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Due from related parties – non-current,4,usd_m,0,14
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Other non-current assets,45,usd_m,0,15
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Other non-current assets,31,usd_m,0,15
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Total assets,12995,usd_m,1,16
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Total assets,13255,usd_m,1,16
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Accounts payable,56,usd_m,0,17
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Accounts payable,38,usd_m,0,17
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Due to related parties - current,19,usd_m,0,18
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Due to related parties - current,12,usd_m,0,18
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,64,usd_m,0,19
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,56,usd_m,0,19
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Unearned revenue,78,usd_m,0,20
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Unearned revenue,75,usd_m,0,20
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Other current liabilities,45,usd_m,0,21
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Other current liabilities,40,usd_m,0,21
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Total current liabilities,262,usd_m,1,22
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Total current liabilities,221,usd_m,1,22
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Lease liabilities - non-current,11,usd_m,0,23
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Lease liabilities - non-current,16,usd_m,0,23
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,1006,usd_m,0,24
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,1096,usd_m,0,24
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Due to related parties - non-current,230,usd_m,0,25
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Due to related parties - non-current,236,usd_m,0,25
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Other non-current liabilities,1,usd_m,0,26
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Other non-current liabilities,3,usd_m,0,26
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Total liabilities,1510,usd_m,1,27
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Total liabilities,1572,usd_m,1,27
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Equity,Parent company investment,11489,usd_m,0,28
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Equity,Parent company investment,11680,usd_m,0,28
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Equity,Accumulated other comprehensive (loss) income,-4,usd_m,0,29
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Equity,Accumulated other comprehensive (loss) income,3,usd_m,0,29
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Equity,Total equity,11485,usd_m,1,30
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Equity,Total equity,11683,usd_m,1,30
+Form10A_2026-05-27,442,BS,FY2025,2025-12-31,Combined Balance Sheets - Equity,Total liabilities and equity,12995,usd_m,1,31
+Form10A_2026-05-27,442,BS,FY2024,2024-12-31,Combined Balance Sheets - Equity,Total liabilities and equity,13255,usd_m,1,31
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Net income,220,usd_m,0,1
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Net income,208,usd_m,0,1
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Net income,163,usd_m,0,1
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Depreciation,14,usd_m,0,2
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Depreciation,13,usd_m,0,2
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Depreciation,12,usd_m,0,2
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Amortization of intangibles,296,usd_m,0,3
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Amortization of intangibles,296,usd_m,0,3
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Amortization of intangibles,295,usd_m,0,3
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,4,usd_m,0,4
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,4,usd_m,0,4
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,4,usd_m,0,4
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Deferred income taxes,-90,usd_m,0,5
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Deferred income taxes,-102,usd_m,0,5
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Deferred income taxes,-95,usd_m,0,5
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Stock-based compensation,22,usd_m,0,6
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Stock-based compensation,28,usd_m,0,6
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Stock-based compensation,20,usd_m,0,6
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Cash provided by operating activities,485,usd_m,1,17
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Cash provided by operating activities,427,usd_m,1,17
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Cash provided by operating activities,393,usd_m,1,17
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Investing,Capital expenditures,-24,usd_m,0,18
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Investing,Capital expenditures,-15,usd_m,0,18
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Investing,Capital expenditures,-18,usd_m,0,18
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Investing,"Acquisitions, net of cash acquired",-4,usd_m,0,19
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Investing,"Acquisitions, net of cash acquired",-6,usd_m,0,19
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Investing,"Acquisitions, net of cash acquired",-214,usd_m,0,19
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Investing,Proceeds from loan to related parties,5,usd_m,0,20
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Investing,Proceeds from dispositions,2,usd_m,0,21
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Investing,Cash used for investing activities,-23,usd_m,1,22
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Investing,Cash used for investing activities,-230,usd_m,1,22
+Form10A_2026-05-27,361,CF,FY2025,2025-12-31,MD&A Cash Flow Overview,Investing activities,-23,usd_m,1,22
+Form10A_2026-05-27,361,CF,FY2024,2024-12-31,MD&A Cash Flow Overview,Investing activities,-21,usd_m,1,22
+Form10A_2026-05-27,361,CF,FY2023,2023-12-31,MD&A Cash Flow Overview,Investing activities,-230,usd_m,1,22
+Form10A_2026-05-27,361,CF,Q1-2026,2026-03-31,MD&A Cash Flow Overview,Investing activities,-6,usd_m,1,22
+Form10A_2026-05-27,361,CF,Q1-2025,2025-03-31,MD&A Cash Flow Overview,Investing activities,-5,usd_m,1,22
+Form10A_2026-05-27,361,CF,FY2025,2025-12-31,MD&A Cash Flow Overview,Operating activities,485,usd_m,1,17
+Form10A_2026-05-27,361,CF,FY2024,2024-12-31,MD&A Cash Flow Overview,Operating activities,427,usd_m,1,17
+Form10A_2026-05-27,361,CF,FY2023,2023-12-31,MD&A Cash Flow Overview,Operating activities,393,usd_m,1,17
+Form10A_2026-05-27,361,CF,Q1-2026,2026-03-31,MD&A Cash Flow Overview,Operating activities,54,usd_m,1,17
+Form10A_2026-05-27,361,CF,Q1-2025,2025-03-31,MD&A Cash Flow Overview,Operating activities,67,usd_m,1,17
+Form10A_2026-05-27,361,CF,FY2025,2025-12-31,MD&A Cash Flow Overview,Financing activities,-453,usd_m,1,26
+Form10A_2026-05-27,361,CF,FY2024,2024-12-31,MD&A Cash Flow Overview,Financing activities,-423,usd_m,1,26
+Form10A_2026-05-27,361,CF,FY2023,2023-12-31,MD&A Cash Flow Overview,Financing activities,-160,usd_m,1,26
+Form10A_2026-05-27,361,CF,Q1-2026,2026-03-31,MD&A Cash Flow Overview,Financing activities,37,usd_m,1,26
+Form10A_2026-05-27,361,CF,Q1-2025,2025-03-31,MD&A Cash Flow Overview,Financing activities,-62,usd_m,1,26
+Form10A_2026-05-27,361,CF,FY2025,2025-12-31,MD&A Free cash flow reconciliation,Capital expenditures,-24,usd_m,0,18
+Form10A_2026-05-27,361,CF,FY2024,2024-12-31,MD&A Free cash flow reconciliation,Capital expenditures,-15,usd_m,0,18
+Form10A_2026-05-27,361,CF,FY2023,2023-12-31,MD&A Free cash flow reconciliation,Capital expenditures,-18,usd_m,0,18
+Form10A_2026-05-27,361,CF,Q1-2026,2026-03-31,MD&A Free cash flow reconciliation,Capital expenditures,-6,usd_m,0,18
+Form10A_2026-05-27,361,CF,Q1-2025,2025-03-31,MD&A Free cash flow reconciliation,Capital expenditures,-5,usd_m,0,18
+Form10A_2026-05-27,361,NONGAAP,FY2025,2025-12-31,MD&A Free cash flow reconciliation,Free cash flow,461,usd_m,1,30
+Form10A_2026-05-27,361,NONGAAP,FY2024,2024-12-31,MD&A Free cash flow reconciliation,Free cash flow,412,usd_m,1,30
+Form10A_2026-05-27,361,NONGAAP,FY2023,2023-12-31,MD&A Free cash flow reconciliation,Free cash flow,375,usd_m,1,30
+Form10A_2026-05-27,361,NONGAAP,Q1-2026,2026-03-31,MD&A Free cash flow reconciliation,Free cash flow,48,usd_m,1,30
+Form10A_2026-05-27,361,NONGAAP,Q1-2025,2025-03-31,MD&A Free cash flow reconciliation,Free cash flow,62,usd_m,1,30
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Financing,Net transfers to Parent,-433,usd_m,0,23
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Financing,Net transfers to Parent,-373,usd_m,0,23
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Financing,Net transfers to Parent,-158,usd_m,0,23
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Financing,Payments related to loan from related parties,-18,usd_m,0,24
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Financing,Payments related to loan from related parties,-45,usd_m,0,24
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Financing,Contingent consideration payments,-5,usd_m,0,25
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Financing,Cash used for financing activities,-453,usd_m,1,26
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Financing,Cash used for financing activities,-423,usd_m,1,26
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Financing,Cash used for financing activities,-160,usd_m,1,26
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows,Effect of exchange rate changes on cash,2,usd_m,0,27
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows,Effect of exchange rate changes on cash,-3,usd_m,0,27
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows,Effect of exchange rate changes on cash,2,usd_m,0,27
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",11,usd_m,1,28
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",-20,usd_m,1,28
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",5,usd_m,1,28
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of year",27,usd_m,0,29
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of year",47,usd_m,0,29
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of year",42,usd_m,0,29
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of year",38,usd_m,1,30
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of year",27,usd_m,1,30
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of year",47,usd_m,1,30
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Interest,14,usd_m,0,31
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Interest,17,usd_m,0,31
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Interest,18,usd_m,0,31
+Form10A_2026-05-27,443,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Income taxes,26,usd_m,0,32
+Form10A_2026-05-27,443,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Income taxes,29,usd_m,0,32
+Form10A_2026-05-27,443,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Income taxes,15,usd_m,0,32
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Parent Company Investment,"Balance as of January 1, 2023",11791,usd_m,0,1
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of January 1, 2023",-9,usd_m,0,1
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Total Equity,"Balance as of January 1, 2023",11782,usd_m,0,1
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",163,usd_m,0,2
+Form10A_2026-05-27,444,EQ,FY2024,2024-12-31,Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",208,usd_m,0,2
+Form10A_2026-05-27,444,EQ,FY2025,2025-12-31,Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",220,usd_m,0,2
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",-6,usd_m,0,2
+Form10A_2026-05-27,444,EQ,FY2024,2024-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",18,usd_m,0,2
+Form10A_2026-05-27,444,EQ,FY2025,2025-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",-7,usd_m,0,2
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",157,usd_m,0,2
+Form10A_2026-05-27,444,EQ,FY2024,2024-12-31,Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",226,usd_m,0,2
+Form10A_2026-05-27,444,EQ,FY2025,2025-12-31,Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",213,usd_m,0,2
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,-137,usd_m,0,3
+Form10A_2026-05-27,444,EQ,FY2024,2024-12-31,Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,-345,usd_m,0,3
+Form10A_2026-05-27,444,EQ,FY2025,2025-12-31,Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,-411,usd_m,0,3
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,-137,usd_m,0,3
+Form10A_2026-05-27,444,EQ,FY2024,2024-12-31,Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,-345,usd_m,0,3
+Form10A_2026-05-27,444,EQ,FY2025,2025-12-31,Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,-411,usd_m,0,3
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Parent Company Investment,Balance as of December 31,11817,usd_m,1,4
+Form10A_2026-05-27,444,EQ,FY2024,2024-12-31,Combined Statements of Equity - Parent Company Investment,Balance as of December 31,11680,usd_m,1,4
+Form10A_2026-05-27,444,EQ,FY2025,2025-12-31,Combined Statements of Equity - Parent Company Investment,Balance as of December 31,11489,usd_m,1,4
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31,-15,usd_m,1,4
+Form10A_2026-05-27,444,EQ,FY2024,2024-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31,3,usd_m,1,4
+Form10A_2026-05-27,444,EQ,FY2025,2025-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31,-4,usd_m,1,4
+Form10A_2026-05-27,444,EQ,FY2023,2023-12-31,Combined Statements of Equity - Total Equity,Balance as of December 31,11802,usd_m,1,4
+Form10A_2026-05-27,444,EQ,FY2024,2024-12-31,Combined Statements of Equity - Total Equity,Balance as of December 31,11683,usd_m,1,4
+Form10A_2026-05-27,444,EQ,FY2025,2025-12-31,Combined Statements of Equity - Total Equity,Balance as of December 31,11485,usd_m,1,4
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Revenue,1750,usd_m,1,1
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Revenue,1613,usd_m,1,1
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Revenue,1485,usd_m,1,1
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Operating-related expenses,516,usd_m,0,2
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Operating-related expenses,475,usd_m,0,2
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Operating-related expenses,448,usd_m,0,2
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Selling and general expenses,585,usd_m,0,3
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Selling and general expenses,531,usd_m,0,3
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Selling and general expenses,491,usd_m,0,3
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Depreciation,14,usd_m,0,4
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Depreciation,13,usd_m,0,4
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Depreciation,12,usd_m,0,4
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Amortization of intangibles,296,usd_m,0,5
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Amortization of intangibles,296,usd_m,0,5
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Amortization of intangibles,295,usd_m,0,5
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Total expenses,1411,usd_m,1,6
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Total expenses,1315,usd_m,1,6
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Total expenses,1246,usd_m,1,6
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Operating profit,339,usd_m,1,7
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Operating profit,298,usd_m,1,7
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Operating profit,239,usd_m,1,7
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,"Other income, net",-1,usd_m,0,8
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,"Other income, net",-2,usd_m,0,8
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,"Interest expense, net",13,usd_m,0,9
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,"Interest expense, net",15,usd_m,0,9
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,"Interest expense, net",17,usd_m,0,9
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Income before taxes on income,326,usd_m,1,10
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Income before taxes on income,284,usd_m,1,10
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Income before taxes on income,224,usd_m,1,10
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Provision for taxes on income,106,usd_m,0,11
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Provision for taxes on income,76,usd_m,0,11
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Provision for taxes on income,61,usd_m,0,11
+Form10_2026-05-07,518,IS,FY2025,2025-12-31,Combined Statements of Income,Net income,220,usd_m,1,12
+Form10_2026-05-07,518,IS,FY2024,2024-12-31,Combined Statements of Income,Net income,208,usd_m,1,12
+Form10_2026-05-07,518,IS,FY2023,2023-12-31,Combined Statements of Income,Net income,163,usd_m,1,12
+Form10_2026-05-07,519,IS,FY2025,2025-12-31,Combined Statements of Comprehensive Income,Net income,220,usd_m,1,20
+Form10_2026-05-07,519,IS,FY2024,2024-12-31,Combined Statements of Comprehensive Income,Net income,208,usd_m,1,20
+Form10_2026-05-07,519,IS,FY2023,2023-12-31,Combined Statements of Comprehensive Income,Net income,163,usd_m,1,20
+Form10_2026-05-07,519,IS,FY2025,2025-12-31,Combined Statements of Comprehensive Income,Foreign currency translation adjustments,-7,usd_m,0,21
+Form10_2026-05-07,519,IS,FY2024,2024-12-31,Combined Statements of Comprehensive Income,Foreign currency translation adjustments,18,usd_m,0,21
+Form10_2026-05-07,519,IS,FY2023,2023-12-31,Combined Statements of Comprehensive Income,Foreign currency translation adjustments,-6,usd_m,0,21
+Form10_2026-05-07,519,IS,FY2025,2025-12-31,Combined Statements of Comprehensive Income,Comprehensive income,213,usd_m,1,22
+Form10_2026-05-07,519,IS,FY2024,2024-12-31,Combined Statements of Comprehensive Income,Comprehensive income,226,usd_m,1,22
+Form10_2026-05-07,519,IS,FY2023,2023-12-31,Combined Statements of Comprehensive Income,Comprehensive income,157,usd_m,1,22
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,Cash and cash equivalents,38,usd_m,0,1
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,Cash and cash equivalents,27,usd_m,0,1
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,"Due from related parties, current",8,usd_m,0,2
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,"Due from related parties, current",4,usd_m,0,2
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2025 - $2; 2024 - $3",203,usd_m,0,3
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2025 - $2; 2024 - $3",195,usd_m,0,3
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,Prepaid and other current assets,32,usd_m,0,4
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,Prepaid and other current assets,24,usd_m,0,4
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current assets,Total current assets,281,usd_m,1,5
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current assets,Total current assets,250,usd_m,1,5
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,25,usd_m,0,6
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,23,usd_m,0,6
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Property and equipment,Equipment and furniture,75,usd_m,0,7
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Property and equipment,Equipment and furniture,80,usd_m,0,7
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Property and equipment,Total property and equipment,100,usd_m,1,8
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Property and equipment,Total property and equipment,103,usd_m,1,8
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,-81,usd_m,0,9
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,-83,usd_m,0,9
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,"Property and equipment, net",19,usd_m,1,10
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,"Property and equipment, net",20,usd_m,1,10
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Right of use assets,16,usd_m,0,11
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Right of use assets,20,usd_m,0,11
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,12
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,12
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Other intangible assets - net,3789,usd_m,0,13
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Other intangible assets - net,4085,usd_m,0,13
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Due from related parties – non-current,4,usd_m,0,14
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Other non-current assets,45,usd_m,0,15
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Other non-current assets,31,usd_m,0,15
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Assets,Total assets,12995,usd_m,1,16
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Assets,Total assets,13255,usd_m,1,16
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Accounts payable,56,usd_m,0,17
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Accounts payable,38,usd_m,0,17
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Due to related parties - current,19,usd_m,0,18
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Due to related parties - current,12,usd_m,0,18
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,64,usd_m,0,19
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,56,usd_m,0,19
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Unearned revenue,78,usd_m,0,20
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Unearned revenue,75,usd_m,0,20
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Other current liabilities,45,usd_m,0,21
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Other current liabilities,40,usd_m,0,21
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Current liabilities,Total current liabilities,262,usd_m,1,22
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Current liabilities,Total current liabilities,221,usd_m,1,22
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Lease liabilities - non-current,11,usd_m,0,23
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Lease liabilities - non-current,16,usd_m,0,23
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,1006,usd_m,0,24
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,1096,usd_m,0,24
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Due to related parties - non-current,230,usd_m,0,25
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Due to related parties - non-current,236,usd_m,0,25
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Other non-current liabilities,1,usd_m,0,26
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Other non-current liabilities,3,usd_m,0,26
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Liabilities,Total liabilities,1510,usd_m,1,27
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Liabilities,Total liabilities,1572,usd_m,1,27
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Equity,Parent company investment,11489,usd_m,0,28
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Equity,Parent company investment,11680,usd_m,0,28
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Equity,Accumulated other comprehensive (loss) income,-4,usd_m,0,29
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Equity,Accumulated other comprehensive (loss) income,3,usd_m,0,29
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Equity,Total equity,11485,usd_m,1,30
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Equity,Total equity,11683,usd_m,1,30
+Form10_2026-05-07,520,BS,FY2025,2025-12-31,Combined Balance Sheets - Equity,Total liabilities and equity,12995,usd_m,1,31
+Form10_2026-05-07,520,BS,FY2024,2024-12-31,Combined Balance Sheets - Equity,Total liabilities and equity,13255,usd_m,1,31
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Net income,220,usd_m,0,1
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Net income,208,usd_m,0,1
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Net income,163,usd_m,0,1
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Depreciation,14,usd_m,0,2
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Depreciation,13,usd_m,0,2
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Depreciation,12,usd_m,0,2
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Amortization of intangibles,296,usd_m,0,3
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Amortization of intangibles,296,usd_m,0,3
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Amortization of intangibles,295,usd_m,0,3
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,4,usd_m,0,4
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,4,usd_m,0,4
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,4,usd_m,0,4
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Deferred income taxes,-90,usd_m,0,5
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Deferred income taxes,-102,usd_m,0,5
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Deferred income taxes,-95,usd_m,0,5
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Stock-based compensation,22,usd_m,0,6
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Stock-based compensation,28,usd_m,0,6
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Stock-based compensation,20,usd_m,0,6
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Operating,Cash provided by operating activities,485,usd_m,1,17
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Operating,Cash provided by operating activities,427,usd_m,1,17
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Operating,Cash provided by operating activities,393,usd_m,1,17
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Investing,Capital expenditures,-24,usd_m,0,18
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Investing,Capital expenditures,-15,usd_m,0,18
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Investing,Capital expenditures,-18,usd_m,0,18
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Investing,"Acquisitions, net of cash acquired",-4,usd_m,0,19
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Investing,"Acquisitions, net of cash acquired",-6,usd_m,0,19
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Investing,"Acquisitions, net of cash acquired",-214,usd_m,0,19
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Investing,Proceeds from loan to related parties,5,usd_m,0,20
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Investing,Proceeds from dispositions,2,usd_m,0,21
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Investing,Cash used for investing activities,-23,usd_m,1,22
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Investing,Cash used for investing activities,-230,usd_m,1,22
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Financing,Net transfers to Parent,-433,usd_m,0,23
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Financing,Net transfers to Parent,-373,usd_m,0,23
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Financing,Net transfers to Parent,-158,usd_m,0,23
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Financing,Payments related to loan from related parties,-18,usd_m,0,24
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Financing,Payments related to loan from related parties,-45,usd_m,0,24
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Financing,Contingent consideration payments,-5,usd_m,0,25
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Financing,Cash used for financing activities,-453,usd_m,1,26
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Financing,Cash used for financing activities,-423,usd_m,1,26
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Financing,Cash used for financing activities,-160,usd_m,1,26
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows,Effect of exchange rate changes on cash,2,usd_m,0,27
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows,Effect of exchange rate changes on cash,-3,usd_m,0,27
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows,Effect of exchange rate changes on cash,2,usd_m,0,27
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",11,usd_m,1,28
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",-20,usd_m,1,28
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",5,usd_m,1,28
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of year",27,usd_m,0,29
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of year",47,usd_m,0,29
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of year",42,usd_m,0,29
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of year",38,usd_m,1,30
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of year",27,usd_m,1,30
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of year",47,usd_m,1,30
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Interest,14,usd_m,0,31
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Interest,17,usd_m,0,31
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Interest,18,usd_m,0,31
+Form10_2026-05-07,521,CF,FY2025,2025-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Income taxes,26,usd_m,0,32
+Form10_2026-05-07,521,CF,FY2024,2024-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Income taxes,29,usd_m,0,32
+Form10_2026-05-07,521,CF,FY2023,2023-12-31,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Income taxes,15,usd_m,0,32
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Parent Company Investment,"Balance as of January 1, 2023",11791,usd_m,0,1
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of January 1, 2023",-9,usd_m,0,1
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Total Equity,"Balance as of January 1, 2023",11782,usd_m,0,1
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",163,usd_m,0,2
+Form10_2026-05-07,522,EQ,FY2024,2024-12-31,Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",208,usd_m,0,2
+Form10_2026-05-07,522,EQ,FY2025,2025-12-31,Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",220,usd_m,0,2
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",-6,usd_m,0,2
+Form10_2026-05-07,522,EQ,FY2024,2024-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",18,usd_m,0,2
+Form10_2026-05-07,522,EQ,FY2025,2025-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",-7,usd_m,0,2
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",157,usd_m,0,2
+Form10_2026-05-07,522,EQ,FY2024,2024-12-31,Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",226,usd_m,0,2
+Form10_2026-05-07,522,EQ,FY2025,2025-12-31,Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",213,usd_m,0,2
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,-137,usd_m,0,3
+Form10_2026-05-07,522,EQ,FY2024,2024-12-31,Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,-345,usd_m,0,3
+Form10_2026-05-07,522,EQ,FY2025,2025-12-31,Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,-411,usd_m,0,3
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,-137,usd_m,0,3
+Form10_2026-05-07,522,EQ,FY2024,2024-12-31,Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,-345,usd_m,0,3
+Form10_2026-05-07,522,EQ,FY2025,2025-12-31,Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,-411,usd_m,0,3
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Parent Company Investment,Balance as of December 31,11817,usd_m,1,4
+Form10_2026-05-07,522,EQ,FY2024,2024-12-31,Combined Statements of Equity - Parent Company Investment,Balance as of December 31,11680,usd_m,1,4
+Form10_2026-05-07,522,EQ,FY2025,2025-12-31,Combined Statements of Equity - Parent Company Investment,Balance as of December 31,11489,usd_m,1,4
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31,-15,usd_m,1,4
+Form10_2026-05-07,522,EQ,FY2024,2024-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31,3,usd_m,1,4
+Form10_2026-05-07,522,EQ,FY2025,2025-12-31,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31,-4,usd_m,1,4
+Form10_2026-05-07,522,EQ,FY2023,2023-12-31,Combined Statements of Equity - Total Equity,Balance as of December 31,11802,usd_m,1,4
+Form10_2026-05-07,522,EQ,FY2024,2024-12-31,Combined Statements of Equity - Total Equity,Balance as of December 31,11683,usd_m,1,4
+Form10_2026-05-07,522,EQ,FY2025,2025-12-31,Combined Statements of Equity - Total Equity,Balance as of December 31,11485,usd_m,1,4
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Revenue,455,usd_m,1,1
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Revenue,420,usd_m,1,1
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Operating-related expenses,136,usd_m,0,2
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Operating-related expenses,127,usd_m,0,2
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Selling and general expenses,160,usd_m,0,3
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Selling and general expenses,131,usd_m,0,3
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Depreciation,4,usd_m,0,4
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Depreciation,4,usd_m,0,4
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Amortization of intangibles,74,usd_m,0,5
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Amortization of intangibles,74,usd_m,0,5
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Total expenses,374,usd_m,1,6
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Total expenses,336,usd_m,1,6
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Operating profit,81,usd_m,1,7
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Operating profit,84,usd_m,1,7
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),"Interest expense, net",3,usd_m,0,9
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),"Interest expense, net",3,usd_m,0,9
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Income before taxes on income,78,usd_m,1,10
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Income before taxes on income,81,usd_m,1,10
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Provision for taxes on income,23,usd_m,0,11
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Provision for taxes on income,23,usd_m,0,11
+Form10A_2026-05-27,422,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Net income,55,usd_m,1,12
+Form10A_2026-05-27,422,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Net income,58,usd_m,1,12
+Form10A_2026-05-27,423,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,55,usd_m,1,20
+Form10A_2026-05-27,423,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,58,usd_m,1,20
+Form10A_2026-05-27,423,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,1,usd_m,0,21
+Form10A_2026-05-27,423,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,-1,usd_m,0,21
+Form10A_2026-05-27,423,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,56,usd_m,1,22
+Form10A_2026-05-27,423,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,57,usd_m,1,22
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,Cash and cash equivalents,122,usd_m,0,1
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Cash and cash equivalents,38,usd_m,0,1
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,Due from related parties - current,15,usd_m,0,2
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Due from related parties - current,8,usd_m,0,2
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2026 - $2; 2025 - $2",216,usd_m,0,3
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2026 - $2; 2025 - $2",203,usd_m,0,3
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,Prepaid and other current assets,39,usd_m,0,4
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Prepaid and other current assets,32,usd_m,0,4
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,Total current assets,392,usd_m,1,5
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Total current assets,281,usd_m,1,5
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,25,usd_m,0,6
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,25,usd_m,0,6
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Property and equipment,Equipment and furniture,77,usd_m,0,7
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Property and equipment,Equipment and furniture,75,usd_m,0,7
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Property and equipment,Total property and equipment,102,usd_m,1,8
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Property and equipment,Total property and equipment,100,usd_m,1,8
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,-83,usd_m,0,9
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,-81,usd_m,0,9
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,"Property and equipment, net",19,usd_m,1,10
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,"Property and equipment, net",19,usd_m,1,10
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Right of use assets,23,usd_m,0,11
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Right of use assets,16,usd_m,0,11
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,12
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,12
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Other intangible assets - net,3714,usd_m,0,13
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Other intangible assets - net,3789,usd_m,0,13
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Other non-current assets,49,usd_m,0,15
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Other non-current assets,45,usd_m,0,15
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Total assets,13042,usd_m,1,16
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Total assets,12995,usd_m,1,16
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Accounts payable,48,usd_m,0,17
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Accounts payable,56,usd_m,0,17
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Due to related parties - current,24,usd_m,0,18
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Due to related parties - current,19,usd_m,0,18
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,25,usd_m,0,19
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,64,usd_m,0,19
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Unearned revenue,94,usd_m,0,20
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Unearned revenue,78,usd_m,0,20
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Other current liabilities,38,usd_m,0,21
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Other current liabilities,45,usd_m,0,21
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Total current liabilities,229,usd_m,1,22
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Total current liabilities,262,usd_m,1,22
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Lease liabilities - non-current,19,usd_m,0,23
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Lease liabilities - non-current,11,usd_m,0,23
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,983,usd_m,0,24
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,1006,usd_m,0,24
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Due to related parties – non-current,227,usd_m,0,25
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Due to related parties – non-current,230,usd_m,0,25
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Other non-current liabilities,1,usd_m,0,26
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Other non-current liabilities,1,usd_m,0,26
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Total liabilities,1459,usd_m,1,27
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Total liabilities,1510,usd_m,1,27
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Equity,Parent company investment,11586,usd_m,0,28
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Parent company investment,11489,usd_m,0,28
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Equity,Accumulated other comprehensive loss,-3,usd_m,0,29
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Accumulated other comprehensive loss,-4,usd_m,0,29
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Equity,Total equity,11583,usd_m,1,30
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Total equity,11485,usd_m,1,30
+Form10A_2026-05-27,424,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Equity,Total liabilities and equity,13042,usd_m,1,31
+Form10A_2026-05-27,424,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Total liabilities and equity,12995,usd_m,1,31
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Net income,55,usd_m,0,1
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Net income,58,usd_m,0,1
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Depreciation,4,usd_m,0,2
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Depreciation,4,usd_m,0,2
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Amortization of intangibles,74,usd_m,0,3
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Amortization of intangibles,74,usd_m,0,3
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,1,usd_m,0,4
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,1,usd_m,0,4
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Deferred income taxes,-23,usd_m,0,5
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Deferred income taxes,-23,usd_m,0,5
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Stock-based compensation,4,usd_m,0,6
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Stock-based compensation,5,usd_m,0,6
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Cash provided by operating activities,54,usd_m,1,17
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Cash provided by operating activities,67,usd_m,1,17
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Investing,Capital expenditures,-6,usd_m,0,18
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Investing,Cash used for investing activities,-6,usd_m,1,22
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Financing,Cash provided by (used for) financing activities,37,usd_m,1,26
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows,Effect of exchange rate changes on cash,-1,usd_m,0,27
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",84,usd_m,1,28
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",1,usd_m,1,28
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of period",38,usd_m,0,29
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of period",27,usd_m,0,29
+Form10A_2026-05-27,425,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of period",122,usd_m,1,30
+Form10A_2026-05-27,425,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of period",28,usd_m,1,30
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of December 31 (opening),11489,usd_m,0,1
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of December 31 (opening),11680,usd_m,0,1
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31 (opening),-4,usd_m,0,1
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31 (opening),3,usd_m,0,1
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of December 31 (opening),11485,usd_m,0,1
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of December 31 (opening),11683,usd_m,0,1
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income (loss), net of tax",55,usd_m,0,2
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income (loss), net of tax",58,usd_m,0,2
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income (loss), net of tax",1,usd_m,0,2
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income (loss), net of tax",-1,usd_m,0,2
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income (loss), net of tax",56,usd_m,0,2
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income (loss), net of tax",57,usd_m,0,2
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Net increase (decrease) in Parent company investment,42,usd_m,0,3
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Net increase (decrease) in Parent company investment,-44,usd_m,0,3
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,Net increase (decrease) in Parent company investment,42,usd_m,0,3
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,Net increase (decrease) in Parent company investment,-44,usd_m,0,3
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of March 31,11586,usd_m,1,4
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of March 31,11694,usd_m,1,4
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of March 31,-3,usd_m,1,4
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of March 31,2,usd_m,1,4
+Form10A_2026-05-27,426,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of March 31,11583,usd_m,1,4
+Form10A_2026-05-27,426,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of March 31,11696,usd_m,1,4
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Revenue,455,usd_m,1,1
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Revenue,420,usd_m,1,1
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Operating-related expenses,136,usd_m,0,2
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Operating-related expenses,127,usd_m,0,2
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Selling and general expenses,160,usd_m,0,3
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Selling and general expenses,131,usd_m,0,3
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Depreciation,4,usd_m,0,4
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Depreciation,4,usd_m,0,4
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Amortization of intangibles,74,usd_m,0,5
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Amortization of intangibles,74,usd_m,0,5
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Total expenses,374,usd_m,1,6
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Total expenses,336,usd_m,1,6
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Operating profit,81,usd_m,1,7
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Operating profit,84,usd_m,1,7
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),"Interest expense, net",3,usd_m,0,9
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),"Interest expense, net",3,usd_m,0,9
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Income before taxes on income,78,usd_m,1,10
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Income before taxes on income,81,usd_m,1,10
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Provision for taxes on income,23,usd_m,0,11
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Provision for taxes on income,23,usd_m,0,11
+Form10_2026-05-07,500,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Income (Unaudited),Net income,55,usd_m,1,12
+Form10_2026-05-07,500,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Income (Unaudited),Net income,58,usd_m,1,12
+Form10_2026-05-07,501,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,55,usd_m,1,20
+Form10_2026-05-07,501,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,58,usd_m,1,20
+Form10_2026-05-07,501,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,1,usd_m,0,21
+Form10_2026-05-07,501,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,-1,usd_m,0,21
+Form10_2026-05-07,501,IS,Q1-2026,2026-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,56,usd_m,1,22
+Form10_2026-05-07,501,IS,Q1-2025,2025-03-31,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,57,usd_m,1,22
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,Cash and cash equivalents,122,usd_m,0,1
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Cash and cash equivalents,38,usd_m,0,1
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,Due from related parties - current,15,usd_m,0,2
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Due from related parties - current,8,usd_m,0,2
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2026 - $2; 2025 - $2",216,usd_m,0,3
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2026 - $2; 2025 - $2",203,usd_m,0,3
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,Prepaid and other current assets,39,usd_m,0,4
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Prepaid and other current assets,32,usd_m,0,4
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current assets,Total current assets,392,usd_m,1,5
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Total current assets,281,usd_m,1,5
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,25,usd_m,0,6
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,25,usd_m,0,6
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Property and equipment,Equipment and furniture,77,usd_m,0,7
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Property and equipment,Equipment and furniture,75,usd_m,0,7
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Property and equipment,Total property and equipment,102,usd_m,1,8
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Property and equipment,Total property and equipment,100,usd_m,1,8
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,-83,usd_m,0,9
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,-81,usd_m,0,9
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,"Property and equipment, net",19,usd_m,1,10
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,"Property and equipment, net",19,usd_m,1,10
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Right of use assets,23,usd_m,0,11
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Right of use assets,16,usd_m,0,11
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,12
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,12
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Other intangible assets - net,3714,usd_m,0,13
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Other intangible assets - net,3789,usd_m,0,13
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Other non-current assets,49,usd_m,0,15
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Other non-current assets,45,usd_m,0,15
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Assets,Total assets,13042,usd_m,1,16
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Total assets,12995,usd_m,1,16
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Accounts payable,48,usd_m,0,17
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Accounts payable,56,usd_m,0,17
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Due to related parties - current,24,usd_m,0,18
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Due to related parties - current,19,usd_m,0,18
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,25,usd_m,0,19
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,64,usd_m,0,19
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Unearned revenue,94,usd_m,0,20
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Unearned revenue,78,usd_m,0,20
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Other current liabilities,38,usd_m,0,21
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Other current liabilities,45,usd_m,0,21
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Current liabilities,Total current liabilities,229,usd_m,1,22
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Total current liabilities,262,usd_m,1,22
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Lease liabilities - non-current,19,usd_m,0,23
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Lease liabilities - non-current,11,usd_m,0,23
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,983,usd_m,0,24
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,1006,usd_m,0,24
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Due to related parties – non-current,227,usd_m,0,25
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Due to related parties – non-current,230,usd_m,0,25
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Other non-current liabilities,1,usd_m,0,26
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Other non-current liabilities,1,usd_m,0,26
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Liabilities,Total liabilities,1459,usd_m,1,27
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Total liabilities,1510,usd_m,1,27
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Equity,Parent company investment,11586,usd_m,0,28
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Parent company investment,11489,usd_m,0,28
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Equity,Accumulated other comprehensive loss,-3,usd_m,0,29
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Accumulated other comprehensive loss,-4,usd_m,0,29
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Equity,Total equity,11583,usd_m,1,30
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Total equity,11485,usd_m,1,30
+Form10_2026-05-07,502,BS,Q1-2026,2026-03-31,Condensed Combined Balance Sheets - Equity,Total liabilities and equity,13042,usd_m,1,31
+Form10_2026-05-07,502,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Total liabilities and equity,12995,usd_m,1,31
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Net income,55,usd_m,0,1
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Net income,58,usd_m,0,1
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Depreciation,4,usd_m,0,2
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Depreciation,4,usd_m,0,2
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Amortization of intangibles,74,usd_m,0,3
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Amortization of intangibles,74,usd_m,0,3
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,1,usd_m,0,4
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,1,usd_m,0,4
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Deferred income taxes,-23,usd_m,0,5
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Deferred income taxes,-23,usd_m,0,5
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Stock-based compensation,4,usd_m,0,6
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Stock-based compensation,5,usd_m,0,6
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Operating,Cash provided by operating activities,54,usd_m,1,17
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows - Operating,Cash provided by operating activities,67,usd_m,1,17
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Investing,Capital expenditures,-6,usd_m,0,18
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Investing,Cash used for investing activities,-6,usd_m,1,22
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows - Financing,Cash provided by (used for) financing activities,37,usd_m,1,26
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows,Effect of exchange rate changes on cash,-1,usd_m,0,27
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",84,usd_m,1,28
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",1,usd_m,1,28
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of period",38,usd_m,0,29
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of period",27,usd_m,0,29
+Form10_2026-05-07,503,CF,Q1-2026,2026-03-31,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of period",122,usd_m,1,30
+Form10_2026-05-07,503,CF,Q1-2025,2025-03-31,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of period",28,usd_m,1,30
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of December 31 (opening),11489,usd_m,0,1
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of December 31 (opening),11680,usd_m,0,1
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31 (opening),-4,usd_m,0,1
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31 (opening),3,usd_m,0,1
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of December 31 (opening),11485,usd_m,0,1
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of December 31 (opening),11683,usd_m,0,1
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income (loss), net of tax",55,usd_m,0,2
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income (loss), net of tax",58,usd_m,0,2
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income (loss), net of tax",1,usd_m,0,2
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income (loss), net of tax",-1,usd_m,0,2
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income (loss), net of tax",56,usd_m,0,2
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income (loss), net of tax",57,usd_m,0,2
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Net increase (decrease) in Parent company investment,42,usd_m,0,3
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Net increase (decrease) in Parent company investment,-44,usd_m,0,3
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,Net increase (decrease) in Parent company investment,42,usd_m,0,3
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,Net increase (decrease) in Parent company investment,-44,usd_m,0,3
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of March 31,11586,usd_m,1,4
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of March 31,11694,usd_m,1,4
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of March 31,-3,usd_m,1,4
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of March 31,2,usd_m,1,4
+Form10_2026-05-07,504,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of March 31,11583,usd_m,1,4
+Form10_2026-05-07,504,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of March 31,11696,usd_m,1,4
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Revenue,455,usd_m,1,1
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Revenue,420,usd_m,1,1
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Revenue,1750,usd_m,1,1
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Revenue,1613,usd_m,1,1
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Revenue,1485,usd_m,1,1
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Operating-related expenses,136,usd_m,0,2
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Operating-related expenses,127,usd_m,0,2
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Operating-related expenses,516,usd_m,0,2
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Operating-related expenses,475,usd_m,0,2
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Operating-related expenses,448,usd_m,0,2
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Selling and general expenses,160,usd_m,0,3
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Selling and general expenses,131,usd_m,0,3
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Selling and general expenses,585,usd_m,0,3
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Selling and general expenses,531,usd_m,0,3
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Selling and general expenses,491,usd_m,0,3
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Depreciation and amortization,78,usd_m,0,4
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Depreciation and amortization,78,usd_m,0,4
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Depreciation and amortization,310,usd_m,0,4
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Depreciation and amortization,309,usd_m,0,4
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Depreciation and amortization,307,usd_m,0,4
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Total expenses,374,usd_m,1,6
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Total expenses,336,usd_m,1,6
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Total expenses,1411,usd_m,1,6
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Total expenses,1315,usd_m,1,6
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Total expenses,1246,usd_m,1,6
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Operating profit,81,usd_m,1,7
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Operating profit,84,usd_m,1,7
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Operating profit,339,usd_m,1,7
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Operating profit,298,usd_m,1,7
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Operating profit,239,usd_m,1,7
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,"Other income, net",-1,usd_m,0,8
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,"Other income, net",-2,usd_m,0,8
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,"Interest expense, net",3,usd_m,0,9
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,"Interest expense, net",3,usd_m,0,9
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,"Interest expense, net",13,usd_m,0,9
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,"Interest expense, net",15,usd_m,0,9
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,"Interest expense, net",17,usd_m,0,9
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Income before taxes on income,78,usd_m,1,10
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Income before taxes on income,81,usd_m,1,10
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Income before taxes on income,326,usd_m,1,10
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Income before taxes on income,284,usd_m,1,10
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Income before taxes on income,224,usd_m,1,10
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Provision for income taxes,23,usd_m,0,11
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Provision for income taxes,23,usd_m,0,11
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Provision for income taxes,106,usd_m,0,11
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Provision for income taxes,76,usd_m,0,11
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Provision for income taxes,61,usd_m,0,11
+Form10A_2026-05-27,285,IS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Net income,55,usd_m,1,12
+Form10A_2026-05-27,285,IS,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Net income,58,usd_m,1,12
+Form10A_2026-05-27,285,IS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Net income,220,usd_m,1,12
+Form10A_2026-05-27,285,IS,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Net income,208,usd_m,1,12
+Form10A_2026-05-27,285,IS,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Net income,163,usd_m,1,12
+Form10A_2026-05-27,285,CF,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Net cash provided by operating activities,54,usd_m,1,17
+Form10A_2026-05-27,285,CF,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Net cash provided by operating activities,67,usd_m,1,17
+Form10A_2026-05-27,285,CF,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Net cash provided by operating activities,485,usd_m,1,17
+Form10A_2026-05-27,285,CF,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Net cash provided by operating activities,427,usd_m,1,17
+Form10A_2026-05-27,285,CF,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Net cash provided by operating activities,393,usd_m,1,17
+Form10A_2026-05-27,285,CF,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Net cash used for investing activities,-6,usd_m,1,22
+Form10A_2026-05-27,285,CF,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Net cash used for investing activities,-5,usd_m,1,22
+Form10A_2026-05-27,285,CF,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Net cash used for investing activities,-23,usd_m,1,22
+Form10A_2026-05-27,285,CF,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Net cash used for investing activities,-21,usd_m,1,22
+Form10A_2026-05-27,285,CF,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Net cash used for investing activities,-230,usd_m,1,22
+Form10A_2026-05-27,285,CF,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data,Net cash used for financing activities,37,usd_m,1,26
+Form10A_2026-05-27,285,CF,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data,Net cash used for financing activities,-62,usd_m,1,26
+Form10A_2026-05-27,285,CF,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data,Net cash used for financing activities,-453,usd_m,1,26
+Form10A_2026-05-27,285,CF,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data,Net cash used for financing activities,-423,usd_m,1,26
+Form10A_2026-05-27,285,CF,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data,Net cash used for financing activities,-160,usd_m,1,26
+Form10A_2026-05-27,285,BS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Cash and cash equivalents,122,usd_m,0,1
+Form10A_2026-05-27,285,BS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Cash and cash equivalents,38,usd_m,0,1
+Form10A_2026-05-27,285,BS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Total assets,13042,usd_m,1,16
+Form10A_2026-05-27,285,BS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Total assets,12995,usd_m,1,16
+Form10A_2026-05-27,285,BS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Total liabilities,1459,usd_m,1,27
+Form10A_2026-05-27,285,BS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Total liabilities,1510,usd_m,1,27
+Form10A_2026-05-27,285,BS,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Total equity,11583,usd_m,1,30
+Form10A_2026-05-27,285,BS,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Total equity,11485,usd_m,1,30
+Form10A_2026-05-27,286,NONGAAP,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted EBITDA,184,usd_m,1,1
+Form10A_2026-05-27,286,NONGAAP,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted EBITDA,169,usd_m,1,1
+Form10A_2026-05-27,286,NONGAAP,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted EBITDA,711,usd_m,1,1
+Form10A_2026-05-27,286,NONGAAP,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted EBITDA,658,usd_m,1,1
+Form10A_2026-05-27,286,NONGAAP,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted EBITDA,598,usd_m,1,1
+Form10A_2026-05-27,286,NONGAAP,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted operating profit,176,usd_m,1,2
+Form10A_2026-05-27,286,NONGAAP,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted operating profit,160,usd_m,1,2
+Form10A_2026-05-27,286,NONGAAP,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted operating profit,675,usd_m,1,2
+Form10A_2026-05-27,286,NONGAAP,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted operating profit,617,usd_m,1,2
+Form10A_2026-05-27,286,NONGAAP,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted operating profit,565,usd_m,1,2
+Form10A_2026-05-27,286,NONGAAP,Q1-2026,2026-03-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Free cash flow,48,usd_m,1,3
+Form10A_2026-05-27,286,NONGAAP,Q1-2025,2025-03-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Free cash flow,62,usd_m,1,3
+Form10A_2026-05-27,286,NONGAAP,FY2025,2025-12-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Free cash flow,461,usd_m,1,3
+Form10A_2026-05-27,286,NONGAAP,FY2024,2024-12-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Free cash flow,412,usd_m,1,3
+Form10A_2026-05-27,286,NONGAAP,FY2023,2023-12-31,SUMMARY Combined Financial and Other Data - Non-GAAP,Free cash flow,375,usd_m,1,3
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Revenue,455,usd_m,1,1
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Revenue,455,usd_m,1,1
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Revenue,1750,usd_m,1,1
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Revenue,1750,usd_m,1,1
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Operating-related expenses,136,usd_m,0,2
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Operating-related expenses,136,usd_m,0,2
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Operating-related expenses,516,usd_m,0,2
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Operating-related expenses,516,usd_m,0,2
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Selling and general expenses,160,usd_m,0,3
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Selling and general expenses,162,usd_m,0,3
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Selling and general expenses,585,usd_m,0,3
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Selling and general expenses,597,usd_m,0,3
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Depreciation,4,usd_m,0,4
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Depreciation,4,usd_m,0,4
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Depreciation,14,usd_m,0,4
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Depreciation,14,usd_m,0,4
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Amortization of intangibles,74,usd_m,0,5
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Amortization of intangibles,74,usd_m,0,5
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Amortization of intangibles,296,usd_m,0,5
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Amortization of intangibles,296,usd_m,0,5
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Total expenses,374,usd_m,1,6
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Total expenses,376,usd_m,1,6
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Total expenses,1411,usd_m,1,6
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Total expenses,1423,usd_m,1,6
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Operating profit,81,usd_m,1,7
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Operating profit,79,usd_m,1,7
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Operating profit,339,usd_m,1,7
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Operating profit,327,usd_m,1,7
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),"Interest expense, net",3,usd_m,0,8
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,"Interest expense, net",29,usd_m,0,8
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),"Interest expense, net",13,usd_m,0,8
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,"Interest expense, net",113,usd_m,0,8
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Income before taxes on income,78,usd_m,1,9
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Income before taxes on income,50,usd_m,1,9
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Income before taxes on income,326,usd_m,1,9
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Income before taxes on income,214,usd_m,1,9
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Provision for taxes on income,23,usd_m,0,10
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Provision for taxes on income,15,usd_m,0,10
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Provision for taxes on income,106,usd_m,0,10
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Provision for taxes on income,75,usd_m,0,10
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Historical Spin Business (a),Net income,55,usd_m,1,11
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Net income,35,usd_m,1,11
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Historical Spin Business (a),Net income,220,usd_m,1,11
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Net income,139,usd_m,1,11
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Transaction Accounting Adjustments,"Interest expense, net",26,usd_m,0,8
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Transaction Accounting Adjustments,Income before taxes on income,-26,usd_m,0,9
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Transaction Accounting Adjustments,Net income,-19,usd_m,0,11
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Autonomous Entity Adjustments,Selling and general expenses,2,usd_m,0,3
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Autonomous Entity Adjustments,Net income,-1,usd_m,0,11
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Transaction Accounting Adjustments,"Interest expense, net",100,usd_m,0,8
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Transaction Accounting Adjustments,Income before taxes on income,-100,usd_m,0,9
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Transaction Accounting Adjustments,Provision for taxes on income,-28,usd_m,0,10
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Transaction Accounting Adjustments,Net income,-72,usd_m,0,11
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Autonomous Entity Adjustments,Selling and general expenses,12,usd_m,0,3
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Autonomous Entity Adjustments,Total expenses,12,usd_m,0,6
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Autonomous Entity Adjustments,Operating profit,-12,usd_m,0,7
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Autonomous Entity Adjustments,Provision for taxes on income,-3,usd_m,0,10
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Autonomous Entity Adjustments,Net income,-9,usd_m,0,11
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Earnings per share - Net income: Basic,0.12,usd_per_share,0,20
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Earnings per share - Net income: Diluted,0.12,usd_per_share,0,21
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Weighted-average number of common shares outstanding: Basic,295,shares_m,0,22
+Form10A_2026-05-27,334,PROFORMA,Q1-2026,2026-03-31,PF IS Q1-2026 - Pro Forma,Weighted-average number of common shares outstanding: Diluted,295,shares_m,0,23
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Earnings per share - Net income: Basic,0.47,usd_per_share,0,20
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Earnings per share - Net income: Diluted,0.47,usd_per_share,0,21
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Weighted-average number of common shares outstanding: Basic,295,shares_m,0,22
+Form10A_2026-05-27,335,PROFORMA,FY2025,2025-12-31,PF IS FY2025 - Pro Forma,Weighted-average number of common shares outstanding: Diluted,295,shares_m,0,23
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Cash and cash equivalents,122,usd_m,0,1
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Cash and cash equivalents,78,usd_m,0,1
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Cash and cash equivalents,200,usd_m,0,1
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Due from related parties - current,15,usd_m,0,2
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Due from related parties - current,-15,usd_m,0,2
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),"Accounts receivable, net of allowance for doubtful accounts",216,usd_m,0,3
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,"Accounts receivable, net of allowance for doubtful accounts",216,usd_m,0,3
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Prepaid and other current assets,39,usd_m,0,4
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Prepaid and other current assets,39,usd_m,0,4
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Total current assets,392,usd_m,1,5
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total current assets,63,usd_m,1,5
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Total current assets,455,usd_m,1,5
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Buildings and leasehold improvements,25,usd_m,0,6
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Buildings and leasehold improvements,25,usd_m,0,6
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Equipment and furniture,77,usd_m,0,7
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Equipment and furniture,77,usd_m,0,7
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Total property and equipment,102,usd_m,1,8
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Total property and equipment,102,usd_m,1,8
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Less: accumulated depreciation,-83,usd_m,0,9
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Less: accumulated depreciation,-83,usd_m,0,9
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),"Property and equipment, net",19,usd_m,1,10
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,"Property and equipment, net",19,usd_m,1,10
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Right of use assets,23,usd_m,0,11
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Autonomous Entity Adjustments,Right of use assets,54,usd_m,0,11
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Right of use assets,77,usd_m,0,11
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Goodwill,8845,usd_m,0,12
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Goodwill,8845,usd_m,0,12
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Other intangible assets - net,3714,usd_m,0,13
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Other intangible assets - net,3714,usd_m,0,13
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Other non-current assets,49,usd_m,0,14
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Other non-current assets,3,usd_m,0,14
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Other non-current assets,52,usd_m,0,14
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Total assets,13042,usd_m,1,15
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total assets,66,usd_m,1,15
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Autonomous Entity Adjustments,Total assets,54,usd_m,1,15
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Total assets,13162,usd_m,1,15
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Accounts payable,48,usd_m,0,16
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Accounts payable,48,usd_m,0,16
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Due to related parties – current,24,usd_m,0,17
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Due to related parties – current,-24,usd_m,0,17
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Accrued compensation and contributions to retirement plans,25,usd_m,0,18
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Accrued compensation and contributions to retirement plans,25,usd_m,0,18
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Unearned revenue,94,usd_m,0,19
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Unearned revenue,94,usd_m,0,19
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Other current liabilities,38,usd_m,0,20
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Other current liabilities,-8,usd_m,0,20
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Other current liabilities,31,usd_m,0,20
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Total current liabilities,229,usd_m,1,21
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total current liabilities,-32,usd_m,1,21
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Total current liabilities,198,usd_m,1,21
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Lease liabilities - non-current,19,usd_m,0,22
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Autonomous Entity Adjustments,Lease liabilities - non-current,53,usd_m,0,22
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Lease liabilities - non-current,72,usd_m,0,22
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Deferred tax liability – non-current,983,usd_m,0,23
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Deferred tax liability – non-current,983,usd_m,0,23
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Due to related parties – non-current,227,usd_m,0,24
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Due to related parties – non-current,-227,usd_m,0,24
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Long-term debt,1981,usd_m,0,25
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Long-term debt,1981,usd_m,0,25
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Other non-current liabilities,1,usd_m,0,26
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Other non-current liabilities,1,usd_m,0,26
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Total liabilities,1459,usd_m,1,27
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total liabilities,1722,usd_m,1,27
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Autonomous Entity Adjustments,Total liabilities,54,usd_m,1,27
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Total liabilities,3235,usd_m,1,27
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Parent company investment,11586,usd_m,0,28
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Parent company investment,-11586,usd_m,0,28
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Common stock,3,usd_m,0,29
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Common stock,3,usd_m,0,29
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Additional paid-in capital,9927,usd_m,0,30
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Additional paid-in capital,9927,usd_m,0,30
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Accumulated other comprehensive loss,-3,usd_m,0,31
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Accumulated other comprehensive loss,-3,usd_m,0,31
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Total equity,11583,usd_m,1,32
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total equity,-1656,usd_m,1,32
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Total equity,9927,usd_m,1,32
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Historical Spin Business (a),Total liabilities and equity,13042,usd_m,1,33
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total liabilities and equity,66,usd_m,1,33
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Autonomous Entity Adjustments,Total liabilities and equity,54,usd_m,1,33
+Form10A_2026-05-27,336,PROFORMA,Q1-2026,2026-03-31,PF BS 2026-03-31 - Pro Forma,Total liabilities and equity,13162,usd_m,1,33
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Revenue,468,usd_m,1,1
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Revenue,439,usd_m,1,1
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Revenue,923,usd_m,1,1
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Revenue,859,usd_m,1,1
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Operating-related expenses,134,usd_m,0,2
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Operating-related expenses,132,usd_m,0,2
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Operating-related expenses,270,usd_m,0,2
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Operating-related expenses,259,usd_m,0,2
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Selling and general expenses,175,usd_m,0,3
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Selling and general expenses,134,usd_m,0,3
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Selling and general expenses,335,usd_m,0,3
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Selling and general expenses,265,usd_m,0,3
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Depreciation,3,usd_m,0,4
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Depreciation,3,usd_m,0,4
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Depreciation,7,usd_m,0,4
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Depreciation,7,usd_m,0,4
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Amortization of intangibles,74,usd_m,0,5
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Amortization of intangibles,74,usd_m,0,5
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Amortization of intangibles,148,usd_m,0,5
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Amortization of intangibles,148,usd_m,0,5
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Total expenses,386,usd_m,1,6
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Total expenses,343,usd_m,1,6
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Total expenses,760,usd_m,1,6
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Total expenses,679,usd_m,1,6
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Operating profit,82,usd_m,1,7
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Operating profit,96,usd_m,1,7
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Operating profit,163,usd_m,1,7
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Operating profit,180,usd_m,1,7
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),"Interest expense, net",7,usd_m,0,8
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),"Interest expense, net",4,usd_m,0,8
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),"Interest expense, net",10,usd_m,0,8
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),"Interest expense, net",7,usd_m,0,8
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Income before provision for income taxes,75,usd_m,1,9
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Income before provision for income taxes,92,usd_m,1,9
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Income before provision for income taxes,153,usd_m,1,9
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Income before provision for income taxes,173,usd_m,1,9
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Provision for income taxes,22,usd_m,0,10
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Provision for income taxes,27,usd_m,0,10
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Provision for income taxes,45,usd_m,0,10
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Provision for income taxes,50,usd_m,0,10
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Net income,53,usd_m,1,11
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Net income,65,usd_m,1,11
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Net income,108,usd_m,1,11
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Net income,123,usd_m,1,11
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Basic,0.18,usd_per_share,0,13
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Basic,0.22,usd_per_share,0,13
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Basic,0.37,usd_per_share,0,13
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Basic,0.42,usd_per_share,0,13
+10Q_Q2-2026,4,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Diluted,0.18,usd_per_share,0,14
+10Q_Q2-2026,4,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Diluted,0.22,usd_per_share,0,14
+10Q_Q2-2026,4,IS,6M-2026,2026-06-30,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Diluted,0.37,usd_per_share,0,14
+10Q_Q2-2026,4,IS,6M-2025,2025-06-30,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Diluted,0.42,usd_per_share,0,14
+10Q_Q2-2026,5,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,53,usd_m,1,20
+10Q_Q2-2026,5,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,65,usd_m,1,20
+10Q_Q2-2026,5,IS,6M-2026,2026-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,108,usd_m,1,20
+10Q_Q2-2026,5,IS,6M-2025,2025-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,123,usd_m,1,20
+10Q_Q2-2026,5,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,5,usd_m,0,21
+10Q_Q2-2026,5,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,-7,usd_m,0,21
+10Q_Q2-2026,5,IS,6M-2026,2026-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,6,usd_m,0,21
+10Q_Q2-2026,5,IS,6M-2025,2025-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,-8,usd_m,0,21
+10Q_Q2-2026,5,IS,Q2-2026,2026-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,58,usd_m,1,22
+10Q_Q2-2026,5,IS,Q2-2025,2025-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,58,usd_m,1,22
+10Q_Q2-2026,5,IS,6M-2026,2026-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,114,usd_m,1,22
+10Q_Q2-2026,5,IS,6M-2025,2025-06-30,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,115,usd_m,1,22
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current assets,Cash and cash equivalents,186,usd_m,0,1
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Cash and cash equivalents,38,usd_m,0,1
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current assets,Due from related parties - current,17,usd_m,0,2
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Due from related parties - current,8,usd_m,0,2
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2026 -$2; 2025 -$2",216,usd_m,0,3
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2026 -$2; 2025 -$2",203,usd_m,0,3
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current assets,Prepaid and other current assets,47,usd_m,0,4
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Prepaid and other current assets,32,usd_m,0,4
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current assets,Total current assets,466,usd_m,1,5
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current assets,Total current assets,281,usd_m,1,5
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Assets,"Property and equipment, net of accumulated depreciation: 2026 -$84; 2025 -$81",18,usd_m,0,6
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,"Property and equipment, net of accumulated depreciation: 2026 -$84; 2025 -$81",19,usd_m,0,6
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Assets,Right of use assets,33,usd_m,0,7
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Right of use assets,16,usd_m,0,7
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,8
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Goodwill,8845,usd_m,0,8
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Assets,"Other intangible assets, net",3640,usd_m,0,9
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,"Other intangible assets, net",3789,usd_m,0,9
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Assets,Other non-current assets,58,usd_m,0,10
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Other non-current assets,45,usd_m,0,10
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Assets,Total assets,13060,usd_m,1,11
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Assets,Total assets,12995,usd_m,1,11
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current liabilities,Accounts payable,63,usd_m,0,12
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Accounts payable,56,usd_m,0,12
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Due to related parties - current,19,usd_m,0,13
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,41,usd_m,0,14
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,64,usd_m,0,14
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current liabilities,Unearned revenue,102,usd_m,0,15
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Unearned revenue,78,usd_m,0,15
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current liabilities,Other current liabilities,42,usd_m,0,16
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Other current liabilities,45,usd_m,0,16
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Current liabilities,Total current liabilities,248,usd_m,1,17
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Current liabilities,Total current liabilities,262,usd_m,1,17
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Liabilities,Long-term debt,1981,usd_m,0,18
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Liabilities,Operating lease liabilities,27,usd_m,0,19
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Operating lease liabilities,11,usd_m,0,19
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Liabilities,"Deferred tax liability, net",967,usd_m,0,20
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,"Deferred tax liability, net",1006,usd_m,0,20
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Due to related parties - non-current,230,usd_m,0,21
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Liabilities,Other non-current liabilities,2,usd_m,0,22
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Other non-current liabilities,1,usd_m,0,22
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Liabilities,Total liabilities,3225,usd_m,1,23
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Liabilities,Total liabilities,1510,usd_m,1,23
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Equity,Parent company investment,9833,usd_m,0,24
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Parent company investment,11489,usd_m,0,24
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Equity,Accumulated other comprehensive income (loss),2,usd_m,0,25
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Accumulated other comprehensive income (loss),-4,usd_m,0,25
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Equity,Total equity,9835,usd_m,1,26
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Total equity,11485,usd_m,1,26
+10Q_Q2-2026,6,BS,Q2-2026,2026-06-30,Condensed Combined Balance Sheets - Equity,Total liabilities and equity,13060,usd_m,1,27
+10Q_Q2-2026,6,BS,FY2025,2025-12-31,Condensed Combined Balance Sheets - Equity,Total liabilities and equity,12995,usd_m,1,27
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Net income,108,usd_m,0,1
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Net income,123,usd_m,0,1
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Depreciation,7,usd_m,0,2
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Depreciation,7,usd_m,0,2
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Amortization of intangibles,148,usd_m,0,3
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Amortization of intangibles,148,usd_m,0,3
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,2,usd_m,0,4
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,2,usd_m,0,4
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Deferred income taxes,-38,usd_m,0,5
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Deferred income taxes,-43,usd_m,0,5
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Stock-based compensation,9,usd_m,0,6
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Stock-based compensation,9,usd_m,0,6
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Other,-1,usd_m,0,7
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Accounts receivable,-16,usd_m,0,8
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Accounts receivable,-4,usd_m,0,8
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Due from related parties,-8,usd_m,0,9
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Due from related parties,2,usd_m,0,9
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Prepaid and other current assets,-15,usd_m,0,10
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Prepaid and other current assets,-4,usd_m,0,10
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Accounts payable and accrued expenses,-26,usd_m,0,11
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Accounts payable and accrued expenses,-25,usd_m,0,11
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Due to related parties,-19,usd_m,0,12
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Due to related parties,12,usd_m,0,12
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Unearned revenue,25,usd_m,0,13
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Unearned revenue,20,usd_m,0,13
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Other current liabilities,11,usd_m,0,14
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Net change in other assets and liabilities,2,usd_m,0,15
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Net change in other assets and liabilities,-14,usd_m,0,15
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Operating,Cash provided by operating activities,189,usd_m,1,16
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Operating,Cash provided by operating activities,233,usd_m,1,16
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Investing,Capital expenditures,-12,usd_m,0,17
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Investing,Capital expenditures,-8,usd_m,0,17
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Investing,Purchases of equity investments,-3,usd_m,0,18
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Investing,Purchases of equity investments,-3,usd_m,0,18
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Investing,Cash used for investing activities,-15,usd_m,1,19
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Investing,Cash used for investing activities,-11,usd_m,1,19
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Financing,Proceeds from issuance of Senior Notes,1986,usd_m,0,20
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Financing,Net transfers to Parent,-2011,usd_m,0,21
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Financing,Net transfers to Parent,-190,usd_m,0,21
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Financing,Payments related to loan from related parties,-18,usd_m,0,22
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Financing,Contingent consideration payments,-2,usd_m,0,23
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Financing,Cash used for financing activities,-25,usd_m,1,24
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Financing,Cash used for financing activities,-210,usd_m,1,24
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Total,Effect of exchange rate changes on cash,-1,usd_m,0,25
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Total,Effect of exchange rate changes on cash,1,usd_m,0,25
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Total,Net change in cash and cash equivalents,148,usd_m,1,26
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Total,Net change in cash and cash equivalents,13,usd_m,1,26
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Total,Cash and cash equivalents at beginning of period,38,usd_m,0,27
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Total,Cash and cash equivalents at beginning of period,27,usd_m,0,27
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Total,Cash and cash equivalents at end of period,186,usd_m,1,28
+10Q_Q2-2026,7,CF,6M-2025,2025-06-30,Condensed Combined Statements of Cash Flows - Total,Cash and cash equivalents at end of period,40,usd_m,1,28
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Supplemental non-cash disclosures,Consolidation of Canada Carfax Loan,230,usd_m,0,29
+10Q_Q2-2026,7,CF,6M-2026,2026-06-30,Condensed Combined Statements of Cash Flows - Supplemental non-cash disclosures,Accrued debt issuance costs,5,usd_m,0,30
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of December 31 (opening),11489,usd_m,1,1
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31 (opening),-4,usd_m,1,1
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of December 31 (opening),11485,usd_m,1,1
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",55,usd_m,0,2
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",1,usd_m,0,2
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",56,usd_m,0,2
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Net increase in Parent company investment,42,usd_m,0,3
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,Net increase in Parent company investment,42,usd_m,0,3
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Parent Company Investment,"Balance as of March 31, 2026",11586,usd_m,1,4
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of March 31, 2026",-3,usd_m,1,4
+10Q_Q2-2026,8,EQ,Q1-2026,2026-03-31,Condensed Combined Statements of Equity - Total Equity,"Balance as of March 31, 2026",11583,usd_m,1,4
+10Q_Q2-2026,8,EQ,Q2-2026,2026-06-30,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",53,usd_m,0,5
+10Q_Q2-2026,8,EQ,Q2-2026,2026-06-30,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",5,usd_m,0,5
+10Q_Q2-2026,8,EQ,Q2-2026,2026-06-30,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",58,usd_m,0,5
+10Q_Q2-2026,8,EQ,Q2-2026,2026-06-30,Condensed Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,-1806,usd_m,0,6
+10Q_Q2-2026,8,EQ,Q2-2026,2026-06-30,Condensed Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,-1806,usd_m,0,6
+10Q_Q2-2026,8,EQ,Q2-2026,2026-06-30,Condensed Combined Statements of Equity - Parent Company Investment,"Balance as of June 30, 2026",9833,usd_m,1,7
+10Q_Q2-2026,8,EQ,Q2-2026,2026-06-30,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of June 30, 2026",2,usd_m,1,7
+10Q_Q2-2026,8,EQ,Q2-2026,2026-06-30,Condensed Combined Statements of Equity - Total Equity,"Balance as of June 30, 2026",9835,usd_m,1,7
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of December 31 (opening),11680,usd_m,1,8
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31 (opening),3,usd_m,1,8
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,Balance as of December 31 (opening),11683,usd_m,1,8
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income (loss), net of tax",58,usd_m,0,9
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income (loss), net of tax",-1,usd_m,0,9
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income (loss), net of tax",57,usd_m,0,9
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,-44,usd_m,0,10
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,-44,usd_m,0,10
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Parent Company Investment,"Balance as of March 31, 2025",11694,usd_m,1,11
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of March 31, 2025",2,usd_m,1,11
+10Q_Q2-2026,8,EQ,Q1-2025,2025-03-31,Condensed Combined Statements of Equity - Total Equity,"Balance as of March 31, 2025",11696,usd_m,1,11
+10Q_Q2-2026,8,EQ,Q2-2025,2025-06-30,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",65,usd_m,0,12
+10Q_Q2-2026,8,EQ,Q2-2025,2025-06-30,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",-7,usd_m,0,12
+10Q_Q2-2026,8,EQ,Q2-2025,2025-06-30,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",58,usd_m,0,12
+10Q_Q2-2026,8,EQ,Q2-2025,2025-06-30,Condensed Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,-137,usd_m,0,13
+10Q_Q2-2026,8,EQ,Q2-2025,2025-06-30,Condensed Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,-137,usd_m,0,13
+10Q_Q2-2026,8,EQ,Q2-2025,2025-06-30,Condensed Combined Statements of Equity - Parent Company Investment,"Balance as of June 30, 2025",11622,usd_m,1,14
+10Q_Q2-2026,8,EQ,Q2-2025,2025-06-30,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of June 30, 2025",-5,usd_m,1,14
+10Q_Q2-2026,8,EQ,Q2-2025,2025-06-30,Condensed Combined Statements of Equity - Total Equity,"Balance as of June 30, 2025",11617,usd_m,1,14
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Net income,108,usd_m,0,1
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Net income,123,usd_m,0,1
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Depreciation,7,usd_m,0,2
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Depreciation,7,usd_m,0,2
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Amortization of intangibles,148,usd_m,0,3
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Amortization of intangibles,148,usd_m,0,3
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Provision for losses on accounts receivable,2,usd_m,0,4
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Provision for losses on accounts receivable,2,usd_m,0,4
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Deferred income taxes,-38,usd_m,0,5
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Deferred income taxes,-43,usd_m,0,5
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Stock-based compensation,9,usd_m,0,6
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Stock-based compensation,9,usd_m,0,6
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Restructuring and other,-1,usd_m,0,7
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Net changes in other operating assets and liabilities,-46,usd_m,0,8
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Net changes in other operating assets and liabilities,-13,usd_m,0,8
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Cash provided by operating activities,189,usd_m,1,9
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Operating,Cash provided by operating activities,233,usd_m,1,9
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Investing,Capital expenditures,-12,usd_m,0,10
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Investing,Capital expenditures,-8,usd_m,0,10
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Investing,Purchases of equity investments,-3,usd_m,0,11
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Investing,Purchases of equity investments,-3,usd_m,0,11
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Investing,Cash used for investing activities,-15,usd_m,1,12
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Investing,Cash used for investing activities,-11,usd_m,1,12
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Financing,Proceeds from issuance of Senior Notes,1986,usd_m,0,13
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Financing,Net transfers to Parent,-2011,usd_m,0,14
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Financing,Net transfers to Parent,-190,usd_m,0,14
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Financing,Payments related to loan from related parties,-18,usd_m,0,15
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Financing,Cash used for financing activities,-25,usd_m,1,17
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows - Financing,Cash used for financing activities,-210,usd_m,1,17
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows,Effect of exchange rate changes on cash,-1,usd_m,0,18
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows,Effect of exchange rate changes on cash,1,usd_m,0,18
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows,Net change in cash and cash equivalents,148,usd_m,1,19
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows,Net change in cash and cash equivalents,13,usd_m,1,19
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows,Cash and cash equivalents at beginning of period,38,usd_m,0,20
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows,Cash and cash equivalents at beginning of period,27,usd_m,0,20
+8K_Q2-2026_release,7,CF,6M-2026,2026-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows,Cash and cash equivalents at end of period,186,usd_m,1,21
+8K_Q2-2026_release,7,CF,6M-2025,2025-06-30,Exhibit 3 Condensed Consolidated Statements of Cash Flows,Cash and cash equivalents at end of period,40,usd_m,1,21
+8K_Q2-2026_release,10,NONGAAP,Q2-2026,2026-06-30,Exhibit 5 Computation of Free Cash Flow,Cash provided by operating activities,135,usd_m,1,1
+8K_Q2-2026_release,10,NONGAAP,Q2-2025,2025-06-30,Exhibit 5 Computation of Free Cash Flow,Cash provided by operating activities,166,usd_m,1,1
+8K_Q2-2026_release,10,NONGAAP,6M-2026,2026-06-30,Exhibit 5 Computation of Free Cash Flow,Cash provided by operating activities,189,usd_m,1,1
+8K_Q2-2026_release,10,NONGAAP,6M-2025,2025-06-30,Exhibit 5 Computation of Free Cash Flow,Cash provided by operating activities,233,usd_m,1,1
+8K_Q2-2026_release,10,NONGAAP,Q2-2026,2026-06-30,Exhibit 5 Computation of Free Cash Flow,Capital expenditures,-6,usd_m,0,2
+8K_Q2-2026_release,10,NONGAAP,Q2-2025,2025-06-30,Exhibit 5 Computation of Free Cash Flow,Capital expenditures,-3,usd_m,0,2
+8K_Q2-2026_release,10,NONGAAP,6M-2026,2026-06-30,Exhibit 5 Computation of Free Cash Flow,Capital expenditures,-12,usd_m,0,2
+8K_Q2-2026_release,10,NONGAAP,6M-2025,2025-06-30,Exhibit 5 Computation of Free Cash Flow,Capital expenditures,-8,usd_m,0,2
+8K_Q2-2026_release,10,NONGAAP,Q2-2026,2026-06-30,Exhibit 5 Computation of Free Cash Flow,Free cash flow,129,usd_m,1,3
+8K_Q2-2026_release,10,NONGAAP,Q2-2025,2025-06-30,Exhibit 5 Computation of Free Cash Flow,Free cash flow,163,usd_m,1,3
+8K_Q2-2026_release,10,NONGAAP,6M-2026,2026-06-30,Exhibit 5 Computation of Free Cash Flow,Free cash flow,177,usd_m,1,3
+8K_Q2-2026_release,10,NONGAAP,6M-2025,2025-06-30,Exhibit 5 Computation of Free Cash Flow,Free cash flow,225,usd_m,1,3

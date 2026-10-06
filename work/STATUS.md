@@ -15,4 +15,5 @@ Company: Mobility Global Inc. (NYSE: MBGL; the brief's "MGBL" is a typo). It was
 - No native PDFs, so there is no filings zip yet.
 
 ## Stage log
-- [running] A2 statements extraction · A2 segments/KPI/non-GAAP · predecessor segments · C transcript quote banks
+- [done] A2 statements: 1,164 rows; all ties pass; annual CF working-capital lines (p.443) unrecoverable from Quartr text — needs PDF
+- [running] A2 segments/KPI/non-GAAP · predecessor segments · C transcript quote banks

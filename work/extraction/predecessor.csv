@@ -1,0 +1,598 @@
+source_doc,page,statement,fiscal_period,period_end,section,line_item,value,unit,is_subtotal,order_index
+SPGI_10K_FY2025,60,SEG_PRED,FY2025,2025-12-31,Item 7 Mobility segment description,Segment description (summary),"Leading provider of solutions serving the full automotive value chain (OEMs, suppliers, mobility service providers, retailers, consumers, finance and insurance companies). Business lines: Dealer, Manufacturing, Financial.",text,0,1
+SPGI_10K_FY2025,60,SEG_PRED,FY2025,2025-12-31,Item 7 Mobility segment description,Acquisition: Market Scan Information Systems Inc. (completed February 2023; not material),Completed Feb-2023; automotive pricing and incentive intelligence incl. Automotive Payments as a Service; not material to consolidated financial statements.,text,0,2
+SPGI_10K_FY2025,62,SEG_PRED,FY2025,2025-12-31,Item 7 Mobility segment description,Spin-off announcement,"On April 29, 2025, we announced that our Board of Directors decided to pursue a full separation of our Mobility segment, creating a new publicly traded company. Expected tax-free spin-off to S&P Global shareholders, expected completion mid-2026.",text,0,3
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,Revenue,1747,usd_m,1,1
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,Revenue,1609,usd_m,1,1
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Revenue,1484,usd_m,1,1
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,Subscription revenue,1422,usd_m,0,2
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,Subscription revenue,1299,usd_m,0,2
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Subscription revenue,1169,usd_m,0,2
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,Non-subscription revenue,325,usd_m,0,3
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,Non-subscription revenue,310,usd_m,0,3
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Non-subscription revenue,315,usd_m,0,3
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,% of total revenue: Subscription revenue,81,pct,0,4
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% of total revenue: Subscription revenue,81,pct,0,4
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: Subscription revenue,79,pct,0,4
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,% of total revenue: Non-subscription revenue,19,pct,0,5
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% of total revenue: Non-subscription revenue,19,pct,0,5
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: Non-subscription revenue,21,pct,0,5
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,U.S. revenue,1451,usd_m,0,6
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,U.S. revenue,1325,usd_m,0,6
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,U.S. revenue,1223,usd_m,0,6
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,International revenue,296,usd_m,0,7
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,International revenue,284,usd_m,0,7
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,International revenue,261,usd_m,0,7
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,% of total revenue: U.S. revenue,83,pct,0,8
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% of total revenue: U.S. revenue,82,pct,0,8
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: U.S. revenue,82,pct,0,8
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,% of total revenue: International revenue,17,pct,0,9
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% of total revenue: International revenue,18,pct,0,9
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: International revenue,18,pct,0,9
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,Operating profit,378,usd_m,1,10
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,Operating profit,312,usd_m,1,10
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Operating profit,260,usd_m,1,10
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,% Operating margin,22,pct,0,11
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Operating margin,19,pct,0,11
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Operating margin,18,pct,0,11
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,% Change Revenue (vs prior year),9,pct,0,12
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change Revenue (vs prior year),8,pct,0,12
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,% Change Subscription revenue (vs prior year),10,pct,0,13
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change Subscription revenue (vs prior year),11,pct,0,13
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,% Change Non-subscription revenue (vs prior year),5,pct,0,14
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change Non-subscription revenue (vs prior year),-2,pct,0,14
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table,% Change Operating profit (vs prior year),21,pct,0,15
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change Operating profit (vs prior year),20,pct,0,15
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: employee severance charges,15,usd_m,0,1
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: employee severance charges,7,usd_m,0,1
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: employee severance charges,9,usd_m,0,1
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: disposition-related costs,7,usd_m,0,2
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: Executive Leadership Team transition benefit,4,usd_m,0,3
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: legal settlement recovery,3,usd_m,0,4
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: IHS Markit merger costs,4,usd_m,0,5
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: IHS Markit merger costs,3,usd_m,0,5
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: acquisition-related costs,2,usd_m,0,6
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: acquisition-related costs,2,usd_m,0,6
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: liability write-off,1,usd_m,0,7
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: amortization of intangibles from acquisitions,303,usd_m,0,8
+SPGI_10K_FY2025,61,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: amortization of intangibles from acquisitions,303,usd_m,0,8
+SPGI_10K_FY2025,61,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: amortization of intangibles from acquisitions,301,usd_m,0,8
+SPGI_10K_FY2025,61,SEG_PRED,FY2025,2025-12-31,MD&A Mobility narrative,Operating profit % change excluding listed items (2025 vs 2024),11,pct,0,1
+SPGI_10K_FY2025,62,SEG_PRED,FY2024,2024-12-31,MD&A Mobility narrative,Operating profit % change excluding listed items (2024 vs 2023),9,pct,0,2
+SPGI_10K_FY2025,43,SEG_PRED,FY2025,2025-12-31,MD&A Total Expenses by segment,Mobility Operating-related expenses,530,usd_m,0,1
+SPGI_10K_FY2025,43,SEG_PRED,FY2024,2024-12-31,MD&A Total Expenses by segment,Mobility Operating-related expenses,487,usd_m,0,1
+SPGI_10K_FY2025,43,SEG_PRED,FY2023,2023-12-31,MD&A Total Expenses by segment,Mobility Operating-related expenses,408,usd_m,0,1
+SPGI_10K_FY2025,43,SEG_PRED,FY2025,2025-12-31,MD&A Total Expenses by segment,Mobility Selling and general expenses,519,usd_m,0,2
+SPGI_10K_FY2025,43,SEG_PRED,FY2024,2024-12-31,MD&A Total Expenses by segment,Mobility Selling and general expenses,493,usd_m,0,2
+SPGI_10K_FY2025,43,SEG_PRED,FY2023,2023-12-31,MD&A Total Expenses by segment,Mobility Selling and general expenses,502,usd_m,0,2
+SPGI_10K_FY2025,119,SEG_PRED,FY2025,2025-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue from external customers,1747,usd_m,0,1
+SPGI_10K_FY2025,119,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue from external customers,1609,usd_m,0,1
+SPGI_10K_FY2025,119,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue from external customers,1484,usd_m,0,1
+SPGI_10K_FY2025,119,SEG_PRED,FY2025,2025-12-31,Note 12 Segment operating results (ASU 2023-07),Intersegment revenue,0,usd_m,0,2
+SPGI_10K_FY2025,119,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Intersegment revenue,0,usd_m,0,2
+SPGI_10K_FY2025,119,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Intersegment revenue,0,usd_m,0,2
+SPGI_10K_FY2025,119,SEG_PRED,FY2025,2025-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue,1747,usd_m,1,3
+SPGI_10K_FY2025,119,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue,1609,usd_m,1,3
+SPGI_10K_FY2025,119,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue,1484,usd_m,1,3
+SPGI_10K_FY2025,119,SEG_PRED,FY2025,2025-12-31,Note 12 Segment operating results (ASU 2023-07),Less: segment expenses,1051,usd_m,0,4
+SPGI_10K_FY2025,119,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Less: segment expenses,982,usd_m,0,4
+SPGI_10K_FY2025,119,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Less: segment expenses,908,usd_m,0,4
+SPGI_10K_FY2025,119,SEG_PRED,FY2025,2025-12-31,Note 12 Segment operating results (ASU 2023-07),Less: other segment items,318,usd_m,0,5
+SPGI_10K_FY2025,119,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Less: other segment items,315,usd_m,0,5
+SPGI_10K_FY2025,119,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Less: other segment items,316,usd_m,0,5
+SPGI_10K_FY2025,119,SEG_PRED,FY2025,2025-12-31,Note 12 Segment operating results (ASU 2023-07),Segment operating profit,378,usd_m,1,6
+SPGI_10K_FY2025,119,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Segment operating profit,312,usd_m,1,6
+SPGI_10K_FY2025,119,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Segment operating profit,260,usd_m,1,6
+SPGI_10K_FY2025,121,SEG_PRED,FY2025,2025-12-31,Note 12 Revenue disaggregated by type,Subscription,1422,usd_m,0,1
+SPGI_10K_FY2025,121,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Subscription,1299,usd_m,0,1
+SPGI_10K_FY2025,121,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Subscription,1169,usd_m,0,1
+SPGI_10K_FY2025,121,SEG_PRED,FY2025,2025-12-31,Note 12 Revenue disaggregated by type,Non-subscription / Transaction,325,usd_m,0,2
+SPGI_10K_FY2025,121,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Non-subscription / Transaction,310,usd_m,0,2
+SPGI_10K_FY2025,121,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Non-subscription / Transaction,315,usd_m,0,2
+SPGI_10K_FY2025,121,SEG_PRED,FY2025,2025-12-31,Note 12 Revenue disaggregated by type,Total revenue,1747,usd_m,1,3
+SPGI_10K_FY2025,121,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Total revenue,1609,usd_m,1,3
+SPGI_10K_FY2025,121,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Total revenue,1484,usd_m,1,3
+SPGI_10K_FY2025,121,SEG_PRED,FY2025,2025-12-31,Note 12 Revenue disaggregated by type,Services transferred at a point in time,325,usd_m,0,4
+SPGI_10K_FY2025,121,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Services transferred at a point in time,310,usd_m,0,4
+SPGI_10K_FY2025,121,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Services transferred at a point in time,315,usd_m,0,4
+SPGI_10K_FY2025,121,SEG_PRED,FY2025,2025-12-31,Note 12 Revenue disaggregated by type,Services transferred over time,1422,usd_m,0,5
+SPGI_10K_FY2025,121,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Services transferred over time,1299,usd_m,0,5
+SPGI_10K_FY2025,121,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Services transferred over time,1169,usd_m,0,5
+SPGI_10K_FY2025,122,SEG_PRED,FY2025,2025-12-31,Note 12 Segment information,Depreciation & Amortization,320,usd_m,0,1
+SPGI_10K_FY2025,122,SEG_PRED,FY2024,2024-12-31,Note 12 Segment information,Depreciation & Amortization,317,usd_m,0,1
+SPGI_10K_FY2025,122,SEG_PRED,FY2023,2023-12-31,Note 12 Segment information,Depreciation & Amortization,314,usd_m,0,1
+SPGI_10K_FY2025,122,SEG_PRED,FY2025,2025-12-31,Note 12 Segment information,Capital Expenditures,28,usd_m,0,2
+SPGI_10K_FY2025,122,SEG_PRED,FY2024,2024-12-31,Note 12 Segment information,Capital Expenditures,18,usd_m,0,2
+SPGI_10K_FY2025,122,SEG_PRED,FY2023,2023-12-31,Note 12 Segment information,Capital Expenditures,22,usd_m,0,2
+SPGI_10K_FY2025,118,SEG_PRED,FY2025,2025-12-31,Note 11 Restructuring by segment,2025 Restructuring Plan - Initial Charge Recorded (Mobility),15,usd_m,0,1
+SPGI_10K_FY2025,118,SEG_PRED,FY2025,2025-12-31,Note 11 Restructuring by segment,2025 Restructuring Plan - Ending Reserve Balance (Mobility),11,usd_m,0,2
+SPGI_10K_FY2025,118,SEG_PRED,FY2025,2025-12-31,Note 11 Restructuring by segment,2024 Restructuring Plan - Initial Charge Recorded (Mobility),6,usd_m,0,3
+SPGI_10K_FY2025,118,SEG_PRED,FY2025,2025-12-31,Note 11 Restructuring by segment,2024 Restructuring Plan - Ending Reserve Balance (Mobility),1,usd_m,0,4
+SPGI_10K_FY2024,56,SEG_PRED,FY2024,2024-12-31,Item 7 Mobility segment description,Segment description (summary),"Leading provider of solutions serving the full automotive value chain (OEMs, suppliers, mobility service providers, retailers, consumers, finance and insurance companies). Business lines: Dealer, Manufacturing, Financial.",text,0,1
+SPGI_10K_FY2024,56,SEG_PRED,FY2024,2024-12-31,Item 7 Mobility segment description,Basis of inclusion,"The Mobility business was acquired in connection with the merger with IHS Markit on February 28, 2022 and financial results are included since the date of acquisition.",text,0,2
+SPGI_10K_FY2024,56,SEG_PRED,FY2024,2024-12-31,Item 7 Mobility segment description,Acquisition: Market Scan Information Systems Inc. (completed February 2023; not material),Completed Feb-2023; automotive pricing and incentive intelligence; not material to consolidated financial statements.,text,0,3
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,Revenue,1609,usd_m,1,1
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Revenue,1484,usd_m,1,1
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Revenue,1142,usd_m,1,1
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,Subscription revenue,1299,usd_m,0,2
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Subscription revenue,1169,usd_m,0,2
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Subscription revenue,888,usd_m,0,2
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,Non-subscription revenue,310,usd_m,0,3
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Non-subscription revenue,315,usd_m,0,3
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Non-subscription revenue,254,usd_m,0,3
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% of total revenue: Subscription revenue,81,pct,0,4
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: Subscription revenue,79,pct,0,4
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: Subscription revenue,78,pct,0,4
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% of total revenue: Non-subscription revenue,19,pct,0,5
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: Non-subscription revenue,21,pct,0,5
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: Non-subscription revenue,22,pct,0,5
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,U.S. revenue,1325,usd_m,0,6
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,U.S. revenue,1223,usd_m,0,6
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,U.S. revenue,932,usd_m,0,6
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,International revenue,284,usd_m,0,7
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,International revenue,261,usd_m,0,7
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,International revenue,210,usd_m,0,7
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% of total revenue: U.S. revenue,82,pct,0,8
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: U.S. revenue,82,pct,0,8
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: U.S. revenue,82,pct,0,8
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% of total revenue: International revenue,18,pct,0,9
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: International revenue,18,pct,0,9
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: International revenue,18,pct,0,9
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,Operating profit,312,usd_m,1,10
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Operating profit,260,usd_m,1,10
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Operating profit,213,usd_m,1,10
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Operating margin,19,pct,0,11
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Operating margin,18,pct,0,11
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% Operating margin,19,pct,0,11
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change Revenue (vs prior year),8,pct,0,12
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change Revenue (vs prior year),30,pct,0,12
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change Subscription revenue (vs prior year),11,pct,0,13
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change Subscription revenue (vs prior year),32,pct,0,13
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change Non-subscription revenue (vs prior year),-2,pct,0,14
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change Non-subscription revenue (vs prior year),24,pct,0,14
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change U.S. revenue (vs prior year),8,pct,0,15
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change U.S. revenue (vs prior year),31,pct,0,15
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change International revenue (vs prior year),9,pct,0,16
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change International revenue (vs prior year),24,pct,0,16
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table,% Change Operating profit (vs prior year),20,pct,0,17
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change Operating profit (vs prior year),22,pct,0,17
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: employee severance charges,7,usd_m,0,1
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: employee severance charges,9,usd_m,0,1
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: employee severance charges,4,usd_m,0,1
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: IHS Markit merger costs,4,usd_m,0,2
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: IHS Markit merger costs,3,usd_m,0,2
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: IHS Markit merger costs,3,usd_m,0,2
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: acquisition-related costs,2,usd_m,0,3
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: acquisition-related costs,2,usd_m,0,3
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: acquisition-related benefit,14,usd_m,0,4
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: liability write-off,1,usd_m,0,5
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: amortization of intangibles from acquisitions,303,usd_m,0,6
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: amortization of intangibles from acquisitions,301,usd_m,0,6
+SPGI_10K_FY2024,57,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: amortization of intangibles from acquisitions,241,usd_m,0,6
+SPGI_10K_FY2024,57,SEG_PRED,FY2024,2024-12-31,MD&A Mobility narrative,Operating profit % change excluding listed items (2024 vs 2023),9,pct,0,1
+SPGI_10K_FY2024,57,SEG_PRED,FY2023,2023-12-31,MD&A Mobility narrative,Operating profit % change excluding listed items (2023 vs 2022),29,pct,0,2
+SPGI_10K_FY2024,40,SEG_PRED,FY2024,2024-12-31,MD&A Total Expenses by segment,Mobility Operating-related expenses,469,usd_m,0,1
+SPGI_10K_FY2024,40,SEG_PRED,FY2023,2023-12-31,MD&A Total Expenses by segment,Mobility Operating-related expenses,408,usd_m,0,1
+SPGI_10K_FY2024,40,SEG_PRED,FY2024,2024-12-31,MD&A Total Expenses by segment,Mobility Selling and general expenses,511,usd_m,0,2
+SPGI_10K_FY2024,40,SEG_PRED,FY2023,2023-12-31,MD&A Total Expenses by segment,Mobility Selling and general expenses,502,usd_m,0,2
+SPGI_10K_FY2024,41,SEG_PRED,FY2023,2023-12-31,MD&A Total Expenses by segment (2023 vs 2022),Mobility Operating-related expenses,408,usd_m,0,1
+SPGI_10K_FY2024,41,SEG_PRED,FY2022,2022-12-31,MD&A Total Expenses by segment (2023 vs 2022),Mobility Operating-related expenses,296,usd_m,0,1
+SPGI_10K_FY2024,41,SEG_PRED,FY2023,2023-12-31,MD&A Total Expenses by segment (2023 vs 2022),Mobility Selling and general expenses,502,usd_m,0,2
+SPGI_10K_FY2024,41,SEG_PRED,FY2022,2022-12-31,MD&A Total Expenses by segment (2023 vs 2022),Mobility Selling and general expenses,385,usd_m,0,2
+SPGI_10K_FY2024,114,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue from external customers,1609,usd_m,0,1
+SPGI_10K_FY2024,114,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue from external customers,1484,usd_m,0,1
+SPGI_10K_FY2024,114,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue from external customers,1142,usd_m,0,1
+SPGI_10K_FY2024,114,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue,1609,usd_m,1,2
+SPGI_10K_FY2024,114,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue,1484,usd_m,1,2
+SPGI_10K_FY2024,114,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (ASU 2023-07),Revenue,1142,usd_m,1,2
+SPGI_10K_FY2024,114,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Less: segment expenses,982,usd_m,0,3
+SPGI_10K_FY2024,114,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Less: segment expenses,908,usd_m,0,3
+SPGI_10K_FY2024,114,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (ASU 2023-07),Less: segment expenses,694,usd_m,0,3
+SPGI_10K_FY2024,114,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Less: other segment items,315,usd_m,0,4
+SPGI_10K_FY2024,114,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Less: other segment items,316,usd_m,0,4
+SPGI_10K_FY2024,114,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (ASU 2023-07),Less: other segment items,235,usd_m,0,4
+SPGI_10K_FY2024,114,SEG_PRED,FY2024,2024-12-31,Note 12 Segment operating results (ASU 2023-07),Segment operating profit,312,usd_m,1,5
+SPGI_10K_FY2024,114,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (ASU 2023-07),Segment operating profit,260,usd_m,1,5
+SPGI_10K_FY2024,114,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (ASU 2023-07),Segment operating profit,213,usd_m,1,5
+SPGI_10K_FY2024,116,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Subscription,1299,usd_m,0,1
+SPGI_10K_FY2024,116,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Subscription,1169,usd_m,0,1
+SPGI_10K_FY2024,116,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Subscription,888,usd_m,0,1
+SPGI_10K_FY2024,116,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Non-subscription / Transaction,310,usd_m,0,2
+SPGI_10K_FY2024,116,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Non-subscription / Transaction,315,usd_m,0,2
+SPGI_10K_FY2024,116,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Non-subscription / Transaction,254,usd_m,0,2
+SPGI_10K_FY2024,116,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Total revenue,1609,usd_m,1,3
+SPGI_10K_FY2024,116,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Total revenue,1484,usd_m,1,3
+SPGI_10K_FY2024,116,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Total revenue,1142,usd_m,1,3
+SPGI_10K_FY2024,116,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Services transferred at a point in time,310,usd_m,0,4
+SPGI_10K_FY2024,116,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Services transferred at a point in time,315,usd_m,0,4
+SPGI_10K_FY2024,116,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Services transferred at a point in time,254,usd_m,0,4
+SPGI_10K_FY2024,116,SEG_PRED,FY2024,2024-12-31,Note 12 Revenue disaggregated by type,Services transferred over time,1299,usd_m,0,5
+SPGI_10K_FY2024,116,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Services transferred over time,1169,usd_m,0,5
+SPGI_10K_FY2024,116,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Services transferred over time,888,usd_m,0,5
+SPGI_10K_FY2024,117,SEG_PRED,FY2024,2024-12-31,Note 12 Segment information,Depreciation & Amortization,317,usd_m,0,1
+SPGI_10K_FY2024,117,SEG_PRED,FY2023,2023-12-31,Note 12 Segment information,Depreciation & Amortization,314,usd_m,0,1
+SPGI_10K_FY2024,117,SEG_PRED,FY2022,2022-12-31,Note 12 Segment information,Depreciation & Amortization,248,usd_m,0,1
+SPGI_10K_FY2024,117,SEG_PRED,FY2024,2024-12-31,Note 12 Segment information,Capital Expenditures,18,usd_m,0,2
+SPGI_10K_FY2024,117,SEG_PRED,FY2023,2023-12-31,Note 12 Segment information,Capital Expenditures,22,usd_m,0,2
+SPGI_10K_FY2024,117,SEG_PRED,FY2022,2022-12-31,Note 12 Segment information,Capital Expenditures,6,usd_m,0,2
+SPGI_10K_FY2024,117,SEG_PRED,FY2024,2024-12-31,Note 12 Segment information (as of December 31),Total Assets,13222,usd_m,0,1
+SPGI_10K_FY2024,117,SEG_PRED,FY2023,2023-12-31,Note 12 Segment information (as of December 31),Total Assets,13495,usd_m,0,1
+SPGI_10K_FY2024,113,SEG_PRED,FY2024,2024-12-31,Note 11 Restructuring by segment,2024 Restructuring Plan - Initial Charge Recorded (Mobility),6,usd_m,0,1
+SPGI_10K_FY2024,113,SEG_PRED,FY2024,2024-12-31,Note 11 Restructuring by segment,2024 Restructuring Plan - Ending Reserve Balance (Mobility),3,usd_m,0,2
+SPGI_10K_FY2024,113,SEG_PRED,FY2024,2024-12-31,Note 11 Restructuring by segment,2023 Restructuring Plan - Initial Charge Recorded (Mobility),9,usd_m,0,3
+SPGI_10K_FY2024,113,SEG_PRED,FY2024,2024-12-31,Note 11 Restructuring by segment,2023 Restructuring Plan - Ending Reserve Balance (Mobility),1,usd_m,0,4
+SPGI_10K_FY2025,123,SEG_PRED,FY2025,2025-12-31,Note 12 Segment information (as of December 31),Total Assets,12974,usd_m,0,1
+SPGI_10K_FY2025,123,SEG_PRED,FY2024,2024-12-31,Note 12 Segment information (as of December 31),Total Assets,13222,usd_m,0,1
+SPGI_10K_FY2023,58,SEG_PRED,FY2023,2023-12-31,Item 7 Mobility segment description,Segment description (summary),"Leading provider of solutions serving the full automotive value chain (OEMs, suppliers, mobility service providers, retailers, consumers, finance and insurance companies). Business lines: Dealer, Manufacturing, Financial.",text,0,1
+SPGI_10K_FY2023,58,SEG_PRED,FY2023,2023-12-31,Item 7 Mobility segment description,Basis of inclusion,"The Mobility business was acquired in connection with the merger with IHS Markit on February 28, 2022 and financial results are included since the date of acquisition.",text,0,2
+SPGI_10K_FY2023,58,SEG_PRED,FY2023,2023-12-31,Item 7 Mobility segment description,Acquisition: Market Scan Information Systems Inc. (completed February 2023; not material),Completed Feb-2023; automotive pricing and incentive intelligence; not material to consolidated financial statements.,text,0,3
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Revenue,1484,usd_m,1,1
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Revenue,1142,usd_m,1,1
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Subscription revenue,1169,usd_m,0,2
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Subscription revenue,888,usd_m,0,2
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Non-subscription revenue,315,usd_m,0,3
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Non-subscription revenue,254,usd_m,0,3
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: Subscription revenue,79,pct,0,4
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: Subscription revenue,78,pct,0,4
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: Non-subscription revenue,21,pct,0,5
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: Non-subscription revenue,22,pct,0,5
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,U.S. revenue,1223,usd_m,0,6
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,U.S. revenue,932,usd_m,0,6
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,International revenue,261,usd_m,0,7
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,International revenue,210,usd_m,0,7
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: U.S. revenue,82,pct,0,8
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: U.S. revenue,82,pct,0,8
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% of total revenue: International revenue,18,pct,0,9
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: International revenue,18,pct,0,9
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,Operating profit,260,usd_m,1,10
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Operating profit,213,usd_m,1,10
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Operating margin,18,pct,0,11
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% Operating margin,19,pct,0,11
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change Revenue (vs prior year),30,pct,0,12
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change Subscription revenue (vs prior year),32,pct,0,13
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change Non-subscription revenue (vs prior year),24,pct,0,14
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change U.S. revenue (vs prior year),31,pct,0,15
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change International revenue (vs prior year),24,pct,0,16
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table,% Change Operating profit (vs prior year),22,pct,0,17
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: employee severance charges,9,usd_m,0,1
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: employee severance charges,4,usd_m,0,1
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: IHS Markit merger costs,3,usd_m,0,2
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: IHS Markit merger costs,3,usd_m,0,2
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: acquisition-related costs,2,usd_m,0,3
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: acquisition-related benefit,14,usd_m,0,4
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: amortization of intangibles from acquisitions,301,usd_m,0,5
+SPGI_10K_FY2023,59,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: amortization of intangibles from acquisitions,241,usd_m,0,5
+SPGI_10K_FY2023,59,SEG_PRED,FY2023,2023-12-31,MD&A Mobility narrative,Operating profit % change excluding listed items (2023 vs 2022),29,pct,0,1
+SPGI_10K_FY2023,43,SEG_PRED,FY2023,2023-12-31,MD&A Total Expenses by segment,Mobility Operating-related expenses,408,usd_m,0,1
+SPGI_10K_FY2023,43,SEG_PRED,FY2022,2022-12-31,MD&A Total Expenses by segment,Mobility Operating-related expenses,296,usd_m,0,1
+SPGI_10K_FY2023,43,SEG_PRED,FY2023,2023-12-31,MD&A Total Expenses by segment,Mobility Selling and general expenses,502,usd_m,0,2
+SPGI_10K_FY2023,43,SEG_PRED,FY2022,2022-12-31,MD&A Total Expenses by segment,Mobility Selling and general expenses,385,usd_m,0,2
+SPGI_10K_FY2023,118,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (pre-ASU 2023-07),Revenue - Mobility,1484,usd_m,1,1
+SPGI_10K_FY2023,118,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (pre-ASU 2023-07),Revenue - Mobility,1142,usd_m,1,1
+SPGI_10K_FY2023,118,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (pre-ASU 2023-07),Operating Profit - Mobility,260,usd_m,1,2
+SPGI_10K_FY2023,118,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (pre-ASU 2023-07),Operating Profit - Mobility,213,usd_m,1,2
+SPGI_10K_FY2023,118,SEG_PRED,FY2023,2023-12-31,Note 12 Segment operating results (pre-ASU 2023-07),Operating profit footnote 5: amortization of intangibles from acquisitions,301,usd_m,0,3
+SPGI_10K_FY2023,118,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (pre-ASU 2023-07),Operating profit footnote 5: amortization of intangibles from acquisitions,241,usd_m,0,3
+SPGI_10K_FY2023,119,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Subscription,1169,usd_m,0,1
+SPGI_10K_FY2023,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Subscription,888,usd_m,0,1
+SPGI_10K_FY2023,119,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Non-subscription / Transaction,315,usd_m,0,2
+SPGI_10K_FY2023,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Non-subscription / Transaction,254,usd_m,0,2
+SPGI_10K_FY2023,119,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Total revenue,1484,usd_m,1,3
+SPGI_10K_FY2023,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Total revenue,1142,usd_m,1,3
+SPGI_10K_FY2023,119,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Services transferred at a point in time,315,usd_m,0,4
+SPGI_10K_FY2023,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Services transferred at a point in time,254,usd_m,0,4
+SPGI_10K_FY2023,119,SEG_PRED,FY2023,2023-12-31,Note 12 Revenue disaggregated by type,Services transferred over time,1169,usd_m,0,5
+SPGI_10K_FY2023,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Services transferred over time,888,usd_m,0,5
+SPGI_10K_FY2023,121,SEG_PRED,FY2023,2023-12-31,Note 12 Segment information,Depreciation & Amortization,314,usd_m,0,1
+SPGI_10K_FY2023,121,SEG_PRED,FY2022,2022-12-31,Note 12 Segment information,Depreciation & Amortization,248,usd_m,0,1
+SPGI_10K_FY2023,121,SEG_PRED,FY2023,2023-12-31,Note 12 Segment information,Capital Expenditures,22,usd_m,0,2
+SPGI_10K_FY2023,121,SEG_PRED,FY2022,2022-12-31,Note 12 Segment information,Capital Expenditures,6,usd_m,0,2
+SPGI_10K_FY2023,121,SEG_PRED,FY2023,2023-12-31,Note 12 Segment information (as of December 31),Total Assets,13495,usd_m,0,1
+SPGI_10K_FY2023,121,SEG_PRED,FY2022,2022-12-31,Note 12 Segment information (as of December 31),Total Assets,13416,usd_m,0,1
+SPGI_10K_FY2023,117,SEG_PRED,FY2023,2023-12-31,Note 11 Restructuring by segment,2023 Restructuring Plan - Initial Charge Recorded (Mobility),9,usd_m,0,1
+SPGI_10K_FY2023,117,SEG_PRED,FY2023,2023-12-31,Note 11 Restructuring by segment,2023 Restructuring Plan - Ending Reserve Balance (Mobility),8,usd_m,0,2
+SPGI_10K_FY2023,117,SEG_PRED,FY2023,2023-12-31,Note 11 Restructuring by segment,2022 Restructuring Plan - Initial Charge Recorded (Mobility),2,usd_m,0,3
+SPGI_10K_FY2022,57,SEG_PRED,FY2022,2022-12-31,Item 7 Mobility segment description,Segment description (summary),"Leading provider of solutions serving the full automotive value chain (OEMs, suppliers, mobility service providers, retailers, consumers, finance and insurance companies); operates globally with staff in over 17 countries. No business-line (Dealer/Manufacturing/Financial) breakdown given in this 10-K.",text,0,1
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,Item 7 Mobility segment description,Basis of inclusion,"The Mobility business was acquired in connection with the merger with IHS Markit on February 28, 2022 and financial results are included since the date of acquisition.",text,0,2
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Revenue,1142,usd_m,1,1
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Subscription revenue,888,usd_m,0,2
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Non-subscription revenue,254,usd_m,0,3
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: Subscription revenue,78,pct,0,4
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: Non-subscription revenue,22,pct,0,5
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,U.S. revenue,932,usd_m,0,6
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,International revenue,210,usd_m,0,7
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: U.S. revenue,82,pct,0,8
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% of total revenue: International revenue,18,pct,0,9
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,Operating profit,213,usd_m,1,10
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table,% Operating margin,19,pct,0,11
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: acquisition-related benefit,14,usd_m,0,1
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: employee severance charges,4,usd_m,0,2
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: IHS Markit merger costs,3,usd_m,0,3
+SPGI_10K_FY2022,58,SEG_PRED,FY2022,2022-12-31,MD&A Mobility segment table footnote 1,Operating profit includes: amortization of intangibles from acquisitions,241,usd_m,0,4
+SPGI_10K_FY2022,42,SEG_PRED,FY2022,2022-12-31,MD&A Total Expenses by segment,Mobility Operating-related expenses,296,usd_m,0,1
+SPGI_10K_FY2022,42,SEG_PRED,FY2022,2022-12-31,MD&A Total Expenses by segment,Mobility Selling and general expenses,385,usd_m,0,2
+SPGI_10K_FY2022,118,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (pre-ASU 2023-07),Revenue - Mobility,1142,usd_m,1,1
+SPGI_10K_FY2022,118,SEG_PRED,FY2022,2022-12-31,Note 12 Segment operating results (pre-ASU 2023-07),Operating Profit - Mobility,213,usd_m,1,2
+SPGI_10K_FY2022,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Subscription,888,usd_m,0,1
+SPGI_10K_FY2022,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Non-subscription / Transaction,254,usd_m,0,2
+SPGI_10K_FY2022,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Total revenue,1142,usd_m,1,3
+SPGI_10K_FY2022,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Services transferred at a point in time,254,usd_m,0,4
+SPGI_10K_FY2022,119,SEG_PRED,FY2022,2022-12-31,Note 12 Revenue disaggregated by type,Services transferred over time,888,usd_m,0,5
+SPGI_10K_FY2022,121,SEG_PRED,FY2022,2022-12-31,Note 12 Segment information,Depreciation & Amortization,248,usd_m,0,1
+SPGI_10K_FY2022,121,SEG_PRED,FY2022,2022-12-31,Note 12 Segment information,Capital Expenditures,6,usd_m,0,2
+SPGI_10K_FY2022,121,SEG_PRED,FY2022,2022-12-31,Note 12 Segment information (as of December 31),Total Assets,13416,usd_m,0,1
+INFO_10K_FY2021,13,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,Segment description (summary),"Transportation = Automotive offerings (more than 90 percent of segment revenue for 2021) plus Maritime & Trade (balance). Automotive serves OEMs, parts suppliers and dealers: new-car forecasts, Polk-heritage sales/marketing/recall data (nearly 12bn US ownership records), automotiveMastermind, and CARFAX used-car vehicle history/listings/valuation.",text,0,1
+INFO_10K_FY2021,13,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,"Automotive offerings share of segment revenue (printed as ""more than 90 percent"")",more than 90 percent,text,0,2
+INFO_10K_FY2021,14,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,CARFAX data scale (printed),"CARFAX vehicle history based on more than 27 billion records collected from more than 130,000 data sources",text,0,3
+INFO_10K_FY2021,73,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Segment,Transportation,1354.4,usd_m,1,1
+INFO_10K_FY2021,73,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment,Transportation,1151.6,usd_m,1,1
+INFO_10K_FY2021,73,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Transportation,1246.1,usd_m,1,1
+INFO_10K_FY2021,73,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),18,pct,0,2
+INFO_10K_FY2021,73,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),-8,pct,0,2
+INFO_10K_FY2021,73,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Segment,Transportation as a percent of total revenue,29,pct,0,3
+INFO_10K_FY2021,73,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment,Transportation as a percent of total revenue,27,pct,0,3
+INFO_10K_FY2021,73,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Transportation as a percent of total revenue,28,pct,0,3
+INFO_10K_FY2021,73,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),4658.1,usd_m,1,4
+INFO_10K_FY2021,73,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),4287.8,usd_m,1,4
+INFO_10K_FY2021,73,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),4414.6,usd_m,1,4
+INFO_10K_FY2021,73,SEG_PRED,FY2021,2021-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,16,pct,0,1
+INFO_10K_FY2021,73,SEG_PRED,FY2020,2020-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,-2,pct,0,1
+INFO_10K_FY2021,73,SEG_PRED,FY2021,2021-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,0,pct,0,2
+INFO_10K_FY2021,73,SEG_PRED,FY2020,2020-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,-6,pct,0,2
+INFO_10K_FY2021,73,SEG_PRED,FY2021,2021-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,1,pct,0,3
+INFO_10K_FY2021,73,SEG_PRED,FY2020,2020-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,0,pct,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,18,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,3,pct,0,1
+INFO_10K_FY2021,73,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Segment (narrative),Transportation narrative,"2021 organic growth led by dealer-facing offerings (CARFAX, automotiveMastermind) rebounding from 2020; 2020 organic decline due to COVID-19 (temporary dealer price relief, paused new sales, cancellations) and lower recall and marketing non-recurring revenue.",text,0,1
+INFO_10K_FY2021,79,SEG_PRED,FY2021,2021-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,645.0,usd_m,1,1
+INFO_10K_FY2021,79,SEG_PRED,FY2020,2020-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,514.7,usd_m,1,1
+INFO_10K_FY2021,79,SEG_PRED,FY2019,2019-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,520.9,usd_m,1,1
+INFO_10K_FY2021,79,SEG_PRED,FY2021,2021-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),25,pct,0,2
+INFO_10K_FY2021,79,SEG_PRED,FY2020,2020-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),-1,pct,0,2
+INFO_10K_FY2021,79,SEG_PRED,FY2021,2021-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,47.6,pct,0,3
+INFO_10K_FY2021,79,SEG_PRED,FY2020,2020-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,44.7,pct,0,3
+INFO_10K_FY2021,79,SEG_PRED,FY2019,2019-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,41.8,pct,0,3
+INFO_10K_FY2021,79,SEG_PRED,FY2021,2021-11-30,MD&A Segment Adjusted EBITDA (narrative),Transportation Adjusted EBITDA narrative,2020 Adjusted EBITDA lower due to negative organic growth (COVID-19) and the Q1-2020 divestiture of the A&D business line; margin increased on cost management.,text,0,1
+INFO_10K_FY2021,138,SEG_PRED,FY2021,2021-11-30,Note 20 Segment Information,Revenue - Transportation,1354.4,usd_m,1,1
+INFO_10K_FY2021,138,SEG_PRED,FY2020,2020-11-30,Note 20 Segment Information,Revenue - Transportation,1151.6,usd_m,1,1
+INFO_10K_FY2021,138,SEG_PRED,FY2019,2019-11-30,Note 20 Segment Information,Revenue - Transportation,1246.1,usd_m,1,1
+INFO_10K_FY2021,138,SEG_PRED,FY2021,2021-11-30,Note 20 Segment Information,Adjusted EBITDA - Transportation,645.0,usd_m,1,2
+INFO_10K_FY2021,138,SEG_PRED,FY2020,2020-11-30,Note 20 Segment Information,Adjusted EBITDA - Transportation,514.7,usd_m,1,2
+INFO_10K_FY2021,138,SEG_PRED,FY2019,2019-11-30,Note 20 Segment Information,Adjusted EBITDA - Transportation,520.9,usd_m,1,2
+INFO_10K_FY2021,139,SEG_PRED,FY2021,2021-11-30,Note 20 Total assets by segment,Total Assets - Transportation,2999.6,usd_m,0,1
+INFO_10K_FY2021,139,SEG_PRED,FY2020,2020-11-30,Note 20 Total assets by segment,Total Assets - Transportation,3000.3,usd_m,0,1
+INFO_10K_FY2021,139,SEG_PRED,FY2019,2019-11-30,Note 20 Goodwill activity,Goodwill - Transportation - Balance at November 30,1953.1,usd_m,0,1
+INFO_10K_FY2021,139,SEG_PRED,FY2020,2020-11-30,Note 20 Goodwill activity,Goodwill - Transportation - Balance at November 30,1961.2,usd_m,0,1
+INFO_10K_FY2021,139,SEG_PRED,FY2021,2021-11-30,Note 20 Goodwill activity,Goodwill - Transportation - Balance at November 30,1964.0,usd_m,0,1
+INFO_10K_FY2021,139,SEG_PRED,FY2020,2020-11-30,Note 20 Goodwill activity,Goodwill - Transportation - Foreign currency translation,8.1,usd_m,0,2
+INFO_10K_FY2021,139,SEG_PRED,FY2021,2021-11-30,Note 20 Goodwill activity,Goodwill - Transportation - Foreign currency translation,2.8,usd_m,0,2
+INFO_10K_FY2020,12,SEG_PRED,FY2020,2020-11-30,Item 1 Transportation segment description,Segment description (summary),"Transportation = Automotive offerings (more than 90 percent of segment revenue for 2020) plus Maritime & Trade (balance). A&D business line divested December 2, 2019 (Q1 FY2020).",text,0,1
+INFO_10K_FY2020,12,SEG_PRED,FY2020,2020-11-30,Item 1 Transportation segment description,"Automotive offerings share of segment revenue (printed as ""more than 90 percent"")",more than 90 percent,text,0,2
+INFO_10K_FY2020,78,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment,Transportation,1151.6,usd_m,1,1
+INFO_10K_FY2020,78,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Transportation,1246.1,usd_m,1,1
+INFO_10K_FY2020,78,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment,Transportation,1160.2,usd_m,1,1
+INFO_10K_FY2020,78,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),-8,pct,0,2
+INFO_10K_FY2020,78,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),7,pct,0,2
+INFO_10K_FY2020,78,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment,Transportation as a percent of total revenue,27,pct,0,3
+INFO_10K_FY2020,78,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Transportation as a percent of total revenue,28,pct,0,3
+INFO_10K_FY2020,78,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment,Transportation as a percent of total revenue,29,pct,0,3
+INFO_10K_FY2020,78,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),4287.8,usd_m,1,4
+INFO_10K_FY2020,78,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),4414.6,usd_m,1,4
+INFO_10K_FY2020,78,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),4009.2,usd_m,1,4
+INFO_10K_FY2020,78,SEG_PRED,FY2020,2020-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,-2,pct,0,1
+INFO_10K_FY2020,78,SEG_PRED,FY2019,2019-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,8,pct,0,1
+INFO_10K_FY2020,78,SEG_PRED,FY2020,2020-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,-6,pct,0,2
+INFO_10K_FY2020,78,SEG_PRED,FY2019,2019-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,0,pct,0,2
+INFO_10K_FY2020,78,SEG_PRED,FY2020,2020-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,0,pct,0,3
+INFO_10K_FY2020,78,SEG_PRED,FY2019,2019-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,-1,pct,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,3,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,10,pct,0,1
+INFO_10K_FY2020,78,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment (narrative),Transportation narrative,"2020 organic decline from COVID-19 (dealer price relief, paused sales, cancellations; non-recurring recall and marketing revenue down significantly); A&D divestiture in Q1-2020 accounted for the 6 percent acquisitive decline.",text,0,1
+INFO_10K_FY2020,84,SEG_PRED,FY2020,2020-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,514.7,usd_m,1,1
+INFO_10K_FY2020,84,SEG_PRED,FY2019,2019-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,520.9,usd_m,1,1
+INFO_10K_FY2020,84,SEG_PRED,FY2018,2018-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,479.3,usd_m,1,1
+INFO_10K_FY2020,84,SEG_PRED,FY2020,2020-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),-1,pct,0,2
+INFO_10K_FY2020,84,SEG_PRED,FY2019,2019-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),9,pct,0,2
+INFO_10K_FY2020,84,SEG_PRED,FY2020,2020-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,44.7,pct,0,3
+INFO_10K_FY2020,84,SEG_PRED,FY2019,2019-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,41.8,pct,0,3
+INFO_10K_FY2020,84,SEG_PRED,FY2018,2018-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,41.3,pct,0,3
+INFO_10K_FY2020,145,SEG_PRED,FY2020,2020-11-30,Note Segment Information,Revenue - Transportation,1151.6,usd_m,1,1
+INFO_10K_FY2020,145,SEG_PRED,FY2019,2019-11-30,Note Segment Information,Revenue - Transportation,1246.1,usd_m,1,1
+INFO_10K_FY2020,145,SEG_PRED,FY2018,2018-11-30,Note Segment Information,Revenue - Transportation,1160.2,usd_m,1,1
+INFO_10K_FY2020,145,SEG_PRED,FY2020,2020-11-30,Note Segment Information,Adjusted EBITDA - Transportation,514.7,usd_m,1,2
+INFO_10K_FY2020,145,SEG_PRED,FY2019,2019-11-30,Note Segment Information,Adjusted EBITDA - Transportation,520.9,usd_m,1,2
+INFO_10K_FY2020,145,SEG_PRED,FY2018,2018-11-30,Note Segment Information,Adjusted EBITDA - Transportation,479.3,usd_m,1,2
+INFO_10K_FY2020,146,SEG_PRED,FY2020,2020-11-30,Note Total assets by segment,Total Assets - Transportation,3000.3,usd_m,0,1
+INFO_10K_FY2020,146,SEG_PRED,FY2019,2019-11-30,Note Total assets by segment,Total Assets - Transportation,3018.2,usd_m,0,1
+INFO_10K_FY2020,146,SEG_PRED,FY2018,2018-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,2031.6,usd_m,0,1
+INFO_10K_FY2020,146,SEG_PRED,FY2019,2019-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,1953.1,usd_m,0,1
+INFO_10K_FY2020,146,SEG_PRED,FY2020,2020-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,1961.2,usd_m,0,1
+INFO_10K_FY2020,146,SEG_PRED,FY2019,2019-11-30,Note Goodwill activity,Goodwill - Transportation - Acquisitions,9.0,usd_m,0,2
+INFO_10K_FY2020,146,SEG_PRED,FY2019,2019-11-30,Note Goodwill activity,Goodwill - Transportation - Reclassification to assets held for sale (A&D),-87.7,usd_m,0,3
+INFO_10K_FY2020,146,SEG_PRED,FY2019,2019-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,0.2,usd_m,0,4
+INFO_10K_FY2020,146,SEG_PRED,FY2020,2020-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,8.1,usd_m,0,4
+INFO_10K_FY2019,9,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,Segment description (summary),"Transportation = Automotive (approximately 85 percent of segment revenue for 2019), Maritime & Trade, and the recently divested Aerospace & Defense offerings. Automotive: new-car forecasts, Polk-heritage marketing/recall data (more than 7bn US ownership records), automotiveMastermind, CARFAX used-car products.",text,0,1
+INFO_10K_FY2019,9,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,Automotive offerings share of segment revenue (approximately),85,pct,0,2
+INFO_10K_FY2019,10,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,CARFAX data scale (printed),"CARFAX vehicle history based on more than 23 billion records collected from more than 112,000 data sources",text,0,3
+INFO_10K_FY2019,40,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Transportation,1246.1,usd_m,1,1
+INFO_10K_FY2019,40,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment,Transportation,1160.2,usd_m,1,1
+INFO_10K_FY2019,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment,Transportation,991.6,usd_m,1,1
+INFO_10K_FY2019,40,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),7,pct,0,2
+INFO_10K_FY2019,40,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),17,pct,0,2
+INFO_10K_FY2019,40,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),4414.6,usd_m,1,3
+INFO_10K_FY2019,40,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),4009.2,usd_m,1,3
+INFO_10K_FY2019,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),3599.7,usd_m,1,3
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,8,pct,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,11,pct,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,0,pct,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,6,pct,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,-1,pct,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,1,pct,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment (narrative),Transportation narrative,"2019 and 2018 growth from solid organic recurring and non-recurring growth, mainly automotive (used-car offerings and new-car innovation); aM acquisition (Q4 FY2017) accounted for acquisitive growth in 2018.",text,0,1
+INFO_10K_FY2019,43,SEG_PRED,FY2019,2019-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,520.9,usd_m,1,1
+INFO_10K_FY2019,43,SEG_PRED,FY2018,2018-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,479.3,usd_m,1,1
+INFO_10K_FY2019,43,SEG_PRED,FY2017,2017-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,408.6,usd_m,1,1
+INFO_10K_FY2019,43,SEG_PRED,FY2019,2019-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),9,pct,0,2
+INFO_10K_FY2019,43,SEG_PRED,FY2018,2018-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),17,pct,0,2
+INFO_10K_FY2019,43,SEG_PRED,FY2019,2019-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,41.8,pct,0,3
+INFO_10K_FY2019,43,SEG_PRED,FY2018,2018-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,41.3,pct,0,3
+INFO_10K_FY2019,43,SEG_PRED,FY2017,2017-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,41.0,pct,0,3
+INFO_10K_FY2019,80,SEG_PRED,FY2019,2019-11-30,Note Segment Information,Revenue - Transportation,1246.1,usd_m,1,1
+INFO_10K_FY2019,80,SEG_PRED,FY2018,2018-11-30,Note Segment Information,Revenue - Transportation,1160.2,usd_m,1,1
+INFO_10K_FY2019,80,SEG_PRED,FY2017,2017-11-30,Note Segment Information,Revenue - Transportation,991.6,usd_m,1,1
+INFO_10K_FY2019,80,SEG_PRED,FY2019,2019-11-30,Note Segment Information,Adjusted EBITDA - Transportation,520.9,usd_m,1,2
+INFO_10K_FY2019,80,SEG_PRED,FY2018,2018-11-30,Note Segment Information,Adjusted EBITDA - Transportation,479.3,usd_m,1,2
+INFO_10K_FY2019,80,SEG_PRED,FY2017,2017-11-30,Note Segment Information,Adjusted EBITDA - Transportation,408.6,usd_m,1,2
+INFO_10K_FY2019,81,SEG_PRED,FY2019,2019-11-30,Note Total assets by segment,Total Assets - Transportation,3018.2,usd_m,0,1
+INFO_10K_FY2019,81,SEG_PRED,FY2018,2018-11-30,Note Total assets by segment,Total Assets - Transportation,3144.7,usd_m,0,1
+INFO_10K_FY2019,81,SEG_PRED,FY2017,2017-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,2055.6,usd_m,0,1
+INFO_10K_FY2019,81,SEG_PRED,FY2018,2018-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,2031.6,usd_m,0,1
+INFO_10K_FY2019,81,SEG_PRED,FY2019,2019-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,1953.1,usd_m,0,1
+INFO_10K_FY2019,81,SEG_PRED,FY2019,2019-11-30,Note Goodwill activity,Goodwill - Transportation - Acquisitions,9.0,usd_m,0,2
+INFO_10K_FY2019,81,SEG_PRED,FY2018,2018-11-30,Note Goodwill activity,Goodwill - Transportation - Adjustments to purchase price,-7.3,usd_m,0,3
+INFO_10K_FY2019,81,SEG_PRED,FY2019,2019-11-30,Note Goodwill activity,Goodwill - Transportation - Reclassification to assets held for sale (A&D),-87.7,usd_m,0,4
+INFO_10K_FY2019,81,SEG_PRED,FY2018,2018-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,-16.7,usd_m,0,5
+INFO_10K_FY2019,81,SEG_PRED,FY2019,2019-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,0.2,usd_m,0,5
+INFO_10K_FY2019,63,SEG_PRED,FY2019,2019-11-30,Note Acquisitions and Divestitures,Divestiture: Aerospace & Defense (A&D) business line (Transportation segment),"Definitive agreement Sept-2019 to sell A&D to Montagu Private Equity for approximately $470 million; included in Transportation up to date of sale; sale completed December 2, 2019; classified held-for-sale at November 30, 2019.",text,0,1
+INFO_10K_FY2019,63,SEG_PRED,FY2019,2019-11-30,Note Acquisitions and Divestitures,A&D divestiture approximate price,470,usd_m,0,2
+INFO_10K_FY2019,63,SEG_PRED,FY2019,2019-11-30,Note Acquisitions and Divestitures,A&D held for sale - Goodwill,87.7,usd_m,0,3
+INFO_10K_FY2019,63,SEG_PRED,FY2019,2019-11-30,Note Acquisitions and Divestitures,A&D held for sale - Total assets held for sale,115.3,usd_m,1,4
+INFO_10K_FY2019,63,SEG_PRED,FY2019,2019-11-30,Note Acquisitions and Divestitures,A&D held for sale - Total liabilities held for sale,-25.9,usd_m,1,5
+INFO_10K_FY2019,63,SEG_PRED,FY2019,2019-11-30,Note Acquisitions and Divestitures,"Acquisition: automotiveMastermind Inc. (aM) - Sept 25, 2017 (Transportation segment)",Initial cash consideration approx. $432 million for 78 percent of aM (incl. estimated $43 million contingent consideration paid Q2 2018); included in Transportation.,text,0,6
+INFO_10K_FY2018,9,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,Segment description (summary),"Transportation = Automotive (about 84 percent of segment revenue) plus Maritime & Trade and Aerospace, Defense & Security (Jane's) making up the balance. Automotive: new-car forecasts, Polk-heritage marketing/recall data (more than 7bn US ownership records), automotiveMastermind, CARFAX.",text,0,1
+INFO_10K_FY2018,9,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,Automotive offerings share of segment revenue (about),84,pct,0,2
+INFO_10K_FY2018,10,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,CARFAX data scale (printed),"CARFAX vehicle history based on more than 20 billion records collected from more than 112,000 data sources",text,0,3
+INFO_10K_FY2018,42,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment,Transportation,1160.2,usd_m,1,1
+INFO_10K_FY2018,42,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment,Transportation,991.6,usd_m,1,1
+INFO_10K_FY2018,42,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment,Transportation,892.8,usd_m,1,1
+INFO_10K_FY2018,42,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),17,pct,0,2
+INFO_10K_FY2018,42,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),11,pct,0,2
+INFO_10K_FY2018,42,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),4009.2,usd_m,1,3
+INFO_10K_FY2018,42,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),3599.7,usd_m,1,3
+INFO_10K_FY2018,42,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),2734.8,usd_m,1,3
+INFO_10K_FY2018,42,SEG_PRED,FY2018,2018-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,11,pct,0,1
+INFO_10K_FY2018,42,SEG_PRED,FY2017,2017-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,10,pct,0,1
+INFO_10K_FY2018,42,SEG_PRED,FY2018,2018-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,6,pct,0,2
+INFO_10K_FY2018,42,SEG_PRED,FY2017,2017-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,2,pct,0,2
+INFO_10K_FY2018,42,SEG_PRED,FY2018,2018-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,1,pct,0,3
+INFO_10K_FY2018,42,SEG_PRED,FY2017,2017-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,0,pct,0,3
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,11,pct,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,10,pct,0,1
+INFO_10K_FY2018,42,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment (narrative),Transportation narrative,"2017-2018 growth from organic recurring and non-recurring growth mainly in automotive (used-car offerings, new-car innovation, digital marketing, strong recall activity); aM (Q4 FY2017) contributed acquisitive growth in 2018 and 2017.",text,0,1
+INFO_10K_FY2018,44,SEG_PRED,FY2018,2018-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,479.3,usd_m,1,1
+INFO_10K_FY2018,44,SEG_PRED,FY2017,2017-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,408.6,usd_m,1,1
+INFO_10K_FY2018,44,SEG_PRED,FY2016,2016-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,353.3,usd_m,1,1
+INFO_10K_FY2018,44,SEG_PRED,FY2018,2018-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),17,pct,0,2
+INFO_10K_FY2018,44,SEG_PRED,FY2017,2017-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),16,pct,0,2
+INFO_10K_FY2018,44,SEG_PRED,FY2018,2018-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,41,pct,0,3
+INFO_10K_FY2018,44,SEG_PRED,FY2017,2017-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,41,pct,0,3
+INFO_10K_FY2018,44,SEG_PRED,FY2016,2016-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,40,pct,0,3
+INFO_10K_FY2018,84,SEG_PRED,FY2018,2018-11-30,Note Segment Information,Revenue - Transportation,1160.2,usd_m,1,1
+INFO_10K_FY2018,84,SEG_PRED,FY2017,2017-11-30,Note Segment Information,Revenue - Transportation,991.6,usd_m,1,1
+INFO_10K_FY2018,84,SEG_PRED,FY2016,2016-11-30,Note Segment Information,Revenue - Transportation,892.8,usd_m,1,1
+INFO_10K_FY2018,84,SEG_PRED,FY2018,2018-11-30,Note Segment Information,Adjusted EBITDA - Transportation,479.3,usd_m,1,2
+INFO_10K_FY2018,84,SEG_PRED,FY2017,2017-11-30,Note Segment Information,Adjusted EBITDA - Transportation,408.6,usd_m,1,2
+INFO_10K_FY2018,84,SEG_PRED,FY2016,2016-11-30,Note Segment Information,Adjusted EBITDA - Transportation,353.3,usd_m,1,2
+INFO_10K_FY2018,85,SEG_PRED,FY2018,2018-11-30,Note Total assets by segment,Total Assets - Transportation,3144.7,usd_m,0,1
+INFO_10K_FY2018,85,SEG_PRED,FY2017,2017-11-30,Note Total assets by segment,Total Assets - Transportation,3152.0,usd_m,0,1
+INFO_10K_FY2018,85,SEG_PRED,FY2016,2016-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,1671.1,usd_m,0,1
+INFO_10K_FY2018,85,SEG_PRED,FY2017,2017-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,2055.6,usd_m,0,1
+INFO_10K_FY2018,85,SEG_PRED,FY2018,2018-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,2031.6,usd_m,0,1
+INFO_10K_FY2018,85,SEG_PRED,FY2017,2017-11-30,Note Goodwill activity,Goodwill - Transportation - Acquisitions,362.3,usd_m,0,2
+INFO_10K_FY2018,85,SEG_PRED,FY2018,2018-11-30,Note Goodwill activity,Goodwill - Transportation - Adjustments to purchase price,-7.3,usd_m,0,3
+INFO_10K_FY2018,85,SEG_PRED,FY2017,2017-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,22.2,usd_m,0,4
+INFO_10K_FY2018,85,SEG_PRED,FY2018,2018-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,-16.7,usd_m,0,4
+INFO_10K_FY2018,64,SEG_PRED,FY2018,2018-11-30,Note Acquisitions and Divestitures,"Acquisition: automotiveMastermind Inc. (aM) - Sept 25, 2017 (Transportation segment)","Initial cash ~$432m for 78% (incl. est. $43m contingent consideration). Remaining 22% via founder/employee equity with put/call over 5 years tied to aM adjusted EBITDA, accounted as compensation expense (acquisition-related costs); estimate reduced in Q3-2018 to $150.0m-$175.0m.",text,0,1
+INFO_10K_FY2018,64,SEG_PRED,FY2018,2018-11-30,Note Acquisitions and Divestitures,"aM remaining 22 percent - estimated unrecognized compensation expense range, low (revised Q3 2018)",150.0,usd_m,0,2
+INFO_10K_FY2018,64,SEG_PRED,FY2018,2018-11-30,Note Acquisitions and Divestitures,"aM remaining 22 percent - estimated unrecognized compensation expense range, high (revised Q3 2018)",175.0,usd_m,0,3
+INFO_10K_FY2018,84,SEG_PRED,FY2018,2018-11-30,"Note Segment Information (reconciliation, consolidated)",Acquisition-related performance compensation (aM),-54.1,usd_m,0,1
+INFO_10K_FY2018,84,SEG_PRED,FY2017,2017-11-30,"Note Segment Information (reconciliation, consolidated)",Acquisition-related performance compensation (aM),-9.9,usd_m,0,1
+INFO_10K_FY2017,9,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,Segment description (summary),"Transportation = Automotive (about 80 percent of segment revenue) plus Maritime & Trade and Aerospace, Defense & Security (balance). Automotive: new-car forecasts, sales/marketing tools on more than 7bn US ownership records (Polk heritage), CARFAX used-car products; aM acquired Sept-2017.",text,0,1
+INFO_10K_FY2017,9,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,Automotive offerings share of segment revenue (about),80,pct,0,2
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment,Transportation,991.6,usd_m,1,1
+INFO_10K_FY2017,40,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment,Transportation,892.8,usd_m,1,1
+INFO_10K_FY2017,40,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Segment,Transportation,758.4,usd_m,1,1
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),11,pct,0,2
+INFO_10K_FY2017,40,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),18,pct,0,2
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),3599.7,usd_m,1,3
+INFO_10K_FY2017,40,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),2734.8,usd_m,1,3
+INFO_10K_FY2017,40,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),2184.3,usd_m,1,3
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,10,pct,0,1
+INFO_10K_FY2017,40,SEG_PRED,FY2016,2016-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,10,pct,0,1
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,2,pct,0,2
+INFO_10K_FY2017,40,SEG_PRED,FY2016,2016-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,8,pct,0,2
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,0,pct,0,3
+INFO_10K_FY2017,40,SEG_PRED,FY2016,2016-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,-1,pct,0,3
+INFO_10K_FY2017,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,10,pct,0,1
+INFO_10K_FY2017,41,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,10,pct,0,1
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment (narrative),Transportation narrative,"2016-2017 growth from organic recurring and non-recurring growth led by automotive (used-car penetration, strong recall offerings/activity, new-car innovation). Acquisitive growth 2016-2017 includes CARPROOF (Q1 FY2016) run-out; aM (Q4 FY2017) minimal.",text,0,1
+INFO_10K_FY2017,43,SEG_PRED,FY2017,2017-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,408.6,usd_m,1,1
+INFO_10K_FY2017,43,SEG_PRED,FY2016,2016-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,353.3,usd_m,1,1
+INFO_10K_FY2017,43,SEG_PRED,FY2015,2015-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,282.7,usd_m,1,1
+INFO_10K_FY2017,43,SEG_PRED,FY2017,2017-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),16,pct,0,2
+INFO_10K_FY2017,43,SEG_PRED,FY2016,2016-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),25,pct,0,2
+INFO_10K_FY2017,43,SEG_PRED,FY2017,2017-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,41,pct,0,3
+INFO_10K_FY2017,43,SEG_PRED,FY2016,2016-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,40,pct,0,3
+INFO_10K_FY2017,43,SEG_PRED,FY2015,2015-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,37,pct,0,3
+INFO_10K_FY2017,83,SEG_PRED,FY2017,2017-11-30,Note Total assets by segment,Total Assets - Transportation,3152.0,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Total assets by segment,Total Assets - Transportation,2721.3,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2015,2015-11-30,Note Total assets by segment,Total Assets - Transportation,2310.9,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2015,2015-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,1361.4,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,1671.1,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2017,2017-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,2055.6,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Goodwill activity,Goodwill - Transportation - Acquisitions,332.9,usd_m,0,2
+INFO_10K_FY2017,83,SEG_PRED,FY2017,2017-11-30,Note Goodwill activity,Goodwill - Transportation - Acquisitions,362.3,usd_m,0,2
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Goodwill activity,Goodwill - Transportation - Adjustments to purchase price,0.7,usd_m,0,3
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,-23.9,usd_m,0,4
+INFO_10K_FY2017,83,SEG_PRED,FY2017,2017-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,22.2,usd_m,0,4
+INFO_10K_FY2016,9,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,Segment description (summary),"Transportation = Automotive (about 80 percent of segment revenue) plus Maritime & Trade and Aerospace, Defense & Security (balance). Automotive: new-car forecasts, sales/marketing on more than 5bn US ownership records (Polk heritage), CARFAX (U.S.) and CARPROOF (Canada) used-car products. First 10-K after IHS/Markit merger (July 12, 2016).",text,0,1
+INFO_10K_FY2016,9,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,Automotive offerings share of segment revenue (about),80,pct,0,2
+INFO_10K_FY2016,10,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,CARFAX data scale (printed),"CARFAX vehicle history based on more than 17 billion records collected from more than 100,000 data sources",text,0,3
+INFO_10K_FY2016,37,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment,Transportation,892.8,usd_m,1,1
+INFO_10K_FY2016,37,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Segment,Transportation,758.4,usd_m,1,1
+INFO_10K_FY2016,37,SEG_PRED,FY2014,2014-11-30,MD&A Revenue by Segment,Transportation,662.6,usd_m,1,1
+INFO_10K_FY2016,37,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),18,pct,0,2
+INFO_10K_FY2016,37,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Segment,Transportation % Change (vs prior year),14,pct,0,2
+INFO_10K_FY2016,37,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),2734.8,usd_m,1,3
+INFO_10K_FY2016,37,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),2184.3,usd_m,1,3
+INFO_10K_FY2016,37,SEG_PRED,FY2014,2014-11-30,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),2079.8,usd_m,1,3
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,10,pct,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Organic,9,pct,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,8,pct,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Acquisitive,7,pct,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,-1,pct,0,3
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue growth drivers (percentage points),Transportation revenue - Foreign Currency,-2,pct,0,3
+INFO_10K_FY2016,39,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,10,pct,0,1
+INFO_10K_FY2016,39,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,11,pct,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment (narrative),Transportation narrative,"2015-2016 growth from organic recurring and non-recurring growth led by automotive (used-car penetration, new-car technology/regulatory/digital-marketing demand, recall activity), stable growth in other transportation categories; acquisitive growth from CARPROOF (Dec-2015) and 2015 acquisitions run-out.",text,0,1
+INFO_10K_FY2016,40,SEG_PRED,FY2016,2016-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,353.3,usd_m,1,1
+INFO_10K_FY2016,40,SEG_PRED,FY2015,2015-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,282.7,usd_m,1,1
+INFO_10K_FY2016,40,SEG_PRED,FY2014,2014-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,234.3,usd_m,1,1
+INFO_10K_FY2016,40,SEG_PRED,FY2016,2016-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),25,pct,0,2
+INFO_10K_FY2016,40,SEG_PRED,FY2015,2015-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA % Change (vs prior year),21,pct,0,2
+INFO_10K_FY2016,40,SEG_PRED,FY2016,2016-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,40,pct,0,3
+INFO_10K_FY2016,40,SEG_PRED,FY2015,2015-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,37,pct,0,3
+INFO_10K_FY2016,40,SEG_PRED,FY2014,2014-11-30,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue,35,pct,0,3
+INFO_10K_FY2016,83,SEG_PRED,FY2016,2016-11-30,Note Segment Information,Revenue - Transportation,892.8,usd_m,1,1
+INFO_10K_FY2016,83,SEG_PRED,FY2015,2015-11-30,Note Segment Information,Revenue - Transportation,758.4,usd_m,1,1
+INFO_10K_FY2016,83,SEG_PRED,FY2014,2014-11-30,Note Segment Information,Revenue - Transportation,662.6,usd_m,1,1
+INFO_10K_FY2016,83,SEG_PRED,FY2016,2016-11-30,Note Segment Information,Adjusted EBITDA - Transportation,353.3,usd_m,1,2
+INFO_10K_FY2016,83,SEG_PRED,FY2015,2015-11-30,Note Segment Information,Adjusted EBITDA - Transportation,282.7,usd_m,1,2
+INFO_10K_FY2016,83,SEG_PRED,FY2014,2014-11-30,Note Segment Information,Adjusted EBITDA - Transportation,234.3,usd_m,1,2
+INFO_10K_FY2016,84,SEG_PRED,FY2016,2016-11-30,Note Total assets by segment,Total Assets - Transportation,2721.3,usd_m,0,1
+INFO_10K_FY2016,84,SEG_PRED,FY2015,2015-11-30,Note Total assets by segment,Total Assets - Transportation,2310.9,usd_m,0,1
+INFO_10K_FY2016,84,SEG_PRED,FY2014,2014-11-30,Note Total assets by segment,Total Assets - Transportation,2237.7,usd_m,0,1
+INFO_10K_FY2016,84,SEG_PRED,FY2014,2014-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,1299.1,usd_m,0,1
+INFO_10K_FY2016,84,SEG_PRED,FY2015,2015-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,1361.4,usd_m,0,1
+INFO_10K_FY2016,84,SEG_PRED,FY2016,2016-11-30,Note Goodwill activity,Goodwill - Transportation - Balance at November 30,1671.1,usd_m,0,1
+INFO_10K_FY2016,84,SEG_PRED,FY2015,2015-11-30,Note Goodwill activity,Goodwill - Transportation - Acquisitions,81.5,usd_m,0,2
+INFO_10K_FY2016,84,SEG_PRED,FY2016,2016-11-30,Note Goodwill activity,Goodwill - Transportation - Acquisitions,332.9,usd_m,0,2
+INFO_10K_FY2016,84,SEG_PRED,FY2015,2015-11-30,Note Goodwill activity,Goodwill - Transportation - Adjustments to purchase price,-0.8,usd_m,0,3
+INFO_10K_FY2016,84,SEG_PRED,FY2016,2016-11-30,Note Goodwill activity,Goodwill - Transportation - Adjustments to purchase price,0.7,usd_m,0,3
+INFO_10K_FY2016,84,SEG_PRED,FY2015,2015-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,-18.4,usd_m,0,4
+INFO_10K_FY2016,84,SEG_PRED,FY2016,2016-11-30,Note Goodwill activity,Goodwill - Transportation - Foreign currency translation,-23.9,usd_m,0,4
+INFO_10K_FY2016,60,SEG_PRED,FY2016,2016-11-30,Note 3 Business Combinations,"Acquisition: CARPROOF (Dec 24, 2015; Transportation segment)","Canada-based vehicle history, appraisal and valuation provider acquired for approximately $459.2 million net of cash acquired, to expand vehicle history report services into Canada; included in Transportation.",text,0,1
+INFO_10K_FY2016,60,SEG_PRED,FY2016,2016-11-30,Note 3 Business Combinations,"CARPROOF purchase price, net of cash acquired (approximately)",459.2,usd_m,0,2
+INFO_10K_FY2016,80,SEG_PRED,FY2016,2016-11-30,Note Commitments and Contingencies - Litigation,"CARFAX antitrust litigation (filed April 23, 2013, prior to acquisition of R.L. Polk & Co.)","Dealer antitrust complaint (S.D.N.Y.) re CARFAX exclusive arrangements; second amended complaint named approx. 469 dealers; summary judgment for CARFAX Sept 30, 2016, appealed Oct 28, 2016; new dealer complaint filed Jan 13, 2017. Only Polk acquisition reference in 10-K; no Polk deal figures printed.",text,0,1
+INFO_10K_FY2016,80,SEG_PRED,FY2016,2016-11-30,Note Commitments and Contingencies - Litigation,CARFAX litigation - auto dealers named as plaintiffs in second amended complaint (approximately),469,count,0,2
+INFO_10K_FY2016,43,SEG_PRED,FY2016,2016-11-30,MD&A Liquidity (narrative),Polk acquisition financing reference,In 2014 began repaying the significant borrowings used to fund the Polk acquisition (no amount printed on this page).,text,0,1

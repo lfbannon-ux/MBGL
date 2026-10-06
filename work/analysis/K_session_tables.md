@@ -1,3 +1,5 @@
+# K_session_tables — reusable tables (appended by Part D analysts; tier tags on every figure)
+
 
 ## D9_demand_drivers.md — growth vs industry (slide 91, mapping = Inference) and SPGI quarterly business-line growth
 
@@ -80,7 +82,6 @@ FY25 customer mix:
 | OEM CPO mandates (36) | stable |
 | Workflow integrations (95) | mixed (DMS gatekeepers) |
 | AI / data processing | falling |
-# K_session_tables — reusable tables (appended by Part D analysts)
 
 ## From D2_unit_economics.md (2026-10-06)
 

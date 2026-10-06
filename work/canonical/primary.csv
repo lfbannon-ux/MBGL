@@ -1,0 +1,391 @@
+canon_key,period,period_end,value,unit,source_doc,page,source_caption
+BS.accomp,FY2024,2024-12-31,56.0,usd_m,Form10A_2026-05-27,442,Accrued compensation and contributions to retirement plans
+BS.accomp,FY2025,2025-12-31,64.0,usd_m,Form10A_2026-05-27,442,Accrued compensation and contributions to retirement plans
+BS.accomp,Q1-2026,2026-03-31,25.0,usd_m,Form10A_2026-05-27,424,Accrued compensation and contributions to retirement plans
+BS.accomp,Q2-2026,2026-06-30,41.0,usd_m,10Q_Q2-2026,6,Accrued compensation and contributions to retirement plans
+BS.aoci,FY2024,2024-12-31,3.0,usd_m,Form10A_2026-05-27,442,Accumulated other comprehensive (loss) income
+BS.aoci,FY2025,2025-12-31,-4.0,usd_m,Form10A_2026-05-27,442,Accumulated other comprehensive (loss) income
+BS.aoci,Q1-2026,2026-03-31,-3.0,usd_m,Form10A_2026-05-27,424,Accumulated other comprehensive loss
+BS.aoci,Q2-2026,2026-06-30,2.0,usd_m,10Q_Q2-2026,6,Accumulated other comprehensive income (loss)
+BS.ap,FY2024,2024-12-31,38.0,usd_m,Form10A_2026-05-27,442,Accounts payable
+BS.ap,FY2025,2025-12-31,56.0,usd_m,Form10A_2026-05-27,442,Accounts payable
+BS.ap,Q1-2026,2026-03-31,48.0,usd_m,Form10A_2026-05-27,424,Accounts payable
+BS.ap,Q2-2026,2026-06-30,63.0,usd_m,10Q_Q2-2026,6,Accounts payable
+BS.ar,FY2024,2024-12-31,195.0,usd_m,Form10A_2026-05-27,442,"Accounts receivable, net of allowance for doubtful accounts: 2025 - $2; 2024 - $3"
+BS.ar,FY2025,2025-12-31,203.0,usd_m,Form10A_2026-05-27,442,"Accounts receivable, net of allowance for doubtful accounts: 2025 - $2; 2024 - $3"
+BS.ar,Q1-2026,2026-03-31,216.0,usd_m,Form10A_2026-05-27,424,"Accounts receivable, net of allowance for doubtful accounts: 2026 - $2; 2025 - $2"
+BS.ar,Q2-2026,2026-06-30,216.0,usd_m,10Q_Q2-2026,6,"Accounts receivable, net of allowance for doubtful accounts: 2026 -$2; 2025 -$2"
+BS.cash,FY2024,2024-12-31,27.0,usd_m,Form10A_2026-05-27,442,Cash and cash equivalents
+BS.cash,FY2025,2025-12-31,38.0,usd_m,Form10A_2026-05-27,442,Cash and cash equivalents
+BS.cash,Q1-2026,2026-03-31,122.0,usd_m,Form10A_2026-05-27,424,Cash and cash equivalents
+BS.cash,Q2-2026,2026-06-30,186.0,usd_m,10Q_Q2-2026,6,Cash and cash equivalents
+BS.dtl,FY2024,2024-12-31,1096.0,usd_m,Form10A_2026-05-27,442,Deferred tax liability – non-current
+BS.dtl,FY2025,2025-12-31,1006.0,usd_m,Form10A_2026-05-27,442,Deferred tax liability – non-current
+BS.dtl,Q1-2026,2026-03-31,983.0,usd_m,Form10A_2026-05-27,424,Deferred tax liability – non-current
+BS.dtl,Q2-2026,2026-06-30,967.0,usd_m,10Q_Q2-2026,6,"Deferred tax liability, net"
+BS.duefrom_c,FY2024,2024-12-31,4.0,usd_m,Form10A_2026-05-27,442,"Due from related parties, current"
+BS.duefrom_c,FY2025,2025-12-31,8.0,usd_m,Form10A_2026-05-27,442,"Due from related parties, current"
+BS.duefrom_c,Q1-2026,2026-03-31,15.0,usd_m,Form10A_2026-05-27,424,Due from related parties - current
+BS.duefrom_c,Q2-2026,2026-06-30,17.0,usd_m,10Q_Q2-2026,6,Due from related parties - current
+BS.duefrom_nc,FY2024,2024-12-31,4.0,usd_m,Form10A_2026-05-27,442,Due from related parties – non-current
+BS.dueto_c,FY2024,2024-12-31,12.0,usd_m,Form10A_2026-05-27,442,Due to related parties - current
+BS.dueto_c,FY2025,2025-12-31,19.0,usd_m,Form10A_2026-05-27,442,Due to related parties - current
+BS.dueto_c,Q1-2026,2026-03-31,24.0,usd_m,Form10A_2026-05-27,424,Due to related parties - current
+BS.dueto_nc,FY2024,2024-12-31,236.0,usd_m,Form10A_2026-05-27,442,Due to related parties - non-current
+BS.dueto_nc,FY2025,2025-12-31,230.0,usd_m,Form10A_2026-05-27,442,Due to related parties - non-current
+BS.dueto_nc,Q1-2026,2026-03-31,227.0,usd_m,Form10A_2026-05-27,424,Due to related parties – non-current
+BS.gw,FY2024,2024-12-31,8845.0,usd_m,Form10A_2026-05-27,442,Goodwill
+BS.gw,FY2025,2025-12-31,8845.0,usd_m,Form10A_2026-05-27,442,Goodwill
+BS.gw,Q1-2026,2026-03-31,8845.0,usd_m,Form10A_2026-05-27,424,Goodwill
+BS.gw,Q2-2026,2026-06-30,8845.0,usd_m,10Q_Q2-2026,6,Goodwill
+BS.intang,FY2024,2024-12-31,4085.0,usd_m,Form10A_2026-05-27,442,Other intangible assets - net
+BS.intang,FY2025,2025-12-31,3789.0,usd_m,Form10A_2026-05-27,442,Other intangible assets - net
+BS.intang,Q1-2026,2026-03-31,3714.0,usd_m,Form10A_2026-05-27,424,Other intangible assets - net
+BS.intang,Q2-2026,2026-06-30,3640.0,usd_m,10Q_Q2-2026,6,"Other intangible assets, net"
+BS.lease_nc,FY2024,2024-12-31,16.0,usd_m,Form10A_2026-05-27,442,Lease liabilities - non-current
+BS.lease_nc,FY2025,2025-12-31,11.0,usd_m,Form10A_2026-05-27,442,Lease liabilities - non-current
+BS.lease_nc,Q1-2026,2026-03-31,19.0,usd_m,Form10A_2026-05-27,424,Lease liabilities - non-current
+BS.lease_nc,Q2-2026,2026-06-30,27.0,usd_m,10Q_Q2-2026,6,Operating lease liabilities
+BS.ltd,Q2-2026,2026-06-30,1981.0,usd_m,10Q_Q2-2026,6,Long-term debt
+BS.npi,FY2024,2024-12-31,11680.0,usd_m,Form10A_2026-05-27,442,Parent company investment
+BS.npi,FY2025,2025-12-31,11489.0,usd_m,Form10A_2026-05-27,442,Parent company investment
+BS.npi,Q1-2026,2026-03-31,11586.0,usd_m,Form10A_2026-05-27,424,Parent company investment
+BS.npi,Q2-2026,2026-06-30,9833.0,usd_m,10Q_Q2-2026,6,Parent company investment
+BS.ocl,FY2024,2024-12-31,40.0,usd_m,Form10A_2026-05-27,442,Other current liabilities
+BS.ocl,FY2025,2025-12-31,45.0,usd_m,Form10A_2026-05-27,442,Other current liabilities
+BS.ocl,Q1-2026,2026-03-31,38.0,usd_m,Form10A_2026-05-27,424,Other current liabilities
+BS.ocl,Q2-2026,2026-06-30,42.0,usd_m,10Q_Q2-2026,6,Other current liabilities
+BS.onca,FY2024,2024-12-31,31.0,usd_m,Form10A_2026-05-27,442,Other non-current assets
+BS.onca,FY2025,2025-12-31,45.0,usd_m,Form10A_2026-05-27,442,Other non-current assets
+BS.onca,Q1-2026,2026-03-31,49.0,usd_m,Form10A_2026-05-27,424,Other non-current assets
+BS.onca,Q2-2026,2026-06-30,58.0,usd_m,10Q_Q2-2026,6,Other non-current assets
+BS.oncl,FY2024,2024-12-31,3.0,usd_m,Form10A_2026-05-27,442,Other non-current liabilities
+BS.oncl,FY2025,2025-12-31,1.0,usd_m,Form10A_2026-05-27,442,Other non-current liabilities
+BS.oncl,Q1-2026,2026-03-31,1.0,usd_m,Form10A_2026-05-27,424,Other non-current liabilities
+BS.oncl,Q2-2026,2026-06-30,2.0,usd_m,10Q_Q2-2026,6,Other non-current liabilities
+BS.ppe_acc,FY2024,2024-12-31,-83.0,usd_m,Form10A_2026-05-27,442,Less: accumulated depreciation
+BS.ppe_acc,FY2025,2025-12-31,-81.0,usd_m,Form10A_2026-05-27,442,Less: accumulated depreciation
+BS.ppe_acc,Q1-2026,2026-03-31,-83.0,usd_m,Form10A_2026-05-27,424,Less: accumulated depreciation
+BS.ppe_bldg,FY2024,2024-12-31,23.0,usd_m,Form10A_2026-05-27,442,Buildings and leasehold improvements
+BS.ppe_bldg,FY2025,2025-12-31,25.0,usd_m,Form10A_2026-05-27,442,Buildings and leasehold improvements
+BS.ppe_bldg,Q1-2026,2026-03-31,25.0,usd_m,Form10A_2026-05-27,424,Buildings and leasehold improvements
+BS.ppe_eq,FY2024,2024-12-31,80.0,usd_m,Form10A_2026-05-27,442,Equipment and furniture
+BS.ppe_eq,FY2025,2025-12-31,75.0,usd_m,Form10A_2026-05-27,442,Equipment and furniture
+BS.ppe_eq,Q1-2026,2026-03-31,77.0,usd_m,Form10A_2026-05-27,424,Equipment and furniture
+BS.ppe_gross,FY2024,2024-12-31,103.0,usd_m,Form10A_2026-05-27,442,Total property and equipment
+BS.ppe_gross,FY2025,2025-12-31,100.0,usd_m,Form10A_2026-05-27,442,Total property and equipment
+BS.ppe_gross,Q1-2026,2026-03-31,102.0,usd_m,Form10A_2026-05-27,424,Total property and equipment
+BS.ppe_net,FY2024,2024-12-31,20.0,usd_m,Form10A_2026-05-27,442,"Property and equipment, net"
+BS.ppe_net,FY2025,2025-12-31,19.0,usd_m,Form10A_2026-05-27,442,"Property and equipment, net"
+BS.ppe_net,Q1-2026,2026-03-31,19.0,usd_m,Form10A_2026-05-27,424,"Property and equipment, net"
+BS.ppe_net,Q2-2026,2026-06-30,18.0,usd_m,10Q_Q2-2026,6,"Property and equipment, net of accumulated depreciation: 2026 -$84; 2025 -$81"
+BS.prepaid,FY2024,2024-12-31,24.0,usd_m,Form10A_2026-05-27,442,Prepaid and other current assets
+BS.prepaid,FY2025,2025-12-31,32.0,usd_m,Form10A_2026-05-27,442,Prepaid and other current assets
+BS.prepaid,Q1-2026,2026-03-31,39.0,usd_m,Form10A_2026-05-27,424,Prepaid and other current assets
+BS.prepaid,Q2-2026,2026-06-30,47.0,usd_m,10Q_Q2-2026,6,Prepaid and other current assets
+BS.rou,FY2024,2024-12-31,20.0,usd_m,Form10A_2026-05-27,442,Right of use assets
+BS.rou,FY2025,2025-12-31,16.0,usd_m,Form10A_2026-05-27,442,Right of use assets
+BS.rou,Q1-2026,2026-03-31,23.0,usd_m,Form10A_2026-05-27,424,Right of use assets
+BS.rou,Q2-2026,2026-06-30,33.0,usd_m,10Q_Q2-2026,6,Right of use assets
+BS.ta,FY2024,2024-12-31,13255.0,usd_m,Form10A_2026-05-27,442,Total assets
+BS.ta,FY2025,2025-12-31,12995.0,usd_m,Form10A_2026-05-27,442,Total assets
+BS.ta,Q1-2026,2026-03-31,13042.0,usd_m,Form10A_2026-05-27,424,Total assets
+BS.ta,Q2-2026,2026-06-30,13060.0,usd_m,10Q_Q2-2026,6,Total assets
+BS.tca,FY2024,2024-12-31,250.0,usd_m,Form10A_2026-05-27,442,Total current assets
+BS.tca,FY2025,2025-12-31,281.0,usd_m,Form10A_2026-05-27,442,Total current assets
+BS.tca,Q1-2026,2026-03-31,392.0,usd_m,Form10A_2026-05-27,424,Total current assets
+BS.tca,Q2-2026,2026-06-30,466.0,usd_m,10Q_Q2-2026,6,Total current assets
+BS.tcl,FY2024,2024-12-31,221.0,usd_m,Form10A_2026-05-27,442,Total current liabilities
+BS.tcl,FY2025,2025-12-31,262.0,usd_m,Form10A_2026-05-27,442,Total current liabilities
+BS.tcl,Q1-2026,2026-03-31,229.0,usd_m,Form10A_2026-05-27,424,Total current liabilities
+BS.tcl,Q2-2026,2026-06-30,248.0,usd_m,10Q_Q2-2026,6,Total current liabilities
+BS.te,FY2024,2024-12-31,11683.0,usd_m,Form10A_2026-05-27,442,Total equity
+BS.te,FY2025,2025-12-31,11485.0,usd_m,Form10A_2026-05-27,442,Total equity
+BS.te,Q1-2026,2026-03-31,11583.0,usd_m,Form10A_2026-05-27,424,Total equity
+BS.te,Q2-2026,2026-06-30,9835.0,usd_m,10Q_Q2-2026,6,Total equity
+BS.tl,FY2024,2024-12-31,1572.0,usd_m,Form10A_2026-05-27,442,Total liabilities
+BS.tl,FY2025,2025-12-31,1510.0,usd_m,Form10A_2026-05-27,442,Total liabilities
+BS.tl,Q1-2026,2026-03-31,1459.0,usd_m,Form10A_2026-05-27,424,Total liabilities
+BS.tl,Q2-2026,2026-06-30,3225.0,usd_m,10Q_Q2-2026,6,Total liabilities
+BS.tle,FY2024,2024-12-31,13255.0,usd_m,Form10A_2026-05-27,442,Total liabilities and equity
+BS.tle,FY2025,2025-12-31,12995.0,usd_m,Form10A_2026-05-27,442,Total liabilities and equity
+BS.tle,Q1-2026,2026-03-31,13042.0,usd_m,Form10A_2026-05-27,424,Total liabilities and equity
+BS.tle,Q2-2026,2026-06-30,13060.0,usd_m,10Q_Q2-2026,6,Total liabilities and equity
+BS.unearned,FY2024,2024-12-31,75.0,usd_m,Form10A_2026-05-27,442,Unearned revenue
+BS.unearned,FY2025,2025-12-31,78.0,usd_m,Form10A_2026-05-27,442,Unearned revenue
+BS.unearned,Q1-2026,2026-03-31,94.0,usd_m,Form10A_2026-05-27,424,Unearned revenue
+BS.unearned,Q2-2026,2026-06-30,102.0,usd_m,10Q_Q2-2026,6,Unearned revenue
+CF.acq,FY2023,2023-12-31,-214.0,usd_m,Form10A_2026-05-27,443,"Acquisitions, net of cash acquired"
+CF.acq,FY2024,2024-12-31,-6.0,usd_m,Form10A_2026-05-27,443,"Acquisitions, net of cash acquired"
+CF.acq,FY2025,2025-12-31,-4.0,usd_m,Form10A_2026-05-27,443,"Acquisitions, net of cash acquired"
+CF.amort,6M-2025,2025-06-30,148.0,usd_m,10Q_Q2-2026,7,Amortization of intangibles
+CF.amort,6M-2026,2026-06-30,148.0,usd_m,10Q_Q2-2026,7,Amortization of intangibles
+CF.amort,FY2023,2023-12-31,295.0,usd_m,Form10A_2026-05-27,443,Amortization of intangibles
+CF.amort,FY2024,2024-12-31,296.0,usd_m,Form10A_2026-05-27,443,Amortization of intangibles
+CF.amort,FY2025,2025-12-31,296.0,usd_m,Form10A_2026-05-27,443,Amortization of intangibles
+CF.amort,Q1-2025,2025-03-31,74.0,usd_m,Form10A_2026-05-27,425,Amortization of intangibles
+CF.amort,Q1-2026,2026-03-31,74.0,usd_m,Form10A_2026-05-27,425,Amortization of intangibles
+CF.beg,6M-2025,2025-06-30,27.0,usd_m,10Q_Q2-2026,7,Cash and cash equivalents at beginning of period
+CF.beg,6M-2026,2026-06-30,38.0,usd_m,10Q_Q2-2026,7,Cash and cash equivalents at beginning of period
+CF.beg,FY2023,2023-12-31,42.0,usd_m,Form10A_2026-05-27,443,"Cash, cash equivalents, and restricted cash at beginning of year"
+CF.beg,FY2024,2024-12-31,47.0,usd_m,Form10A_2026-05-27,443,"Cash, cash equivalents, and restricted cash at beginning of year"
+CF.beg,FY2025,2025-12-31,27.0,usd_m,Form10A_2026-05-27,443,"Cash, cash equivalents, and restricted cash at beginning of year"
+CF.beg,Q1-2025,2025-03-31,27.0,usd_m,Form10A_2026-05-27,425,"Cash, cash equivalents, and restricted cash at beginning of period"
+CF.beg,Q1-2026,2026-03-31,38.0,usd_m,Form10A_2026-05-27,425,"Cash, cash equivalents, and restricted cash at beginning of period"
+CF.capex,6M-2025,2025-06-30,-8.0,usd_m,10Q_Q2-2026,7,Capital expenditures
+CF.capex,6M-2026,2026-06-30,-12.0,usd_m,10Q_Q2-2026,7,Capital expenditures
+CF.capex,FY2023,2023-12-31,-18.0,usd_m,Form10A_2026-05-27,443,Capital expenditures
+CF.capex,FY2024,2024-12-31,-15.0,usd_m,Form10A_2026-05-27,443,Capital expenditures
+CF.capex,FY2025,2025-12-31,-24.0,usd_m,Form10A_2026-05-27,443,Capital expenditures
+CF.capex,Q1-2026,2026-03-31,-6.0,usd_m,Form10A_2026-05-27,425,Capital expenditures
+CF.cff,6M-2025,2025-06-30,-210.0,usd_m,10Q_Q2-2026,7,Cash used for financing activities
+CF.cff,6M-2026,2026-06-30,-25.0,usd_m,10Q_Q2-2026,7,Cash used for financing activities
+CF.cff,FY2023,2023-12-31,-160.0,usd_m,Form10A_2026-05-27,443,Cash used for financing activities
+CF.cff,FY2024,2024-12-31,-423.0,usd_m,Form10A_2026-05-27,443,Cash used for financing activities
+CF.cff,FY2025,2025-12-31,-453.0,usd_m,Form10A_2026-05-27,443,Cash used for financing activities
+CF.cff,Q1-2025,2025-03-31,-62.0,usd_m,Form10A_2026-05-27,361,Financing activities [MD&A fallback]
+CF.cff,Q1-2026,2026-03-31,37.0,usd_m,Form10A_2026-05-27,425,Cash provided by (used for) financing activities
+CF.cfi,6M-2025,2025-06-30,-11.0,usd_m,10Q_Q2-2026,7,Cash used for investing activities
+CF.cfi,6M-2026,2026-06-30,-15.0,usd_m,10Q_Q2-2026,7,Cash used for investing activities
+CF.cfi,FY2023,2023-12-31,-230.0,usd_m,Form10A_2026-05-27,443,Cash used for investing activities
+CF.cfi,FY2024,2024-12-31,-21.0,usd_m,Form10A_2026-05-27,361,Investing activities [MD&A fallback]
+CF.cfi,FY2025,2025-12-31,-23.0,usd_m,Form10A_2026-05-27,443,Cash used for investing activities
+CF.cfi,Q1-2025,2025-03-31,-5.0,usd_m,Form10A_2026-05-27,361,Investing activities [MD&A fallback]
+CF.cfi,Q1-2026,2026-03-31,-6.0,usd_m,Form10A_2026-05-27,425,Cash used for investing activities
+CF.cfo,6M-2025,2025-06-30,233.0,usd_m,10Q_Q2-2026,7,Cash provided by operating activities
+CF.cfo,6M-2026,2026-06-30,189.0,usd_m,10Q_Q2-2026,7,Cash provided by operating activities
+CF.cfo,FY2023,2023-12-31,393.0,usd_m,Form10A_2026-05-27,443,Cash provided by operating activities
+CF.cfo,FY2024,2024-12-31,427.0,usd_m,Form10A_2026-05-27,443,Cash provided by operating activities
+CF.cfo,FY2025,2025-12-31,485.0,usd_m,Form10A_2026-05-27,443,Cash provided by operating activities
+CF.cfo,Q1-2025,2025-03-31,67.0,usd_m,Form10A_2026-05-27,425,Cash provided by operating activities
+CF.cfo,Q1-2026,2026-03-31,54.0,usd_m,Form10A_2026-05-27,425,Cash provided by operating activities
+CF.chg,6M-2025,2025-06-30,13.0,usd_m,10Q_Q2-2026,7,Net change in cash and cash equivalents
+CF.chg,6M-2026,2026-06-30,148.0,usd_m,10Q_Q2-2026,7,Net change in cash and cash equivalents
+CF.chg,FY2023,2023-12-31,5.0,usd_m,Form10A_2026-05-27,443,"Net change in cash, cash equivalents, and restricted cash"
+CF.chg,FY2024,2024-12-31,-20.0,usd_m,Form10A_2026-05-27,443,"Net change in cash, cash equivalents, and restricted cash"
+CF.chg,FY2025,2025-12-31,11.0,usd_m,Form10A_2026-05-27,443,"Net change in cash, cash equivalents, and restricted cash"
+CF.chg,Q1-2025,2025-03-31,1.0,usd_m,Form10A_2026-05-27,425,"Net change in cash, cash equivalents, and restricted cash"
+CF.chg,Q1-2026,2026-03-31,84.0,usd_m,Form10A_2026-05-27,425,"Net change in cash, cash equivalents, and restricted cash"
+CF.contingent,6M-2025,2025-06-30,-2.0,usd_m,10Q_Q2-2026,7,Contingent consideration payments
+CF.contingent,FY2024,2024-12-31,-5.0,usd_m,Form10A_2026-05-27,443,Contingent consideration payments
+CF.deftax,6M-2025,2025-06-30,-43.0,usd_m,10Q_Q2-2026,7,Deferred income taxes
+CF.deftax,6M-2026,2026-06-30,-38.0,usd_m,10Q_Q2-2026,7,Deferred income taxes
+CF.deftax,FY2023,2023-12-31,-95.0,usd_m,Form10A_2026-05-27,443,Deferred income taxes
+CF.deftax,FY2024,2024-12-31,-102.0,usd_m,Form10A_2026-05-27,443,Deferred income taxes
+CF.deftax,FY2025,2025-12-31,-90.0,usd_m,Form10A_2026-05-27,443,Deferred income taxes
+CF.deftax,Q1-2025,2025-03-31,-23.0,usd_m,Form10A_2026-05-27,425,Deferred income taxes
+CF.deftax,Q1-2026,2026-03-31,-23.0,usd_m,Form10A_2026-05-27,425,Deferred income taxes
+CF.dep,6M-2025,2025-06-30,7.0,usd_m,10Q_Q2-2026,7,Depreciation
+CF.dep,6M-2026,2026-06-30,7.0,usd_m,10Q_Q2-2026,7,Depreciation
+CF.dep,FY2023,2023-12-31,12.0,usd_m,Form10A_2026-05-27,443,Depreciation
+CF.dep,FY2024,2024-12-31,13.0,usd_m,Form10A_2026-05-27,443,Depreciation
+CF.dep,FY2025,2025-12-31,14.0,usd_m,Form10A_2026-05-27,443,Depreciation
+CF.dep,Q1-2025,2025-03-31,4.0,usd_m,Form10A_2026-05-27,425,Depreciation
+CF.dep,Q1-2026,2026-03-31,4.0,usd_m,Form10A_2026-05-27,425,Depreciation
+CF.disp,FY2023,2023-12-31,2.0,usd_m,Form10A_2026-05-27,443,Proceeds from dispositions
+CF.end,6M-2025,2025-06-30,40.0,usd_m,10Q_Q2-2026,7,Cash and cash equivalents at end of period
+CF.end,6M-2026,2026-06-30,186.0,usd_m,10Q_Q2-2026,7,Cash and cash equivalents at end of period
+CF.end,FY2023,2023-12-31,47.0,usd_m,Form10A_2026-05-27,443,"Cash, cash equivalents, and restricted cash at end of year"
+CF.end,FY2024,2024-12-31,27.0,usd_m,Form10A_2026-05-27,443,"Cash, cash equivalents, and restricted cash at end of year"
+CF.end,FY2025,2025-12-31,38.0,usd_m,Form10A_2026-05-27,443,"Cash, cash equivalents, and restricted cash at end of year"
+CF.end,Q1-2025,2025-03-31,28.0,usd_m,Form10A_2026-05-27,425,"Cash, cash equivalents, and restricted cash at end of period"
+CF.end,Q1-2026,2026-03-31,122.0,usd_m,Form10A_2026-05-27,425,"Cash, cash equivalents, and restricted cash at end of period"
+CF.eqinv,6M-2025,2025-06-30,-3.0,usd_m,10Q_Q2-2026,7,Purchases of equity investments
+CF.eqinv,6M-2026,2026-06-30,-3.0,usd_m,10Q_Q2-2026,7,Purchases of equity investments
+CF.fx,6M-2025,2025-06-30,1.0,usd_m,10Q_Q2-2026,7,Effect of exchange rate changes on cash
+CF.fx,6M-2026,2026-06-30,-1.0,usd_m,10Q_Q2-2026,7,Effect of exchange rate changes on cash
+CF.fx,FY2023,2023-12-31,2.0,usd_m,Form10A_2026-05-27,443,Effect of exchange rate changes on cash
+CF.fx,FY2024,2024-12-31,-3.0,usd_m,Form10A_2026-05-27,443,Effect of exchange rate changes on cash
+CF.fx,FY2025,2025-12-31,2.0,usd_m,Form10A_2026-05-27,443,Effect of exchange rate changes on cash
+CF.fx,Q1-2026,2026-03-31,-1.0,usd_m,Form10A_2026-05-27,425,Effect of exchange rate changes on cash
+CF.loan_pay,6M-2025,2025-06-30,-18.0,usd_m,10Q_Q2-2026,7,Payments related to loan from related parties
+CF.loan_pay,FY2024,2024-12-31,-45.0,usd_m,Form10A_2026-05-27,443,Payments related to loan from related parties
+CF.loan_pay,FY2025,2025-12-31,-18.0,usd_m,Form10A_2026-05-27,443,Payments related to loan from related parties
+CF.loan_rp,FY2025,2025-12-31,5.0,usd_m,Form10A_2026-05-27,443,Proceeds from loan to related parties
+CF.ni,6M-2025,2025-06-30,123.0,usd_m,10Q_Q2-2026,7,Net income
+CF.ni,6M-2026,2026-06-30,108.0,usd_m,10Q_Q2-2026,7,Net income
+CF.ni,FY2023,2023-12-31,163.0,usd_m,Form10A_2026-05-27,443,Net income
+CF.ni,FY2024,2024-12-31,208.0,usd_m,Form10A_2026-05-27,443,Net income
+CF.ni,FY2025,2025-12-31,220.0,usd_m,Form10A_2026-05-27,443,Net income
+CF.ni,Q1-2025,2025-03-31,58.0,usd_m,Form10A_2026-05-27,425,Net income
+CF.ni,Q1-2026,2026-03-31,55.0,usd_m,Form10A_2026-05-27,425,Net income
+CF.notes,6M-2026,2026-06-30,1986.0,usd_m,10Q_Q2-2026,7,Proceeds from issuance of Senior Notes
+CF.other,6M-2026,2026-06-30,-1.0,usd_m,10Q_Q2-2026,7,Other
+CF.parent,6M-2025,2025-06-30,-190.0,usd_m,10Q_Q2-2026,7,Net transfers to Parent
+CF.parent,6M-2026,2026-06-30,-2011.0,usd_m,10Q_Q2-2026,7,Net transfers to Parent
+CF.parent,FY2023,2023-12-31,-158.0,usd_m,Form10A_2026-05-27,443,Net transfers to Parent
+CF.parent,FY2024,2024-12-31,-373.0,usd_m,Form10A_2026-05-27,443,Net transfers to Parent
+CF.parent,FY2025,2025-12-31,-433.0,usd_m,Form10A_2026-05-27,443,Net transfers to Parent
+CF.prov,6M-2025,2025-06-30,2.0,usd_m,10Q_Q2-2026,7,Provision for losses on accounts receivable
+CF.prov,6M-2026,2026-06-30,2.0,usd_m,10Q_Q2-2026,7,Provision for losses on accounts receivable
+CF.prov,FY2023,2023-12-31,4.0,usd_m,Form10A_2026-05-27,443,Provision for losses on accounts receivable
+CF.prov,FY2024,2024-12-31,4.0,usd_m,Form10A_2026-05-27,443,Provision for losses on accounts receivable
+CF.prov,FY2025,2025-12-31,4.0,usd_m,Form10A_2026-05-27,443,Provision for losses on accounts receivable
+CF.prov,Q1-2025,2025-03-31,1.0,usd_m,Form10A_2026-05-27,425,Provision for losses on accounts receivable
+CF.prov,Q1-2026,2026-03-31,1.0,usd_m,Form10A_2026-05-27,425,Provision for losses on accounts receivable
+CF.sbc,6M-2025,2025-06-30,9.0,usd_m,10Q_Q2-2026,7,Stock-based compensation
+CF.sbc,6M-2026,2026-06-30,9.0,usd_m,10Q_Q2-2026,7,Stock-based compensation
+CF.sbc,FY2023,2023-12-31,20.0,usd_m,Form10A_2026-05-27,443,Stock-based compensation
+CF.sbc,FY2024,2024-12-31,28.0,usd_m,Form10A_2026-05-27,443,Stock-based compensation
+CF.sbc,FY2025,2025-12-31,22.0,usd_m,Form10A_2026-05-27,443,Stock-based compensation
+CF.sbc,Q1-2025,2025-03-31,5.0,usd_m,Form10A_2026-05-27,425,Stock-based compensation
+CF.sbc,Q1-2026,2026-03-31,4.0,usd_m,Form10A_2026-05-27,425,Stock-based compensation
+CF.sup_canloan,6M-2026,2026-06-30,230.0,usd_m,10Q_Q2-2026,7,Consolidation of Canada Carfax Loan
+CF.sup_debtcost,6M-2026,2026-06-30,5.0,usd_m,10Q_Q2-2026,7,Accrued debt issuance costs
+CF.sup_int,FY2023,2023-12-31,18.0,usd_m,Form10A_2026-05-27,443,Cash paid during the year for: Interest
+CF.sup_int,FY2024,2024-12-31,17.0,usd_m,Form10A_2026-05-27,443,Cash paid during the year for: Interest
+CF.sup_int,FY2025,2025-12-31,14.0,usd_m,Form10A_2026-05-27,443,Cash paid during the year for: Interest
+CF.sup_tax,FY2023,2023-12-31,15.0,usd_m,Form10A_2026-05-27,443,Cash paid during the year for: Income taxes
+CF.sup_tax,FY2024,2024-12-31,29.0,usd_m,Form10A_2026-05-27,443,Cash paid during the year for: Income taxes
+CF.sup_tax,FY2025,2025-12-31,26.0,usd_m,Form10A_2026-05-27,443,Cash paid during the year for: Income taxes
+CF.wc_ap,6M-2025,2025-06-30,-25.0,usd_m,10Q_Q2-2026,7,Accounts payable and accrued expenses
+CF.wc_ap,6M-2026,2026-06-30,-26.0,usd_m,10Q_Q2-2026,7,Accounts payable and accrued expenses
+CF.wc_ar,6M-2025,2025-06-30,-4.0,usd_m,10Q_Q2-2026,7,Accounts receivable
+CF.wc_ar,6M-2026,2026-06-30,-16.0,usd_m,10Q_Q2-2026,7,Accounts receivable
+CF.wc_duefrom,6M-2025,2025-06-30,2.0,usd_m,10Q_Q2-2026,7,Due from related parties
+CF.wc_duefrom,6M-2026,2026-06-30,-8.0,usd_m,10Q_Q2-2026,7,Due from related parties
+CF.wc_dueto,6M-2025,2025-06-30,12.0,usd_m,10Q_Q2-2026,7,Due to related parties
+CF.wc_dueto,6M-2026,2026-06-30,-19.0,usd_m,10Q_Q2-2026,7,Due to related parties
+CF.wc_ocl,6M-2026,2026-06-30,11.0,usd_m,10Q_Q2-2026,7,Other current liabilities
+CF.wc_other,6M-2025,2025-06-30,-14.0,usd_m,10Q_Q2-2026,7,Net change in other assets and liabilities
+CF.wc_other,6M-2026,2026-06-30,2.0,usd_m,10Q_Q2-2026,7,Net change in other assets and liabilities
+CF.wc_prepaid,6M-2025,2025-06-30,-4.0,usd_m,10Q_Q2-2026,7,Prepaid and other current assets
+CF.wc_prepaid,6M-2026,2026-06-30,-15.0,usd_m,10Q_Q2-2026,7,Prepaid and other current assets
+CF.wc_unearned,6M-2025,2025-06-30,20.0,usd_m,10Q_Q2-2026,7,Unearned revenue
+CF.wc_unearned,6M-2026,2026-06-30,25.0,usd_m,10Q_Q2-2026,7,Unearned revenue
+CI.ci,6M-2025,2025-06-30,115.0,usd_m,10Q_Q2-2026,5,Comprehensive income
+CI.ci,6M-2026,2026-06-30,114.0,usd_m,10Q_Q2-2026,5,Comprehensive income
+CI.ci,FY2023,2023-12-31,157.0,usd_m,Form10A_2026-05-27,441,Comprehensive income
+CI.ci,FY2024,2024-12-31,226.0,usd_m,Form10A_2026-05-27,441,Comprehensive income
+CI.ci,FY2025,2025-12-31,213.0,usd_m,Form10A_2026-05-27,441,Comprehensive income
+CI.ci,Q1-2025,2025-03-31,57.0,usd_m,Form10A_2026-05-27,423,Comprehensive income
+CI.ci,Q1-2026,2026-03-31,56.0,usd_m,Form10A_2026-05-27,423,Comprehensive income
+CI.ci,Q2-2025,2025-06-30,58.0,usd_m,10Q_Q2-2026,5,Comprehensive income
+CI.ci,Q2-2026,2026-06-30,58.0,usd_m,10Q_Q2-2026,5,Comprehensive income
+CI.fx,6M-2025,2025-06-30,-8.0,usd_m,10Q_Q2-2026,5,Foreign currency translation adjustments
+CI.fx,6M-2026,2026-06-30,6.0,usd_m,10Q_Q2-2026,5,Foreign currency translation adjustments
+CI.fx,FY2023,2023-12-31,-6.0,usd_m,Form10A_2026-05-27,441,Foreign currency translation adjustments
+CI.fx,FY2024,2024-12-31,18.0,usd_m,Form10A_2026-05-27,441,Foreign currency translation adjustments
+CI.fx,FY2025,2025-12-31,-7.0,usd_m,Form10A_2026-05-27,441,Foreign currency translation adjustments
+CI.fx,Q1-2025,2025-03-31,-1.0,usd_m,Form10A_2026-05-27,423,Foreign currency translation adjustments
+CI.fx,Q1-2026,2026-03-31,1.0,usd_m,Form10A_2026-05-27,423,Foreign currency translation adjustments
+CI.fx,Q2-2025,2025-06-30,-7.0,usd_m,10Q_Q2-2026,5,Foreign currency translation adjustments
+CI.fx,Q2-2026,2026-06-30,5.0,usd_m,10Q_Q2-2026,5,Foreign currency translation adjustments
+CI.ni,6M-2025,2025-06-30,123.0,usd_m,10Q_Q2-2026,5,Net income
+CI.ni,6M-2026,2026-06-30,108.0,usd_m,10Q_Q2-2026,5,Net income
+CI.ni,FY2023,2023-12-31,163.0,usd_m,Form10A_2026-05-27,441,Net income
+CI.ni,FY2024,2024-12-31,208.0,usd_m,Form10A_2026-05-27,441,Net income
+CI.ni,FY2025,2025-12-31,220.0,usd_m,Form10A_2026-05-27,441,Net income
+CI.ni,Q1-2025,2025-03-31,58.0,usd_m,Form10A_2026-05-27,423,Net income
+CI.ni,Q1-2026,2026-03-31,55.0,usd_m,Form10A_2026-05-27,423,Net income
+CI.ni,Q2-2025,2025-06-30,65.0,usd_m,10Q_Q2-2026,5,Net income
+CI.ni,Q2-2026,2026-06-30,53.0,usd_m,10Q_Q2-2026,5,Net income
+IS.amort,6M-2025,2025-06-30,148.0,usd_m,10Q_Q2-2026,4,Amortization of intangibles
+IS.amort,6M-2026,2026-06-30,148.0,usd_m,10Q_Q2-2026,4,Amortization of intangibles
+IS.amort,FY2023,2023-12-31,295.0,usd_m,Form10A_2026-05-27,440,Amortization of intangibles
+IS.amort,FY2024,2024-12-31,296.0,usd_m,Form10A_2026-05-27,440,Amortization of intangibles
+IS.amort,FY2025,2025-12-31,296.0,usd_m,Form10A_2026-05-27,440,Amortization of intangibles
+IS.amort,Q1-2025,2025-03-31,74.0,usd_m,Form10A_2026-05-27,422,Amortization of intangibles
+IS.amort,Q1-2026,2026-03-31,74.0,usd_m,Form10A_2026-05-27,422,Amortization of intangibles
+IS.amort,Q2-2025,2025-06-30,74.0,usd_m,10Q_Q2-2026,4,Amortization of intangibles
+IS.amort,Q2-2026,2026-06-30,74.0,usd_m,10Q_Q2-2026,4,Amortization of intangibles
+IS.dep,6M-2025,2025-06-30,7.0,usd_m,10Q_Q2-2026,4,Depreciation
+IS.dep,6M-2026,2026-06-30,7.0,usd_m,10Q_Q2-2026,4,Depreciation
+IS.dep,FY2023,2023-12-31,12.0,usd_m,Form10A_2026-05-27,440,Depreciation
+IS.dep,FY2024,2024-12-31,13.0,usd_m,Form10A_2026-05-27,440,Depreciation
+IS.dep,FY2025,2025-12-31,14.0,usd_m,Form10A_2026-05-27,440,Depreciation
+IS.dep,Q1-2025,2025-03-31,4.0,usd_m,Form10A_2026-05-27,422,Depreciation
+IS.dep,Q1-2026,2026-03-31,4.0,usd_m,Form10A_2026-05-27,422,Depreciation
+IS.dep,Q2-2025,2025-06-30,3.0,usd_m,10Q_Q2-2026,4,Depreciation
+IS.dep,Q2-2026,2026-06-30,3.0,usd_m,10Q_Q2-2026,4,Depreciation
+IS.eps_b,6M-2025,2025-06-30,0.42,usd_per_share,10Q_Q2-2026,4,Net income per common share: Basic
+IS.eps_b,6M-2026,2026-06-30,0.37,usd_per_share,10Q_Q2-2026,4,Net income per common share: Basic
+IS.eps_b,Q2-2025,2025-06-30,0.22,usd_per_share,10Q_Q2-2026,4,Net income per common share: Basic
+IS.eps_b,Q2-2026,2026-06-30,0.18,usd_per_share,10Q_Q2-2026,4,Net income per common share: Basic
+IS.eps_d,6M-2025,2025-06-30,0.42,usd_per_share,10Q_Q2-2026,4,Net income per common share: Diluted
+IS.eps_d,6M-2026,2026-06-30,0.37,usd_per_share,10Q_Q2-2026,4,Net income per common share: Diluted
+IS.eps_d,Q2-2025,2025-06-30,0.22,usd_per_share,10Q_Q2-2026,4,Net income per common share: Diluted
+IS.eps_d,Q2-2026,2026-06-30,0.18,usd_per_share,10Q_Q2-2026,4,Net income per common share: Diluted
+IS.int,6M-2025,2025-06-30,7.0,usd_m,10Q_Q2-2026,4,"Interest expense, net"
+IS.int,6M-2026,2026-06-30,10.0,usd_m,10Q_Q2-2026,4,"Interest expense, net"
+IS.int,FY2023,2023-12-31,17.0,usd_m,Form10A_2026-05-27,440,"Interest expense, net"
+IS.int,FY2024,2024-12-31,15.0,usd_m,Form10A_2026-05-27,440,"Interest expense, net"
+IS.int,FY2025,2025-12-31,13.0,usd_m,Form10A_2026-05-27,440,"Interest expense, net"
+IS.int,Q1-2025,2025-03-31,3.0,usd_m,Form10A_2026-05-27,422,"Interest expense, net"
+IS.int,Q1-2026,2026-03-31,3.0,usd_m,Form10A_2026-05-27,422,"Interest expense, net"
+IS.int,Q2-2025,2025-06-30,4.0,usd_m,10Q_Q2-2026,4,"Interest expense, net"
+IS.int,Q2-2026,2026-06-30,7.0,usd_m,10Q_Q2-2026,4,"Interest expense, net"
+IS.ni,6M-2025,2025-06-30,123.0,usd_m,10Q_Q2-2026,4,Net income
+IS.ni,6M-2026,2026-06-30,108.0,usd_m,10Q_Q2-2026,4,Net income
+IS.ni,FY2023,2023-12-31,163.0,usd_m,Form10A_2026-05-27,440,Net income
+IS.ni,FY2024,2024-12-31,208.0,usd_m,Form10A_2026-05-27,440,Net income
+IS.ni,FY2025,2025-12-31,220.0,usd_m,Form10A_2026-05-27,440,Net income
+IS.ni,Q1-2025,2025-03-31,58.0,usd_m,Form10A_2026-05-27,422,Net income
+IS.ni,Q1-2026,2026-03-31,55.0,usd_m,Form10A_2026-05-27,422,Net income
+IS.ni,Q2-2025,2025-06-30,65.0,usd_m,10Q_Q2-2026,4,Net income
+IS.ni,Q2-2026,2026-06-30,53.0,usd_m,10Q_Q2-2026,4,Net income
+IS.op,6M-2025,2025-06-30,180.0,usd_m,10Q_Q2-2026,4,Operating profit
+IS.op,6M-2026,2026-06-30,163.0,usd_m,10Q_Q2-2026,4,Operating profit
+IS.op,FY2023,2023-12-31,239.0,usd_m,Form10A_2026-05-27,440,Operating profit
+IS.op,FY2024,2024-12-31,298.0,usd_m,Form10A_2026-05-27,440,Operating profit
+IS.op,FY2025,2025-12-31,339.0,usd_m,Form10A_2026-05-27,440,Operating profit
+IS.op,Q1-2025,2025-03-31,84.0,usd_m,Form10A_2026-05-27,422,Operating profit
+IS.op,Q1-2026,2026-03-31,81.0,usd_m,Form10A_2026-05-27,422,Operating profit
+IS.op,Q2-2025,2025-06-30,96.0,usd_m,10Q_Q2-2026,4,Operating profit
+IS.op,Q2-2026,2026-06-30,82.0,usd_m,10Q_Q2-2026,4,Operating profit
+IS.oprel,6M-2025,2025-06-30,259.0,usd_m,10Q_Q2-2026,4,Operating-related expenses
+IS.oprel,6M-2026,2026-06-30,270.0,usd_m,10Q_Q2-2026,4,Operating-related expenses
+IS.oprel,FY2023,2023-12-31,448.0,usd_m,Form10A_2026-05-27,440,Operating-related expenses
+IS.oprel,FY2024,2024-12-31,475.0,usd_m,Form10A_2026-05-27,440,Operating-related expenses
+IS.oprel,FY2025,2025-12-31,516.0,usd_m,Form10A_2026-05-27,440,Operating-related expenses
+IS.oprel,Q1-2025,2025-03-31,127.0,usd_m,Form10A_2026-05-27,422,Operating-related expenses
+IS.oprel,Q1-2026,2026-03-31,136.0,usd_m,Form10A_2026-05-27,422,Operating-related expenses
+IS.oprel,Q2-2025,2025-06-30,132.0,usd_m,10Q_Q2-2026,4,Operating-related expenses
+IS.oprel,Q2-2026,2026-06-30,134.0,usd_m,10Q_Q2-2026,4,Operating-related expenses
+IS.other,FY2023,2023-12-31,-2.0,usd_m,Form10A_2026-05-27,440,"Other income, net"
+IS.other,FY2024,2024-12-31,-1.0,usd_m,Form10A_2026-05-27,440,"Other income, net"
+IS.pbt,6M-2025,2025-06-30,173.0,usd_m,10Q_Q2-2026,4,Income before provision for income taxes
+IS.pbt,6M-2026,2026-06-30,153.0,usd_m,10Q_Q2-2026,4,Income before provision for income taxes
+IS.pbt,FY2023,2023-12-31,224.0,usd_m,Form10A_2026-05-27,440,Income before taxes on income
+IS.pbt,FY2024,2024-12-31,284.0,usd_m,Form10A_2026-05-27,440,Income before taxes on income
+IS.pbt,FY2025,2025-12-31,326.0,usd_m,Form10A_2026-05-27,440,Income before taxes on income
+IS.pbt,Q1-2025,2025-03-31,81.0,usd_m,Form10A_2026-05-27,422,Income before taxes on income
+IS.pbt,Q1-2026,2026-03-31,78.0,usd_m,Form10A_2026-05-27,422,Income before taxes on income
+IS.pbt,Q2-2025,2025-06-30,92.0,usd_m,10Q_Q2-2026,4,Income before provision for income taxes
+IS.pbt,Q2-2026,2026-06-30,75.0,usd_m,10Q_Q2-2026,4,Income before provision for income taxes
+IS.revenue,6M-2025,2025-06-30,859.0,usd_m,10Q_Q2-2026,4,Revenue
+IS.revenue,6M-2026,2026-06-30,923.0,usd_m,10Q_Q2-2026,4,Revenue
+IS.revenue,FY2023,2023-12-31,1485.0,usd_m,Form10A_2026-05-27,440,Revenue
+IS.revenue,FY2024,2024-12-31,1613.0,usd_m,Form10A_2026-05-27,440,Revenue
+IS.revenue,FY2025,2025-12-31,1750.0,usd_m,Form10A_2026-05-27,440,Revenue
+IS.revenue,Q1-2025,2025-03-31,420.0,usd_m,Form10A_2026-05-27,422,Revenue
+IS.revenue,Q1-2026,2026-03-31,455.0,usd_m,Form10A_2026-05-27,422,Revenue
+IS.revenue,Q2-2025,2025-06-30,439.0,usd_m,10Q_Q2-2026,4,Revenue
+IS.revenue,Q2-2026,2026-06-30,468.0,usd_m,10Q_Q2-2026,4,Revenue
+IS.sg,6M-2025,2025-06-30,265.0,usd_m,10Q_Q2-2026,4,Selling and general expenses
+IS.sg,6M-2026,2026-06-30,335.0,usd_m,10Q_Q2-2026,4,Selling and general expenses
+IS.sg,FY2023,2023-12-31,491.0,usd_m,Form10A_2026-05-27,440,Selling and general expenses
+IS.sg,FY2024,2024-12-31,531.0,usd_m,Form10A_2026-05-27,440,Selling and general expenses
+IS.sg,FY2025,2025-12-31,585.0,usd_m,Form10A_2026-05-27,440,Selling and general expenses
+IS.sg,Q1-2025,2025-03-31,131.0,usd_m,Form10A_2026-05-27,422,Selling and general expenses
+IS.sg,Q1-2026,2026-03-31,160.0,usd_m,Form10A_2026-05-27,422,Selling and general expenses
+IS.sg,Q2-2025,2025-06-30,134.0,usd_m,10Q_Q2-2026,4,Selling and general expenses
+IS.sg,Q2-2026,2026-06-30,175.0,usd_m,10Q_Q2-2026,4,Selling and general expenses
+IS.tax,6M-2025,2025-06-30,50.0,usd_m,10Q_Q2-2026,4,Provision for income taxes
+IS.tax,6M-2026,2026-06-30,45.0,usd_m,10Q_Q2-2026,4,Provision for income taxes
+IS.tax,FY2023,2023-12-31,61.0,usd_m,Form10A_2026-05-27,440,Provision for taxes on income
+IS.tax,FY2024,2024-12-31,76.0,usd_m,Form10A_2026-05-27,440,Provision for taxes on income
+IS.tax,FY2025,2025-12-31,106.0,usd_m,Form10A_2026-05-27,440,Provision for taxes on income
+IS.tax,Q1-2025,2025-03-31,23.0,usd_m,Form10A_2026-05-27,422,Provision for taxes on income
+IS.tax,Q1-2026,2026-03-31,23.0,usd_m,Form10A_2026-05-27,422,Provision for taxes on income
+IS.tax,Q2-2025,2025-06-30,27.0,usd_m,10Q_Q2-2026,4,Provision for income taxes
+IS.tax,Q2-2026,2026-06-30,22.0,usd_m,10Q_Q2-2026,4,Provision for income taxes
+IS.totexp,6M-2025,2025-06-30,679.0,usd_m,10Q_Q2-2026,4,Total expenses
+IS.totexp,6M-2026,2026-06-30,760.0,usd_m,10Q_Q2-2026,4,Total expenses
+IS.totexp,FY2023,2023-12-31,1246.0,usd_m,Form10A_2026-05-27,440,Total expenses
+IS.totexp,FY2024,2024-12-31,1315.0,usd_m,Form10A_2026-05-27,440,Total expenses
+IS.totexp,FY2025,2025-12-31,1411.0,usd_m,Form10A_2026-05-27,440,Total expenses
+IS.totexp,Q1-2025,2025-03-31,336.0,usd_m,Form10A_2026-05-27,422,Total expenses
+IS.totexp,Q1-2026,2026-03-31,374.0,usd_m,Form10A_2026-05-27,422,Total expenses
+IS.totexp,Q2-2025,2025-06-30,343.0,usd_m,10Q_Q2-2026,4,Total expenses
+IS.totexp,Q2-2026,2026-06-30,386.0,usd_m,10Q_Q2-2026,4,Total expenses

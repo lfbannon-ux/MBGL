@@ -1,0 +1,419 @@
+source_doc,statement,section,caption,canon_key_or_EXCLUDE,reason
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Assets,Goodwill,BS.gw,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Assets,"Other intangible assets, net",BS.intang,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Assets,Other non-current assets,BS.onca,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Assets,"Property and equipment, net of accumulated depreciation: 2026 -$84; 2025 -$81",BS.ppe_net,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Assets,Right of use assets,BS.rou,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Assets,Total assets,BS.ta,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2026 -$2; 2025 -$2",BS.ar,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current assets,Cash and cash equivalents,BS.cash,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current assets,Due from related parties - current,BS.duefrom_c,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current assets,Prepaid and other current assets,BS.prepaid,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current assets,Total current assets,BS.tca,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current liabilities,Accounts payable,BS.ap,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,BS.accomp,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current liabilities,Due to related parties - current,BS.dueto_c,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current liabilities,Other current liabilities,BS.ocl,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current liabilities,Total current liabilities,BS.tcl,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Current liabilities,Unearned revenue,BS.unearned,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Equity,Accumulated other comprehensive income (loss),BS.aoci,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Equity,Parent company investment,BS.npi,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Equity,Total equity,BS.te,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Equity,Total liabilities and equity,BS.tle,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Liabilities,"Deferred tax liability, net",BS.dtl,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Liabilities,Due to related parties - non-current,BS.dueto_nc,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Liabilities,Long-term debt,BS.ltd,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Liabilities,Operating lease liabilities,BS.lease_nc,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Liabilities,Other non-current liabilities,BS.oncl,
+10Q_Q2-2026,BS,Condensed Combined Balance Sheets - Liabilities,Total liabilities,BS.tl,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Financing,Cash used for financing activities,CF.cff,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Financing,Contingent consideration payments,CF.contingent,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Financing,Net transfers to Parent,CF.parent,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Financing,Payments related to loan from related parties,CF.loan_pay,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Financing,Proceeds from issuance of Senior Notes,CF.notes,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Investing,Capital expenditures,CF.capex,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Investing,Cash used for investing activities,CF.cfi,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Investing,Purchases of equity investments,CF.eqinv,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Accounts payable and accrued expenses,CF.wc_ap,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Accounts receivable,CF.wc_ar,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Amortization of intangibles,CF.amort,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Cash provided by operating activities,CF.cfo,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Deferred income taxes,CF.deftax,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Depreciation,CF.dep,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Due from related parties,CF.wc_duefrom,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Due to related parties,CF.wc_dueto,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Net change in other assets and liabilities,CF.wc_other,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Net income,CF.ni,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Other,CF.other,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Other current liabilities,CF.wc_ocl,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Prepaid and other current assets,CF.wc_prepaid,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,CF.prov,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Stock-based compensation,CF.sbc,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Operating,Unearned revenue,CF.wc_unearned,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Supplemental non-cash disclosures,Accrued debt issuance costs,CF.sup_debtcost,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Supplemental non-cash disclosures,Consolidation of Canada Carfax Loan,CF.sup_canloan,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Total,Cash and cash equivalents at beginning of period,CF.beg,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Total,Cash and cash equivalents at end of period,CF.end,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Total,Effect of exchange rate changes on cash,CF.fx,
+10Q_Q2-2026,CF,Condensed Combined Statements of Cash Flows - Total,Net change in cash and cash equivalents,CF.chg,
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31 (opening),EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of June 30, 2025",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of June 30, 2026",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of March 31, 2025",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of March 31, 2026",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income (loss), net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of December 31 (opening),EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Parent Company Investment,"Balance as of June 30, 2025",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Parent Company Investment,"Balance as of June 30, 2026",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Parent Company Investment,"Balance as of March 31, 2025",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Parent Company Investment,"Balance as of March 31, 2026",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income (loss), net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Parent Company Investment,Net increase in Parent company investment,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Total Equity,Balance as of December 31 (opening),EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Total Equity,"Balance as of June 30, 2025",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Total Equity,"Balance as of June 30, 2026",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Total Equity,"Balance as of March 31, 2025",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Total Equity,"Balance as of March 31, 2026",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income (loss), net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,EQ,Condensed Combined Statements of Equity - Total Equity,Net increase in Parent company investment,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+10Q_Q2-2026,IS,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,CI.ci,
+10Q_Q2-2026,IS,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,CI.fx,
+10Q_Q2-2026,IS,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,CI.ni,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Amortization of intangibles,IS.amort,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Depreciation,IS.dep,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Income before provision for income taxes,IS.pbt,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),"Interest expense, net",IS.int,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Net income,IS.ni,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Basic,IS.eps_b,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Net income per common share: Diluted,IS.eps_d,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Operating profit,IS.op,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Operating-related expenses,IS.oprel,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Provision for income taxes,IS.tax,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Revenue,IS.revenue,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Selling and general expenses,IS.sg,
+10Q_Q2-2026,IS,Condensed Combined Statements of Operations (Unaudited),Total expenses,IS.totexp,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Assets,Due from related parties – non-current,BS.duefrom_nc,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Assets,Goodwill,BS.gw,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Assets,Other intangible assets - net,BS.intang,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Assets,Other non-current assets,BS.onca,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Assets,"Property and equipment, net",BS.ppe_net,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Assets,Right of use assets,BS.rou,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Assets,Total assets,BS.ta,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2025 - $2; 2024 - $3",BS.ar,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current assets,Cash and cash equivalents,BS.cash,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current assets,"Due from related parties, current",BS.duefrom_c,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current assets,Prepaid and other current assets,BS.prepaid,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current assets,Total current assets,BS.tca,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current liabilities,Accounts payable,BS.ap,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,BS.accomp,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current liabilities,Due to related parties - current,BS.dueto_c,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current liabilities,Other current liabilities,BS.ocl,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current liabilities,Total current liabilities,BS.tcl,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Current liabilities,Unearned revenue,BS.unearned,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Equity,Accumulated other comprehensive (loss) income,BS.aoci,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Equity,Parent company investment,BS.npi,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Equity,Total equity,BS.te,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Equity,Total liabilities and equity,BS.tle,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,BS.dtl,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Liabilities,Due to related parties - non-current,BS.dueto_nc,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Liabilities,Lease liabilities - non-current,BS.lease_nc,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Liabilities,Other non-current liabilities,BS.oncl,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Liabilities,Total liabilities,BS.tl,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,BS.ppe_bldg,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Property and equipment,Equipment and furniture,BS.ppe_eq,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,BS.ppe_acc,
+Form10A_2026-05-27,BS,Combined Balance Sheets - Property and equipment,Total property and equipment,BS.ppe_gross,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Assets,Goodwill,BS.gw,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Assets,Other intangible assets - net,BS.intang,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Assets,Other non-current assets,BS.onca,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Assets,"Property and equipment, net",BS.ppe_net,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Assets,Right of use assets,BS.rou,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Assets,Total assets,BS.ta,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current assets,"Accounts receivable, net of allowance for doubtful accounts: 2026 - $2; 2025 - $2",BS.ar,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current assets,Cash and cash equivalents,BS.cash,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current assets,Due from related parties - current,BS.duefrom_c,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current assets,Prepaid and other current assets,BS.prepaid,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current assets,Total current assets,BS.tca,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current liabilities,Accounts payable,BS.ap,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current liabilities,Accrued compensation and contributions to retirement plans,BS.accomp,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current liabilities,Due to related parties - current,BS.dueto_c,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current liabilities,Other current liabilities,BS.ocl,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current liabilities,Total current liabilities,BS.tcl,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Current liabilities,Unearned revenue,BS.unearned,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Equity,Accumulated other comprehensive loss,BS.aoci,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Equity,Parent company investment,BS.npi,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Equity,Total equity,BS.te,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Equity,Total liabilities and equity,BS.tle,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Liabilities,Deferred tax liability – non-current,BS.dtl,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Liabilities,Due to related parties – non-current,BS.dueto_nc,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Liabilities,Lease liabilities - non-current,BS.lease_nc,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Liabilities,Other non-current liabilities,BS.oncl,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Liabilities,Total liabilities,BS.tl,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Property and equipment,Buildings and leasehold improvements,BS.ppe_bldg,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Property and equipment,Equipment and furniture,BS.ppe_eq,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Property and equipment,Less: accumulated depreciation,BS.ppe_acc,
+Form10A_2026-05-27,BS,Condensed Combined Balance Sheets - Property and equipment,Total property and equipment,BS.ppe_gross,
+Form10A_2026-05-27,BS,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Cash and cash equivalents,EXCLUDE,Summary table duplicates the statements
+Form10A_2026-05-27,BS,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Total assets,EXCLUDE,Summary table duplicates the statements
+Form10A_2026-05-27,BS,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Total equity,EXCLUDE,Summary table duplicates the statements
+Form10A_2026-05-27,BS,SUMMARY Combined Financial and Other Data - Balance Sheet Data,Total liabilities,EXCLUDE,Summary table duplicates the statements
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of year",CF.beg,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of year",CF.end,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows,Effect of exchange rate changes on cash,CF.fx,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",CF.chg,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Financing,Cash used for financing activities,CF.cff,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Financing,Contingent consideration payments,CF.contingent,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Financing,Net transfers to Parent,CF.parent,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Financing,Payments related to loan from related parties,CF.loan_pay,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Investing,"Acquisitions, net of cash acquired",CF.acq,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Investing,Capital expenditures,CF.capex,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Investing,Cash used for investing activities,CF.cfi,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Investing,Proceeds from dispositions,CF.disp,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Investing,Proceeds from loan to related parties,CF.loan_rp,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Operating,Amortization of intangibles,CF.amort,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Operating,Cash provided by operating activities,CF.cfo,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Operating,Deferred income taxes,CF.deftax,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Operating,Depreciation,CF.dep,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Operating,Net income,CF.ni,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,CF.prov,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Operating,Stock-based compensation,CF.sbc,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Income taxes,CF.sup_tax,
+Form10A_2026-05-27,CF,Combined Statements of Cash Flows - Supplemental,Cash paid during the year for: Interest,CF.sup_int,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at beginning of period",CF.beg,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows,"Cash, cash equivalents, and restricted cash at end of period",CF.end,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows,Effect of exchange rate changes on cash,CF.fx,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows,"Net change in cash, cash equivalents, and restricted cash",CF.chg,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Financing,Cash provided by (used for) financing activities,CF.cff,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Investing,Capital expenditures,CF.capex,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Investing,Cash used for investing activities,CF.cfi,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Operating,Amortization of intangibles,CF.amort,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Operating,Cash provided by operating activities,CF.cfo,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Operating,Deferred income taxes,CF.deftax,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Operating,Depreciation,CF.dep,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Operating,Net income,CF.ni,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Operating,Provision for losses on accounts receivable,CF.prov,
+Form10A_2026-05-27,CF,Condensed Combined Statements of Cash Flows - Operating,Stock-based compensation,CF.sbc,
+Form10A_2026-05-27,CF,MD&A Cash Flow Overview,Financing activities,EXCLUDE,Duplicate presentation; used only as logged gap-fill fallback
+Form10A_2026-05-27,CF,MD&A Cash Flow Overview,Investing activities,EXCLUDE,Duplicate presentation; used only as logged gap-fill fallback
+Form10A_2026-05-27,CF,MD&A Cash Flow Overview,Operating activities,EXCLUDE,Duplicate presentation; used only as logged gap-fill fallback
+Form10A_2026-05-27,CF,MD&A Free cash flow reconciliation,Capital expenditures,EXCLUDE,Non-GAAP FCF table -> Adjusted/Non-GAAP tab
+Form10A_2026-05-27,CF,SUMMARY Combined Financial and Other Data,Net cash provided by operating activities,EXCLUDE,Summary table duplicates the statements
+Form10A_2026-05-27,CF,SUMMARY Combined Financial and Other Data,Net cash used for financing activities,EXCLUDE,Summary table duplicates the statements
+Form10A_2026-05-27,CF,SUMMARY Combined Financial and Other Data,Net cash used for investing activities,EXCLUDE,Summary table duplicates the statements
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Balance as of January 1, 2023",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income, net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Parent Company Investment,Balance as of December 31,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Parent Company Investment,"Balance as of January 1, 2023",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Parent Company Investment,"Comprehensive income, net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Parent Company Investment,Net decrease in Parent company investment,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Total Equity,Balance as of December 31,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Total Equity,"Balance as of January 1, 2023",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Total Equity,"Comprehensive income, net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Combined Statements of Equity - Total Equity,Net decrease in Parent company investment,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of December 31 (opening),EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),Balance as of March 31,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Accumulated Other Comprehensive Income (Loss),"Comprehensive income (loss), net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of December 31 (opening),EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Parent Company Investment,Balance as of March 31,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Parent Company Investment,"Comprehensive income (loss), net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Parent Company Investment,Net increase (decrease) in Parent company investment,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Total Equity,Balance as of December 31 (opening),EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Total Equity,Balance as of March 31,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Total Equity,"Comprehensive income (loss), net of tax",EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,EQ,Condensed Combined Statements of Equity - Total Equity,Net increase (decrease) in Parent company investment,EXCLUDE,Equity roll-forward -> Equity tab (separate build)
+Form10A_2026-05-27,IS,Combined Statements of Comprehensive Income,Comprehensive income,CI.ci,
+Form10A_2026-05-27,IS,Combined Statements of Comprehensive Income,Foreign currency translation adjustments,CI.fx,
+Form10A_2026-05-27,IS,Combined Statements of Comprehensive Income,Net income,CI.ni,
+Form10A_2026-05-27,IS,Combined Statements of Income,Amortization of intangibles,IS.amort,
+Form10A_2026-05-27,IS,Combined Statements of Income,Depreciation,IS.dep,
+Form10A_2026-05-27,IS,Combined Statements of Income,Income before taxes on income,IS.pbt,
+Form10A_2026-05-27,IS,Combined Statements of Income,"Interest expense, net",IS.int,
+Form10A_2026-05-27,IS,Combined Statements of Income,Net income,IS.ni,
+Form10A_2026-05-27,IS,Combined Statements of Income,Operating profit,IS.op,
+Form10A_2026-05-27,IS,Combined Statements of Income,Operating-related expenses,IS.oprel,
+Form10A_2026-05-27,IS,Combined Statements of Income,"Other income, net",IS.other,
+Form10A_2026-05-27,IS,Combined Statements of Income,Provision for taxes on income,IS.tax,
+Form10A_2026-05-27,IS,Combined Statements of Income,Revenue,IS.revenue,
+Form10A_2026-05-27,IS,Combined Statements of Income,Selling and general expenses,IS.sg,
+Form10A_2026-05-27,IS,Combined Statements of Income,Total expenses,IS.totexp,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Comprehensive Income (Unaudited),Comprehensive income,CI.ci,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Comprehensive Income (Unaudited),Foreign currency translation adjustments,CI.fx,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Comprehensive Income (Unaudited),Net income,CI.ni,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Amortization of intangibles,IS.amort,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Depreciation,IS.dep,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Income before taxes on income,IS.pbt,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),"Interest expense, net",IS.int,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Net income,IS.ni,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Operating profit,IS.op,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Operating-related expenses,IS.oprel,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Provision for taxes on income,IS.tax,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Revenue,IS.revenue,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Selling and general expenses,IS.sg,
+Form10A_2026-05-27,IS,Condensed Combined Statements of Income (Unaudited),Total expenses,IS.totexp,
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,Depreciation and amortization,EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,Income before taxes on income,EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,"Interest expense, net",EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,Net income,EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,Operating profit,EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,Operating-related expenses,EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,"Other income, net",EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,Provision for income taxes,EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,Revenue,EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,Selling and general expenses,EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,IS,SUMMARY Combined Financial and Other Data,Total expenses,EXCLUDE,Summary table duplicates the statements (verified equal by extraction agent)
+Form10A_2026-05-27,NONGAAP,MD&A Free cash flow reconciliation,Free cash flow,EXCLUDE,Non-GAAP -> Adjusted/Non-GAAP tab
+Form10A_2026-05-27,NONGAAP,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted EBITDA,EXCLUDE,Non-GAAP -> Adjusted/Non-GAAP tab
+Form10A_2026-05-27,NONGAAP,SUMMARY Combined Financial and Other Data - Non-GAAP,Adjusted operating profit,EXCLUDE,Non-GAAP -> Adjusted/Non-GAAP tab
+Form10A_2026-05-27,NONGAAP,SUMMARY Combined Financial and Other Data - Non-GAAP,Free cash flow,EXCLUDE,Non-GAAP -> Adjusted/Non-GAAP tab
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Autonomous Entity Adjustments,Lease liabilities - non-current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Autonomous Entity Adjustments,Right of use assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Autonomous Entity Adjustments,Total assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Autonomous Entity Adjustments,Total liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Autonomous Entity Adjustments,Total liabilities and equity,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Accounts payable,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),"Accounts receivable, net of allowance for doubtful accounts",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Accrued compensation and contributions to retirement plans,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Accumulated other comprehensive loss,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Buildings and leasehold improvements,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Cash and cash equivalents,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Deferred tax liability – non-current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Due from related parties - current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Due to related parties – current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Due to related parties – non-current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Equipment and furniture,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Goodwill,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Lease liabilities - non-current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Less: accumulated depreciation,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Other current liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Other intangible assets - net,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Other non-current assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Other non-current liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Parent company investment,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Prepaid and other current assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),"Property and equipment, net",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Right of use assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Total assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Total current assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Total current liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Total equity,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Total liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Total liabilities and equity,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Total property and equipment,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Historical Spin Business (a),Unearned revenue,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Accounts payable,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,"Accounts receivable, net of allowance for doubtful accounts",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Accrued compensation and contributions to retirement plans,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Accumulated other comprehensive loss,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Additional paid-in capital,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Buildings and leasehold improvements,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Cash and cash equivalents,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Common stock,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Deferred tax liability – non-current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Equipment and furniture,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Goodwill,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Lease liabilities - non-current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Less: accumulated depreciation,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Long-term debt,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Other current liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Other intangible assets - net,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Other non-current assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Other non-current liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Prepaid and other current assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,"Property and equipment, net",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Right of use assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Total assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Total current assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Total current liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Total equity,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Total liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Total liabilities and equity,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Total property and equipment,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Pro Forma,Unearned revenue,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Additional paid-in capital,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Cash and cash equivalents,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Common stock,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Due from related parties - current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Due to related parties – current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Due to related parties – non-current,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Long-term debt,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Other current liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Other non-current assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Parent company investment,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total current assets,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total current liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total equity,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total liabilities,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF BS 2026-03-31 - Transaction Accounting Adjustments,Total liabilities and equity,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Autonomous Entity Adjustments,Net income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Autonomous Entity Adjustments,Operating profit,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Autonomous Entity Adjustments,Provision for taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Autonomous Entity Adjustments,Selling and general expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Autonomous Entity Adjustments,Total expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Amortization of intangibles,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Depreciation,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Income before taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),"Interest expense, net",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Net income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Operating profit,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Operating-related expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Provision for taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Revenue,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Selling and general expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Historical Spin Business (a),Total expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Amortization of intangibles,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Depreciation,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Earnings per share - Net income: Basic,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Earnings per share - Net income: Diluted,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Income before taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,"Interest expense, net",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Net income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Operating profit,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Operating-related expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Provision for taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Revenue,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Selling and general expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Total expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Weighted-average number of common shares outstanding: Basic,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Pro Forma,Weighted-average number of common shares outstanding: Diluted,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Transaction Accounting Adjustments,Income before taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Transaction Accounting Adjustments,"Interest expense, net",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Transaction Accounting Adjustments,Net income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS FY2025 - Transaction Accounting Adjustments,Provision for taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Autonomous Entity Adjustments,Net income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Autonomous Entity Adjustments,Selling and general expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Amortization of intangibles,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Depreciation,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Income before taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),"Interest expense, net",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Net income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Operating profit,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Operating-related expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Provision for taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Revenue,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Selling and general expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Historical Spin Business (a),Total expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Amortization of intangibles,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Depreciation,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Earnings per share - Net income: Basic,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Earnings per share - Net income: Diluted,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Income before taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,"Interest expense, net",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Net income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Operating profit,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Operating-related expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Provision for taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Revenue,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Selling and general expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Total expenses,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Weighted-average number of common shares outstanding: Basic,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Pro Forma,Weighted-average number of common shares outstanding: Diluted,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Transaction Accounting Adjustments,Income before taxes on income,EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Transaction Accounting Adjustments,"Interest expense, net",EXCLUDE,Pro forma -> own tab; never merged with historical
+Form10A_2026-05-27,PROFORMA,PF IS Q1-2026 - Transaction Accounting Adjustments,Net income,EXCLUDE,Pro forma -> own tab; never merged with historical

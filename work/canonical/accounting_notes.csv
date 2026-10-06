@@ -1,0 +1,34 @@
+type,area,item,source,treatment
+BASIS,All,Carve-out (combined) statements of S&P Global Mobility; include S&P Global corporate allocations; not indicative of standalone costs. Standalone from distribution 2026-07-01.,Form10A Basis of presentation; 10-Q Note 1,Shown as reported; standalone deltas tracked in analysis/D3
+RESTATE,All statements,Form 10 (2026-05-07) vs Form 10/A (2026-05-27): annual and Q1 statements identical — no quiet restatement found (text artefacts only).,statements_NOTES.md,None needed
+DEFN,IS,"10-Q retitles ""Statements of Income"" to ""Statements of Operations""; captions condense (PP&E net of accumulated depreciation; Operating lease liabilities; Deferred tax liability, net).",10-Q pp.4-7,Mapped to same canonical rows (Caption Map)
+DATAQ,IS / EPS,"10-Q prints EPS for carve-out comparatives (Q2-25 $0.22; 6M-25 $0.42) though Form 10 states EPS ""not presented"" (no capital structure). Basis not stated (presumably ~295m shares).",10-Q p.4; Form10A F-pages,Recorded as printed; flagged for D4 red-flags
+DATAQ,IS,"""Other income, net"" printed in the expense block: FY2024 (1), FY2023 (2) = income; FY2025 dash.",Form10A p.440,Input as printed (negative = income); formula subtracts it
+DATAQ,CF,"Annual CF ""Restructuring and other"" and nine working-capital lines (FY2023-25) unreadable in Quartr text (scrambled, values dropped; no unique arrangement fits CFO).",Form10A p.443,Left blank; CFO component check = n/a; needs native PDF
+DATAQ,CF,Q1-2025/Q1-2026 working-capital lines and most Q1 financing components unreadable.,Form10A p.425,Left blank; Q1-25 CFI/CFF from MD&A cash-flow overview p.361 (logged fallback)
+DATAQ,CF,FY2024 cash used for investing unreadable in statement; (21) from MD&A overview p.361 and Summary p.285 (= capex 15 + acquisitions 6).,Form10A p.361,Logged fallback in canonical/primary_merge_log.txt
+DATAQ,CF,Annual contingent consideration legible only FY2024 (5); FY2025/FY2023 implied (2) each by CFF tie — NOT recorded.,Form10A p.443,Blank
+NONDISC,CF,No standalone Q2 cash-flow statement (6M only); no 3/31/25 or 6/30/25 balance sheets; no FY2023 balance sheet.,10-Q; Form10A,Blank
+DEFN,CF,"8-K titles CF ""Consolidated"" (10-Q ""Combined"") and collapses working capital into one line (46)/(13).",8-K p.7,8-K used only as cross-check
+DEFN,Segments,"Segment profit measure: segment operating profit (Form 10/A, ASU 2023-07 format) -> Adjusted EBITDA from Q2-2026 (10-Q; prior periods recast by company). Segment expenses not comparable across the two.",Form10A p.347/461; 10-Q p.14,Separate sections on Segments tab; never merged
+NONDISC,Segments,"10-Q drops segment assets (""CODM does not use""); Form 10/A gave assets, D&A and capex by segment.",10-Q Note 7,Flag for D4
+DEFN,Non-GAAP,Adjusted EBITDA: 10 exclusions (Form 10/10A) vs 6 (10-Q/8-K); Q2 slides still print the 10-item definition beside a 6-line reconciliation.,segments_kpi_NOTES.md,Both definitions recorded verbatim; flag for D4
+DATAQ,Non-GAAP,Form 10/A segment Adjusted EBITDA cross-foot differences: FY2024 659 vs 658 printed; FY2023 597 vs 598.,Form10A pp.359-360,"Recorded as printed, not fixed"
+DATAQ,Non-GAAP,8-K Exhibit 5 add-back lines corrupted; Exhibit 4 Q2-26 block corrupted (values accepted only where they foot both ways). 8-K D&A split Q2-25 CARFAX 49/B2B 28 vs 10-Q 50/27.,8-K pp.8-10,10-Q used as primary
+DATAQ,Presentation,Q2 slides p.13: 6M-2025 SBC printed 6 vs 9 in 10-Q/CF; column foots to 354 vs printed 357. Investor Day Q2-2025 Adj. EBITDA 186 vs 188 in Q2 deck/10-Q.,Slides,Recorded as printed; flag
+NONDISC,Revenue,"No revenue by brand/product (CARFAX lines, automotiveMastermind, Polk, Market Scan) or by B2B business line; no organic/constant-currency growth (FX effect only); geography U.S./International only.",segments_kpi_NOTES.md,—
+NONDISC,KPIs,"No retention/NRR, ACV, ARR, ARPU/price per rooftop, churn, dealer location counts by product.",segments_kpi_NOTES.md; presentations_NOTES.md,—
+DATAQ,Tax,Tax provision 2024/2023 foreign & state current/deferred split unreadable (Form 10 and 10/A identical text); ETR 2025 amounts for two lines illegible (percent only); valuation allowance from Schedule II.,"Form10A pp.455-458, 468",Partial rows only
+DATAQ,Tax,Uncertain tax positions 2025 roll-forward does not foot from printed tokens.,Form10A p.458,Recorded as printed
+DATAQ,Leases,Annual lease maturity table corrupted; only 2026 = 7 and PV = 18 recorded.,Form10A p.464,Partial
+DATAQ,Acquisitions,"Market Scan PPA liabilities sum 59 vs printed total 39 (""Unearned revenue 22"" likely a corrupted 2; net assets 214 ties to cash consideration).",Form10A acquisitions note,Recorded as printed
+DATAQ,Pension,6M-2025 401(k) expense printed 12 vs Q1 7 + Q2 6 = 13.,10-Q,Recorded as printed
+NONDISC,Pension / OCI,No defined-benefit pension/OPEB; OCI = FX translation only; no reclassifications.,Form10A notes,—
+NONDISC,Deferred revenue,"No deferred-revenue roll-forward; RPO 78/92/102 with no timing buckets beyond ""majority within 12 months"".",Form10A; 10-Q,—
+NONDISC,Related party,"TSA fee amounts not disclosed (pro forma incremental TSA cost <1 Q1-26, 3 FY25; term up to 18 months).",Form10A pro forma,—
+BREAK,Capital structure,$2.0bn Senior Notes issued 2026-05-29 (escrow released 2026-06-30); $2.0bn dividend to S&P Global (Form 10/A pro forma had estimated ~$1.9bn). Canada Carfax related-party loan (230) contributed and eliminated 2026-06-25.,"10-Q pp.12,18; notes","BS 6/30/26 shows LTD 1,981; parent investment falls to 9,833"
+BREAK,Shares,"Pro forma used 295,077,160 shares; actual 294,821,320 at 2026-06-15 record date (1:1).",Form10A; 10-Q,—
+BREAK,Predecessor,"IHS Markit Transportation (Nov FYE, FY2014-21) vs S&P Global Mobility (Dec FYE, FY2022-25; FY2022 ~10 months from 2022-02-28 merger) — scope, FYE and measure differ; Dec-2021-Feb-2022 in neither era.",predecessor_NOTES.md,Own tab; no growth across boundary
+RESTATE,Predecessor,S&P Global FY2025 10-K reclassified 2024 Mobility costs between operating-related and selling & general (469/511 -> 487/493; total unchanged).,SPGI 10-K FY2025,Both vintages recorded
+BASIS,Predecessor vs carve-out,"S&P Global Mobility segment revenue (2023 1,484; 2024 1,609; 2025 1,747) vs carve-out combined revenue (1,485; 1,613; 1,750): small basis differences (carve-out vs segment).",predecessor.csv vs statements.csv,Explained in analysis/D4
+DATAQ,CF,Q1-2025 effect of exchange rates on cash not legible (implied +1 by tie: 67 − 5 − 62 + FX = 1) — NOT recorded; the cash-roll check is n/a for Q1-2025.,Form10A p.425,Blank

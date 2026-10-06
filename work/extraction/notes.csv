@@ -269,3 +269,314 @@ Form10A_2026-05-27,459,NOTE_EQUITY,FY2024,2024-12-31,Stock-Based Compensation,Ta
 Form10A_2026-05-27,459,NOTE_EQUITY,FY2023,2023-12-31,Stock-Based Compensation,Restricted stock and other stock-based awards expense,20,usd_m,0,20
 Form10A_2026-05-27,459,NOTE_EQUITY,FY2023,2023-12-31,Stock-Based Compensation,Tax benefit,6,usd_m,0,21
 Form10A_2026-05-27,459,NOTE_EQUITY,FY2025,2025-12-31,Stock-Based Compensation,IHS Markit merger exchange ratio applied to assumed awards,0.2838,count,0,22
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2024,2024-12-31,Restricted stock award activity (in thousands),"Balance as of December 31, 2024 - Shares",107000,count,1,30
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2024,2024-12-31,Restricted stock award activity,"Balance as of December 31, 2024 - Weighted-average grant-date fair value",385.68,usd_per_share,0,30
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity (in thousands),Granted - Shares,50000,count,0,31
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity,Granted - Weighted-average grant-date fair value,509.03,usd_per_share,0,31
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity (in thousands),Vested - Shares,-52000,count,0,32
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity,Vested - Weighted-average grant-date fair value,387.65,usd_per_share,0,32
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity (in thousands),Forfeited / cancelled - Shares,-36000,count,0,33
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity,Forfeited / cancelled - Weighted-average grant-date fair value,414.51,usd_per_share,0,33
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity (in thousands),"Employee transfers and other, net - Shares",21000,count,0,34
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity,"Employee transfers and other, net - Weighted-average grant-date fair value",306.15,usd_per_share,0,34
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity (in thousands),"Balance as of December 31, 2025 - Shares",90000,count,1,35
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity,"Balance as of December 31, 2025 - Weighted-average grant-date fair value",458.11,usd_per_share,0,35
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity,Total unrecognized compensation expense related to restricted awards,18,usd_m,0,36
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock award activity,Weighted-average years to be recognized over,1.12,count,0,37
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock awards,Weighted-average grant-date fair value per award,509.03,usd_per_share,0,38
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock awards,Total fair value of restricted stock and other stock-based awards vested,27,usd_m,0,39
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2025,2025-12-31,Restricted stock awards,Tax benefit relating to restricted award activity,7,usd_m,0,40
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2024,2024-12-31,Restricted stock awards,Weighted-average grant-date fair value per award,419.95,usd_per_share,0,38
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2024,2024-12-31,Restricted stock awards,Total fair value of restricted stock and other stock-based awards vested,31,usd_m,0,39
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2024,2024-12-31,Restricted stock awards,Tax benefit relating to restricted award activity,8,usd_m,0,40
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2023,2023-12-31,Restricted stock awards,Weighted-average grant-date fair value per award,337.63,usd_per_share,0,38
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2023,2023-12-31,Restricted stock awards,Total fair value of restricted stock and other stock-based awards vested,27,usd_m,0,39
+Form10A_2026-05-27,460,NOTE_EQUITY,FY2023,2023-12-31,Restricted stock awards,Tax benefit relating to restricted award activity,7,usd_m,0,40
+Form10A_2026-05-27,464,NOTE_LEASES,FY2025,2025-12-31,Lease balance sheet,Lease right-of-use assets,16,usd_m,0,1
+Form10A_2026-05-27,464,NOTE_LEASES,FY2024,2024-12-31,Lease balance sheet,Lease right-of-use assets,20,usd_m,0,1
+Form10A_2026-05-27,464,NOTE_LEASES,FY2025,2025-12-31,Lease balance sheet,Current lease liabilities,7,usd_m,0,2
+Form10A_2026-05-27,464,NOTE_LEASES,FY2025,2025-12-31,Lease balance sheet,Non-current lease liabilities,11,usd_m,0,3
+Form10A_2026-05-27,464,NOTE_LEASES,FY2024,2024-12-31,Lease balance sheet,Current lease liabilities,7,usd_m,0,2
+Form10A_2026-05-27,464,NOTE_LEASES,FY2024,2024-12-31,Lease balance sheet,Non-current lease liabilities,16,usd_m,0,3
+Form10A_2026-05-27,464,NOTE_LEASES,FY2025,2025-12-31,Lease expense,Lease expense for our operating leases,6,usd_m,0,4
+Form10A_2026-05-27,464,NOTE_LEASES,FY2024,2024-12-31,Lease expense,Lease expense for our operating leases,6,usd_m,0,4
+Form10A_2026-05-27,464,NOTE_LEASES,FY2023,2023-12-31,Lease expense,Lease expense for our operating leases,6,usd_m,0,4
+Form10A_2026-05-27,464,NOTE_LEASES,FY2025,2025-12-31,Supplemental,Operating cash flows for operating leases,8,usd_m,0,5
+Form10A_2026-05-27,464,NOTE_LEASES,FY2024,2024-12-31,Supplemental,Operating cash flows for operating leases,7,usd_m,0,5
+Form10A_2026-05-27,464,NOTE_LEASES,FY2023,2023-12-31,Supplemental,Operating cash flows for operating leases,7,usd_m,0,5
+Form10A_2026-05-27,464,NOTE_LEASES,FY2025,2025-12-31,Lease terms,Weighted-average remaining lease term (years),4.7,count,0,7
+Form10A_2026-05-27,464,NOTE_LEASES,FY2025,2025-12-31,Lease terms,Weighted-average discount rate,2.79,pct,0,8
+Form10A_2026-05-27,464,NOTE_LEASES,FY2024,2024-12-31,Lease terms,Weighted-average remaining lease term (years),4.1,count,0,7
+Form10A_2026-05-27,464,NOTE_LEASES,FY2024,2024-12-31,Lease terms,Weighted-average discount rate,2.78,pct,0,8
+Form10A_2026-05-27,464,NOTE_LEASES,FY2025,2025-12-31,Maturities,2026,7,usd_m,0,9
+Form10A_2026-05-27,464,NOTE_LEASES,FY2025,2025-12-31,Maturities,Present value of lease liabilities,18,usd_m,1,17
+Form10A_2026-05-27,465,NOTE_LEASES,FY2025,2025-12-31,Not yet commenced,lease agreements not yet commenced - total estimated future lease payments (2026 through 2037),63,usd_m,0,18
+Form10A_2026-05-27,465,NOTE_RELATED,FY2025,2025-12-31,Related party summary,Data sharing revenues,3,usd_m,0,1
+Form10A_2026-05-27,465,NOTE_RELATED,FY2025,2025-12-31,Related party summary,Data sharing expenses (1),1,usd_m,0,2
+Form10A_2026-05-27,465,NOTE_RELATED,FY2025,2025-12-31,Related party summary,Corporate allocations from Parent (2),112,usd_m,0,3
+Form10A_2026-05-27,465,NOTE_RELATED,FY2025,2025-12-31,Related party summary,Total expenses,113,usd_m,1,4
+Form10A_2026-05-27,465,NOTE_RELATED,FY2025,2025-12-31,Related party summary,"Related party loan interest expense, net",14,usd_m,0,6
+Form10A_2026-05-27,465,NOTE_RELATED,FY2024,2024-12-31,Related party summary,Data sharing revenues,3,usd_m,0,1
+Form10A_2026-05-27,465,NOTE_RELATED,FY2024,2024-12-31,Related party summary,Data sharing expenses (1),1,usd_m,0,2
+Form10A_2026-05-27,465,NOTE_RELATED,FY2024,2024-12-31,Related party summary,Corporate allocations from Parent (2),90,usd_m,0,3
+Form10A_2026-05-27,465,NOTE_RELATED,FY2024,2024-12-31,Related party summary,Total expenses,91,usd_m,1,4
+Form10A_2026-05-27,465,NOTE_RELATED,FY2024,2024-12-31,Related party summary,Related party dividend income (3),-1,usd_m,0,5
+Form10A_2026-05-27,465,NOTE_RELATED,FY2024,2024-12-31,Related party summary,"Related party loan interest expense, net",17,usd_m,0,6
+Form10A_2026-05-27,465,NOTE_RELATED,FY2023,2023-12-31,Related party summary,Data sharing revenues,3,usd_m,0,1
+Form10A_2026-05-27,465,NOTE_RELATED,FY2023,2023-12-31,Related party summary,Data sharing expenses (1),1,usd_m,0,2
+Form10A_2026-05-27,465,NOTE_RELATED,FY2023,2023-12-31,Related party summary,Corporate allocations from Parent (2),89,usd_m,0,3
+Form10A_2026-05-27,465,NOTE_RELATED,FY2023,2023-12-31,Related party summary,Total expenses,90,usd_m,1,4
+Form10A_2026-05-27,465,NOTE_RELATED,FY2023,2023-12-31,Related party summary,Related party dividend income (3),-3,usd_m,0,5
+Form10A_2026-05-27,465,NOTE_RELATED,FY2023,2023-12-31,Related party summary,"Related party loan interest expense, net",18,usd_m,0,6
+Form10A_2026-05-27,466,NOTE_RELATED,FY2025,2025-12-31,Stand-up costs,transaction costs related to the stand-up of Mobility as a standalone entity,21,usd_m,0,7
+Form10A_2026-05-27,466,NOTE_RELATED,FY2025,2025-12-31,Stand-up costs,of which allocated to the Company from Parent (approximately),12,usd_m,0,8
+Form10A_2026-05-27,466,NOTE_RELATED,FY2025,2025-12-31,Related Party Dividend Income,equity interest in IHS Markit Global LLC,1.4,pct,0,9
+Form10A_2026-05-27,466,NOTE_DEBT,FY2025,2025-12-31,Canada Carfax Loan,outstanding loan balance payable to S&P Global inclusive of accrued interest (Due to related parties non-current),230,usd_m,0,3
+Form10A_2026-05-27,466,NOTE_DEBT,FY2024,2024-12-31,Canada Carfax Loan,outstanding loan balance payable to S&P Global inclusive of accrued interest (Due to related parties non-current),236,usd_m,0,3
+Form10A_2026-05-27,466,NOTE_DEBT,FY2025,2025-12-31,Canada Carfax Loan,related party interest expense,14,usd_m,0,4
+Form10A_2026-05-27,466,NOTE_DEBT,FY2025,2025-12-31,Canada Carfax Loan,voluntary prepayments on the principal balance,18,usd_m,0,5
+Form10A_2026-05-27,466,NOTE_DEBT,FY2025,2025-12-31,Canada Carfax Loan,payments of interest,14,usd_m,0,6
+Form10A_2026-05-27,466,NOTE_DEBT,FY2024,2024-12-31,Canada Carfax Loan,related party interest expense,17,usd_m,0,4
+Form10A_2026-05-27,466,NOTE_DEBT,FY2024,2024-12-31,Canada Carfax Loan,voluntary prepayments on the principal balance,45,usd_m,0,5
+Form10A_2026-05-27,466,NOTE_DEBT,FY2024,2024-12-31,Canada Carfax Loan,payments of interest,17,usd_m,0,6
+Form10A_2026-05-27,466,NOTE_DEBT,FY2023,2023-12-31,Canada Carfax Loan,related party interest expense,18,usd_m,0,4
+Form10A_2026-05-27,466,NOTE_DEBT,FY2023,2023-12-31,Canada Carfax Loan,payments of interest,18,usd_m,0,6
+Form10A_2026-05-27,467,NOTE_DEBT,FY2024,2024-12-31,Europe Carfax Loan (receivable),outstanding loan receivable from S&P Global inclusive of accrued interest (Due from related parties - non-current),4,usd_m,0,7
+Form10A_2026-05-27,467,NOTE_DEBT,FY2025,2025-12-31,Europe Carfax Loan (receivable),cash received related to principal and interest (repaid in full 2025-11-30),5,usd_m,0,8
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2025,2025-12-31,Parent company investment components,Cash pooling and general financing activities,-738,usd_m,0,10
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2025,2025-12-31,Parent company investment components,Unbilled corporate allocations,109,usd_m,0,12
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2025,2025-12-31,Parent company investment components,Stock-based compensation,22,usd_m,0,13
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2025,2025-12-31,Parent company investment components,Assumed income tax payments,196,usd_m,0,14
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2025,2025-12-31,Parent company investment components,Net decrease in Parent company investment,-411,usd_m,1,15
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2024,2024-12-31,Parent company investment components,Cash pooling and general financing activities,-637,usd_m,0,10
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2024,2024-12-31,Parent company investment components,Cash contributions from S&P Global used to fund acquisitions,6,usd_m,0,11
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2024,2024-12-31,Parent company investment components,Unbilled corporate allocations,77,usd_m,0,12
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2024,2024-12-31,Parent company investment components,Stock-based compensation,28,usd_m,0,13
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2024,2024-12-31,Parent company investment components,Assumed income tax payments,181,usd_m,0,14
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2024,2024-12-31,Parent company investment components,Net decrease in Parent company investment,-345,usd_m,1,15
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2023,2023-12-31,Parent company investment components,Cash pooling and general financing activities,-599,usd_m,0,10
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2023,2023-12-31,Parent company investment components,Cash contributions from S&P Global used to fund acquisitions,214,usd_m,0,11
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2023,2023-12-31,Parent company investment components,Unbilled corporate allocations,77,usd_m,0,12
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2023,2023-12-31,Parent company investment components,Stock-based compensation,20,usd_m,0,13
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2023,2023-12-31,Parent company investment components,Assumed income tax payments,151,usd_m,0,14
+Form10A_2026-05-27,467,NOTE_EQUITY,FY2023,2023-12-31,Parent company investment components,Net decrease in Parent company investment,-137,usd_m,1,15
+Form10A_2026-05-27,468,NOTE_TAX,FY2025,2025-12-31,Schedule II,Valuation allowances related to deferred tax assets,5,usd_m,0,90
+Form10A_2026-05-27,428,NOTE_DEFREV,Q1-2026,2026-03-31,Unearned Revenue,revenues recognized that were included in the unearned revenue balance at the beginning of the period,38,usd_m,0,1
+Form10A_2026-05-27,429,NOTE_DEFREV,Q1-2026,2026-03-31,Remaining Performance Obligations,aggregate transaction price allocated to remaining performance obligations (majority over next 12 months),92,usd_m,0,2
+Form10A_2026-05-27,424,NOTE_DEFREV,Q1-2026,2026-03-31,Balance sheet,Unearned revenue,94,usd_m,0,3
+Form10A_2026-05-27,429,NOTE_TAX,Q1-2026,2026-03-31,Interim ETR,effective income tax rate,28.7,pct,0,1
+Form10A_2026-05-27,429,NOTE_TAX,Q1-2025,2025-03-31,Interim ETR,effective income tax rate,28.2,pct,0,1
+Form10A_2026-05-27,429,NOTE_TAX,Q1-2026,2026-03-31,Unrecognized tax benefits,total federal state and local and foreign unrecognized tax benefits (excl. interest and penalties),3,usd_m,0,103
+Form10A_2026-05-27,429,NOTE_TAX,FY2025,2025-12-31,Unrecognized tax benefits,total federal state and local and foreign unrecognized tax benefits (excl. interest and penalties),2,usd_m,0,103
+Form10A_2026-05-27,423,NOTE_OCI,Q1-2026,2026-03-31,OCI,Foreign currency translation adjustments,1,usd_m,0,1
+Form10A_2026-05-27,423,NOTE_OCI,Q1-2025,2025-03-31,OCI,Foreign currency translation adjustments,-1,usd_m,0,1
+Form10A_2026-05-27,426,NOTE_OCI,Q1-2026,2026-03-31,AOCI balance,Accumulated Other Comprehensive Income (Loss) balance,-3,usd_m,1,2
+Form10A_2026-05-27,426,NOTE_OCI,Q1-2025,2025-03-31,AOCI balance,Accumulated Other Comprehensive Income (Loss) balance,2,usd_m,1,2
+Form10A_2026-05-27,426,NOTE_EQUITY,Q1-2026,2026-03-31,Parent company investment roll-forward,Comprehensive income net of tax (net income),55,usd_m,0,2
+Form10A_2026-05-27,426,NOTE_EQUITY,Q1-2026,2026-03-31,Parent company investment roll-forward,Net increase in Parent company investment,42,usd_m,0,3
+Form10A_2026-05-27,426,NOTE_EQUITY,Q1-2026,2026-03-31,Parent company investment roll-forward,Parent Company Investment balance,11586,usd_m,1,4
+Form10A_2026-05-27,426,NOTE_EQUITY,Q1-2025,2025-03-31,Parent company investment roll-forward,Comprehensive income net of tax (net income),58,usd_m,0,2
+Form10A_2026-05-27,426,NOTE_EQUITY,Q1-2025,2025-03-31,Parent company investment roll-forward,Net decrease in Parent company investment,-44,usd_m,0,3
+Form10A_2026-05-27,426,NOTE_EQUITY,Q1-2025,2025-03-31,Parent company investment roll-forward,Parent Company Investment balance,11694,usd_m,1,4
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Actual,Cash and cash equivalents,122,usd_m,0,20
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Pro Forma,Cash and cash equivalents,200,usd_m,0,20
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Actual,Due to related parties – non-current (1),227,usd_m,0,21
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Pro Forma,Long-term debt (2),1981,usd_m,0,22
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Actual,Total indebtedness,227,usd_m,1,23
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Pro Forma,Total indebtedness,1981,usd_m,1,23
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Pro Forma,Common stock par value $0.01 per share (3),3,usd_m,0,24
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Pro Forma,Additional paid-in capital (4),9927,usd_m,0,25
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Actual,Accumulated other comprehensive (loss) income,-3,usd_m,0,26
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Pro Forma,Accumulated other comprehensive (loss) income,-3,usd_m,0,26
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Actual,Parent company investment (4),11586,usd_m,0,27
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Actual,Total equity,11583,usd_m,1,28
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Pro Forma,Total equity,9927,usd_m,1,28
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Actual,Total capitalization,11810,usd_m,1,29
+Form10A_2026-05-27,331,NOTE_DEBT,Q1-2026,2026-03-31,Capitalization - Pro Forma,Total capitalization,11908,usd_m,1,29
+Form10A_2026-05-27,331,NOTE_EQUITY,Q1-2026,2026-03-31,Capitalization - Pro Forma,shares authorized,1000000000,count,0,31
+Form10A_2026-05-27,331,NOTE_EQUITY,Q1-2026,2026-03-31,Capitalization - Pro Forma,shares issued and outstanding pro forma (based on S&P Global shares outstanding as of May 15 2026),295077160,count,0,32
+Form10A_2026-05-27,331,NOTE_EQUITY,Q1-2026,2026-03-31,Capitalization - Pro Forma,common stock par value per share,0.01,usd_per_share,0,33
+Form10A_2026-05-27,331,NOTE_EQUITY,Q1-2026,2026-03-31,Distribution,distribution ratio (Mobility shares per S&P Global share),1,count,0,34
+Form10A_2026-05-27,339,NOTE_EQUITY,Q1-2026,2026-03-31,Pro forma EPS,weighted-average shares used for pro forma basic and diluted EPS (Q1-2026 and FY2025),295077160,count,0,35
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Revolving credit facility,revolving credit facility capacity (undrawn at Separation),500,usd_m,0,40
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Revolving credit facility,deferred debt issuance costs - credit facility (Other non-current assets),3,usd_m,0,41
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,senior notes aggregate principal amount,2000,usd_m,1,42
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,5.050% senior notes due 2029 - principal,650,usd_m,0,43
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,5.450% senior notes due 2031 - principal,650,usd_m,0,44
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,6.050% senior notes due 2036 - principal,700,usd_m,0,45
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,5.050% senior notes due 2029 - coupon,5.05,pct,0,46
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,5.450% senior notes due 2031 - coupon,5.45,pct,0,47
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,6.050% senior notes due 2036 - coupon,6.05,pct,0,48
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,debt issuance costs - senior notes,16,usd_m,0,49
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,total original issue discount,3,usd_m,0,50
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Spin financing,expected net cash proceeds from Debt Financing Transactions,1978,usd_m,0,51
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Spin financing,net cash distribution to S&P Global (approximately; substantially concurrently with the Separation),1900,usd_m,0,52
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Spin financing,target cash balance upon completion of the Separation (approximately),200,usd_m,0,53
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Pro forma cash adjustments (c),Cash proceeds from issuance of senior notes,1997,usd_m,0,60
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Pro forma cash adjustments (c),Cash payment of debt issuance costs – senior notes,-16,usd_m,0,61
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Pro forma cash adjustments (c),Cash payment of debt issuance costs – revolving credit facility,-3,usd_m,0,62
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Pro forma cash adjustments (c),Net cash distribution to S&P Global,-1900,usd_m,0,63
+Form10A_2026-05-27,337,NOTE_DEBT,Q1-2026,2026-03-31,Pro forma cash adjustments (c),Total pro forma adjustment to Cash and cash equivalents,78,usd_m,1,64
+Form10A_2026-05-27,338,NOTE_EQUITY,Q1-2026,2026-03-31,Pro forma APIC adjustments (g),Cash distribution to S&P Global,-1900,usd_m,0,70
+Form10A_2026-05-27,338,NOTE_EQUITY,Q1-2026,2026-03-31,Pro forma APIC adjustments (g),Settlement of related party balances,236,usd_m,0,71
+Form10A_2026-05-27,338,NOTE_EQUITY,Q1-2026,2026-03-31,Pro forma APIC adjustments (g),Liabilities retained by S&P Global,8,usd_m,0,72
+Form10A_2026-05-27,338,NOTE_EQUITY,Q1-2026,2026-03-31,Pro forma APIC adjustments (g),Common stock issuance,-3,usd_m,0,73
+Form10A_2026-05-27,338,NOTE_EQUITY,Q1-2026,2026-03-31,Pro forma APIC adjustments (g),Parent Company investment reclassification,11586,usd_m,0,74
+Form10A_2026-05-27,338,NOTE_EQUITY,Q1-2026,2026-03-31,Pro forma APIC adjustments (g),Total pro forma adjustment to Additional paid-in capital,9927,usd_m,1,75
+Form10A_2026-05-27,338,NOTE_DEBT,Q1-2026,2026-03-31,Pro forma interest (h),weighted average interest rate incl. amortization of deferred financing fees and OID,5.74,pct,0,80
+Form10A_2026-05-27,338,NOTE_DEBT,Q1-2026,2026-03-31,Pro forma interest (h),Interest expense on and amortization of original discount and deferred issuance costs related to the Debt Financing Transactions,29,usd_m,0,81
+Form10A_2026-05-27,338,NOTE_DEBT,Q1-2026,2026-03-31,Pro forma interest (h),"Total pro forma adjustment to Interest expense, net",26,usd_m,1,83
+Form10A_2026-05-27,338,NOTE_DEBT,FY2025,2025-12-31,Pro forma interest (h),Interest expense on and amortization of original discount and deferred issuance costs related to the Debt Financing Transactions,114,usd_m,0,81
+Form10A_2026-05-27,338,NOTE_DEBT,FY2025,2025-12-31,Pro forma interest (h),Removal of Interest expense on related party note settled as distribution to S&P Global,-14,usd_m,0,82
+Form10A_2026-05-27,338,NOTE_DEBT,FY2025,2025-12-31,Pro forma interest (h),"Total pro forma adjustment to Interest expense, net",100,usd_m,1,83
+Form10A_2026-05-27,338,NOTE_COMMIT,Q1-2026,2026-03-31,Pro forma (e),restructuring liabilities retained by S&P Global (Other current liabilities),8,usd_m,0,90
+Form10A_2026-05-27,339,NOTE_RELATED,FY2025,2025-12-31,TSA (j),Incremental costs associated with TSA,3,usd_m,0,20
+Form10A_2026-05-27,339,NOTE_RELATED,FY2025,2025-12-31,Pro forma S&G (l),Net impact on rent expense for leases associated with new corporate offices,9,usd_m,0,21
+Form10A_2026-05-27,339,NOTE_RELATED,FY2025,2025-12-31,Pro forma S&G (l),Total pro forma adjustment to Selling and general expenses,12,usd_m,1,22
+Form10A_2026-05-27,339,NOTE_RELATED,Q1-2026,2026-03-31,Pro forma S&G (l),Net impact on rent expense for leases associated with new corporate offices,2,usd_m,0,21
+Form10A_2026-05-27,339,NOTE_RELATED,Q1-2026,2026-03-31,Pro forma S&G (l),Total pro forma adjustment to Selling and general expenses,2,usd_m,1,22
+Form10A_2026-05-27,327,NOTE_RELATED,Q1-2026,2026-03-31,TSA terms,TSA service period up to (months following the Distribution),18,count,0,23
+Form10A_2026-05-27,339,NOTE_LEASES,Q1-2026,2026-03-31,Pro forma new corporate office leases (k),Right-of-use assets,54,usd_m,0,30
+Form10A_2026-05-27,339,NOTE_LEASES,Q1-2026,2026-03-31,Pro forma new corporate office leases (k),Current operating lease liabilities,1,usd_m,0,30
+Form10A_2026-05-27,339,NOTE_LEASES,Q1-2026,2026-03-31,Pro forma new corporate office leases (k),Non-current operating lease liabilities,53,usd_m,0,30
+Form10A_2026-05-27,363,NOTE_DEBT,Q1-2026,2026-03-31,Revolving Credit Facility (entered 2026-05-06),Credit Facility tenor from Initial Availability Date (years),5,count,0,100
+Form10A_2026-05-27,364,NOTE_DEBT,Q1-2026,2026-03-31,Revolving Credit Facility,applicable margin term rate loans - minimum,1.0,pct,0,101
+Form10A_2026-05-27,364,NOTE_DEBT,Q1-2026,2026-03-31,Revolving Credit Facility,applicable margin term rate loans - maximum,1.625,pct,0,102
+Form10A_2026-05-27,364,NOTE_DEBT,Q1-2026,2026-03-31,Revolving Credit Facility,applicable margin base rate loans - minimum,0,pct,0,103
+Form10A_2026-05-27,364,NOTE_DEBT,Q1-2026,2026-03-31,Revolving Credit Facility,applicable margin base rate loans - maximum,0.625,pct,0,104
+Form10A_2026-05-27,364,NOTE_DEBT,Q1-2026,2026-03-31,Revolving Credit Facility,covenant: maximum total net leverage ratio (x),3.5,count,0,105
+Form10A_2026-05-27,364,NOTE_DEBT,Q1-2026,2026-03-31,Revolving Credit Facility,covenant: step-up maximum total net leverage ratio after qualifying material acquisition (x; four fiscal quarters),4.0,count,0,106
+Form10A_2026-05-27,364,NOTE_DEBT,Q1-2026,2026-03-31,Revolving Credit Facility,maturity extension options (one-year each; maximum number),2,count,0,107
+Form10A_2026-05-27,364,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,special mandatory redemption price (% of principal) if escrow conditions not met by 2027-06-30,101,pct,0,108
+Form10A_2026-05-27,364,NOTE_DEBT,Q1-2026,2026-03-31,Senior notes,approximate cash payment to S&P Global from senior notes proceeds (billion),1.9,usd_bn_text,0,109
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Operating leases (1) - Less than 1 Year,7,usd_m,0,10
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Operating leases (1) - 1-3 Years,4,usd_m,0,11
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Operating leases (1) - 3-5 Years,4,usd_m,0,12
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Operating leases (1) - More than 5 Years,4,usd_m,0,13
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Operating leases (1) - Total,19,usd_m,1,14
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Purchase obligations and other (2) - Less than 1 Year,44,usd_m,0,15
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Purchase obligations and other (2) - 1-3 Years,36,usd_m,0,16
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Purchase obligations and other (2) - 3-5 Years,10,usd_m,0,17
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Purchase obligations and other (2) - Total,90,usd_m,1,19
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Total contractual cash obligations - Less than 1 Year,51,usd_m,1,20
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Total contractual cash obligations - 1-3 Years,40,usd_m,1,21
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Total contractual cash obligations - 3-5 Years,14,usd_m,1,22
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Total contractual cash obligations - More than 5 Years,4,usd_m,1,23
+Form10A_2026-05-27,365,NOTE_COMMIT,FY2025,2025-12-31,Contractual obligations,Total contractual cash obligations - Total,109,usd_m,1,24
+10Q_Q2-2026,11,NOTE_DEBT,Q2-2026,2026-06-30,Debt table,5.050% Senior notes due 2029,650,usd_m,0,201
+10Q_Q2-2026,11,NOTE_DEBT,FY2025,2025-12-31,Debt table (comparative),5.050% Senior notes due 2029,0,usd_m,0,201
+10Q_Q2-2026,11,NOTE_DEBT,Q2-2026,2026-06-30,Debt table,5.450% Senior notes due 2031,650,usd_m,0,202
+10Q_Q2-2026,11,NOTE_DEBT,FY2025,2025-12-31,Debt table (comparative),5.450% Senior notes due 2031,0,usd_m,0,202
+10Q_Q2-2026,11,NOTE_DEBT,Q2-2026,2026-06-30,Debt table,6.050% Senior notes due 2036,700,usd_m,0,203
+10Q_Q2-2026,11,NOTE_DEBT,FY2025,2025-12-31,Debt table (comparative),6.050% Senior notes due 2036,0,usd_m,0,203
+10Q_Q2-2026,11,NOTE_DEBT,Q2-2026,2026-06-30,Debt table,Less: Unamortized debt issuance costs and discount on debt,-19,usd_m,0,204
+10Q_Q2-2026,11,NOTE_DEBT,FY2025,2025-12-31,Debt table (comparative),Less: Unamortized debt issuance costs and discount on debt,0,usd_m,0,204
+10Q_Q2-2026,11,NOTE_DEBT,Q2-2026,2026-06-30,Debt table,Total debt,1981,usd_m,1,205
+10Q_Q2-2026,11,NOTE_DEBT,FY2025,2025-12-31,Debt table (comparative),Total debt,0,usd_m,1,205
+10Q_Q2-2026,11,NOTE_DEBT,Q2-2026,2026-06-30,Senior Notes (issued 2026-05-29; escrow released 2026-06-30; interest Jun 15/Dec 15 from 2026-12-15),aggregate principal amount issued,2000,usd_m,0,210
+10Q_Q2-2026,12,NOTE_DEBT,Q2-2026,2026-06-30,Senior Notes,debt issuance costs incurred (approximately),16.0,usd_m,0,211
+10Q_Q2-2026,12,NOTE_DEBT,Q2-2026,2026-06-30,Senior Notes,change of control repurchase price (% of principal),101,pct,0,212
+10Q_Q2-2026,12,NOTE_DEBT,Q2-2026,2026-06-30,Spin distribution,dividend paid to S&P Global as consideration for transfer of assets liabilities and entities (printed $2.0 billion),2000,usd_m,0,213
+10Q_Q2-2026,7,NOTE_DEBT,6M-2026,2026-06-30,Cash flow,Proceeds from issuance of Senior Notes,1986,usd_m,0,214
+10Q_Q2-2026,7,NOTE_DEBT,6M-2026,2026-06-30,Cash flow,Net transfers to Parent,-2011,usd_m,0,215
+10Q_Q2-2026,7,NOTE_DEBT,6M-2026,2026-06-30,Supplemental non-cash,Consolidation of Canada Carfax Loan,230,usd_m,0,216
+10Q_Q2-2026,7,NOTE_DEBT,6M-2026,2026-06-30,Supplemental non-cash,Accrued debt issuance costs,5,usd_m,0,217
+10Q_Q2-2026,12,NOTE_DEBT,Q2-2026,2026-06-30,Revolving Credit Facility (matures 2031-07-01; available 2026-07-01),Credit Facility commitment,500,usd_m,0,220
+10Q_Q2-2026,12,NOTE_DEBT,Q2-2026,2026-06-30,Revolving Credit Facility,optional capacity increase (accordion) up to,250,usd_m,0,221
+10Q_Q2-2026,12,NOTE_DEBT,Q2-2026,2026-06-30,Revolving Credit Facility,applicable margin term rate loans - minimum,1.0,pct,0,222
+10Q_Q2-2026,12,NOTE_DEBT,Q2-2026,2026-06-30,Revolving Credit Facility,applicable margin term rate loans - maximum,1.625,pct,0,223
+10Q_Q2-2026,12,NOTE_DEBT,Q2-2026,2026-06-30,Revolving Credit Facility,applicable margin base rate loans - minimum,0,pct,0,224
+10Q_Q2-2026,12,NOTE_DEBT,Q2-2026,2026-06-30,Revolving Credit Facility,applicable margin base rate loans - maximum,0.625,pct,0,225
+10Q_Q2-2026,13,NOTE_DEBT,Q2-2026,2026-06-30,Revolving Credit Facility,covenant: maximum total net leverage ratio (x),3.5,count,0,226
+10Q_Q2-2026,13,NOTE_DEBT,Q2-2026,2026-06-30,Revolving Credit Facility,covenant: step-up maximum after qualifying material acquisition (x),4.0,count,0,227
+10Q_Q2-2026,13,NOTE_DEBT,Q2-2026,2026-06-30,Revolving Credit Facility,outstanding borrowings,0,usd_m,0,228
+10Q_Q2-2026,17,NOTE_DEBT,6M-2026,2026-06-30,Canada Carfax Loan (contributed by S&P Global 2026-06-25; eliminated in consolidation),related party interest expense,7,usd_m,0,230
+10Q_Q2-2026,17,NOTE_DEBT,6M-2025,2025-06-30,Canada Carfax Loan,related party interest expense,7,usd_m,0,230
+10Q_Q2-2026,17,NOTE_DEBT,6M-2026,2026-06-30,Canada Carfax Loan,voluntary prepayments on principal,0,usd_m,0,231
+10Q_Q2-2026,17,NOTE_DEBT,6M-2025,2025-06-30,Canada Carfax Loan,voluntary prepayments on principal,18,usd_m,0,231
+10Q_Q2-2026,17,NOTE_DEBT,6M-2026,2026-06-30,Canada Carfax Loan,payments of interest,7,usd_m,0,232
+10Q_Q2-2026,17,NOTE_DEBT,6M-2025,2025-06-30,Canada Carfax Loan,payments of interest,7,usd_m,0,232
+10Q_Q2-2026,17,NOTE_DEBT,FY2025,2025-12-31,Canada Carfax Loan,outstanding loan balance payable to S&P Global inclusive of accrued interest,230,usd_m,0,233
+10Q_Q2-2026,13,NOTE_TAX,Q2-2026,2026-06-30,Interim ETR,effective income tax rate,29.3,pct,0,1
+10Q_Q2-2026,13,NOTE_TAX,Q2-2025,2025-06-30,Interim ETR,effective income tax rate,29.3,pct,0,1
+10Q_Q2-2026,13,NOTE_TAX,6M-2026,2026-06-30,Interim ETR,effective income tax rate,29.4,pct,0,1
+10Q_Q2-2026,13,NOTE_TAX,6M-2025,2025-06-30,Interim ETR,effective income tax rate,28.9,pct,0,1
+10Q_Q2-2026,13,NOTE_PENSION,Q2-2026,2026-06-30,Defined Contribution Plan,401(k) plan expense for Mobility Global employees,5,usd_m,0,1
+10Q_Q2-2026,13,NOTE_PENSION,Q2-2025,2025-06-30,Defined Contribution Plan,401(k) plan expense for Mobility Global employees,6,usd_m,0,1
+10Q_Q2-2026,13,NOTE_PENSION,6M-2026,2026-06-30,Defined Contribution Plan,401(k) plan expense for Mobility Global employees,13,usd_m,0,1
+10Q_Q2-2026,13,NOTE_PENSION,6M-2025,2025-06-30,Defined Contribution Plan,401(k) plan expense for Mobility Global employees,12,usd_m,0,1
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2026,2026-06-30,Related party summary,Data sharing revenues,1,usd_m,0,1
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2025,2025-06-30,Related party summary,Data sharing revenues,1,usd_m,0,1
+10Q_Q2-2026,16,NOTE_RELATED,6M-2026,2026-06-30,Related party summary,Data sharing revenues,2,usd_m,0,1
+10Q_Q2-2026,16,NOTE_RELATED,6M-2025,2025-06-30,Related party summary,Data sharing revenues,2,usd_m,0,1
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2026,2026-06-30,Related party summary,Data sharing expenses (1),1,usd_m,0,2
+10Q_Q2-2026,16,NOTE_RELATED,6M-2026,2026-06-30,Related party summary,Data sharing expenses (1),1,usd_m,0,2
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2026,2026-06-30,Related party summary,Corporate allocations from Parent (2),36,usd_m,0,3
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2025,2025-06-30,Related party summary,Corporate allocations from Parent (2),24,usd_m,0,3
+10Q_Q2-2026,16,NOTE_RELATED,6M-2026,2026-06-30,Related party summary,Corporate allocations from Parent (2),64,usd_m,0,3
+10Q_Q2-2026,16,NOTE_RELATED,6M-2025,2025-06-30,Related party summary,Corporate allocations from Parent (2),46,usd_m,0,3
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2026,2026-06-30,Related party summary,Total expenses,37,usd_m,1,4
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2025,2025-06-30,Related party summary,Total expenses,24,usd_m,1,4
+10Q_Q2-2026,16,NOTE_RELATED,6M-2026,2026-06-30,Related party summary,Total expenses,65,usd_m,1,4
+10Q_Q2-2026,16,NOTE_RELATED,6M-2025,2025-06-30,Related party summary,Total expenses,46,usd_m,1,4
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2026,2026-06-30,Related party summary,"Related party loan interest expense, net",4,usd_m,0,5
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2025,2025-06-30,Related party summary,"Related party loan interest expense, net",3,usd_m,0,5
+10Q_Q2-2026,16,NOTE_RELATED,6M-2026,2026-06-30,Related party summary,"Related party loan interest expense, net",7,usd_m,0,5
+10Q_Q2-2026,16,NOTE_RELATED,6M-2025,2025-06-30,Related party summary,"Related party loan interest expense, net",7,usd_m,0,5
+10Q_Q2-2026,17,NOTE_RELATED,Q2-2026,2026-06-30,Stand-up costs,transaction costs related to the stand-up of Mobility Global as a stand-alone entity,36,usd_m,0,7
+10Q_Q2-2026,17,NOTE_RELATED,Q2-2026,2026-06-30,Stand-up costs,of which allocated to the Company from S&P Global (approximately),15,usd_m,0,8
+10Q_Q2-2026,17,NOTE_RELATED,6M-2026,2026-06-30,Stand-up costs,transaction costs related to the stand-up of Mobility Global as a stand-alone entity,57,usd_m,0,7
+10Q_Q2-2026,17,NOTE_RELATED,6M-2026,2026-06-30,Stand-up costs,of which allocated to the Company from S&P Global (approximately),22,usd_m,0,8
+10Q_Q2-2026,17,NOTE_RELATED,Q2-2025,2025-06-30,Stand-up costs,transaction costs related to the stand-up of Mobility Global as a stand-alone entity,2,usd_m,0,7
+10Q_Q2-2026,17,NOTE_RELATED,Q2-2025,2025-06-30,Stand-up costs,of which allocated to the Company from S&P Global (approximately),2,usd_m,0,8
+10Q_Q2-2026,17,NOTE_RELATED,6M-2025,2025-06-30,Stand-up costs,transaction costs related to the stand-up of Mobility Global as a stand-alone entity,2,usd_m,0,7
+10Q_Q2-2026,17,NOTE_RELATED,6M-2025,2025-06-30,Stand-up costs,of which allocated to the Company from S&P Global (approximately),2,usd_m,0,8
+10Q_Q2-2026,16,NOTE_RELATED,Q2-2026,2026-06-30,Corporate allocations footnote (2),severance and other employee related costs included in corporate allocations,2,usd_m,0,9
+10Q_Q2-2026,16,NOTE_RELATED,6M-2026,2026-06-30,Corporate allocations footnote (2),severance and other employee related costs included in corporate allocations,2,usd_m,0,9
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2026,2026-06-30,Parent company investment components,Cash pooling and general financing activities,-1886,usd_m,0,10
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2025,2025-06-30,Parent company investment components,Cash pooling and general financing activities,-216,usd_m,0,10
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2026,2026-06-30,Parent company investment components,Cash pooling and general financing activities,-1916,usd_m,0,10
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2025,2025-06-30,Parent company investment components,Cash pooling and general financing activities,-328,usd_m,0,10
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2026,2026-06-30,Parent company investment components,Unbilled corporate allocations,33,usd_m,0,11
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2025,2025-06-30,Parent company investment components,Unbilled corporate allocations,24,usd_m,0,11
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2026,2026-06-30,Parent company investment components,Unbilled corporate allocations,60,usd_m,0,11
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2025,2025-06-30,Parent company investment components,Unbilled corporate allocations,45,usd_m,0,11
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2026,2026-06-30,Parent company investment components,Stock-based compensation,5,usd_m,0,12
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2025,2025-06-30,Parent company investment components,Stock-based compensation,4,usd_m,0,12
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2026,2026-06-30,Parent company investment components,Stock-based compensation,9,usd_m,0,12
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2025,2025-06-30,Parent company investment components,Stock-based compensation,9,usd_m,0,12
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2026,2026-06-30,Parent company investment components,Assumed income tax payments,42,usd_m,0,13
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2025,2025-06-30,Parent company investment components,Assumed income tax payments,51,usd_m,0,13
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2026,2026-06-30,Parent company investment components,Assumed income tax payments,83,usd_m,0,13
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2025,2025-06-30,Parent company investment components,Assumed income tax payments,93,usd_m,0,13
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2026,2026-06-30,Parent company investment components,Net decrease in Parent company investment,-1806,usd_m,1,14
+10Q_Q2-2026,17,NOTE_EQUITY,Q2-2025,2025-06-30,Parent company investment components,Net decrease in Parent company investment,-137,usd_m,1,14
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2026,2026-06-30,Parent company investment components,Net decrease in Parent company investment,-1764,usd_m,1,14
+10Q_Q2-2026,17,NOTE_EQUITY,6M-2025,2025-06-30,Parent company investment components,Net decrease in Parent company investment,-181,usd_m,1,14
+10Q_Q2-2026,8,NOTE_EQUITY,Q2-2026,2026-06-30,Parent company investment roll-forward,Parent Company Investment opening balance,11586,usd_m,1,1
+10Q_Q2-2026,8,NOTE_EQUITY,Q2-2026,2026-06-30,Parent company investment roll-forward,Comprehensive income net of tax (net income),53,usd_m,0,2
+10Q_Q2-2026,8,NOTE_EQUITY,Q2-2026,2026-06-30,Parent company investment roll-forward,Net decrease in Parent company investment,-1806,usd_m,0,3
+10Q_Q2-2026,8,NOTE_EQUITY,Q2-2026,2026-06-30,Parent company investment roll-forward,Parent Company Investment balance,9833,usd_m,1,4
+10Q_Q2-2026,8,NOTE_EQUITY,Q2-2025,2025-06-30,Parent company investment roll-forward,Parent Company Investment opening balance,11694,usd_m,1,1
+10Q_Q2-2026,8,NOTE_EQUITY,Q2-2025,2025-06-30,Parent company investment roll-forward,Comprehensive income net of tax (net income),65,usd_m,0,2
+10Q_Q2-2026,8,NOTE_EQUITY,Q2-2025,2025-06-30,Parent company investment roll-forward,Net decrease in Parent company investment,-137,usd_m,0,3
+10Q_Q2-2026,8,NOTE_EQUITY,Q2-2025,2025-06-30,Parent company investment roll-forward,Parent Company Investment balance,11622,usd_m,1,4
+10Q_Q2-2026,11,NOTE_EQUITY,Q2-2026,2026-06-30,Shares,shares of common stock issued and outstanding (basis for basic and diluted EPS),294821320,count,0,30
+10Q_Q2-2026,18,NOTE_EQUITY,Q2-2026,2026-06-30,Distribution (2026-07-01; record date 2026-06-15),distribution ratio (Mobility Global shares per S&P Global share),1,count,0,31
+10Q_Q2-2026,18,NOTE_EQUITY,Q3-2026,2026-09-30,Dividend (declared Aug 2026; record 2026-08-27; payable 2026-09-10),quarterly dividend per share,0.06,usd_per_share,0,32
+10Q_Q2-2026,15,NOTE_EQUITY,Q2-2026,2026-06-30,Stock-based compensation,Stock-based compensation (Adjusted EBITDA reconciliation),5,usd_m,0,33
+10Q_Q2-2026,15,NOTE_EQUITY,Q2-2025,2025-06-30,Stock-based compensation,Stock-based compensation (Adjusted EBITDA reconciliation),4,usd_m,0,33
+10Q_Q2-2026,15,NOTE_EQUITY,6M-2026,2026-06-30,Stock-based compensation,Stock-based compensation (Adjusted EBITDA reconciliation),9,usd_m,0,33
+10Q_Q2-2026,15,NOTE_EQUITY,6M-2025,2025-06-30,Stock-based compensation,Stock-based compensation (Adjusted EBITDA reconciliation),9,usd_m,0,33
+10Q_Q2-2026,5,NOTE_OCI,Q2-2026,2026-06-30,OCI,Foreign currency translation adjustments,5,usd_m,0,1
+10Q_Q2-2026,5,NOTE_OCI,Q2-2025,2025-06-30,OCI,Foreign currency translation adjustments,-7,usd_m,0,1
+10Q_Q2-2026,5,NOTE_OCI,6M-2026,2026-06-30,OCI,Foreign currency translation adjustments,6,usd_m,0,1
+10Q_Q2-2026,5,NOTE_OCI,6M-2025,2025-06-30,OCI,Foreign currency translation adjustments,-8,usd_m,0,1
+10Q_Q2-2026,8,NOTE_OCI,Q2-2026,2026-06-30,AOCI balance,Accumulated Other Comprehensive Income (Loss) balance,2,usd_m,1,2
+10Q_Q2-2026,8,NOTE_OCI,Q2-2025,2025-06-30,AOCI balance,Accumulated Other Comprehensive Income (Loss) balance,-5,usd_m,1,2
+10Q_Q2-2026,16,NOTE_LEASES,Q2-2026,2026-06-30,Not yet commenced,lease agreements not yet commenced - total estimated future lease payments (2026 through 2037),64,usd_m,0,18
+10Q_Q2-2026,6,NOTE_LEASES,Q2-2026,2026-06-30,Balance sheet,Right of use assets,33,usd_m,0,1
+10Q_Q2-2026,6,NOTE_LEASES,Q2-2026,2026-06-30,Balance sheet,Operating lease liabilities (non-current),27,usd_m,0,3
+10Q_Q2-2026,10,NOTE_DEFREV,6M-2026,2026-06-30,Unearned Revenue,revenues recognized that were included in the unearned revenue balance at the beginning of the period,60,usd_m,0,1
+10Q_Q2-2026,10,NOTE_DEFREV,Q2-2026,2026-06-30,Remaining Performance Obligations,aggregate transaction price allocated to remaining performance obligations (majority over next 12 months),102,usd_m,0,2
+10Q_Q2-2026,6,NOTE_DEFREV,Q2-2026,2026-06-30,Balance sheet,Unearned revenue,102,usd_m,0,3

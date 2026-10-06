@@ -1,0 +1,21 @@
+source_doc,page,statement,fiscal_period,period_end,section,line_item,value,unit,is_subtotal,order_index
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2026,2026-03-31,MD&A Revenue (three months ended March 31),Revenue,455,usd_m,1,1
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2025,2025-03-31,MD&A Revenue (three months ended March 31),Revenue,420,usd_m,1,1
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2026,2026-03-31,MD&A Revenue (three months ended March 31),Subscription revenue,372,usd_m,0,2
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2025,2025-03-31,MD&A Revenue (three months ended March 31),Subscription revenue,343,usd_m,0,2
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2026,2026-03-31,MD&A Revenue (three months ended March 31),Non - subscription revenue,83,usd_m,0,3
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2025,2025-03-31,MD&A Revenue (three months ended March 31),Non - subscription revenue,77,usd_m,0,3
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2026,2026-03-31,MD&A Revenue (three months ended March 31),% of total revenue: Subscription revenue,82,pct,0,4
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2025,2025-03-31,MD&A Revenue (three months ended March 31),% of total revenue: Subscription revenue,82,pct,0,4
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2026,2026-03-31,MD&A Revenue (three months ended March 31),% of total revenue: Non - subscription revenue,18,pct,0,5
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2025,2025-03-31,MD&A Revenue (three months ended March 31),% of total revenue: Non - subscription revenue,18,pct,0,5
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2026,2026-03-31,MD&A Revenue (three months ended March 31),U.S. revenue,376,usd_m,0,6
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2025,2025-03-31,MD&A Revenue (three months ended March 31),U.S. revenue,350,usd_m,0,6
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2026,2026-03-31,MD&A Revenue (three months ended March 31),International revenue,79,usd_m,0,7
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2025,2025-03-31,MD&A Revenue (three months ended March 31),International revenue,70,usd_m,0,7
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2026,2026-03-31,MD&A Revenue (three months ended March 31),% of total revenue: U.S. revenue,83,pct,0,8
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2025,2025-03-31,MD&A Revenue (three months ended March 31),% of total revenue: U.S. revenue,83,pct,0,8
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2026,2026-03-31,MD&A Revenue (three months ended March 31),% of total revenue: International revenue,17,pct,0,9
+Form10A_2026-05-27,346,REV_DISAGG,Q1-2025,2025-03-31,MD&A Revenue (three months ended March 31),% of total revenue: International revenue,17,pct,0,9
+Form10A_2026-05-27,346,KPI,Q1-2026,2026-03-31,MD&A Results of operations,% Operating profit margin,18,pct,0,10
+Form10A_2026-05-27,346,KPI,Q1-2025,2025-03-31,MD&A Results of operations,% Operating profit margin,20,pct,0,10

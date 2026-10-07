@@ -596,3 +596,304 @@ INFO_10K_FY2016,60,SEG_PRED,FY2016,2016-11-30,Note 3 Business Combinations,"CARP
 INFO_10K_FY2016,80,SEG_PRED,FY2016,2016-11-30,Note Commitments and Contingencies - Litigation,"CARFAX antitrust litigation (filed April 23, 2013, prior to acquisition of R.L. Polk & Co.)","Dealer antitrust complaint (S.D.N.Y.) re CARFAX exclusive arrangements; second amended complaint named approx. 469 dealers; summary judgment for CARFAX Sept 30, 2016, appealed Oct 28, 2016; new dealer complaint filed Jan 13, 2017. Only Polk acquisition reference in 10-K; no Polk deal figures printed.",text,0,1
 INFO_10K_FY2016,80,SEG_PRED,FY2016,2016-11-30,Note Commitments and Contingencies - Litigation,CARFAX litigation - auto dealers named as plaintiffs in second amended complaint (approximately),469,count,0,2
 INFO_10K_FY2016,43,SEG_PRED,FY2016,2016-11-30,MD&A Liquidity (narrative),Polk acquisition financing reference,In 2014 began repaying the significant borrowings used to fund the Polk acquisition (no amount printed on this page).,text,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Financial Services,278.3,usd_m,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Financial Services,262.2,usd_m,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Financial Services,563.6,usd_m,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Financial Services,529.5,usd_m,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Financial Services - Percent change Total,6,pct,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Financial Services - Percent change Organic,5,pct,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Financial Services - Percent change Total,6,pct,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Financial Services - Percent change Organic,5,pct,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Transportation,261.6,usd_m,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Transportation,186.8,usd_m,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Transportation,508.2,usd_m,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Transportation,414.5,usd_m,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Transportation - Percent change Total,40,pct,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Transportation - Percent change Organic,38,pct,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Transportation - Percent change Total,23,pct,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Transportation - Percent change Organic,21,pct,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Resources,183.5,usd_m,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Resources,197.5,usd_m,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Resources,366.1,usd_m,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Resources,398.0,usd_m,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Resources - Percent change Total,-7,pct,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Resources - Percent change Organic,-8,pct,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Resources - Percent change Total,-8,pct,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Resources - Percent change Organic,-8,pct,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,CMS,112.6,usd_m,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,CMS,108.7,usd_m,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,CMS,223.7,usd_m,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,CMS,217.3,usd_m,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,CMS - Percent change Total,4,pct,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,CMS - Percent change Organic,2,pct,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,CMS - Percent change Total,3,pct,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,CMS - Percent change Organic,2,pct,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Total recurring fixed revenue,836.0,usd_m,1,5
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Total recurring fixed revenue,755.2,usd_m,1,5
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Total recurring fixed revenue,1661.6,usd_m,1,5
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Total recurring fixed revenue,1559.3,usd_m,1,5
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Total recurring fixed revenue - Percent change Total,11,pct,0,5
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Total recurring fixed revenue - Percent change Organic,9,pct,0,5
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Total recurring fixed revenue - Percent change Total,7,pct,0,5
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring revenue (recurring fixed) by segment,Total recurring fixed revenue - Percent change Organic,6,pct,0,5
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Financial Services - variable,182.6,usd_m,0,6
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Financial Services - variable,158.0,usd_m,0,6
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Financial Services - variable,355.5,usd_m,0,6
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Financial Services - variable,304.8,usd_m,0,6
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Financial Services - variable - Percent change Total,16,pct,0,6
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Financial Services - variable - Percent change Organic,11,pct,0,6
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Financial Services - variable - Percent change Total,17,pct,0,6
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Financial Services - variable - Percent change Organic,14,pct,0,6
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Total recurring revenue,1018.6,usd_m,1,7
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Total recurring revenue,913.2,usd_m,1,7
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Total recurring revenue,2017.1,usd_m,1,7
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Total recurring revenue,1864.1,usd_m,1,7
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Total recurring revenue - Percent change Total,12,pct,0,7
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Total recurring revenue - Percent change Organic,10,pct,0,7
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Total recurring revenue - Percent change Total,8,pct,0,7
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Recurring variable and total recurring,Total recurring revenue - Percent change Organic,7,pct,0,7
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Financial Services,32.5,usd_m,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Financial Services,23.3,usd_m,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Financial Services,58.8,usd_m,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Financial Services,45.2,usd_m,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Financial Services - Percent change Total,39,pct,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Financial Services - Percent change Organic,36,pct,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Financial Services - Percent change Total,30,pct,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Financial Services - Percent change Organic,27,pct,0,1
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Transportation,82.5,usd_m,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Transportation,56.4,usd_m,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Transportation,147.6,usd_m,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Transportation,125.9,usd_m,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Transportation - Percent change Total,46,pct,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Transportation - Percent change Organic,41,pct,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Transportation - Percent change Total,17,pct,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Transportation - Percent change Organic,14,pct,0,2
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Resources,37.3,usd_m,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Resources,21.5,usd_m,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Resources,57.4,usd_m,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Resources,46.6,usd_m,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Resources - Percent change Total,73,pct,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Resources - Percent change Organic,73,pct,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Resources - Percent change Total,23,pct,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Resources - Percent change Organic,23,pct,0,3
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,CMS,10.5,usd_m,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,CMS,12.2,usd_m,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,CMS,20.4,usd_m,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,CMS,25.6,usd_m,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,CMS - Percent change Total,-14,pct,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,CMS - Percent change Organic,-10,pct,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,CMS - Percent change Total,-20,pct,0,4
+INFO_8K_Q2-FY2021,8,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,CMS - Percent change Organic,-18,pct,0,4
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Total non-recurring revenue (caption not printed on Quartr p9; row values only),162.8,usd_m,1,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Total non-recurring revenue (caption not printed on Quartr p9; row values only),113.4,usd_m,1,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Total non-recurring revenue (caption not printed on Quartr p9; row values only),284.2,usd_m,1,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Total non-recurring revenue (caption not printed on Quartr p9; row values only),243.3,usd_m,1,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Total non-recurring revenue (caption not printed on Quartr p9; row values only) - Percent change Total,44,pct,0,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Total non-recurring revenue (caption not printed on Quartr p9; row values only) - Percent change Organic,41,pct,0,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Total non-recurring revenue (caption not printed on Quartr p9; row values only) - Percent change Total,17,pct,0,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Non-recurring revenue by segment,Total non-recurring revenue (caption not printed on Quartr p9; row values only) - Percent change Organic,15,pct,0,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Financial Services,493.4,usd_m,0,1
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Financial Services,443.5,usd_m,0,1
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Financial Services,977.9,usd_m,0,1
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Financial Services,879.5,usd_m,0,1
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Financial Services - Percent change Total,11,pct,0,1
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Financial Services - Percent change Organic,9,pct,0,1
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Financial Services - Percent change Total,11,pct,0,1
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Financial Services - Percent change Organic,9,pct,0,1
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Transportation,344.1,usd_m,0,2
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Transportation,243.2,usd_m,0,2
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Transportation,655.8,usd_m,0,2
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Transportation,540.4,usd_m,0,2
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Transportation - Percent change Total,41,pct,0,2
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Transportation - Percent change Organic,39,pct,0,2
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Transportation - Percent change Total,21,pct,0,2
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Transportation - Percent change Organic,20,pct,0,2
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Resources,220.8,usd_m,0,3
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Resources,219.0,usd_m,0,3
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Resources,423.5,usd_m,0,3
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Resources,444.6,usd_m,0,3
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Resources - Percent change Total,1,pct,0,3
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Resources - Percent change Organic,0,pct,0,3
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Resources - Percent change Total,-5,pct,0,3
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Resources - Percent change Organic,-5,pct,0,3
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,CMS,123.1,usd_m,0,4
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,CMS,120.9,usd_m,0,4
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,CMS,244.1,usd_m,0,4
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,CMS,242.9,usd_m,0,4
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,CMS - Percent change Total,2,pct,0,4
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,CMS - Percent change Organic,1,pct,0,4
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,CMS - Percent change Total,0,pct,0,4
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,CMS - Percent change Organic,0,pct,0,4
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Total revenue,1181.4,usd_m,1,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Total revenue,1026.6,usd_m,1,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Total revenue,2301.3,usd_m,1,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Total revenue,2107.4,usd_m,1,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Total revenue - Percent change Total,15,pct,0,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Total revenue - Percent change Organic,13,pct,0,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Total revenue - Percent change Total,9,pct,0,5
+INFO_8K_Q2-FY2021,9,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Revenue Disclosure - Total revenue by segment,Total revenue - Percent change Organic,8,pct,0,5
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Financial Services,237.8,usd_m,0,1
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Financial Services,231.3,usd_m,0,1
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Financial Services,470.7,usd_m,0,1
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Financial Services,436.7,usd_m,0,1
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Transportation,170.7,usd_m,0,2
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Transportation,101.6,usd_m,0,2
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Transportation,317.4,usd_m,0,2
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Transportation,219.6,usd_m,0,2
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Resources,91.4,usd_m,0,3
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Resources,96.2,usd_m,0,3
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Resources,165.6,usd_m,0,3
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Resources,186.4,usd_m,0,3
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,CMS,28.7,usd_m,0,4
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,CMS,35.0,usd_m,0,4
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,CMS,54.8,usd_m,0,4
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,CMS,64.4,usd_m,0,4
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Shared services,-11.2,usd_m,0,5
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Shared services,-10.1,usd_m,0,5
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Shared services,-24.3,usd_m,0,5
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Shared services,-21.5,usd_m,0,5
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Total Adjusted EBITDA,517.4,usd_m,1,6
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Total Adjusted EBITDA,454.0,usd_m,1,6
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Total Adjusted EBITDA,984.2,usd_m,1,6
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA by segment,Total Adjusted EBITDA,885.6,usd_m,1,6
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Financial Services,48.2,pct,0,1
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Financial Services,52.2,pct,0,1
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Financial Services,48.1,pct,0,1
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Financial Services,49.7,pct,0,1
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Transportation,49.6,pct,0,2
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Transportation,41.8,pct,0,2
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Transportation,48.4,pct,0,2
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Transportation,40.6,pct,0,2
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Resources,41.4,pct,0,3
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Resources,43.9,pct,0,3
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Resources,39.1,pct,0,3
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Resources,41.9,pct,0,3
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,CMS,23.3,pct,0,4
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,CMS,28.9,pct,0,4
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,CMS,22.4,pct,0,4
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,CMS,26.5,pct,0,4
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Total Adjusted EBITDA margin,43.8,pct,0,5
+INFO_8K_Q2-FY2021,11,SEG_PRED,Q2-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Total Adjusted EBITDA margin,44.2,pct,0,5
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2021,2021-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Total Adjusted EBITDA margin,42.8,pct,0,5
+INFO_8K_Q2-FY2021,11,SEG_PRED,6M-FY2020,2020-05-31,Supplemental Segment Operating Profit Measure - Adjusted EBITDA margin by segment,Total Adjusted EBITDA margin,42.0,pct,0,5
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2021,2021-05-31,Revenue by transaction type (consolidated),Recurring fixed,836.0,usd_m,0,1
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2020,2020-05-31,Revenue by transaction type (consolidated),Recurring fixed,755.2,usd_m,0,1
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2021,2021-05-31,Revenue by transaction type (consolidated),Recurring fixed,1661.6,usd_m,0,1
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2020,2020-05-31,Revenue by transaction type (consolidated),Recurring fixed,1559.3,usd_m,0,1
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2021,2021-05-31,Revenue by transaction type (consolidated),Recurring variable,182.6,usd_m,0,2
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2020,2020-05-31,Revenue by transaction type (consolidated),Recurring variable,158.0,usd_m,0,2
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2021,2021-05-31,Revenue by transaction type (consolidated),Recurring variable,355.5,usd_m,0,2
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2020,2020-05-31,Revenue by transaction type (consolidated),Recurring variable,304.8,usd_m,0,2
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2021,2021-05-31,Revenue by transaction type (consolidated),Non-recurring,162.8,usd_m,0,3
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2020,2020-05-31,Revenue by transaction type (consolidated),Non-recurring,113.4,usd_m,0,3
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2021,2021-05-31,Revenue by transaction type (consolidated),Non-recurring,284.2,usd_m,0,3
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2020,2020-05-31,Revenue by transaction type (consolidated),Non-recurring,243.3,usd_m,0,3
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2021,2021-05-31,Revenue by transaction type (consolidated),Total revenue,1181.4,usd_m,1,4
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2020,2020-05-31,Revenue by transaction type (consolidated),Total revenue,1026.6,usd_m,1,4
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2021,2021-05-31,Revenue by transaction type (consolidated),Total revenue,2301.3,usd_m,1,4
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2020,2020-05-31,Revenue by transaction type (consolidated),Total revenue,2107.4,usd_m,1,4
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2021,2021-05-31,Change in revenue by segment (percentage points) - Transportation,Transportation - Organic,39,pct,0,1
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2021,2021-05-31,Change in revenue by segment (percentage points) - Transportation,Transportation - Organic,20,pct,0,1
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2021,2021-05-31,Change in revenue by segment (percentage points) - Transportation,Transportation - Acquisitive,0,pct,0,2
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2021,2021-05-31,Change in revenue by segment (percentage points) - Transportation,Transportation - Acquisitive,0,pct,0,2
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2021,2021-05-31,Change in revenue by segment (percentage points) - Transportation,Transportation - Total,41,pct,0,3
+INFO_8K_Q2-FY2021,2,SEG_PRED,6M-FY2021,2021-05-31,Change in revenue by segment (percentage points) - Transportation,Transportation - Total,21,pct,0,3
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2021,2021-05-31,Change in revenue by segment (percentage points) - Transportation,Transportation - Foreign Currency,2,pct,0,3
+INFO_8K_Q2-FY2021,2,SEG_PRED,Q2-FY2021,2021-05-31,Segment narrative,Transportation narrative (release),Q2 revenue up $101m or 41% to $344m incl. 39% total organic growth; Q2 Adjusted EBITDA up $69m or 68% to $171m.,text,0,1
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2021,2021-05-31,Note 16 Segment Information,Revenue - Transportation,344.1,usd_m,0,1
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2020,2020-05-31,Note 16 Segment Information,Revenue - Transportation,243.2,usd_m,0,1
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2021,2021-05-31,Note 16 Segment Information,Revenue - Transportation,655.8,usd_m,0,1
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2020,2020-05-31,Note 16 Segment Information,Revenue - Transportation,540.4,usd_m,0,1
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2021,2021-05-31,Note 16 Segment Information,Total revenue,1181.4,usd_m,1,2
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2020,2020-05-31,Note 16 Segment Information,Total revenue,1026.6,usd_m,1,2
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2021,2021-05-31,Note 16 Segment Information,Total revenue,2301.3,usd_m,1,2
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2020,2020-05-31,Note 16 Segment Information,Total revenue,2107.4,usd_m,1,2
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2021,2021-05-31,Note 16 Segment Information,Adjusted EBITDA - Transportation,170.7,usd_m,0,3
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2020,2020-05-31,Note 16 Segment Information,Adjusted EBITDA - Transportation,101.6,usd_m,0,3
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2021,2021-05-31,Note 16 Segment Information,Adjusted EBITDA - Transportation,317.4,usd_m,0,3
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2020,2020-05-31,Note 16 Segment Information,Adjusted EBITDA - Transportation,219.6,usd_m,0,3
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2021,2021-05-31,Note 16 Segment Information,Total Adjusted EBITDA,517.4,usd_m,1,4
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2020,2020-05-31,Note 16 Segment Information,Total Adjusted EBITDA,454.0,usd_m,1,4
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2021,2021-05-31,Note 16 Segment Information,Total Adjusted EBITDA,984.2,usd_m,1,4
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2020,2020-05-31,Note 16 Segment Information,Total Adjusted EBITDA,885.6,usd_m,1,4
+INFO_10Q_Q2-FY2021,33,SEG_PRED,6M-FY2021,2021-05-31,Note 16 Segment Information,Major customers,"No single customer accounted for 10 percent or more of total revenue for the three and six months ended May 31, 2021 and May 31, 2020; no material inter-segment revenues.",text,0,5
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Revenue by Segment,Transportation,344.1,usd_m,0,1
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2020,2020-05-31,MD&A Revenue by Segment,Transportation,243.2,usd_m,0,1
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,MD&A Revenue by Segment,Transportation,655.8,usd_m,0,1
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2020,2020-05-31,MD&A Revenue by Segment,Transportation,540.4,usd_m,0,1
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Revenue by Segment,Transportation Percentage Change,41,pct,0,2
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,MD&A Revenue by Segment,Transportation Percentage Change,21,pct,0,2
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),1181.4,usd_m,1,3
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2020,2020-05-31,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),1026.6,usd_m,1,3
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),2301.3,usd_m,1,3
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2020,2020-05-31,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),2107.4,usd_m,1,3
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Change in revenue by segment (percentage points),Transportation - Organic,39,pct,0,1
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,MD&A Change in revenue by segment (percentage points),Transportation - Organic,20,pct,0,1
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Change in revenue by segment (percentage points),Transportation - Acquisitive,0,pct,0,2
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,MD&A Change in revenue by segment (percentage points),Transportation - Acquisitive,0,pct,0,2
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Change in revenue by segment (percentage points),Transportation - Foreign Currency,2,pct,0,3
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,MD&A Change in revenue by segment (percentage points),Transportation - Foreign Currency,2,pct,0,3
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2021,2021-05-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Organic,13,pct,0,1
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Organic,8,pct,0,1
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2021,2021-05-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Acquisitive,0,pct,0,2
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Acquisitive,0,pct,0,2
+INFO_10Q_Q2-FY2021,41,SEG_PRED,Q2-FY2021,2021-05-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Foreign Currency,2,pct,0,3
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Foreign Currency,1,pct,0,3
+INFO_10Q_Q2-FY2021,41,SEG_PRED,6M-FY2021,2021-05-31,MD&A Revenue by Segment (narrative),Transportation narrative,"Very strong organic growth in Q2 and YTD; dealer-facing automotive (CARFAX, automotiveMastermind) grew strongly as it built back from 2020 pandemic effects; OEM, parts manufacturer, banking and insurance offerings returned to organic growth at a more stable pace; automotive is the largest contributor to segment revenue.",text,0,1
+INFO_10Q_Q2-FY2021,43,SEG_PRED,6M-FY2021,2021-05-31,MD&A Revenue by Transaction Type (narrative),Transportation reference in transaction-type narrative,"Recurring fixed organic growth (9% Q2, 6% YTD) largely due to Transportation and Financial Services recurring offerings; non-recurring increase driven partly by a return to more normal activity in Transportation offerings. No Transportation recurring/non-recurring $ split printed in the 10-Q.",text,0,1
+INFO_10Q_Q2-FY2021,46,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,170.7,usd_m,0,1
+INFO_10Q_Q2-FY2021,46,SEG_PRED,Q2-FY2020,2020-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,101.6,usd_m,0,1
+INFO_10Q_Q2-FY2021,46,SEG_PRED,6M-FY2021,2021-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,317.4,usd_m,0,1
+INFO_10Q_Q2-FY2021,46,SEG_PRED,6M-FY2020,2020-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,219.6,usd_m,0,1
+INFO_10Q_Q2-FY2021,46,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA Percentage Change,68,pct,0,2
+INFO_10Q_Q2-FY2021,46,SEG_PRED,6M-FY2021,2021-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA Percentage Change,45,pct,0,2
+INFO_10Q_Q2-FY2021,46,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue (whole %),50,pct,0,3
+INFO_10Q_Q2-FY2021,46,SEG_PRED,Q2-FY2020,2020-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue (whole %),42,pct,0,3
+INFO_10Q_Q2-FY2021,46,SEG_PRED,6M-FY2021,2021-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue (whole %),48,pct,0,3
+INFO_10Q_Q2-FY2021,46,SEG_PRED,6M-FY2020,2020-05-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue (whole %),41,pct,0,3
+INFO_10Q_Q2-FY2021,46,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Segment Adjusted EBITDA,Total Adjusted EBITDA,517.4,usd_m,1,4
+INFO_10Q_Q2-FY2021,46,SEG_PRED,Q2-FY2020,2020-05-31,MD&A Segment Adjusted EBITDA,Total Adjusted EBITDA,454.0,usd_m,1,4
+INFO_10Q_Q2-FY2021,46,SEG_PRED,6M-FY2021,2021-05-31,MD&A Segment Adjusted EBITDA,Total Adjusted EBITDA,984.2,usd_m,1,4
+INFO_10Q_Q2-FY2021,46,SEG_PRED,6M-FY2020,2020-05-31,MD&A Segment Adjusted EBITDA,Total Adjusted EBITDA,885.6,usd_m,1,4
+INFO_10Q_Q2-FY2021,46,SEG_PRED,6M-FY2021,2021-05-31,MD&A Segment Adjusted EBITDA (narrative),Transportation Adjusted EBITDA narrative,"Increase primarily due to organic revenue growth, which improved substantially versus the prior year when it was negatively impacted by the pandemic; all segment margins impacted as temporary cost containment measures ended.",text,0,1
+INFO_10Q_Q2-FY2021,19,SEG_PRED,Q2-FY2021,2021-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring fixed revenue,836.0,usd_m,0,1
+INFO_10Q_Q2-FY2021,19,SEG_PRED,Q2-FY2020,2020-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring fixed revenue,755.2,usd_m,0,1
+INFO_10Q_Q2-FY2021,19,SEG_PRED,6M-FY2021,2021-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring fixed revenue,1661.6,usd_m,0,1
+INFO_10Q_Q2-FY2021,19,SEG_PRED,6M-FY2020,2020-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring fixed revenue,1559.3,usd_m,0,1
+INFO_10Q_Q2-FY2021,19,SEG_PRED,Q2-FY2021,2021-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring variable revenue,182.6,usd_m,0,2
+INFO_10Q_Q2-FY2021,19,SEG_PRED,Q2-FY2020,2020-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring variable revenue,158.0,usd_m,0,2
+INFO_10Q_Q2-FY2021,19,SEG_PRED,6M-FY2021,2021-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring variable revenue,355.5,usd_m,0,2
+INFO_10Q_Q2-FY2021,19,SEG_PRED,6M-FY2020,2020-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring variable revenue,304.8,usd_m,0,2
+INFO_10Q_Q2-FY2021,19,SEG_PRED,Q2-FY2021,2021-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Non-recurring revenue,162.8,usd_m,0,3
+INFO_10Q_Q2-FY2021,19,SEG_PRED,Q2-FY2020,2020-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Non-recurring revenue,113.4,usd_m,0,3
+INFO_10Q_Q2-FY2021,19,SEG_PRED,6M-FY2021,2021-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Non-recurring revenue,284.2,usd_m,0,3
+INFO_10Q_Q2-FY2021,19,SEG_PRED,6M-FY2020,2020-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Non-recurring revenue,243.3,usd_m,0,3
+INFO_10Q_Q2-FY2021,19,SEG_PRED,Q2-FY2021,2021-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Total revenue,1181.4,usd_m,1,4
+INFO_10Q_Q2-FY2021,19,SEG_PRED,Q2-FY2020,2020-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Total revenue,1026.6,usd_m,1,4
+INFO_10Q_Q2-FY2021,19,SEG_PRED,6M-FY2021,2021-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Total revenue,2301.3,usd_m,1,4
+INFO_10Q_Q2-FY2021,19,SEG_PRED,6M-FY2020,2020-05-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Total revenue,2107.4,usd_m,1,4
+INFO_10Q_Q2-FY2021,43,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,71,pct,0,1
+INFO_10Q_Q2-FY2021,43,SEG_PRED,Q2-FY2020,2020-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,74,pct,0,1
+INFO_10Q_Q2-FY2021,43,SEG_PRED,6M-FY2021,2021-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,72,pct,0,1
+INFO_10Q_Q2-FY2021,43,SEG_PRED,6M-FY2020,2020-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,74,pct,0,1
+INFO_10Q_Q2-FY2021,43,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,15,pct,0,2
+INFO_10Q_Q2-FY2021,43,SEG_PRED,Q2-FY2020,2020-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,15,pct,0,2
+INFO_10Q_Q2-FY2021,43,SEG_PRED,6M-FY2021,2021-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,15,pct,0,2
+INFO_10Q_Q2-FY2021,43,SEG_PRED,6M-FY2020,2020-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,14,pct,0,2
+INFO_10Q_Q2-FY2021,43,SEG_PRED,Q2-FY2021,2021-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,14,pct,0,3
+INFO_10Q_Q2-FY2021,43,SEG_PRED,Q2-FY2020,2020-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,11,pct,0,3
+INFO_10Q_Q2-FY2021,43,SEG_PRED,6M-FY2021,2021-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,12,pct,0,3
+INFO_10Q_Q2-FY2021,43,SEG_PRED,6M-FY2020,2020-05-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,12,pct,0,3
+INFO_10Q_Q2-FY2021,35,SEG_PRED,6M-FY2021,2021-05-31,MD&A Executive Summary,Consolidated recurring revenue share (approximately),88,pct,0,1
+INFO_10Q_Q2-FY2021,35,SEG_PRED,6M-FY2021,2021-05-31,MD&A Executive Summary,Transportation segment composition,"Transportation, which includes our Automotive and Maritime & Trade product offerings",text,0,2
+INFO_10Q_Q2-FY2021,26,SEG_PRED,6M-FY2021,2021-05-31,Note 8 Restructuring,"Remaining restructuring liability - Transportation (as of May 31, 2021)",3.9,usd_m,0,1
+INFO_10Q_Q2-FY2021,17,SEG_PRED,6M-FY2021,2021-05-31,Note 2 Business Combinations and Divestitures,A&D divestiture (Dec 2019) price to Montagu (approximately),466,usd_m,0,1
+INFO_10Q_Q2-FY2021,17,SEG_PRED,6M-FY2021,2021-05-31,Note 2 Business Combinations and Divestitures,A&D divestiture gain recognized Q1 FY2020 (approximately),372,usd_m,0,2
+INFO_10Q_Q2-FY2021,17,SEG_PRED,6M-FY2021,2021-05-31,Note 2 Business Combinations and Divestitures,aM remaining equity interests - estimated total compensation expense (low),60,usd_m,0,3
+INFO_10Q_Q2-FY2021,17,SEG_PRED,6M-FY2021,2021-05-31,Note 2 Business Combinations and Divestitures,aM remaining equity interests - estimated total compensation expense (high),65,usd_m,0,4
+INFO_10Q_Q2-FY2021,17,SEG_PRED,6M-FY2021,2021-05-31,Note 2 Business Combinations and Divestitures,"aM compensation recognized as of May 31, 2021 (approximately)",44.7,usd_m,0,5
+INFO_10Q_Q2-FY2021,17,SEG_PRED,6M-FY2021,2021-05-31,Note 2 Business Combinations and Divestitures,aM put exercised Nov 2019 on 62.5% of remaining 22% - cash paid Dec 2019,75.9,usd_m,0,6
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2021,2021-05-31,Note 16 reconciliation (consolidated),Acquisition-related performance compensation,-3.9,usd_m,0,1
+INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2020,2020-05-31,Note 16 reconciliation (consolidated),Acquisition-related performance compensation,-4.5,usd_m,0,1
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2021,2021-05-31,Note 16 reconciliation (consolidated),Acquisition-related performance compensation,-7.8,usd_m,0,1
+INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2020,2020-05-31,Note 16 reconciliation (consolidated),Acquisition-related performance compensation,-4.7,usd_m,0,1

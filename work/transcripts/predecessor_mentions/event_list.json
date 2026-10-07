@@ -1,0 +1,457 @@
+[
+{
+"id": 8567,
+"date": "2021-06-23",
+"type": "q_2",
+"title": "Q2 2021 (FY Nov)",
+"company": "INFO"
+},
+{
+"id": 5801,
+"date": "2021-09-28",
+"type": "q_3",
+"title": "Q3 2021 (FY Nov)",
+"company": "INFO"
+},
+{
+"id": 64130,
+"date": "2020-11-30",
+"type": "m_and_a",
+"title": "M&A Announcement",
+"company": "SPGI"
+},
+{
+"id": 64129,
+"date": "2020-12-14",
+"type": "esg_update",
+"title": "ESG Update",
+"company": "SPGI"
+},
+{
+"id": 24584,
+"date": "2021-02-09",
+"type": "q_4",
+"title": "Q4 2020",
+"company": "SPGI"
+},
+{
+"id": 64128,
+"date": "2021-03-11",
+"type": "egm",
+"title": "EGM 2021",
+"company": "SPGI"
+},
+{
+"id": 562,
+"date": "2021-04-29",
+"type": "q_1",
+"title": "Q1 2021",
+"company": "SPGI"
+},
+{
+"id": 64127,
+"date": "2021-05-05",
+"type": "agm",
+"title": "AGM 2021",
+"company": "SPGI"
+},
+{
+"id": 3437,
+"date": "2021-07-29",
+"type": "q_2",
+"title": "Q2 2021",
+"company": "SPGI"
+},
+{
+"id": 9021,
+"date": "2021-10-26",
+"type": "q_3",
+"title": "Q3 2021",
+"company": "SPGI"
+},
+{
+"id": 14166,
+"date": "2022-02-08",
+"type": "q_4",
+"title": "Q4 2021",
+"company": "SPGI"
+},
+{
+"id": 16001,
+"date": "2022-03-01",
+"type": "status_update",
+"title": "Status Update",
+"company": "SPGI"
+},
+{
+"id": 20622,
+"date": "2022-05-03",
+"type": "q_1",
+"title": "Q1 2022",
+"company": "SPGI"
+},
+{
+"id": 64126,
+"date": "2022-05-04",
+"type": "agm",
+"title": "AGM 2022",
+"company": "SPGI"
+},
+{
+"id": 26055,
+"date": "2022-08-02",
+"type": "q_2",
+"title": "Q2 2022",
+"company": "SPGI"
+},
+{
+"id": 27407,
+"date": "2022-10-27",
+"type": "q_3",
+"title": "Q3 2022",
+"company": "SPGI"
+},
+{
+"id": 44944,
+"date": "2022-12-01",
+"type": "investor_day",
+"title": "Investor Day 2022",
+"company": "SPGI"
+},
+{
+"id": 40414,
+"date": "2023-02-09",
+"type": "q_4",
+"title": "Q4 2022",
+"company": "SPGI"
+},
+{
+"id": 52966,
+"date": "2023-04-27",
+"type": "q_1",
+"title": "Q1 2023",
+"company": "SPGI"
+},
+{
+"id": 198682,
+"date": "2023-05-03",
+"type": "agm",
+"title": "AGM 2023",
+"company": "SPGI"
+},
+{
+"id": 65410,
+"date": "2023-07-27",
+"type": "q_2",
+"title": "Q2 2023",
+"company": "SPGI"
+},
+{
+"id": 106524,
+"date": "2023-09-06",
+"type": "conference",
+"title": "Goldman Sachs Communacopia & Technology Conference",
+"company": "SPGI"
+},
+{
+"id": 107218,
+"date": "2023-09-11",
+"type": "conference",
+"title": "Barclays 21st Annual Global Financial Services Conference",
+"company": "SPGI"
+},
+{
+"id": 85482,
+"date": "2023-11-02",
+"type": "q_3",
+"title": "Q3 2023",
+"company": "SPGI"
+},
+{
+"id": 145913,
+"date": "2023-12-05",
+"type": "conference",
+"title": "2023 Goldman Sachs Financial Services Conference",
+"company": "SPGI"
+},
+{
+"id": 119328,
+"date": "2024-02-08",
+"type": "q_4",
+"title": "Q4 2023",
+"company": "SPGI"
+},
+{
+"id": 172813,
+"date": "2024-03-04",
+"type": "conference",
+"title": "45th Annual Raymond James Institutional Investors Conference 2024",
+"company": "SPGI"
+},
+{
+"id": 175898,
+"date": "2024-03-14",
+"type": "conference",
+"title": "BofA Securities Information and Business Services Conference",
+"company": "SPGI"
+},
+{
+"id": 165844,
+"date": "2024-04-25",
+"type": "q_1",
+"title": "Q1 2024",
+"company": "SPGI"
+},
+{
+"id": 189185,
+"date": "2024-05-01",
+"type": "agm",
+"title": "AGM 2024",
+"company": "SPGI"
+},
+{
+"id": 191301,
+"date": "2024-05-07",
+"type": "conference",
+"title": "Barclays Americas Select Franchise Conference 2024",
+"company": "SPGI"
+},
+{
+"id": 198269,
+"date": "2024-05-30",
+"type": "conference",
+"title": "14th Annual Deutsche Bank Global Financial Services Conference",
+"company": "SPGI"
+},
+{
+"id": 198270,
+"date": "2024-05-31",
+"type": "conference",
+"title": "Bernstein\u2019s 40th Annual Strategic Decisions Conference",
+"company": "SPGI"
+},
+{
+"id": 199854,
+"date": "2024-06-04",
+"type": "conference",
+"title": "The Stifel 2024 Cross Sector Insight Conference",
+"company": "SPGI"
+},
+{
+"id": 188627,
+"date": "2024-07-30",
+"type": "q_2",
+"title": "Q2 2024",
+"company": "SPGI"
+},
+{
+"id": 228701,
+"date": "2024-09-09",
+"type": "conference",
+"title": "Barclays 22nd Annual Global Financial Services Conference",
+"company": "SPGI"
+},
+{
+"id": 223553,
+"date": "2024-10-24",
+"type": "q_3",
+"title": "Q3 2024",
+"company": "SPGI"
+},
+{
+"id": 253126,
+"date": "2024-11-14",
+"type": "conference",
+"title": "J.P. Morgan Ultimate Services Investor Conference (USIC) 2024",
+"company": "SPGI"
+},
+{
+"id": 249213,
+"date": "2025-02-11",
+"type": "q_4",
+"title": "Q4 2024",
+"company": "SPGI"
+},
+{
+"id": 316763,
+"date": "2025-02-20",
+"type": "conference",
+"title": "CSRD Essentials: Understanding Its Business Implications",
+"company": "SPGI"
+},
+{
+"id": 320905,
+"date": "2025-03-03",
+"type": "conference",
+"title": "Raymond James & Associates\u2019 46th Annual Institutional Investors Conference 2025",
+"company": "SPGI"
+},
+{
+"id": 321002,
+"date": "2025-03-04",
+"type": "conference",
+"title": "Navigating Transfer Pricing: Unlocking Growth through Data, Technology, and Expert Insights",
+"company": "SPGI"
+},
+{
+"id": 321345,
+"date": "2025-03-06",
+"type": "conference",
+"title": "Questioning the Answers: LLMs enter the Boardroom",
+"company": "SPGI"
+},
+{
+"id": 314678,
+"date": "2025-04-29",
+"type": "q_1",
+"title": "Q1 2025",
+"company": "SPGI"
+},
+{
+"id": 341622,
+"date": "2025-05-07",
+"type": "agm",
+"title": "AGM 2025",
+"company": "SPGI"
+},
+{
+"id": 347558,
+"date": "2025-05-29",
+"type": "conference",
+"title": "Bernstein 41st Annual Strategic Decisions Conference 2025",
+"company": "SPGI"
+},
+{
+"id": 339947,
+"date": "2025-07-31",
+"type": "q_2",
+"title": "Q2 2025",
+"company": "SPGI"
+},
+{
+"id": 382545,
+"date": "2025-09-09",
+"type": "conference",
+"title": "Barclays 23rd Annual Global Financial Services Conference",
+"company": "SPGI"
+},
+{
+"id": 369174,
+"date": "2025-10-30",
+"type": "q_3",
+"title": "Q3 2025",
+"company": "SPGI"
+},
+{
+"id": 349214,
+"date": "2025-11-13",
+"type": "investor_day",
+"title": "Investor Day 2025",
+"company": "SPGI"
+},
+{
+"id": 418636,
+"date": "2025-11-18",
+"type": "conference",
+"title": "J.P. Morgan 2025 Ultimate Services Investor Conference",
+"company": "SPGI"
+},
+{
+"id": 423357,
+"date": "2025-12-09",
+"type": "conference",
+"title": "Goldman Sachs U.S. Financial Services Conference",
+"company": "SPGI"
+},
+{
+"id": 393534,
+"date": "2026-02-10",
+"type": "q_4",
+"title": "Q4 2025",
+"company": "SPGI"
+},
+{
+"id": 564580,
+"date": "2026-03-03",
+"type": "conference",
+"title": "47th Annual Raymond James Institutional Investor Conference",
+"company": "SPGI"
+},
+{
+"id": 577978,
+"date": "2026-03-12",
+"type": "conference",
+"title": "BofA Securities 2026 Information & Business Services Conference",
+"company": "SPGI"
+},
+{
+"id": 609213,
+"date": "2026-03-18",
+"type": "fireside_chat",
+"title": "Fireside chat",
+"company": "SPGI"
+},
+{
+"id": 657401,
+"date": "2026-04-28",
+"type": "q_1",
+"title": "Q1 2026",
+"company": "SPGI"
+},
+{
+"id": 659767,
+"date": "2026-05-05",
+"type": "conference",
+"title": "Barclays 18th Annual Americas Select Conference",
+"company": "SPGI"
+},
+{
+"id": 620148,
+"date": "2026-05-12",
+"type": "investor_day",
+"title": "Investor Day 2026",
+"company": "SPGI"
+},
+{
+"id": 632979,
+"date": "2026-05-20",
+"type": "agm",
+"title": "AGM 2026",
+"company": "SPGI"
+},
+{
+"id": 673513,
+"date": "2026-05-27",
+"type": "conference",
+"title": "Bernstein 42nd Annual Strategic Decisions Conference",
+"company": "SPGI"
+},
+{
+"id": 687477,
+"date": "2026-06-10",
+"type": "conference",
+"title": "Mizuho Technology Conference 2026",
+"company": "SPGI"
+},
+{
+"id": 656135,
+"date": "2026-07-28",
+"type": "q_2",
+"title": "Q2 2026",
+"company": "SPGI"
+},
+{
+"id": 710541,
+"date": "2026-07-28",
+"type": "conference",
+"title": "Orbit as the Next Data Frontier: Capital Flows, Risk, and Realities",
+"company": "SPGI"
+},
+{
+"id": 745233,
+"date": "2026-09-14",
+"type": "conference",
+"title": "Barclays 24th Annual Global Financial Services Conference",
+"company": "SPGI"
+}
+]

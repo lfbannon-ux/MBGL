@@ -1,0 +1,379 @@
+concept,segment,period,value,source_doc,page,source_caption
+acq,B2B,FY2023,5.0,Form10A_2026-05-27,360,Acquisition integration costs + Acquisition and disposition - related costs
+acq,B2B,FY2024,6.0,Form10A_2026-05-27,360,Acquisition integration costs + Acquisition and disposition - related costs
+acq,B2B,FY2025,-8.0,Form10A_2026-05-27,359,Legal settlement recovery + ELT transition costs
+acq,Corporate,FY2023,16.0,Form10A_2026-05-27,360,Acquisition integration costs + Acquisition and disposition - related costs
+acq,Corporate,FY2024,7.0,Form10A_2026-05-27,360,Acquisition integration costs + Acquisition and disposition - related costs
+acq,Corporate,FY2025,5.0,Form10A_2026-05-27,359,ELT transition costs
+acq,Total,FY2023,21.0,Form10A_2026-05-27,360,Acquisition integration costs + Acquisition and disposition - related costs
+acq,Total,FY2024,13.0,Form10A_2026-05-27,360,Acquisition integration costs + Acquisition and disposition - related costs
+acq,Total,FY2025,-3.0,Form10A_2026-05-27,359,Legal settlement recovery
+adj,B2B,6M-2025,93.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,B2B,6M-2026,102.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,B2B,FY2023,191.0,Form10A_2026-05-27,360,Segment Adjusted EBITDA
+adj,B2B,FY2024,203.0,Form10A_2026-05-27,360,Segment Adjusted EBITDA
+adj,B2B,FY2025,197.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,B2B,Q1-2025,44.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,B2B,Q1-2026,49.0,Form10_2026-05-07,438,Segment Adjusted EBITDA
+adj,B2B,Q2-2025,49.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,B2B,Q2-2026,53.0,10Q_Q2-2026,24,Adjusted EBITDA
+adj,CARFAX,6M-2025,272.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,CARFAX,6M-2026,293.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,CARFAX,FY2023,422.0,Form10A_2026-05-27,360,Segment Adjusted EBITDA
+adj,CARFAX,FY2024,476.0,Form10A_2026-05-27,360,Segment Adjusted EBITDA
+adj,CARFAX,FY2025,536.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,CARFAX,Q1-2025,130.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,CARFAX,Q1-2026,140.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,CARFAX,Q2-2025,142.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,CARFAX,Q2-2026,153.0,10Q_Q2-2026,24,Adjusted EBITDA
+adj,Corporate,6M-2025,-8.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,Corporate,6M-2026,-9.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,Corporate,FY2023,-16.0,Form10A_2026-05-27,360,Segment Adjusted EBITDA
+adj,Corporate,FY2024,-20.0,Form10A_2026-05-27,360,Segment Adjusted EBITDA
+adj,Corporate,FY2025,-22.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,Corporate,Q1-2025,-5.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,Corporate,Q1-2026,-5.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,Corporate,Q2-2025,-3.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,Corporate,Q2-2026,-4.0,10Q_Q2-2026,24,Adjusted EBITDA
+adj,Total,6M-2025,357.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,Total,6M-2026,386.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,Total,FY2023,598.0,Form10A_2026-05-27,360,Segment Adjusted EBITDA
+adj,Total,FY2024,658.0,Form10A_2026-05-27,360,Segment Adjusted EBITDA
+adj,Total,FY2025,711.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,Total,Q1-2025,169.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,Total,Q1-2026,184.0,Form10A_2026-05-27,359,Segment Adjusted EBITDA
+adj,Total,Q2-2025,188.0,10Q_Q2-2026,25,Adjusted EBITDA
+adj,Total,Q2-2026,202.0,10Q_Q2-2026,24,Adjusted EBITDA
+amort,B2B,6M-2025,53.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,B2B,6M-2026,53.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,B2B,FY2023,106.0,Form10A_2026-05-27,360,Amortization of intangibles
+amort,B2B,FY2024,107.0,Form10A_2026-05-27,360,Amortization of intangibles
+amort,B2B,FY2025,107.0,Form10A_2026-05-27,359,Amortization of intangibles
+amort,B2B,Q1-2025,27.0,Form10A_2026-05-27,359,Amortization of intangibles
+amort,B2B,Q1-2026,27.0,Form10A_2026-05-27,359,Amortization of intangibles
+amort,B2B,Q2-2025,26.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,B2B,Q2-2026,26.0,10Q_Q2-2026,24,Adjusted to add: Amortization of intangibles
+amort,CARFAX,6M-2025,95.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,CARFAX,6M-2026,95.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,CARFAX,FY2023,190.0,Form10A_2026-05-27,360,Amortization of intangibles
+amort,CARFAX,FY2024,190.0,Form10A_2026-05-27,360,Amortization of intangibles
+amort,CARFAX,FY2025,189.0,Form10A_2026-05-27,359,Amortization of intangibles
+amort,CARFAX,Q1-2025,47.0,Form10A_2026-05-27,359,Amortization of intangibles
+amort,CARFAX,Q1-2026,47.0,Form10A_2026-05-27,359,Amortization of intangibles
+amort,CARFAX,Q2-2025,48.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,CARFAX,Q2-2026,48.0,10Q_Q2-2026,24,Adjusted to add: Amortization of intangibles
+amort,Corporate,6M-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,Corporate,6M-2026,0.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,Corporate,Q2-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,Corporate,Q2-2026,0.0,10Q_Q2-2026,24,Adjusted to add: Amortization of intangibles
+amort,Total,6M-2025,148.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,Total,6M-2026,148.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,Total,FY2023,295.0,Form10A_2026-05-27,360,Amortization of intangibles
+amort,Total,FY2024,296.0,Form10A_2026-05-27,360,Amortization of intangibles
+amort,Total,FY2025,296.0,Form10A_2026-05-27,359,Amortization of intangibles
+amort,Total,Q1-2025,74.0,Form10A_2026-05-27,359,Amortization of intangibles
+amort,Total,Q1-2026,74.0,Form10A_2026-05-27,359,Amortization of intangibles
+amort,Total,Q2-2025,74.0,10Q_Q2-2026,25,Adjusted to add: Amortization of intangibles
+amort,Total,Q2-2026,74.0,10Q_Q2-2026,24,Adjusted to add: Amortization of intangibles
+dep,B2B,6M-2025,2.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,B2B,6M-2026,2.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,B2B,FY2023,4.0,Form10A_2026-05-27,360,Depreciation
+dep,B2B,FY2024,4.0,Form10A_2026-05-27,360,Depreciation
+dep,B2B,FY2025,5.0,Form10A_2026-05-27,359,Depreciation
+dep,B2B,Q1-2025,1.0,Form10A_2026-05-27,359,Depreciation
+dep,B2B,Q2-2025,1.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,B2B,Q2-2026,1.0,10Q_Q2-2026,24,Adjusted to add: Depreciation
+dep,CARFAX,6M-2025,5.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,CARFAX,6M-2026,5.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,CARFAX,FY2023,8.0,Form10A_2026-05-27,360,Depreciation
+dep,CARFAX,FY2024,9.0,Form10A_2026-05-27,360,Depreciation
+dep,CARFAX,FY2025,9.0,Form10A_2026-05-27,359,Depreciation
+dep,CARFAX,Q1-2025,3.0,Form10A_2026-05-27,359,Depreciation
+dep,CARFAX,Q1-2026,3.0,Form10A_2026-05-27,359,Depreciation
+dep,CARFAX,Q2-2025,2.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,CARFAX,Q2-2026,2.0,10Q_Q2-2026,24,Adjusted to add: Depreciation
+dep,Corporate,6M-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,Corporate,6M-2026,0.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,Corporate,Q2-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,Corporate,Q2-2026,0.0,10Q_Q2-2026,24,Adjusted to add: Depreciation
+dep,Total,6M-2025,7.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,Total,6M-2026,7.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,Total,FY2023,12.0,Form10A_2026-05-27,360,Depreciation
+dep,Total,FY2024,13.0,Form10A_2026-05-27,360,Depreciation
+dep,Total,FY2025,14.0,Form10A_2026-05-27,359,Depreciation
+dep,Total,Q1-2025,4.0,Form10A_2026-05-27,359,Depreciation
+dep,Total,Q1-2026,4.0,Form10A_2026-05-27,359,Depreciation
+dep,Total,Q2-2025,3.0,10Q_Q2-2026,25,Adjusted to add: Depreciation
+dep,Total,Q2-2026,3.0,10Q_Q2-2026,24,Adjusted to add: Depreciation
+intl,B2B,6M-2025,62.0,10Q_Q2-2026,29,International revenue
+intl,B2B,6M-2026,66.0,10Q_Q2-2026,29,International revenue
+intl,B2B,FY2023,124.0,Form10A_2026-05-27,356,International revenue
+intl,B2B,FY2024,129.0,Form10A_2026-05-27,356,International revenue
+intl,B2B,FY2025,128.0,Form10A_2026-05-27,356,International revenue
+intl,B2B,Q1-2025,31.0,Form10A_2026-05-27,354,International revenue
+intl,B2B,Q1-2026,34.0,Form10A_2026-05-27,354,International revenue
+intl,B2B,Q2-2025,31.0,10Q_Q2-2026,29,International revenue
+intl,B2B,Q2-2026,32.0,10Q_Q2-2026,29,International revenue
+intl,CARFAX,6M-2025,82.0,10Q_Q2-2026,28,International revenue
+intl,CARFAX,6M-2026,92.0,10Q_Q2-2026,28,International revenue
+intl,CARFAX,FY2023,137.0,Form10A_2026-05-27,355,International revenue
+intl,CARFAX,FY2024,155.0,Form10A_2026-05-27,355,International revenue
+intl,CARFAX,FY2025,168.0,Form10A_2026-05-27,355,International revenue
+intl,CARFAX,Q1-2025,39.0,Form10A_2026-05-27,354,International revenue
+intl,CARFAX,Q1-2026,45.0,Form10A_2026-05-27,354,International revenue
+intl,CARFAX,Q2-2025,43.0,10Q_Q2-2026,28,International revenue
+intl,CARFAX,Q2-2026,47.0,10Q_Q2-2026,28,International revenue
+nonsub,B2B,6M-2025,53.0,10Q_Q2-2026,15,Non-subscription
+nonsub,B2B,6M-2026,52.0,10Q_Q2-2026,15,Non-subscription
+nonsub,B2B,FY2023,135.0,Form10A_2026-05-27,463,Non - subscription
+nonsub,B2B,FY2024,114.0,Form10A_2026-05-27,462,Non - subscription
+nonsub,B2B,FY2025,109.0,Form10A_2026-05-27,462,Non - subscription
+nonsub,B2B,Q1-2025,27.0,Form10A_2026-05-27,432,Non - subscription
+nonsub,B2B,Q1-2026,27.0,Form10A_2026-05-27,432,Non - subscription
+nonsub,B2B,Q2-2025,26.0,10Q_Q2-2026,15,Non-subscription
+nonsub,B2B,Q2-2026,25.0,10Q_Q2-2026,15,Non-subscription
+nonsub,CARFAX,6M-2025,105.0,10Q_Q2-2026,15,Non-subscription
+nonsub,CARFAX,6M-2026,116.0,10Q_Q2-2026,15,Non-subscription
+nonsub,CARFAX,FY2023,180.0,Form10A_2026-05-27,463,Non - subscription
+nonsub,CARFAX,FY2024,196.0,Form10A_2026-05-27,462,Non - subscription
+nonsub,CARFAX,FY2025,215.0,Form10A_2026-05-27,462,Non - subscription
+nonsub,CARFAX,Q1-2025,50.0,Form10A_2026-05-27,432,Non - subscription
+nonsub,CARFAX,Q1-2026,56.0,Form10A_2026-05-27,432,Non - subscription
+nonsub,CARFAX,Q2-2025,55.0,10Q_Q2-2026,15,Non-subscription
+nonsub,CARFAX,Q2-2026,60.0,10Q_Q2-2026,15,Non-subscription
+nonsub,Total,6M-2025,158.0,10Q_Q2-2026,15,Non-subscription
+nonsub,Total,6M-2026,168.0,10Q_Q2-2026,15,Non-subscription
+nonsub,Total,FY2023,315.0,Form10A_2026-05-27,463,Non - subscription
+nonsub,Total,FY2024,310.0,Form10A_2026-05-27,462,Non - subscription
+nonsub,Total,FY2025,324.0,Form10A_2026-05-27,462,Non - subscription
+nonsub,Total,Q1-2025,77.0,Form10A_2026-05-27,432,Non - subscription
+nonsub,Total,Q1-2026,83.0,Form10A_2026-05-27,432,Non - subscription
+nonsub,Total,Q2-2025,81.0,10Q_Q2-2026,15,Non-subscription
+nonsub,Total,Q2-2026,85.0,10Q_Q2-2026,15,Non-subscription
+op,B2B,6M-2025,30.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,B2B,6M-2026,8.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,B2B,FY2023,61.0,Form10A_2026-05-27,360,Operating profit
+op,B2B,FY2024,69.0,Form10A_2026-05-27,360,Operating profit
+op,B2B,FY2025,62.0,Form10A_2026-05-27,359,Operating profit
+op,B2B,Q1-2025,14.0,Form10A_2026-05-27,359,Operating profit
+op,B2B,Q1-2026,5.0,Form10A_2026-05-27,359,Operating profit
+op,B2B,Q2-2025,16.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,B2B,Q2-2026,3.0,10Q_Q2-2026,24,Operating profit (GAAP)
+op,CARFAX,6M-2025,166.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,CARFAX,6M-2026,190.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,CARFAX,FY2023,210.0,Form10A_2026-05-27,360,Operating profit
+op,CARFAX,FY2024,259.0,Form10A_2026-05-27,360,Operating profit
+op,CARFAX,FY2025,322.0,Form10A_2026-05-27,359,Operating profit
+op,CARFAX,Q1-2025,77.0,Form10A_2026-05-27,359,Operating profit
+op,CARFAX,Q1-2026,89.0,Form10A_2026-05-27,359,Operating profit
+op,CARFAX,Q2-2025,89.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,CARFAX,Q2-2026,101.0,10Q_Q2-2026,24,Operating profit (GAAP)
+op,Corporate,6M-2025,-16.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,Corporate,6M-2026,-35.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,Corporate,FY2023,-32.0,Form10A_2026-05-27,360,Operating profit
+op,Corporate,FY2024,-30.0,Form10A_2026-05-27,360,Operating profit
+op,Corporate,FY2025,-45.0,Form10A_2026-05-27,359,Operating profit
+op,Corporate,Q1-2025,-7.0,Form10A_2026-05-27,359,Operating profit
+op,Corporate,Q1-2026,-13.0,Form10A_2026-05-27,359,Operating profit
+op,Corporate,Q2-2025,-9.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,Corporate,Q2-2026,-22.0,10Q_Q2-2026,24,Operating profit (GAAP)
+op,Total,6M-2025,180.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,Total,6M-2026,163.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,Total,FY2023,239.0,Form10A_2026-05-27,360,Operating profit
+op,Total,FY2024,298.0,Form10A_2026-05-27,360,Operating profit
+op,Total,FY2025,339.0,Form10A_2026-05-27,359,Operating profit
+op,Total,Q1-2025,84.0,Form10A_2026-05-27,359,Operating profit
+op,Total,Q1-2026,81.0,Form10A_2026-05-27,359,Operating profit
+op,Total,Q2-2025,96.0,10Q_Q2-2026,25,Operating profit (GAAP)
+op,Total,Q2-2026,82.0,10Q_Q2-2026,24,Operating profit (GAAP)
+oprel,B2B,FY2023,227.0,Form10A_2026-05-27,351,Operating-related expenses
+oprel,B2B,FY2024,232.0,Form10A_2026-05-27,350,Operating-related expenses
+oprel,B2B,FY2025,258.0,Form10A_2026-05-27,350,Operating-related expenses
+oprel,B2B,Q1-2025,64.0,Form10A_2026-05-27,347,Operating-related expenses
+oprel,B2B,Q1-2026,68.0,Form10A_2026-05-27,347,Operating-related expenses
+oprel,CARFAX,FY2023,221.0,Form10A_2026-05-27,351,Operating-related expenses
+oprel,CARFAX,FY2024,243.0,Form10A_2026-05-27,350,Operating-related expenses
+oprel,CARFAX,FY2025,258.0,Form10A_2026-05-27,350,Operating-related expenses
+oprel,CARFAX,Q1-2025,63.0,Form10A_2026-05-27,347,Operating-related expenses
+oprel,CARFAX,Q1-2026,68.0,Form10A_2026-05-27,347,Operating-related expenses
+oprel,Total,FY2023,448.0,Form10A_2026-05-27,351,Operating-related expenses
+oprel,Total,FY2024,475.0,Form10A_2026-05-27,350,Operating-related expenses
+oprel,Total,FY2025,516.0,Form10A_2026-05-27,350,Operating-related expenses
+oprel,Total,Q1-2025,127.0,Form10A_2026-05-27,347,Operating-related expenses
+oprel,Total,Q1-2026,136.0,Form10A_2026-05-27,347,Operating-related expenses
+rev,B2B,6M-2025,295.0,10Q_Q2-2026,14,Revenue
+rev,B2B,6M-2026,313.0,10Q_Q2-2026,14,Revenue
+rev,B2B,FY2023,557.0,Form10A_2026-05-27,462,Revenue
+rev,B2B,FY2024,574.0,Form10A_2026-05-27,461,Revenue
+rev,B2B,FY2025,608.0,Form10A_2026-05-27,461,Revenue
+rev,B2B,Q1-2025,145.0,Form10A_2026-05-27,431,Revenue
+rev,B2B,Q1-2026,157.0,Form10A_2026-05-27,431,Revenue
+rev,B2B,Q2-2025,150.0,10Q_Q2-2026,14,Revenue
+rev,B2B,Q2-2026,156.0,10Q_Q2-2026,14,Revenue
+rev,CARFAX,6M-2025,564.0,10Q_Q2-2026,14,Revenue
+rev,CARFAX,6M-2026,610.0,10Q_Q2-2026,14,Revenue
+rev,CARFAX,FY2023,928.0,Form10A_2026-05-27,462,Revenue
+rev,CARFAX,FY2024,1039.0,Form10A_2026-05-27,461,Revenue
+rev,CARFAX,FY2025,1142.0,Form10A_2026-05-27,461,Revenue
+rev,CARFAX,Q1-2025,275.0,Form10A_2026-05-27,431,Revenue
+rev,CARFAX,Q1-2026,298.0,Form10A_2026-05-27,431,Revenue
+rev,CARFAX,Q2-2025,289.0,10Q_Q2-2026,14,Revenue
+rev,CARFAX,Q2-2026,312.0,10Q_Q2-2026,14,Revenue
+rev,Corporate,6M-2025,0.0,10Q_Q2-2026,14,Revenue
+rev,Corporate,6M-2026,0.0,10Q_Q2-2026,14,Revenue
+rev,Corporate,Q2-2025,0.0,10Q_Q2-2026,14,Revenue
+rev,Corporate,Q2-2026,0.0,10Q_Q2-2026,14,Revenue
+rev,Total,6M-2025,859.0,10Q_Q2-2026,14,Revenue
+rev,Total,6M-2026,923.0,10Q_Q2-2026,14,Revenue
+rev,Total,FY2023,1485.0,Form10A_2026-05-27,462,Revenue
+rev,Total,FY2024,1613.0,Form10A_2026-05-27,461,Revenue
+rev,Total,FY2025,1750.0,Form10A_2026-05-27,461,Revenue
+rev,Total,Q1-2025,420.0,Form10A_2026-05-27,431,Revenue
+rev,Total,Q1-2026,455.0,Form10A_2026-05-27,431,Revenue
+rev,Total,Q2-2025,439.0,10Q_Q2-2026,14,Revenue
+rev,Total,Q2-2026,468.0,10Q_Q2-2026,14,Revenue
+sbc,B2B,6M-2025,4.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,B2B,6M-2026,6.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,B2B,FY2023,6.0,Form10A_2026-05-27,360,Stock - based compensation
+sbc,B2B,FY2024,10.0,Form10A_2026-05-27,360,Stock - based compensation
+sbc,B2B,FY2025,9.0,Form10A_2026-05-27,359,Stock - based compensation
+sbc,B2B,Q1-2025,2.0,Form10A_2026-05-27,359,Stock - based compensation
+sbc,B2B,Q1-2026,3.0,Form10_2026-05-07,438,Stock - based compensation
+sbc,B2B,Q2-2025,2.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,B2B,Q2-2026,3.0,10Q_Q2-2026,24,Adjusted to add: Stock-based compensation
+sbc,CARFAX,6M-2025,5.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,CARFAX,6M-2026,3.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,CARFAX,FY2023,14.0,Form10A_2026-05-27,360,Stock - based compensation
+sbc,CARFAX,FY2024,18.0,Form10A_2026-05-27,360,Stock - based compensation
+sbc,CARFAX,FY2025,13.0,Form10A_2026-05-27,359,Stock - based compensation
+sbc,CARFAX,Q1-2025,3.0,Form10A_2026-05-27,359,Stock - based compensation
+sbc,CARFAX,Q1-2026,1.0,Form10A_2026-05-27,359,Stock - based compensation
+sbc,CARFAX,Q2-2025,2.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,CARFAX,Q2-2026,2.0,10Q_Q2-2026,24,Adjusted to add: Stock-based compensation
+sbc,Corporate,6M-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,Corporate,6M-2026,0.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,Corporate,Q2-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,Corporate,Q2-2026,0.0,10Q_Q2-2026,24,Adjusted to add: Stock-based compensation
+sbc,Total,6M-2025,9.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,Total,6M-2026,9.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,Total,FY2023,20.0,Form10A_2026-05-27,360,Stock - based compensation
+sbc,Total,FY2024,28.0,Form10A_2026-05-27,360,Stock - based compensation
+sbc,Total,FY2025,22.0,Form10A_2026-05-27,359,Stock - based compensation
+sbc,Total,Q1-2025,5.0,Form10A_2026-05-27,359,Stock - based compensation
+sbc,Total,Q1-2026,4.0,Form10A_2026-05-27,359,Stock - based compensation
+sbc,Total,Q2-2025,4.0,10Q_Q2-2026,25,Adjusted to add: Stock-based compensation
+sbc,Total,Q2-2026,5.0,10Q_Q2-2026,24,Adjusted to add: Stock-based compensation
+sev,B2B,6M-2025,4.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,B2B,6M-2026,0.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,B2B,FY2023,9.0,Form10A_2026-05-27,360,Employee severance charges
+sev,B2B,FY2024,7.0,Form10A_2026-05-27,360,Employee severance charges
+sev,B2B,FY2025,13.0,Form10A_2026-05-27,359,Employee severance charges
+sev,B2B,Q2-2025,4.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,B2B,Q2-2026,0.0,10Q_Q2-2026,24,Adjusted to add: Employee severance charges and other
+sev,CARFAX,6M-2025,1.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,CARFAX,6M-2026,0.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,CARFAX,FY2025,2.0,Form10A_2026-05-27,359,Employee severance charges
+sev,CARFAX,Q2-2025,1.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,CARFAX,Q2-2026,0.0,10Q_Q2-2026,24,Adjusted to add: Employee severance charges and other
+sev,Corporate,6M-2025,6.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,Corporate,6M-2026,2.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,Corporate,FY2024,3.0,Form10A_2026-05-27,360,Employee severance charges
+sev,Corporate,FY2025,5.0,Form10A_2026-05-27,359,Employee severance charges
+sev,Corporate,Q1-2025,2.0,Form10A_2026-05-27,359,Employee severance charges + Other
+sev,Corporate,Q2-2025,4.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,Corporate,Q2-2026,2.0,10Q_Q2-2026,24,Adjusted to add: Employee severance charges and other
+sev,Total,6M-2025,11.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,Total,6M-2026,2.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,Total,FY2023,9.0,Form10A_2026-05-27,360,Employee severance charges
+sev,Total,FY2024,10.0,Form10A_2026-05-27,360,Employee severance charges
+sev,Total,FY2025,22.0,Form10A_2026-05-27,359,Employee severance charges + Other (1)
+sev,Total,Q1-2025,2.0,Form10A_2026-05-27,359,Employee severance charges + Other
+sev,Total,Q2-2025,9.0,10Q_Q2-2026,25,Adjusted to add: Employee severance charges and other
+sev,Total,Q2-2026,2.0,10Q_Q2-2026,24,Adjusted to add: Employee severance charges and other
+sg,B2B,FY2023,159.0,Form10A_2026-05-27,351,Selling and general expenses
+sg,B2B,FY2024,162.0,Form10A_2026-05-27,350,Selling and general expenses
+sg,B2B,FY2025,177.0,Form10A_2026-05-27,350,Selling and general expenses
+sg,B2B,Q1-2025,39.0,Form10A_2026-05-27,347,Selling and general expenses
+sg,B2B,Q1-2026,56.0,Form10A_2026-05-27,347,Selling and general expenses
+sg,CARFAX,FY2023,300.0,Form10A_2026-05-27,351,Selling and general expenses
+sg,CARFAX,FY2024,339.0,Form10A_2026-05-27,350,Selling and general expenses
+sg,CARFAX,FY2025,363.0,Form10A_2026-05-27,350,Selling and general expenses
+sg,CARFAX,Q1-2025,85.0,Form10A_2026-05-27,347,Selling and general expenses
+sg,CARFAX,Q1-2026,91.0,Form10A_2026-05-27,347,Selling and general expenses
+sg,Corporate,FY2023,32.0,Form10A_2026-05-27,351,Selling and general expenses
+sg,Corporate,FY2024,30.0,Form10A_2026-05-27,350,Selling and general expenses
+sg,Corporate,FY2025,45.0,Form10A_2026-05-27,350,Selling and general expenses
+sg,Corporate,Q1-2025,7.0,Form10A_2026-05-27,347,Selling and general expenses
+sg,Corporate,Q1-2026,13.0,Form10A_2026-05-27,347,Selling and general expenses
+sg,Total,FY2023,491.0,Form10A_2026-05-27,351,Selling and general expenses
+sg,Total,FY2024,531.0,Form10A_2026-05-27,350,Selling and general expenses
+sg,Total,FY2025,585.0,Form10A_2026-05-27,350,Selling and general expenses
+sg,Total,Q1-2025,131.0,Form10A_2026-05-27,347,Selling and general expenses
+sg,Total,Q1-2026,160.0,Form10A_2026-05-27,347,Selling and general expenses
+sub,B2B,6M-2025,242.0,10Q_Q2-2026,15,Subscription
+sub,B2B,6M-2026,261.0,10Q_Q2-2026,15,Subscription
+sub,B2B,FY2023,422.0,Form10A_2026-05-27,463,Subscription
+sub,B2B,FY2024,460.0,Form10A_2026-05-27,462,Subscription
+sub,B2B,FY2025,499.0,Form10A_2026-05-27,462,Subscription
+sub,B2B,Q1-2025,118.0,Form10A_2026-05-27,432,Subscription
+sub,B2B,Q1-2026,130.0,Form10A_2026-05-27,432,Subscription
+sub,B2B,Q2-2025,124.0,10Q_Q2-2026,15,Subscription
+sub,B2B,Q2-2026,131.0,10Q_Q2-2026,15,Subscription
+sub,CARFAX,6M-2025,459.0,10Q_Q2-2026,15,Subscription
+sub,CARFAX,6M-2026,494.0,10Q_Q2-2026,15,Subscription
+sub,CARFAX,FY2023,748.0,Form10A_2026-05-27,463,Subscription
+sub,CARFAX,FY2024,843.0,Form10A_2026-05-27,462,Subscription
+sub,CARFAX,FY2025,927.0,Form10A_2026-05-27,462,Subscription
+sub,CARFAX,Q1-2025,225.0,Form10A_2026-05-27,432,Subscription
+sub,CARFAX,Q1-2026,242.0,Form10A_2026-05-27,432,Subscription
+sub,CARFAX,Q2-2025,234.0,10Q_Q2-2026,15,Subscription
+sub,CARFAX,Q2-2026,252.0,10Q_Q2-2026,15,Subscription
+sub,Total,6M-2025,701.0,10Q_Q2-2026,15,Subscription
+sub,Total,6M-2026,755.0,10Q_Q2-2026,15,Subscription
+sub,Total,FY2023,1170.0,Form10A_2026-05-27,463,Subscription
+sub,Total,FY2024,1303.0,Form10A_2026-05-27,462,Subscription
+sub,Total,FY2025,1426.0,Form10A_2026-05-27,462,Subscription
+sub,Total,Q1-2025,343.0,Form10A_2026-05-27,432,Subscription
+sub,Total,Q1-2026,372.0,Form10A_2026-05-27,432,Subscription
+sub,Total,Q2-2025,358.0,10Q_Q2-2026,15,Subscription
+sub,Total,Q2-2026,383.0,10Q_Q2-2026,15,Subscription
+trans,B2B,6M-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,B2B,6M-2026,33.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,B2B,FY2025,9.0,Form10A_2026-05-27,359,Transaction costs
+trans,B2B,Q1-2026,13.0,Form10A_2026-05-27,359,Transaction costs
+trans,B2B,Q2-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,B2B,Q2-2026,20.0,10Q_Q2-2026,24,Adjusted to add: Transaction costs
+trans,CARFAX,6M-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,CARFAX,6M-2026,0.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,CARFAX,Q2-2025,0.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,CARFAX,Q2-2026,0.0,10Q_Q2-2026,24,Adjusted to add: Transaction costs
+trans,Corporate,6M-2025,2.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,Corporate,6M-2026,24.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,Corporate,FY2025,12.0,Form10A_2026-05-27,359,Transaction costs
+trans,Corporate,Q1-2026,8.0,Form10A_2026-05-27,359,Transaction costs
+trans,Corporate,Q2-2025,2.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,Corporate,Q2-2026,16.0,10Q_Q2-2026,24,Adjusted to add: Transaction costs
+trans,Total,6M-2025,2.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,Total,6M-2026,57.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,Total,FY2025,21.0,Form10A_2026-05-27,359,Transaction costs
+trans,Total,Q1-2026,21.0,Form10A_2026-05-27,359,Transaction costs
+trans,Total,Q2-2025,2.0,10Q_Q2-2026,25,Adjusted to add: Transaction costs
+trans,Total,Q2-2026,36.0,10Q_Q2-2026,24,Adjusted to add: Transaction costs
+us,B2B,6M-2025,233.0,10Q_Q2-2026,29,U.S. revenue
+us,B2B,6M-2026,247.0,10Q_Q2-2026,29,U.S. revenue
+us,B2B,FY2023,433.0,Form10A_2026-05-27,356,U.S. revenue
+us,B2B,FY2024,445.0,Form10A_2026-05-27,356,U.S. revenue
+us,B2B,FY2025,480.0,Form10A_2026-05-27,356,U.S. revenue
+us,B2B,Q1-2025,114.0,Form10A_2026-05-27,354,U.S. revenue
+us,B2B,Q1-2026,123.0,Form10A_2026-05-27,354,U.S. revenue
+us,B2B,Q2-2025,119.0,10Q_Q2-2026,29,U.S. revenue
+us,B2B,Q2-2026,124.0,10Q_Q2-2026,29,U.S. revenue
+us,CARFAX,6M-2025,482.0,10Q_Q2-2026,28,U.S. revenue
+us,CARFAX,6M-2026,518.0,10Q_Q2-2026,28,U.S. revenue
+us,CARFAX,FY2023,791.0,Form10A_2026-05-27,355,U.S. revenue
+us,CARFAX,FY2024,884.0,Form10A_2026-05-27,355,U.S. revenue
+us,CARFAX,FY2025,974.0,Form10A_2026-05-27,355,U.S. revenue
+us,CARFAX,Q1-2025,236.0,Form10A_2026-05-27,354,U.S. revenue
+us,CARFAX,Q1-2026,253.0,Form10A_2026-05-27,354,U.S. revenue
+us,CARFAX,Q2-2025,246.0,10Q_Q2-2026,28,U.S. revenue
+us,CARFAX,Q2-2026,265.0,10Q_Q2-2026,28,U.S. revenue

@@ -98,3 +98,32 @@ The model now has a **Segment History** tab with three eras side by side, each a
 - **Sources:** 1,000 new rows from the FY2021 10-Qs, the Q2 FY2021 8-K, the Q2/Q3 FY2021 decks and a 10-K re-sweep. `extraction/predecessor.csv` now has 1,597 rows.
 - **Workbook verification:** recalc shows 0 errors and 139 integrity checks pass (10 more than before).
 - **Research document:** Exhibits 8.7 and 8.8 added.
+
+## Uniform segment P&L (added 2026-10-07)
+
+**Segment P&L tab:** CARFAX, B2B and Corporate, with identical rows in all nine periods (FY2023–25, Q1/Q2/6M 2025–26).
+- **Revenue:** subscription/non-subscription and U.S./International splits.
+- **Bridge to Adjusted EBITDA:** segment operating profit plus amortization, depreciation, SBC, transaction, severance & other, and acquisition/legal/ELT items.
+- **Comparison and ratios:** the built EBITDA is shown against company-reported Adjusted EBITDA, with margins, growth, incremental margins, cash operating costs, D&A % and SBC %.
+- **Total:** the sum of the segments, reconciled to the IS tab.
+
+**Why one bridge works:** both the old 10-exclusion and new 6-exclusion company definitions reduce to the same bridge, so every period sits on one basis.
+
+**Checks:**
+- All built bridges tie to reported Adjusted EBITDA, except 3 documented gaps (FY2025 "Other" split; Q1-2026 B2B depreciation).
+- Revenue and operating profit tie to the IS.
+- 6M = Q1 + Q2 across the definition change.
+- Recalc: 0 errors; 205 integrity checks pass.
+
+| Period | CARFAX Adj. EBITDA margin | B2B Adj. EBITDA margin |
+|---|---|---|
+| FY23 | 45.5% | 34.3% |
+| FY24 | 45.8% | 35.4% |
+| FY25 | 46.9% | 32.4% |
+| 6M-26 | 48.0% | 32.6% |
+
+[C]
+
+**Further readings [C]:**
+- CARFAX was 65% of revenue and 74% of segment Adj. EBITDA (before Corporate) in 6M-26.
+- B2B's FY25 incremental margin was −17.6%.

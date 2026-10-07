@@ -339,6 +339,8 @@ for lab, fn, fmt, d in metrics:
 ws.column_dimensions[L(len(FLOW_P) + 2)].width = 50
 assert ws.cell(9, 1).value.startswith('EBITDA (') and ws.cell(15, 1).value.startswith('Free cash flow'), 'metric row refs moved'
 
+exec(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'segment_pl_block.py')).read())
+
 # ---------------------------------------------------------------- generic long-CSV pivot tabs
 def pivot(title_tab, title, subtitle, rows, period_filter=None, group=('source_doc', 'section'), source_col=True):
     ws = wb.create_sheet(title_tab)
@@ -501,7 +503,7 @@ cover = [
  ('Source limitation', 'Native filings (EDGAR, Quartr PDF CDN, Wayback) were blocked by the sandbox network policy; Quartr page text flattens tables and corrupts some digits. Unreadable cells are left blank and logged (Accounting Notes, *_NOTES.md). No XBRL cross-check was possible — verification is cross-document (Form 10 vs 10/A vs 10-Q vs 8-K vs decks).'),
  ('Conventions', 'Blank = not reported / not machine-readable; dash = reported zero. Blue = hard input as filed; black = in-sheet formula; green = cross-sheet formula. "0.0%" literal format = as-printed percentage; true % = computed ratio. Check rows marked CHECK (hidden col Z).'),
  ('Tiers', '[D] disclosed · [C] computed · [E] estimate · [IR] management verbal · [X] third party · [context] general knowledge.'),
- ('Tabs', 'Accounting Notes · IS · BS · CF · Key Metrics · Segments · Revenue Detail · Adjusted Non-GAAP · Operating KPIs · notes tabs (Debt, Tax, Equity, OCI, Pension, Goodwill & Intangibles, Related Party, Leases, Commitments, Deferred Revenue) · Pro Forma · Segment History · Predecessor Segments · Acquisitions · Presentation Data · Qualitative · Caption Map'),
+ ('Tabs', 'Accounting Notes · IS · BS · CF · Key Metrics · Segment P&L · Segments · Revenue Detail · Adjusted Non-GAAP · Operating KPIs · notes tabs (Debt, Tax, Equity, OCI, Pension, Goodwill & Intangibles, Related Party, Leases, Commitments, Deferred Revenue) · Pro Forma · Segment History · Predecessor Segments · Acquisitions · Presentation Data · Qualitative · Caption Map'),
 ]
 for i, (k, v) in enumerate(cover):
     ws.cell(4 + i, 1, k).font = F_SEC

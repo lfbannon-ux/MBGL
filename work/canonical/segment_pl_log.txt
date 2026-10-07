@@ -1,0 +1,12 @@
+GAP-FILL from Form 10 (10/A text illegible): ('sbc', 'B2B', 'Q1-2026') = 3.0 p438
+SUM ('sev', 'Corporate', 'Q1-2025') += 1.0 (Other)
+SUM ('sev', 'Total', 'Q1-2025') += 1.0 (Other)
+SUM ('sev', 'Total', 'FY2025') += 2.0 (Other (1))
+SUM ('acq', 'B2B', 'FY2025') += -5.0 (ELT transition costs)
+SUM ('acq', 'B2B', 'FY2024') += 2.0 (Acquisition and disposition - related costs)
+SUM ('acq', 'Corporate', 'FY2024') += 2.0 (Acquisition and disposition - related costs)
+SUM ('acq', 'Total', 'FY2024') += 4.0 (Acquisition and disposition - related costs)
+SUM ('acq', 'B2B', 'FY2023') += 3.0 (Acquisition and disposition - related costs)
+SUM ('acq', 'Corporate', 'FY2023') += 1.0 (Acquisition and disposition - related costs)
+SUM ('acq', 'Total', 'FY2023') += 4.0 (Acquisition and disposition - related costs)
+GAP-FILL from Form 10 (10/A text illegible): ('adj', 'B2B', 'Q1-2026') = 49.0 p438

@@ -14,7 +14,8 @@ events = {e['id']: e for e in json.load(open(f'{D}/event_list.json'))}
 files = sorted(glob.glob(f'{D}/*_[0-9][0-9][0-9][0-9]-*.md'), key=lambda p: os.path.basename(p).split('_')[1])
 
 def count_mentions(txt):
-    m = re.search(r'[Mm]ention count[^0-9]*(\d+)', txt)
+    m = re.search(r'[Mm]ention count:[ \t]*(\d+)', txt)
+    if re.search(r'[Mm]ention count:[ \t]*n/a', txt): return 0
     if m: return int(m.group(1))
     return len(re.findall(r'^#{2,4}\s*(?:Mention\s*)?#?\d+\b', txt, re.M))
 
@@ -29,6 +30,16 @@ def add_runs(p, text, size=9.5, italic=False):
         bold = part.startswith('**') and part.endswith('**')
         t = part.strip('*').strip('`') if (bold or part.startswith('`')) else part
         r = p.add_run(t); r.bold = bold; r.italic = italic; r.font.size = Pt(size); r.font.name = 'Arial'
+
+
+NOTES = [
+ 'Wrong-event payloads (Quartr served a different transcript; excluded, no entries): 64126 "AGM 2022" (actually a Sustainable1 ESG webinar); 609213 "Fireside chat" 2026-03-18 (actually a Market Intelligence AI-strategy webinar).',
+ 'IHS Markit: Quartr holds transcripts only for the Q2 FY2021 (2021-06-23) and Q3 FY2021 (2021-09-28) calls. FY2016–FY2020 and Q4 FY2021 earnings calls are listed without transcripts — not obtainable from this source.',
+ 'Event 620148 ("Investor Day 2026", listed under S&P Global) is Mobility Global\'s own inaugural investor day; it duplicates the MBGL quote bank (transcripts/MBGL_2026-05-12_investor-day.md). Consecutive same-speaker paragraphs were grouped into one entry.',
+ 'Scan method: batches read every paragraph, except eight events (24584, 20622, 65410, 165844, 223553, 393534, 673513 and part of 24584) where transcripts were too large to return inline; there mentions were located by keyword search (Mobility, CARFAX, automotive, Polk, automotiveMastermind, Market Scan, dealer, spin) plus surrounding Q&A context. Explicit mentions are captured; an indirect reference without any keyword ("the division") could be missed.',
+ 'Borderline entries (portfolio-review or divestiture remarks where Mobility is not named; passing "transportation" remarks pre-merger) are included and flagged as borderline inside the entry — drop them for a strict count.',
+ 'Quotes were checked verbatim against transcript text (programmatically where the transcript was saved locally, otherwise by eye). Transcript errors are flagged, not corrected (e.g., "$80 billion-$90 billion" deferred-tax figure, likely millions).',
+]
 
 doc = Document()
 st = doc.styles['Normal']; st.font.name = 'Arial'; st.font.size = Pt(9.5)
@@ -67,8 +78,12 @@ for k, (date, co, title, typ, n, _) in enumerate(rows):
 p = doc.add_paragraph(); add_runs(p, f'Events covered: {len(rows)} · total mentions: {sum(r[4] for r in rows)}' +
     (f' · NOT COVERED: {", ".join(str(m["id"]) for m in missing)}' if missing else ''), 9, italic=True)
 
+doc.add_heading('Coverage notes', level=1)
+for n_ in NOTES:
+    p = doc.add_paragraph(style='List Bullet'); add_runs(p, n_, 9)
+
 # Body: one section per event, chronological; render the agent markdown
-md_out = ['# Mobility / CARFAX in IHS Markit and S&P Global transcripts', '']
+md_out = ['# Mobility / CARFAX in IHS Markit and S&P Global transcripts', '', '## Coverage notes', ''] + ['- ' + n_ for n_ in NOTES] + ['']
 for date, co, title, typ, n, f in rows:
     txt = open(f).read()
     md_out.append(txt); md_out.append('\n---\n')

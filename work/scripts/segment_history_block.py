@@ -126,3 +126,75 @@ for note in ['Era breaks: (1) IHS Inc. pre-FY2016 filings not on Quartr — FY20
              'Quarterly IHS Markit segment data (FY2021 10-Qs / 8-K) appear on the Predecessor Segments tab where printed.']:
     ws.cell(r, 1, note).font = F_NOTE; r += 1
 ws.column_dimensions[L(len(SH_P) + 2)].width = 55
+
+# ---- D. IHS Markit Transportation — quarterly (Quartr holds FY2021 Q2/Q3 releases, 10-Qs and decks; FY2020 quarters only as comparatives)
+QP = ['Q1-FY2020', 'Q2-FY2020', 'Q3-FY2020', 'Q4-FY2020', 'FY2020', 'Q1-FY2021', 'Q2-FY2021', 'Q3-FY2021', '9M-FY2021', 'FY2021']
+DOC_ORDER = ['INFO_10Q_Q2-FY2021', 'INFO_8K_Q2-FY2021', 'INFO_Slides_Q2-FY2021', 'INFO_10Q_Q3-FY2021', 'INFO_Slides_Q3-FY2021']
+def qpick(line_res, period):
+    c = [x for x in pred if x['source_doc'] in DOC_ORDER and x['fiscal_period'] == period and x['unit'] != 'text'
+         and any(re.search(lr, x['line_item']) for lr in line_res)]
+    if not c: return None
+    own = [x for x in c if x['source_doc'].endswith(period)]
+    pool = own or c
+    pool.sort(key=lambda x: DOC_ORDER.index(x['source_doc']))
+    return pool[0], not own
+r += 1
+section(ws, r, 'D. IHS Markit — Transportation quarterly (FYE Nov 30). Precise $ from 10-Q/8-K where printed; otherwise rounded deck figures ($m, integers). Bold-italic = comparative from a later document.', len(SH_P) + 1); r += 1
+for i, p in enumerate(QP):
+    c = ws.cell(r, i + 2, p.replace('-FY', '\nFY')); c.font = F_HDR; c.fill = PatternFill('solid', fgColor='2E5597'); c.alignment = Alignment(horizontal='center', wrap_text=True)
+ws.cell(r, 1, 'USD millions unless stated').font = F_HDR; ws.cell(r, 1).fill = PatternFill('solid', fgColor='2E5597'); r += 1
+QR = {}
+def q_in(key, label, line_res, fmt, bold=False, src=''):
+    global r
+    ws.cell(r, 1, label).font = F_SEC if bold else F_BASE
+    for i, p in enumerate(QP):
+        got = qpick(line_res, p)
+        if not got: continue
+        x, cmp_ = got
+        c = ws.cell(r, i + 2, float(x['value'])); c.number_format = fmt
+        c.font = F_CMP if cmp_ else (F_IN_B if bold else F_IN)
+    ws.cell(r, len(SH_P) + 2, src).font = F_NOTE
+    QR[key] = r; r += 1
+def q_fx(key, label, fn, fmt, chk=False, src='[C]'):
+    global r
+    ws.cell(r, 1, label).font = F_NOTE if chk else F_FX
+    for i, p in enumerate(QP):
+        e = fn(p, L(i + 2))
+        if e is None: continue
+        c = ws.cell(r, i + 2, '=' + e); c.number_format = fmt; c.font = F_FX
+    ws.cell(r, len(SH_P) + 2, src).font = F_NOTE
+    if chk:
+        ws.cell(r, MARK, 'CHECK')
+        for cc in range(1, len(SH_P) + 2): ws.cell(r, cc).fill = FILL_CHK
+    QR[key] = r; r += 1
+q_in('rev', 'Transportation revenue [D]', [r'^Revenue - Transportation$', r'^Transportation$', r'^Total - Transportation$'], MONEY, True, '10-Q Note 16 / 8-K / decks; FY2020 & FY2021 annual from 10-K')
+q_in('rec', '  Recurring revenue [D]', [r'^Recurring - Transportation$'], MONEY, src='8-K supplemental (Q2) / decks; Transportation has no recurring-variable revenue')
+q_in('non', '  Non-recurring revenue [D]', [r'^Non-Recurring - Transportation$'], MONEY)
+# 8-K precise recurring/non-recurring for Q2 periods live under section-qualified caption "Transportation"
+for key, sec_re in (('rec', r'Supplemental Revenue Disclosure - Recurr'), ('non', r'Supplemental Revenue Disclosure - Non-re')):
+    for i, p in enumerate(QP):
+        x = [y for y in pred if y['source_doc'] == 'INFO_8K_Q2-FY2021' and y['fiscal_period'] == p and re.search(sec_re, y['section']) and y['line_item'] == 'Transportation']
+        if x:
+            c = ws.cell(QR[key], i + 2, float(x[0]['value'])); c.number_format = MONEY
+            c.font = F_IN if x[0]['source_doc'].endswith(p) else F_CMP
+q_fx('recsh', '  Recurring share of revenue [C]', lambda p, c: f'{c}{QR["rec"]}/{c}{QR["rev"]}' if qpick([r'^Recurring - Transportation$'], p) else None, PCT_C)
+q_in('ebitda', 'Transportation Adjusted EBITDA [D]', [r'^Adjusted EBITDA - Transportation$', r'^Transportation Adjusted EBITDA$'], MONEY, True)
+# annual columns: link revenue / Adj. EBITDA to the 10-K values in block A (in-sheet formula), not rounded deck figures
+for key, akey in (('rev', 'a_rev'), ('ebitda', 'a_ebitda')):
+    for p in ('FY2020', 'FY2021'):
+        c = ws.cell(QR[key], QP.index(p) + 2, f'={L(SH_P.index(p) + 2)}{SHR[akey]}'); c.font = F_FX_B; c.number_format = MONEY
+q_fx('m', 'Adjusted EBITDA margin [C]', lambda p, c: f'{c}{QR["ebitda"]}/{c}{QR["rev"]}', PCT_C)
+q_in('mp', 'Adjusted EBITDA margin — as printed [D]', [r'^Adjusted EBITDA Margin % - Transportation$'], PCT_P)
+q_in('org_r', 'Organic growth — recurring [D]', [r'^Recurring - Transportation organic growth'], PCT_P, src='Decks; Q2-FY20, Q3-FY20, FY20, Q3-FY21 printed in the deck\'s "Normalized" columns')
+q_in('org_n', 'Organic growth — non-recurring [D]', [r'^Non-Recurring - Transportation organic growth'], PCT_P)
+q_in('org_t', 'Organic growth — total [D]', [r'^Total - Transportation organic growth'], PCT_P)
+q_fx('q4', 'Implied Q4-FY2021 revenue / Adj. EBITDA (FY2021 − 9M) [C]', lambda p, c: (f'{L(QP.index("FY2021")+2)}{QR["rev"]}-{L(QP.index("9M-FY2021")+2)}{QR["rev"]}' if p == 'Q1-FY2020' else
+      (f'{L(QP.index("FY2021")+2)}{QR["ebitda"]}-{L(QP.index("9M-FY2021")+2)}{QR["ebitda"]}' if p == 'Q2-FY2020' else None)), MONEY,
+      src='Col 1 = revenue, col 2 = Adj. EBITDA; Q4-FY2021 release/10-K quarterly data not on Quartr')
+ci = {p: L(QP.index(p) + 2) for p in QP}
+q_fx('chk1', 'CHECK recurring + non-recurring = revenue (0 = within ±1 rounding)', lambda p, c: f'IF(ABS({c}{QR["rec"]}+{c}{QR["non"]}-{c}{QR["rev"]})<=1,0,{c}{QR["rec"]}+{c}{QR["non"]}-{c}{QR["rev"]})' if qpick([r'^Recurring - Transportation$'], p) else None, MONEY, chk=True)
+q_fx('chk2', 'CHECK FY2020 = sum of quarters (revenue; 0 = within ±2 rounding)', lambda p, c: f'IF(ABS({ci["Q1-FY2020"]}{QR["rev"]}+{ci["Q2-FY2020"]}{QR["rev"]}+{ci["Q3-FY2020"]}{QR["rev"]}+{ci["Q4-FY2020"]}{QR["rev"]}-{c}{QR["rev"]})<=2,0,1)' if p == 'FY2020' else None, MONEY, chk=True)
+q_fx('chk3', 'CHECK 9M-FY2021 = Q1 + Q2 + Q3 (revenue & Adj. EBITDA; 0 = within ±1.5)', lambda p, c: f'IF(AND(ABS({ci["Q1-FY2021"]}{QR["rev"]}+{ci["Q2-FY2021"]}{QR["rev"]}+{ci["Q3-FY2021"]}{QR["rev"]}-{c}{QR["rev"]})<=1.5,ABS({ci["Q1-FY2021"]}{QR["ebitda"]}+{ci["Q2-FY2021"]}{QR["ebitda"]}+{ci["Q3-FY2021"]}{QR["ebitda"]}-{c}{QR["ebitda"]})<=1.5),0,1)' if p == '9M-FY2021' else None, MONEY, chk=True)
+for note in ['Conflicts kept as printed (see predecessor_NOTES.md): Q4-FY2020 recurring organic growth 5% (Q2-FY21 deck) vs 6% (Q3-FY21 deck); A&D sale ≈$470m (FY2019 10-K) vs ≈$466m (10-Qs).',
+             'Not on Quartr: IHS Markit quarterly releases/decks before Q2-FY2021 and anything for Q4-FY2021; quarterly segment data before Q1-FY2020 therefore unavailable. CARFAX / automotive / maritime revenue never printed in dollars.']:
+    ws.cell(r, 1, note).font = F_NOTE; r += 1

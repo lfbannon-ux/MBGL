@@ -897,3 +897,702 @@ INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2021,2021-05-31,Note 16 reconciliation (cons
 INFO_10Q_Q2-FY2021,34,SEG_PRED,Q2-FY2020,2020-05-31,Note 16 reconciliation (consolidated),Acquisition-related performance compensation,-4.5,usd_m,0,1
 INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2021,2021-05-31,Note 16 reconciliation (consolidated),Acquisition-related performance compensation,-7.8,usd_m,0,1
 INFO_10Q_Q2-FY2021,34,SEG_PRED,6M-FY2020,2020-05-31,Note 16 reconciliation (consolidated),Acquisition-related performance compensation,-4.7,usd_m,0,1
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Revenue - Financial Services,489.7,usd_m,0,1
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Revenue - Financial Services,445.6,usd_m,0,1
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Revenue - Financial Services,1467.6,usd_m,0,1
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Revenue - Financial Services,1325.1,usd_m,0,1
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Revenue - Transportation,347.4,usd_m,0,2
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Revenue - Transportation,298.9,usd_m,0,2
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Revenue - Transportation,1003.2,usd_m,0,2
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Revenue - Transportation,839.3,usd_m,0,2
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Revenue - Resources,207.9,usd_m,0,3
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Revenue - Resources,208.2,usd_m,0,3
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Revenue - Resources,631.4,usd_m,0,3
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Revenue - Resources,652.8,usd_m,0,3
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Revenue - CMS,135.5,usd_m,0,4
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Revenue - CMS,120.5,usd_m,0,4
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Revenue - CMS,379.6,usd_m,0,4
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Revenue - CMS,363.4,usd_m,0,4
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Total revenue,1180.5,usd_m,1,5
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Total revenue,1073.2,usd_m,1,5
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Total revenue,3481.8,usd_m,1,5
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Total revenue,3180.6,usd_m,1,5
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - Financial Services,240.7,usd_m,0,6
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - Financial Services,225.9,usd_m,0,6
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - Financial Services,711.4,usd_m,0,6
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - Financial Services,662.6,usd_m,0,6
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - Transportation,167.1,usd_m,0,7
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - Transportation,153.6,usd_m,0,7
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - Transportation,484.5,usd_m,0,7
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - Transportation,373.2,usd_m,0,7
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - Resources,83.6,usd_m,0,8
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - Resources,86.4,usd_m,0,8
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - Resources,249.2,usd_m,0,8
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - Resources,272.8,usd_m,0,8
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - CMS,37.5,usd_m,0,9
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - CMS,31.0,usd_m,0,9
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - CMS,92.3,usd_m,0,9
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - CMS,95.4,usd_m,0,9
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - Shared services,-13.3,usd_m,0,10
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - Shared services,-10.7,usd_m,0,10
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Adjusted EBITDA - Shared services,-37.6,usd_m,0,10
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Adjusted EBITDA - Shared services,-32.2,usd_m,0,10
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Total Adjusted EBITDA,515.6,usd_m,1,11
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Total Adjusted EBITDA,486.2,usd_m,1,11
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Total Adjusted EBITDA,1499.8,usd_m,1,11
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Total Adjusted EBITDA,1371.8,usd_m,1,11
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2021,2021-08-31,Note 16 Segment Information,Acquisition-related performance compensation,-3.7,usd_m,0,12
+INFO_10Q_Q3-FY2021,35,SEG_PRED,Q3-FY2020,2020-08-31,Note 16 Segment Information,Acquisition-related performance compensation,-4.9,usd_m,0,12
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Acquisition-related performance compensation,-11.5,usd_m,0,12
+INFO_10Q_Q3-FY2021,35,SEG_PRED,9M-FY2020,2020-08-31,Note 16 Segment Information,Acquisition-related performance compensation,-9.6,usd_m,0,12
+INFO_10Q_Q3-FY2021,33,SEG_PRED,9M-FY2021,2021-08-31,Note 16 Segment Information,Major customers,"No single customer accounted for 10 percent or more of total revenue for the three and nine months ended August 31, 2021 and August 31, 2020; no material inter-segment revenues.",text,0,13
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Segment,Transportation,347.4,usd_m,0,1
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2020,2020-08-31,MD&A Revenue by Segment,Transportation,298.9,usd_m,0,1
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Segment,Transportation,1003.2,usd_m,0,1
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2020,2020-08-31,MD&A Revenue by Segment,Transportation,839.3,usd_m,0,1
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Segment,Transportation Percentage Change,16,pct,0,2
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Segment,Transportation Percentage Change,20,pct,0,2
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),1180.5,usd_m,1,3
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2020,2020-08-31,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),1073.2,usd_m,1,3
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),3481.8,usd_m,1,3
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2020,2020-08-31,MD&A Revenue by Segment,Total revenue (IHS Markit consolidated),3180.6,usd_m,1,3
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Change in revenue by segment (percentage points),Transportation - Organic,15,pct,0,1
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,MD&A Change in revenue by segment (percentage points),Transportation - Organic,18,pct,0,1
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Change in revenue by segment (percentage points),Transportation - Acquisitive,0,pct,0,2
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,MD&A Change in revenue by segment (percentage points),Transportation - Acquisitive,0,pct,0,2
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Change in revenue by segment (percentage points),Transportation - Foreign Currency,1,pct,0,3
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,MD&A Change in revenue by segment (percentage points),Transportation - Foreign Currency,2,pct,0,3
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2021,2021-08-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Organic,9,pct,0,1
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Organic,8,pct,0,1
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2021,2021-08-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Acquisitive,0,pct,0,2
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Acquisitive,0,pct,0,2
+INFO_10Q_Q3-FY2021,42,SEG_PRED,Q3-FY2021,2021-08-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Foreign Currency,1,pct,0,3
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,"MD&A Change in Total Revenue (consolidated, percentage points)",Foreign Currency,1,pct,0,3
+INFO_10Q_Q3-FY2021,42,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Segment (narrative),Transportation narrative,"Very strong organic growth in Q3 and YTD; dealer-facing automotive (CARFAX, automotiveMastermind) grew strongly building back from 2020 pandemic effects; OEM, parts manufacturer, banking and insurance offerings contributed organic growth at a more stable pace; automotive is the largest contributor to segment revenue.",text,0,1
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (narrative),Transportation reference in transaction-type narrative,"Recurring fixed organic growth (7% Q3, 6% YTD) largely due to Transportation and Financial Services recurring offerings; non-recurring increase driven partly by more normal activity in Transportation offerings. No Transportation recurring/non-recurring $ split printed in the 10-Q.",text,0,1
+INFO_10Q_Q3-FY2021,47,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,167.1,usd_m,0,1
+INFO_10Q_Q3-FY2021,47,SEG_PRED,Q3-FY2020,2020-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,153.6,usd_m,0,1
+INFO_10Q_Q3-FY2021,47,SEG_PRED,9M-FY2021,2021-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,484.5,usd_m,0,1
+INFO_10Q_Q3-FY2021,47,SEG_PRED,9M-FY2020,2020-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA,373.2,usd_m,0,1
+INFO_10Q_Q3-FY2021,47,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA Percentage Change,9,pct,0,2
+INFO_10Q_Q3-FY2021,47,SEG_PRED,9M-FY2021,2021-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA Percentage Change,30,pct,0,2
+INFO_10Q_Q3-FY2021,47,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue (whole %),48,pct,0,3
+INFO_10Q_Q3-FY2021,47,SEG_PRED,Q3-FY2020,2020-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue (whole %),51,pct,0,3
+INFO_10Q_Q3-FY2021,47,SEG_PRED,9M-FY2021,2021-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue (whole %),48,pct,0,3
+INFO_10Q_Q3-FY2021,47,SEG_PRED,9M-FY2020,2020-08-31,MD&A Segment Adjusted EBITDA,Transportation Adjusted EBITDA as a percent of segment revenue (whole %),44,pct,0,3
+INFO_10Q_Q3-FY2021,47,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Segment Adjusted EBITDA,Total Adjusted EBITDA,515.6,usd_m,1,4
+INFO_10Q_Q3-FY2021,47,SEG_PRED,Q3-FY2020,2020-08-31,MD&A Segment Adjusted EBITDA,Total Adjusted EBITDA,486.2,usd_m,1,4
+INFO_10Q_Q3-FY2021,47,SEG_PRED,9M-FY2021,2021-08-31,MD&A Segment Adjusted EBITDA,Total Adjusted EBITDA,1499.8,usd_m,1,4
+INFO_10Q_Q3-FY2021,47,SEG_PRED,9M-FY2020,2020-08-31,MD&A Segment Adjusted EBITDA,Total Adjusted EBITDA,1371.8,usd_m,1,4
+INFO_10Q_Q3-FY2021,47,SEG_PRED,9M-FY2021,2021-08-31,MD&A Segment Adjusted EBITDA (narrative),Transportation Adjusted EBITDA narrative,"Increase primarily due to organic revenue growth, which improved substantially versus the prior year when it was negatively impacted by the pandemic; all segment margins impacted as temporary cost containment measures ended.",text,0,1
+INFO_10Q_Q3-FY2021,18,SEG_PRED,Q3-FY2021,2021-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring fixed revenue,860.0,usd_m,0,1
+INFO_10Q_Q3-FY2021,18,SEG_PRED,Q3-FY2020,2020-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring fixed revenue,796.2,usd_m,0,1
+INFO_10Q_Q3-FY2021,18,SEG_PRED,9M-FY2021,2021-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring fixed revenue,2521.6,usd_m,0,1
+INFO_10Q_Q3-FY2021,18,SEG_PRED,9M-FY2020,2020-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring fixed revenue,2355.5,usd_m,0,1
+INFO_10Q_Q3-FY2021,18,SEG_PRED,Q3-FY2021,2021-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring variable revenue,170.0,usd_m,0,2
+INFO_10Q_Q3-FY2021,18,SEG_PRED,Q3-FY2020,2020-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring variable revenue,153.0,usd_m,0,2
+INFO_10Q_Q3-FY2021,18,SEG_PRED,9M-FY2021,2021-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring variable revenue,525.5,usd_m,0,2
+INFO_10Q_Q3-FY2021,18,SEG_PRED,9M-FY2020,2020-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Recurring variable revenue,457.8,usd_m,0,2
+INFO_10Q_Q3-FY2021,18,SEG_PRED,Q3-FY2021,2021-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Non-recurring revenue,150.5,usd_m,0,3
+INFO_10Q_Q3-FY2021,18,SEG_PRED,Q3-FY2020,2020-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Non-recurring revenue,124.0,usd_m,0,3
+INFO_10Q_Q3-FY2021,18,SEG_PRED,9M-FY2021,2021-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Non-recurring revenue,434.7,usd_m,0,3
+INFO_10Q_Q3-FY2021,18,SEG_PRED,9M-FY2020,2020-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Non-recurring revenue,367.3,usd_m,0,3
+INFO_10Q_Q3-FY2021,18,SEG_PRED,Q3-FY2021,2021-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Total revenue,1180.5,usd_m,1,4
+INFO_10Q_Q3-FY2021,18,SEG_PRED,Q3-FY2020,2020-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Total revenue,1073.2,usd_m,1,4
+INFO_10Q_Q3-FY2021,18,SEG_PRED,9M-FY2021,2021-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Total revenue,3481.8,usd_m,1,4
+INFO_10Q_Q3-FY2021,18,SEG_PRED,9M-FY2020,2020-08-31,Revenue by transaction type (consolidated) - Note 3 / MD&A,Total revenue,3180.6,usd_m,1,4
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Recurring fixed - Total,8,pct,0,1
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Recurring fixed - Organic,7,pct,0,1
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Recurring fixed - Total,7,pct,0,1
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Recurring fixed - Organic,6,pct,0,1
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Recurring variable - Total,11,pct,0,2
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Recurring variable - Organic,8,pct,0,2
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Recurring variable - Total,15,pct,0,2
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Recurring variable - Organic,12,pct,0,2
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Non-recurring - Total,21,pct,0,3
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Non-recurring - Organic,20,pct,0,3
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Non-recurring - Total,18,pct,0,3
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Non-recurring - Organic,17,pct,0,3
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Total revenue - Total,10,pct,0,4
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Total revenue - Organic,9,pct,0,4
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Total revenue - Total,9,pct,0,4
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - percentage change,Total revenue - Organic,8,pct,0,4
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,73,pct,0,1
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2020,2020-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,74,pct,0,1
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,72,pct,0,1
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2020,2020-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,74,pct,0,1
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,14,pct,0,2
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2020,2020-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,14,pct,0,2
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,15,pct,0,2
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2020,2020-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,14,pct,0,2
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,13,pct,0,3
+INFO_10Q_Q3-FY2021,44,SEG_PRED,Q3-FY2020,2020-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,12,pct,0,3
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2021,2021-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,12,pct,0,3
+INFO_10Q_Q3-FY2021,44,SEG_PRED,9M-FY2020,2020-08-31,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,12,pct,0,3
+INFO_10Q_Q3-FY2021,36,SEG_PRED,9M-FY2021,2021-08-31,MD&A Executive Summary,Consolidated recurring revenue share (approximately),88,pct,0,1
+INFO_10Q_Q3-FY2021,26,SEG_PRED,9M-FY2021,2021-08-31,Note 8 Restructuring,"Remaining restructuring liability - Transportation (as of August 31, 2021)",1.6,usd_m,0,1
+INFO_10Q_Q3-FY2021,18,SEG_PRED,9M-FY2021,2021-08-31,Note 2 Business Combinations and Divestitures,"aM compensation recognized as of August 31, 2021 (approximately)",48.3,usd_m,0,5
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Recurring - Transportation,228,usd_m,0,1
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,951,usd_m,1,2
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,69,usd_m,0,3
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,130,usd_m,1,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Total - Transportation,297,usd_m,1,5
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1081,usd_m,1,6
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Recurring - Transportation organic growth,12,pct,0,1
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Total Recurring Organic Growth %,7,pct,0,2
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Non-Recurring - Transportation organic growth,-1,pct,0,3
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Total Non-Recurring Organic Growth %,-5,pct,0,4
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Total - Transportation organic growth,9,pct,0,5
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Total Organic Growth %,6,pct,0,6
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,118,usd_m,0,1
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,432,usd_m,1,2
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,39.7,pct,0,3
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,39.9,pct,0,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Recurring - Transportation,187,usd_m,0,1
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,913,usd_m,1,2
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,56,usd_m,0,3
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,113,usd_m,1,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Total - Transportation,243,usd_m,1,5
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1027,usd_m,1,6
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Recurring - Transportation organic growth (Normalized column),-10,pct,0,1
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Total Recurring Organic Growth % (Normalized column),1,pct,0,2
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Non-Recurring - Transportation organic growth (Normalized column),-31,pct,0,3
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Total Non-Recurring Organic Growth % (Normalized column),-26,pct,0,4
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Total - Transportation organic growth (Normalized column),-16,pct,0,5
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Total Organic Growth % (Normalized column),-3,pct,0,6
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,102,usd_m,0,1
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,454,usd_m,1,2
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,41.8,pct,0,3
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,44.2,pct,0,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Recurring - Transportation,227,usd_m,0,1
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,949,usd_m,1,2
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,72,usd_m,0,3
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,124,usd_m,1,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Total - Transportation,299,usd_m,1,5
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1073,usd_m,1,6
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Recurring - Transportation organic growth (Normalized column),5,pct,0,1
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Total Recurring Organic Growth % (Normalized column),2,pct,0,2
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Non-Recurring - Transportation organic growth (Normalized column),-12,pct,0,3
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Total Non-Recurring Organic Growth % (Normalized column),-18,pct,0,4
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Total - Transportation organic growth (Normalized column),0,pct,0,5
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Total Organic Growth % (Normalized column),0,pct,0,6
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,154,usd_m,0,1
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,486,usd_m,1,2
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,51.4,pct,0,3
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,45.3,pct,0,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Recurring - Transportation,238,usd_m,0,1
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,968,usd_m,1,2
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,75,usd_m,0,3
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,139,usd_m,1,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total - Transportation,312,usd_m,1,5
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1107,usd_m,1,6
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Recurring - Transportation organic growth,5,pct,0,1
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Total Recurring Organic Growth %,2,pct,0,2
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Non-Recurring - Transportation organic growth,-9,pct,0,3
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Total Non-Recurring Organic Growth %,-11,pct,0,4
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Total - Transportation organic growth,2,pct,0,5
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Total Organic Growth %,0,pct,0,6
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,141,usd_m,0,1
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,465,usd_m,1,2
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,45.3,pct,0,3
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,42.0,pct,0,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Recurring - Transportation,879,usd_m,0,1
+INFO_Slides_Q2-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,3782,usd_m,1,2
+INFO_Slides_Q2-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,273,usd_m,0,3
+INFO_Slides_Q2-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,506,usd_m,1,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total - Transportation,1152,usd_m,1,5
+INFO_Slides_Q2-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,4288,usd_m,1,6
+INFO_Slides_Q2-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Recurring - Transportation organic growth (Normalized column),3,pct,0,1
+INFO_Slides_Q2-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Total Recurring Organic Growth % (Normalized column),3,pct,0,2
+INFO_Slides_Q2-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Non-Recurring - Transportation organic growth (Normalized column),-14,pct,0,3
+INFO_Slides_Q2-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Total Non-Recurring Organic Growth % (Normalized column),-15,pct,0,4
+INFO_Slides_Q2-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Total - Transportation organic growth (Normalized column),-2,pct,0,5
+INFO_Slides_Q2-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Total Organic Growth % (Normalized column),0,pct,0,6
+INFO_Slides_Q2-FY2021,7,SEG_PRED,FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,515,usd_m,0,1
+INFO_Slides_Q2-FY2021,7,SEG_PRED,FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,1837,usd_m,1,2
+INFO_Slides_Q2-FY2021,7,SEG_PRED,FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,44.7,pct,0,3
+INFO_Slides_Q2-FY2021,7,SEG_PRED,FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,42.8,pct,0,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Recurring - Transportation,247,usd_m,0,1
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,999,usd_m,1,2
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,65,usd_m,0,3
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,121,usd_m,1,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Total - Transportation,312,usd_m,1,5
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1120,usd_m,1,6
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Recurring - Transportation organic growth,8,pct,0,1
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Total Recurring Organic Growth %,4,pct,0,2
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Non-Recurring - Transportation organic growth,-8,pct,0,3
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Total Non-Recurring Organic Growth %,-7,pct,0,4
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Total - Transportation organic growth,4,pct,0,5
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Total Organic Growth %,3,pct,0,6
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,147,usd_m,0,1
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,467,usd_m,1,2
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,47.1,pct,0,3
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,41.7,pct,0,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Recurring - Transportation,262,usd_m,0,1
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,1019,usd_m,1,2
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,83,usd_m,0,3
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,163,usd_m,1,4
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Total - Transportation,344,usd_m,1,5
+INFO_Slides_Q2-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1181,usd_m,1,6
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Recurring - Transportation organic growth,38,pct,0,1
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Total Recurring Organic Growth %,10,pct,0,2
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Non-Recurring - Transportation organic growth,41,pct,0,3
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Total Non-Recurring Organic Growth %,41,pct,0,4
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Total - Transportation organic growth,39,pct,0,5
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Total Organic Growth %,13,pct,0,6
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,171,usd_m,0,1
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,517,usd_m,1,2
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,49.6,pct,0,3
+INFO_Slides_Q2-FY2021,7,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,43.8,pct,0,4
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth - footnote (1),Transportation non-recurring organic revenue growth including impact of cancelled events,-37,pct,0,1
+INFO_Slides_Q2-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth - footnote (1),Transportation total organic revenue growth including impact of cancelled events,-18,pct,0,2
+INFO_Slides_Q2-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth - footnote (1),Transportation non-recurring organic revenue growth including impact of cancelled events,-16,pct,0,1
+INFO_Slides_Q2-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth - footnote (1),Transportation total organic revenue growth including impact of cancelled events,-2,pct,0,2
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Recurring - Transportation,228,usd_m,0,1
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,951,usd_m,1,2
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,69,usd_m,0,3
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,130,usd_m,1,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Total - Transportation,297,usd_m,1,5
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1081,usd_m,1,6
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Recurring - Transportation organic growth,12,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Total Recurring Organic Growth %,7,pct,0,2
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Non-Recurring - Transportation organic growth,-1,pct,0,3
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Total Non-Recurring Organic Growth %,-5,pct,0,4
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Total - Transportation organic growth,9,pct,0,5
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Organic Growth,Total Organic Growth %,6,pct,0,6
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,118,usd_m,0,1
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,432,usd_m,1,2
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,39.7,pct,0,3
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q1-FY2020,2020-02-29,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,39.9,pct,0,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Recurring - Transportation,187,usd_m,0,1
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,913,usd_m,1,2
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,56,usd_m,0,3
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,113,usd_m,1,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Total - Transportation,243,usd_m,1,5
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1027,usd_m,1,6
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Recurring - Transportation organic growth (Normalized column),-10,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Total Recurring Organic Growth % (Normalized column),1,pct,0,2
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Non-Recurring - Transportation organic growth (Normalized column),-31,pct,0,3
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Total Non-Recurring Organic Growth % (Normalized column),-26,pct,0,4
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Total - Transportation organic growth (Normalized column),-16,pct,0,5
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth,Total Organic Growth % (Normalized column),-3,pct,0,6
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,102,usd_m,0,1
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,454,usd_m,1,2
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,41.8,pct,0,3
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,44.2,pct,0,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Recurring - Transportation,227,usd_m,0,1
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,949,usd_m,1,2
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,72,usd_m,0,3
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,124,usd_m,1,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Total - Transportation,299,usd_m,1,5
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1073,usd_m,1,6
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Recurring - Transportation organic growth (Normalized column),5,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Total Recurring Organic Growth % (Normalized column),2,pct,0,2
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Non-Recurring - Transportation organic growth (Normalized column),-12,pct,0,3
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Total Non-Recurring Organic Growth % (Normalized column),-18,pct,0,4
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Total - Transportation organic growth (Normalized column),0,pct,0,5
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Organic Growth,Total Organic Growth % (Normalized column),0,pct,0,6
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,154,usd_m,0,1
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,486,usd_m,1,2
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,51.4,pct,0,3
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q3-FY2020,2020-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,45.3,pct,0,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Recurring - Transportation,238,usd_m,0,1
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,968,usd_m,1,2
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,75,usd_m,0,3
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,139,usd_m,1,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total - Transportation,312,usd_m,1,5
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1107,usd_m,1,6
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Recurring - Transportation organic growth,6,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Total Recurring Organic Growth %,2,pct,0,2
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Non-Recurring - Transportation organic growth,-9,pct,0,3
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Total Non-Recurring Organic Growth %,-11,pct,0,4
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Total - Transportation organic growth,2,pct,0,5
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Organic Growth,Total Organic Growth %,0,pct,0,6
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,141,usd_m,0,1
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,465,usd_m,1,2
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,45.3,pct,0,3
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q4-FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,42.0,pct,0,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Recurring - Transportation,879,usd_m,0,1
+INFO_Slides_Q3-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,3782,usd_m,1,2
+INFO_Slides_Q3-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,273,usd_m,0,3
+INFO_Slides_Q3-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,506,usd_m,1,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total - Transportation,1152,usd_m,1,5
+INFO_Slides_Q3-FY2021,4,SEG_PRED,FY2020,2020-11-30,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,4288,usd_m,1,6
+INFO_Slides_Q3-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Recurring - Transportation organic growth (Normalized column),3,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Total Recurring Organic Growth % (Normalized column),3,pct,0,2
+INFO_Slides_Q3-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Non-Recurring - Transportation organic growth (Normalized column),-14,pct,0,3
+INFO_Slides_Q3-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Total Non-Recurring Organic Growth % (Normalized column),-15,pct,0,4
+INFO_Slides_Q3-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Total - Transportation organic growth (Normalized column),-2,pct,0,5
+INFO_Slides_Q3-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth,Total Organic Growth % (Normalized column),0,pct,0,6
+INFO_Slides_Q3-FY2021,7,SEG_PRED,FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,515,usd_m,0,1
+INFO_Slides_Q3-FY2021,7,SEG_PRED,FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,1837,usd_m,1,2
+INFO_Slides_Q3-FY2021,7,SEG_PRED,FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,44.7,pct,0,3
+INFO_Slides_Q3-FY2021,7,SEG_PRED,FY2020,2020-11-30,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,42.8,pct,0,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Recurring - Transportation,247,usd_m,0,1
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,999,usd_m,1,2
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,65,usd_m,0,3
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,121,usd_m,1,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Total - Transportation,312,usd_m,1,5
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1120,usd_m,1,6
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Recurring - Transportation organic growth,8,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Total Recurring Organic Growth %,4,pct,0,2
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Non-Recurring - Transportation organic growth,-8,pct,0,3
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Total Non-Recurring Organic Growth %,-7,pct,0,4
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Total - Transportation organic growth,4,pct,0,5
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Organic Growth,Total Organic Growth %,3,pct,0,6
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,147,usd_m,0,1
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,467,usd_m,1,2
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,47.1,pct,0,3
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q1-FY2021,2021-02-28,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,41.7,pct,0,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Recurring - Transportation,262,usd_m,0,1
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,1019,usd_m,1,2
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,83,usd_m,0,3
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,163,usd_m,1,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Total - Transportation,344,usd_m,1,5
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1181,usd_m,1,6
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Recurring - Transportation organic growth,38,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Total Recurring Organic Growth %,10,pct,0,2
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Non-Recurring - Transportation organic growth,41,pct,0,3
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Total Non-Recurring Organic Growth %,41,pct,0,4
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Total - Transportation organic growth,39,pct,0,5
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Organic Growth,Total Organic Growth %,13,pct,0,6
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,171,usd_m,0,1
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,517,usd_m,1,2
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,49.6,pct,0,3
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q2-FY2021,2021-05-31,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,43.8,pct,0,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Revenue by Reported Segment,Recurring - Transportation,268,usd_m,0,1
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Revenue by Reported Segment,Total IHS Markit Recurring Revenue,1030,usd_m,1,2
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Revenue by Reported Segment,Non-Recurring - Transportation,80,usd_m,0,3
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Revenue by Reported Segment,Total IHS Markit Non-Recurring Revenue,151,usd_m,1,4
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Revenue by Reported Segment,Total - Transportation,347,usd_m,1,5
+INFO_Slides_Q3-FY2021,4,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Revenue by Reported Segment,Total IHS Markit Revenue,1181,usd_m,1,6
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Organic Growth,Recurring - Transportation organic growth (Normalized column),17,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Organic Growth,Total Recurring Organic Growth % (Normalized column),7,pct,0,2
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Organic Growth,Non-Recurring - Transportation organic growth (Normalized column),8,pct,0,3
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Organic Growth,Total Non-Recurring Organic Growth % (Normalized column),14,pct,0,4
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Organic Growth,Total - Transportation organic growth (Normalized column),15,pct,0,5
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Organic Growth,Total Organic Growth % (Normalized column),8,pct,0,6
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA - Transportation,167,usd_m,0,1
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Total IHS Markit Adjusted EBITDA,516,usd_m,1,2
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Adjusted EBITDA Margin % - Transportation,48.1,pct,0,3
+INFO_Slides_Q3-FY2021,7,SEG_PRED,Q3-FY2021,2021-08-31,Quarterly Adjusted EBITDA View by Reported Segment,Total Adjusted EBITDA Margin %,43.7,pct,0,4
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth - footnote (1),Transportation non-recurring organic revenue growth including impact of cancelled events,-37,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,Q2-FY2020,2020-05-31,Quarterly Organic Growth - footnote (1),Transportation total organic revenue growth including impact of cancelled events,-18,pct,0,2
+INFO_Slides_Q3-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth - footnote (1),Transportation non-recurring organic revenue growth including impact of cancelled events,-16,pct,0,1
+INFO_Slides_Q3-FY2021,5,SEG_PRED,FY2020,2020-11-30,Quarterly Organic Growth - footnote (1),Transportation total organic revenue growth including impact of cancelled events,-2,pct,0,2
+INFO_Slides_Q3-FY2021,3,SEG_PRED,Q3-FY2021,2021-08-31,Guidance (consolidated),Guidance commentary relevant to segments,"FY2021 guidance updated: revenue +$20m for operational strength, Q4 adjusted for MarkitSERV JV (-$45m) and lower FX benefit (-$10m); no segment-level guidance printed.",text,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,3395.7,usd_m,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,3165.2,usd_m,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,3162.4,usd_m,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,669.9,usd_m,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,616.3,usd_m,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,572.9,usd_m,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,592.5,usd_m,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,506.3,usd_m,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,679.3,usd_m,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,4658.1,usd_m,1,4
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,4287.8,usd_m,1,4
+INFO_10K_FY2021,75,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,4414.6,usd_m,1,4
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Total,7,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Organic,7,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Total,0,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Organic,2,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Total,9,pct,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Organic,12,pct,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Total,8,pct,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Organic,7,pct,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Total,17,pct,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Organic,16,pct,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Total,-25,pct,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Organic,-21,pct,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Total,9,pct,0,4
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Organic,9,pct,0,4
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Total,-3,pct,0,4
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Organic,-1,pct,0,4
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,73,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,74,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,72,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,14,pct,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,14,pct,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,13,pct,0,2
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,13,pct,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,12,pct,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,15,pct,0,3
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,"MD&A Revenue by Transaction Type (narrative, consolidated)",Recurring-based business as percent of total revenue,87,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2020,2020-11-30,"MD&A Revenue by Transaction Type (narrative, consolidated)",Recurring-based business as percent of total revenue,88,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2019,2019-11-30,"MD&A Revenue by Transaction Type (narrative, consolidated)",Recurring-based business as percent of total revenue,85,pct,0,1
+INFO_10K_FY2021,75,SEG_PRED,FY2021,2021-11-30,"MD&A Revenue by Transaction Type (narrative, consolidated)",Non-recurring narrative (Transportation reference),2021 non-recurring organic increase driven partly by more normal activity in Transportation offerings; 2020 non-recurring decreased 21% organically partly due to lower OEM activity within Transportation.,text,0,2
+INFO_10K_FY2021,73,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment (narrative),Transportation 2020 detail,"Q2 2020 dealer-facing revenue hit by temporary price relief for dealers, pause in new sales and cancellations from financially distressed customers; non-recurring Transportation organic revenue for 2020 declined significantly, primarily reflecting lower recall and marketing revenues.",text,0,2
+INFO_10K_FY2021,138,SEG_PRED,FY2021,2021-11-30,Note 20 Segment Information (consolidated totals),Total Adjusted EBITDA,2030.3,usd_m,1,3
+INFO_10K_FY2021,138,SEG_PRED,FY2020,2020-11-30,Note 20 Segment Information (consolidated totals),Total Adjusted EBITDA,1836.7,usd_m,1,3
+INFO_10K_FY2021,138,SEG_PRED,FY2019,2019-11-30,Note 20 Segment Information (consolidated totals),Total Adjusted EBITDA,1778.9,usd_m,1,3
+INFO_10K_FY2021,139,SEG_PRED,FY2021,2021-11-30,Note 20 Total assets by segment,Total assets,16913.9,usd_m,1,9
+INFO_10K_FY2021,139,SEG_PRED,FY2020,2020-11-30,Note 20 Total assets by segment,Total assets,16135.2,usd_m,1,9
+INFO_10K_FY2021,138,SEG_PRED,FY2021,2021-11-30,Note 20 Segment Information,Major customers,"No single customer accounted for 10 percent or more of total revenue for 2021, 2020 or 2019; no material inter-segment revenues.",text,0,9
+INFO_10K_FY2021,139,SEG_PRED,FY2021,2021-11-30,Note 20 Geographic information,Revenue by geography by segment,"Not disclosed: geography table (U.S., U.K., Rest of world) is consolidated only.",text,0,9
+INFO_10K_FY2021,14,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,Forecast database coverage of global light vehicle sales and production (percent),99,pct,0,4
+INFO_10K_FY2021,14,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,Unique vehicle model variants forecast (more than),50000,count,0,5
+INFO_10K_FY2021,14,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,"Vehicle systems, sub-systems and components forecast (more than)",150,count,0,6
+INFO_10K_FY2021,14,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,"U.S. sales and marketing database - ownership records (nearly, billions)",12,count,0,7
+INFO_10K_FY2021,14,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,U.S. ownership database coverage (printed),covering 790 million vehicles and more than 250 million U.S. households over a period of more than 25 years,text,0,8
+INFO_10K_FY2021,14,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,M&T data coverage (printed),"more than 200,000 ships over 100 gross tons; monthly import/export statistics on more than 100 countries; tracking and forecasting approximately 96 percent of international trade by value",text,0,9
+INFO_10K_FY2021,18,SEG_PRED,FY2021,2021-11-30,Item 1 Transportation segment description,Transportation competitors (printed),"Automotive: Experian, LMC Automotive, Urban Science, Auto Alert; used car listings: cars.com, Cox Enterprises, CarGurus; M&T: Informa, Verisk, plus niche providers (Trade Data Monitor, Datamyne, Vortexa, Windward, Kpler).",text,0,10
+INFO_10K_FY2021,17,SEG_PRED,FY2021,2021-11-30,Item 1 Our People (consolidated),"Employees (more than; consolidated, no segment split)",16000,count,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,3165.2,usd_m,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,3162.4,usd_m,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,2861.5,usd_m,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,616.3,usd_m,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,572.9,usd_m,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,506.3,usd_m,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,506.3,usd_m,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,679.3,usd_m,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,641.4,usd_m,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,4287.8,usd_m,1,4
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,4414.6,usd_m,1,4
+INFO_10K_FY2020,80,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,4009.2,usd_m,1,4
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Total,0,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Organic,2,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Total,11,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Organic,6,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Total,8,pct,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Organic,7,pct,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Total,13,pct,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Organic,4,pct,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Total,-25,pct,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Organic,-21,pct,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Total,6,pct,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Organic,6,pct,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Total,-3,pct,0,4
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Organic,-1,pct,0,4
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Total,10,pct,0,4
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Organic,6,pct,0,4
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,74,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,72,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,71,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,14,pct,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,13,pct,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,13,pct,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,12,pct,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,15,pct,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,16,pct,0,3
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,"MD&A Revenue by Transaction Type (narrative, consolidated)",Recurring-based business as percent of total revenue,88,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,"MD&A Revenue by Transaction Type (narrative, consolidated)",Recurring-based business as percent of total revenue,85,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2018,2018-11-30,"MD&A Revenue by Transaction Type (narrative, consolidated)",Recurring-based business as percent of total revenue,84,pct,0,1
+INFO_10K_FY2020,80,SEG_PRED,FY2019,2019-11-30,"MD&A Revenue by Transaction Type (narrative, consolidated)",Recurring variable organic growth (narrative; table prints 4%),6,pct,0,2
+INFO_10K_FY2020,80,SEG_PRED,FY2020,2020-11-30,"MD&A Revenue by Transaction Type (narrative, consolidated)",Non-recurring narrative (Transportation reference),2020 non-recurring decline (-21% organic) partly due to cancelled events and lower OEM activity within Transportation; 2019 non-recurring increase primarily driven by automotive and Resources offerings.,text,0,3
+INFO_10K_FY2020,77,SEG_PRED,FY2019,2019-11-30,MD&A Total Revenue (narrative),Recurring / non-recurring organic growth 2019 (Transportation reference),2019 recurring-based business +6% organic led by Financial Services and Transportation; non-recurring +6% organic led by Transportation and Resources.,text,0,1
+INFO_10K_FY2020,78,SEG_PRED,FY2020,2020-11-30,MD&A Revenue by Segment (narrative),Transportation 2020 detail,"Dealer-facing revenue hit in Q2 2020 (price relief, pause in new sales, cancellations) with positive organic growth in that portion in H2 2020; non-recurring Transportation organic revenue declined significantly on lower recall and marketing revenues; A&D divestiture accounted for the 6 percent acquisitive decline.",text,0,2
+INFO_10K_FY2020,77,SEG_PRED,FY2020,2020-11-30,MD&A Total Revenue (narrative),Transportation quarterly pattern 2020,"Dealer-facing Transportation products were most negatively impacted in Q2 2020, with recovery beginning in Q3 and Q4 2020; Transportation events cancelled in Q2 2020.",text,0,2
+INFO_10K_FY2020,12,SEG_PRED,FY2020,2020-11-30,Item 1 Transportation segment description,Forecast database coverage of global light vehicle sales and production (percent),99,pct,0,4
+INFO_10K_FY2020,12,SEG_PRED,FY2020,2020-11-30,Item 1 Transportation segment description,Unique vehicle model variants forecast (more than),50000,count,0,5
+INFO_10K_FY2020,12,SEG_PRED,FY2020,2020-11-30,Item 1 Transportation segment description,"Vehicle systems, sub-systems and components forecast (more than)",100,count,0,6
+INFO_10K_FY2020,13,SEG_PRED,FY2020,2020-11-30,Item 1 Transportation segment description,"U.S. sales and marketing database - ownership records (more than, billions)",7,count,0,7
+INFO_10K_FY2020,13,SEG_PRED,FY2020,2020-11-30,Item 1 Transportation segment description,U.S. ownership database coverage (printed),covering 760 million vehicles and more than 240 million U.S. households over a period of 25 years,text,0,8
+INFO_10K_FY2020,14,SEG_PRED,FY2020,2020-11-30,Item 1 Transportation segment description,CARFAX data scale (printed),"CARFAX vehicle history based on more than 25 billion records collected from more than 112,000 data sources",text,0,3
+INFO_10K_FY2020,14,SEG_PRED,FY2020,2020-11-30,Item 1 Transportation segment description,M&T data coverage (printed),"more than 200,000 ships over 100 gross tons; monthly import/export statistics on 102 countries; tracking and forecasting approximately 96 percent of international trade by value",text,0,9
+INFO_10K_FY2020,10,SEG_PRED,FY2020,2020-11-30,Item 1 Our Customers (consolidated),Customers (more than; consolidated),50000,count,0,1
+INFO_10K_FY2020,10,SEG_PRED,FY2020,2020-11-30,Item 1 Our Customers (consolidated),Recurring revenue share (approximately),88,pct,0,2
+INFO_10K_FY2020,16,SEG_PRED,FY2020,2020-11-30,Item 1 Our People (consolidated),"Employees (more than; consolidated, no segment split)",16000,count,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,3162.4,usd_m,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,2861.5,usd_m,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,2550.0,usd_m,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,572.9,usd_m,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,506.3,usd_m,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,449.0,usd_m,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,679.3,usd_m,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,641.4,usd_m,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,600.7,usd_m,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,4414.6,usd_m,1,4
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,4009.2,usd_m,1,4
+INFO_10K_FY2019,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,3599.7,usd_m,1,4
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Total,11,pct,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Organic,6,pct,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Total,12,pct,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change Organic,6,pct,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Total,13,pct,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Organic,4,pct,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Total,13,pct,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change Organic,6,pct,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Total,6,pct,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Organic,6,pct,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Total,7,pct,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change Organic,6,pct,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Total,10,pct,0,4
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Organic,6,pct,0,4
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Total,11,pct,0,4
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change Organic,6,pct,0,4
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,72,pct,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,71,pct,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,71,pct,0,1
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,13,pct,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,13,pct,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,12,pct,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,15,pct,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,16,pct,0,3
+INFO_10K_FY2019,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,17,pct,0,3
+INFO_10K_FY2019,40,SEG_PRED,FY2019,2019-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,85,pct,0,1
+INFO_10K_FY2019,40,SEG_PRED,FY2018,2018-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,84,pct,0,1
+INFO_10K_FY2019,40,SEG_PRED,FY2017,2017-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,83,pct,0,1
+INFO_10K_FY2019,40,SEG_PRED,FY2019,2019-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring/non-recurring organic growth narrative (Transportation reference),"Recurring-based business +6% organic in 2019 and 2018, led by Financial Services and Transportation; non-recurring +6% organic in 2019 and 2018, led by Transportation and Resources.",text,0,2
+INFO_10K_FY2019,42,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,10,pct,0,1
+INFO_10K_FY2019,42,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (narrative),Transportation recurring revenue organic growth,11,pct,0,1
+INFO_10K_FY2019,42,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Transaction Type (narrative),Non-recurring narrative (Transportation reference),2019 and 2018 non-recurring increases primarily driven by automotive and Resources product offerings.,text,0,2
+INFO_10K_FY2019,41,SEG_PRED,FY2019,2019-11-30,MD&A Revenue by Segment (narrative),Transportation drivers 2018-2019,"Growth from organic recurring and non-recurring growth, primarily automotive; strong organic growth from used car offerings and new car innovation (increasing use of new automotive technologies); aM (Q4 2017) accounted for 2018 acquisitive growth.",text,0,2
+INFO_10K_FY2019,42,SEG_PRED,FY2019,2019-11-30,MD&A Acquisition-Related Costs (aM performance awards),Compensation costs related to aM performance awards,42,usd_m,0,1
+INFO_10K_FY2019,42,SEG_PRED,FY2018,2018-11-30,MD&A Acquisition-Related Costs (aM performance awards),Compensation costs related to aM performance awards,54,usd_m,0,1
+INFO_10K_FY2019,42,SEG_PRED,FY2017,2017-11-30,MD&A Acquisition-Related Costs (aM performance awards),Compensation costs related to aM performance awards,10,usd_m,0,1
+INFO_10K_FY2019,42,SEG_PRED,FY2019,2019-11-30,MD&A Acquisition-Related Costs (aM performance awards),Expected additional aM performance award costs over next three years (low),40,usd_m,0,2
+INFO_10K_FY2019,42,SEG_PRED,FY2019,2019-11-30,MD&A Acquisition-Related Costs (aM performance awards),Expected additional aM performance award costs over next three years (high),45,usd_m,0,3
+INFO_10K_FY2019,10,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,Forecast database coverage of global light vehicle sales and production (percent),99,pct,0,4
+INFO_10K_FY2019,10,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,Unique vehicle model variants forecast (more than),50000,count,0,5
+INFO_10K_FY2019,10,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,"Vehicle systems, sub-systems and components forecast (more than)",100,count,0,6
+INFO_10K_FY2019,10,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,"U.S. sales and marketing database - ownership records (more than, billions)",7,count,0,7
+INFO_10K_FY2019,10,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,U.S. ownership database coverage (printed),covering 760 million vehicles and more than 240 million U.S. households over a period of 25 years,text,0,8
+INFO_10K_FY2019,10,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,M&T data coverage (printed),"more than 200,000 ships over 100 gross tons; monthly import/export statistics on more than 100 countries; tracking and forecasting approximately 95 percent of international trade by value",text,0,9
+INFO_10K_FY2019,10,SEG_PRED,FY2019,2019-11-30,Item 1 Transportation segment description,A&D sale (Item 1 wording),"On December 2, 2019, completed sale of A&D product portfolio to a private equity firm for approximately $470 million.",text,0,10
+INFO_10K_FY2019,13,SEG_PRED,FY2019,2019-11-30,Item 1 Employees (consolidated),"Employees (more than; consolidated, no segment split)",15500,count,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,2861.5,usd_m,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,2550.0,usd_m,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,2074.5,usd_m,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,506.3,usd_m,0,2
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,449.0,usd_m,0,2
+INFO_10K_FY2018,43,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,164.1,usd_m,0,2
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,641.4,usd_m,0,3
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,600.7,usd_m,0,3
+INFO_10K_FY2018,43,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,496.2,usd_m,0,3
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,4009.2,usd_m,1,4
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,3599.7,usd_m,1,4
+INFO_10K_FY2018,43,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,2734.8,usd_m,1,4
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change,12,pct,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change,23,pct,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change,13,pct,0,2
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change,N/M,text,0,2
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change,7,pct,0,3
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change,21,pct,0,3
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change,11,pct,0,4
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change,32,pct,0,4
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,71,pct,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,71,pct,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,76,pct,0,1
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,13,pct,0,2
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,12,pct,0,2
+INFO_10K_FY2018,43,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,6,pct,0,2
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,16,pct,0,3
+INFO_10K_FY2018,43,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,17,pct,0,3
+INFO_10K_FY2018,43,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,18,pct,0,3
+INFO_10K_FY2018,40,SEG_PRED,FY2018,2018-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,84,pct,0,1
+INFO_10K_FY2018,40,SEG_PRED,FY2017,2017-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,83,pct,0,1
+INFO_10K_FY2018,40,SEG_PRED,FY2016,2016-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,82,pct,0,1
+INFO_10K_FY2018,40,SEG_PRED,FY2018,2018-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring/non-recurring organic growth narrative (Transportation reference),"Recurring-based business +6% organic in 2018 and +3% in 2017, led each year by Transportation and Financial Services; non-recurring +6% organic in 2018 (led by Transportation and Resources) and +9% in 2017 (led by Transportation and Financial Services).",text,0,2
+INFO_10K_FY2018,43,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Transaction Type (narrative),Non-recurring narrative (Transportation reference),2018 non-recurring increase primarily driven by automotive and Resources offerings; 2017 increase primarily by automotive and Financial Services offerings.,text,0,2
+INFO_10K_FY2018,42,SEG_PRED,FY2018,2018-11-30,MD&A Revenue by Segment (narrative),Transportation drivers 2017-2018 (detail),"Strong automotive organic growth from used car offerings and new car innovation (digital marketing, new automotive technologies, global regulatory pressure to curb fuel consumption and emissions), along with strong recall activity; aM (Q4 2017) contributed acquisitive growth in 2018 and 2017.",text,0,2
+INFO_10K_FY2018,9,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,Forecast database coverage of global light vehicle sales and production (percent),99,pct,0,4
+INFO_10K_FY2018,9,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,Unique vehicle model variants forecast (more than),50000,count,0,5
+INFO_10K_FY2018,9,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,"Vehicle systems, sub-systems and components forecast (more than)",100,count,0,6
+INFO_10K_FY2018,10,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,"U.S. sales and marketing database - ownership records (more than, billions)",7,count,0,7
+INFO_10K_FY2018,10,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,U.S. ownership database coverage (printed),covering 760 million vehicles and more than 240 million US households over a period of 25 years,text,0,8
+INFO_10K_FY2018,10,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,M&T data coverage (printed),"close to 200,000 ships over 100 gross tons; monthly import/export statistics on more than 90 countries; tracking and forecasting more than 90 percent of international trade by value",text,0,9
+INFO_10K_FY2018,10,SEG_PRED,FY2018,2018-11-30,Item 1 Transportation segment description,AD&S data coverage (printed),"specifications for more than 20,000 military vehicles, naval vessels and aircraft types; budget forecasts cover more than 99 percent of global defense spending; more than 350,000 terrorism-related events analyzed (Jane's offerings)",text,0,10
+INFO_10K_FY2018,14,SEG_PRED,FY2018,2018-11-30,Item 1 Employees (consolidated),"Employees (approximately; consolidated, no segment split)",14900,count,0,1
+INFO_10K_FY2017,82,SEG_PRED,FY2017,2017-11-30,Note Segment Information,Revenue - Transportation,991.6,usd_m,0,1
+INFO_10K_FY2017,82,SEG_PRED,FY2016,2016-11-30,Note Segment Information,Revenue - Transportation,892.8,usd_m,0,1
+INFO_10K_FY2017,82,SEG_PRED,FY2015,2015-11-30,Note Segment Information,Revenue - Transportation,758.4,usd_m,0,1
+INFO_10K_FY2017,82,SEG_PRED,FY2017,2017-11-30,Note Segment Information,Total revenue,3599.7,usd_m,1,2
+INFO_10K_FY2017,82,SEG_PRED,FY2016,2016-11-30,Note Segment Information,Total revenue,2734.8,usd_m,1,2
+INFO_10K_FY2017,82,SEG_PRED,FY2015,2015-11-30,Note Segment Information,Total revenue,2184.3,usd_m,1,2
+INFO_10K_FY2017,82,SEG_PRED,FY2017,2017-11-30,Note Segment Information,Adjusted EBITDA - Transportation,408.6,usd_m,0,3
+INFO_10K_FY2017,82,SEG_PRED,FY2016,2016-11-30,Note Segment Information,Adjusted EBITDA - Transportation,353.3,usd_m,0,3
+INFO_10K_FY2017,82,SEG_PRED,FY2015,2015-11-30,Note Segment Information,Adjusted EBITDA - Transportation,282.7,usd_m,0,3
+INFO_10K_FY2017,82,SEG_PRED,FY2017,2017-11-30,Note Segment Information,Total Adjusted EBITDA,1389.9,usd_m,1,4
+INFO_10K_FY2017,82,SEG_PRED,FY2016,2016-11-30,Note Segment Information,Total Adjusted EBITDA,987.7,usd_m,1,4
+INFO_10K_FY2017,82,SEG_PRED,FY2015,2015-11-30,Note Segment Information,Total Adjusted EBITDA,696.4,usd_m,1,4
+INFO_10K_FY2017,82,SEG_PRED,FY2017,2017-11-30,Note Segment Information (reconciliation),Acquisition-related performance compensation,-9.9,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2017,2017-11-30,Note Total assets by segment,Total assets,14554.4,usd_m,1,9
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Total assets by segment,Total assets,13936.6,usd_m,1,9
+INFO_10K_FY2017,83,SEG_PRED,FY2015,2015-11-30,Note Total assets by segment,Total assets,5577.5,usd_m,1,9
+INFO_10K_FY2017,83,SEG_PRED,FY2017,2017-11-30,Note Revenue by transaction type (consolidated),Recurring fixed revenue,2550.0,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Revenue by transaction type (consolidated),Recurring fixed revenue,2074.5,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2015,2015-11-30,Note Revenue by transaction type (consolidated),Recurring fixed revenue,1768.5,usd_m,0,1
+INFO_10K_FY2017,83,SEG_PRED,FY2017,2017-11-30,Note Revenue by transaction type (consolidated),Recurring variable revenue,449.0,usd_m,0,2
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Revenue by transaction type (consolidated),Recurring variable revenue,164.1,usd_m,0,2
+INFO_10K_FY2017,83,SEG_PRED,FY2015,2015-11-30,Note Revenue by transaction type (consolidated),Recurring variable revenue,0,usd_m,0,2
+INFO_10K_FY2017,83,SEG_PRED,FY2017,2017-11-30,Note Revenue by transaction type (consolidated),Non-recurring revenue,600.7,usd_m,0,3
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Revenue by transaction type (consolidated),Non-recurring revenue,496.2,usd_m,0,3
+INFO_10K_FY2017,83,SEG_PRED,FY2015,2015-11-30,Note Revenue by transaction type (consolidated),Non-recurring revenue,415.8,usd_m,0,3
+INFO_10K_FY2017,83,SEG_PRED,FY2017,2017-11-30,Note Revenue by transaction type (consolidated),Total revenue,3599.7,usd_m,1,4
+INFO_10K_FY2017,83,SEG_PRED,FY2016,2016-11-30,Note Revenue by transaction type (consolidated),Total revenue,2734.8,usd_m,1,4
+INFO_10K_FY2017,83,SEG_PRED,FY2015,2015-11-30,Note Revenue by transaction type (consolidated),Total revenue,2184.3,usd_m,1,4
+INFO_10K_FY2017,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change,23,pct,0,1
+INFO_10K_FY2017,41,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change,17,pct,0,1
+INFO_10K_FY2017,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change,N/M,text,0,2
+INFO_10K_FY2017,41,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change,N/M,text,0,2
+INFO_10K_FY2017,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change,21,pct,0,3
+INFO_10K_FY2017,41,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change,19,pct,0,3
+INFO_10K_FY2017,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change,32,pct,0,4
+INFO_10K_FY2017,41,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change,25,pct,0,4
+INFO_10K_FY2017,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,71,pct,0,1
+INFO_10K_FY2017,41,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,76,pct,0,1
+INFO_10K_FY2017,41,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,81,pct,0,1
+INFO_10K_FY2017,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,12,pct,0,2
+INFO_10K_FY2017,41,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,6,pct,0,2
+INFO_10K_FY2017,41,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,0,pct,0,2
+INFO_10K_FY2017,41,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,17,pct,0,3
+INFO_10K_FY2017,41,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,18,pct,0,3
+INFO_10K_FY2017,41,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,19,pct,0,3
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,83,pct,0,1
+INFO_10K_FY2017,40,SEG_PRED,FY2016,2016-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,82,pct,0,1
+INFO_10K_FY2017,40,SEG_PRED,FY2015,2015-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,81,pct,0,1
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring/non-recurring organic growth narrative (Transportation reference),"Recurring-based business +3% organic in 2017 led by Transportation and Financial Services, flat in 2016; non-recurring +9% organic in 2017 led by Transportation and Financial Services, -3% in 2016.",text,0,2
+INFO_10K_FY2017,41,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (narrative),Non-recurring narrative (Transportation reference),2016 non-recurring decline (-3%) partially offset by the strength of the Transportation segment results; 2017 increase primarily driven by automotive and financial services offerings.,text,0,2
+INFO_10K_FY2017,40,SEG_PRED,FY2017,2017-11-30,MD&A Revenue by Segment (narrative),Transportation drivers 2016-2017 (detail),"Automotive organic growth from continued penetration and new products in used car offerings, strong recall product offerings and activity, and new car innovation (digital marketing, new automotive technologies, regulatory pressure on fuel consumption and emissions).",text,0,2
+INFO_10K_FY2017,9,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,Forecast database coverage of global light vehicle sales and production (percent),99,pct,0,4
+INFO_10K_FY2017,9,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,Unique vehicle model variants forecast (more than),50000,count,0,5
+INFO_10K_FY2017,9,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,"Vehicle systems, sub-systems and components forecast (more than)",100,count,0,6
+INFO_10K_FY2017,9,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,"U.S. sales and marketing database - ownership records (more than, billions)",7,count,0,7
+INFO_10K_FY2017,9,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,U.S. ownership database coverage (printed),covering 760 million vehicles and more than 240 million US households over a period of 25 years,text,0,8
+INFO_10K_FY2017,10,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,CARFAX data scale (printed),"CARFAX vehicle history based on more than 19 billion records collected from more than 110,000 data sources (used car offerings: CARFAX (U.S.) and CARPROOF (Canada))",text,0,3
+INFO_10K_FY2017,10,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,M&T data coverage (printed),"close to 200,000 ships over 100 gross tons; monthly import/export statistics on more than 90 countries; tracking and forecasting more than 90 percent of international trade by value",text,0,9
+INFO_10K_FY2017,10,SEG_PRED,FY2017,2017-11-30,Item 1 Transportation segment description,AD&S data coverage (printed),"specifications for thousands of military vehicles, naval vessels and aircraft types; budget forecasts cover more than 99 percent of global defense spending; more than 300,000 terrorism-related events analyzed",text,0,10
+INFO_10K_FY2017,12,SEG_PRED,FY2017,2017-11-30,Item 1 Employees (consolidated),"Employees (more than; consolidated, no segment split)",13000,count,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,2074.5,usd_m,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,1768.5,usd_m,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2014,2014-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed,1643.9,usd_m,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,164.1,usd_m,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,0,usd_m,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2014,2014-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable,0,usd_m,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,496.2,usd_m,0,3
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,415.8,usd_m,0,3
+INFO_10K_FY2016,38,SEG_PRED,FY2014,2014-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring,435.9,usd_m,0,3
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,2734.8,usd_m,1,4
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,2184.3,usd_m,1,4
+INFO_10K_FY2016,38,SEG_PRED,FY2014,2014-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue,2079.8,usd_m,1,4
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change,17,pct,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring fixed % Change,8,pct,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change,N/A,text,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated),Recurring variable % Change,N/A,text,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change,19,pct,0,3
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated),Non-recurring % Change,-5,pct,0,3
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change,25,pct,0,4
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated),Total revenue % Change,5,pct,0,4
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,76,pct,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,81,pct,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2014,2014-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring fixed,79,pct,0,1
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,6,pct,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,0,pct,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2014,2014-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Recurring variable,0,pct,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,18,pct,0,3
+INFO_10K_FY2016,38,SEG_PRED,FY2015,2015-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,19,pct,0,3
+INFO_10K_FY2016,38,SEG_PRED,FY2014,2014-11-30,MD&A Revenue by Transaction Type (consolidated) - as a percent of total revenue,Non-recurring,21,pct,0,3
+INFO_10K_FY2016,37,SEG_PRED,FY2016,2016-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,82,pct,0,1
+INFO_10K_FY2016,37,SEG_PRED,FY2015,2015-11-30,"MD&A Total Revenue (narrative, consolidated)",Recurring-based business as percent of total revenue,81,pct,0,1
+INFO_10K_FY2016,39,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Transaction Type (narrative),Non-recurring narrative (Transportation reference),"2016 non-recurring organic decline (-3%) partially offset by the strength of Transportation results; 2015 decline (-9%) primarily Resources, partially offset by Transportation organic growth.",text,0,2
+INFO_10K_FY2016,38,SEG_PRED,FY2016,2016-11-30,MD&A Revenue by Segment (narrative),Transportation drivers 2015-2016 (detail),"Automotive-led organic recurring and non-recurring growth with stable growth in other transportation categories; drivers: used car penetration and new products, new automotive technologies, regulatory pressure on fuel consumption and emissions, digital marketing, and recall activity.",text,0,2
+INFO_10K_FY2016,9,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,"Forecast database coverage of global light vehicle sales and production (more than, percent)",98,pct,0,4
+INFO_10K_FY2016,9,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,Unique vehicle model variants forecast (nearly),40000,count,0,5
+INFO_10K_FY2016,9,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,"Vehicle systems, sub-systems and components forecast (more than)",100,count,0,6
+INFO_10K_FY2016,10,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,"U.S. sales and marketing database - ownership records (more than, billions)",5,count,0,7
+INFO_10K_FY2016,10,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,U.S. ownership database coverage (printed),covering 740 million vehicles and more than 200 million US households over a period of 25 years,text,0,8
+INFO_10K_FY2016,10,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,M&T data coverage (printed),"close to 200,000 ships over 100 gross tons; monthly import/export statistics on more than 80 countries; tracking and forecasting more than 90 percent of international trade by value",text,0,9
+INFO_10K_FY2016,10,SEG_PRED,FY2016,2016-11-30,Item 1 Transportation segment description,AD&S data coverage (printed),"specifications for thousands of military vehicles, naval vessels and aircraft types; budget forecasts cover more than 95 percent of global defense spending; more than 150,000 terrorism-related events analyzed",text,0,10
+INFO_10K_FY2016,9,SEG_PRED,FY2016,2016-11-30,Item 1 (consolidated),Major customers,"In 2016, no customer or group of affiliated customers represented more than 10 percent of revenue.",text,0,1
+INFO_10K_FY2016,12,SEG_PRED,FY2016,2016-11-30,Item 1 Employees (consolidated),"Employees (more than; consolidated, no segment split)",12500,count,0,1

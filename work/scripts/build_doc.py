@@ -991,6 +991,56 @@ def build(pages=None):
         "The Q2-26 Adj. EBITDA definition shrank from 10 to 6 exclusions [D]; FY25 $711m has not been republished on the new definition.",
         "2020 (COVID, IHS era): Transportation organic −2% but recurring organic +3% [D]; Adj. EBITDA −1% while margin rose 41.8% → 44.7% [D] (INFO20).",
     ])
+    # --- IHS Markit Transportation detail (annual + quarterly), from extraction/predecessor.csv (same pick rule as the model's Segment History tab)
+    import csv as _csv, re as _re
+    _pred = list(_csv.DictReader(open(os.path.join(ROOT, "extraction", "predecessor.csv"))))
+    def _pick(sec_re, line_re, per, docs=None):
+        c = [x for x in _pred if x["fiscal_period"] == per and x["unit"] != "text" and _re.search(sec_re, x["section"]) and _re.search(line_re, x["line_item"])
+             and (docs is None or x["source_doc"] in docs) and x["source_doc"].startswith("INFO")]
+        if not c: return None
+        own = [x for x in c if x["source_doc"].endswith(per)]
+        return float(sorted(own or c, key=lambda x: x["source_doc"])[0]["value"])
+    _yrs = [f"FY{y}" for y in range(2014, 2022)]
+    _rev = {y: _pick(r"Revenue by Segment$", r"^Transportation$", y) for y in _yrs}
+    _eb = {y: _pick(r"Segment Adjusted EBITDA$", r"^Transportation Adjusted EBITDA$", y) for y in _yrs}
+    _org = {y: _pick(r"growth drivers", r"Transportation revenue - Organic", y) for y in _yrs}
+    _rorg = {y: _pick(r"Transaction Type", r"recurring revenue organic growth", y) for y in _yrs}
+    _fmt = lambda v, d=1: "—" if v is None else f"{v:,.{d}f}"
+    _rows = [["Revenue, $m [D]"] + [_fmt(_rev[y]) for y in _yrs],
+             ["Growth y/y [C]"] + ["—"] + [f"{(_rev[y]/_rev[_yrs[i]]-1)*100:.1f}%" for i, y in enumerate(_yrs[1:])],
+             ["Organic growth [D]"] + [("—" if _org[y] is None else f"{_org[y]:.0f}%") for y in _yrs],
+             ["Recurring organic growth [D]"] + [("—" if _rorg[y] is None else f"{_rorg[y]:.0f}%") for y in _yrs],
+             ["Adj. EBITDA, $m [D]"] + [_fmt(_eb[y]) for y in _yrs],
+             ["Adj. EBITDA margin [C]"] + [f"{_eb[y]/_rev[y]*100:.1f}%" for y in _yrs]]
+    b.table(["IHS Markit Transportation"] + [y.replace("FY", "FY ") for y in _yrs], _rows, widths=[1.7] + [0.62] * 8, size=7.5, num_cols=list(range(1, 9)),
+            caption="Exhibit 8.7 — IHS Markit Transportation segment, FY2014–FY2021 (Nov FYE)",
+            source="Source: IHS Markit 10-K FY2016–FY2021 via extraction/predecessor.csv; FY2014/15 from later comparatives. Model tab: Segment History (block A).")
+    _q = ["Q1-FY2020", "Q2-FY2020", "Q3-FY2020", "Q4-FY2020", "Q1-FY2021", "Q2-FY2021", "Q3-FY2021"]
+    _qd = ["INFO_10Q_Q2-FY2021", "INFO_8K_Q2-FY2021", "INFO_Slides_Q2-FY2021", "INFO_10Q_Q3-FY2021", "INFO_Slides_Q3-FY2021"]
+    def _qp(line_re, per, sec_re="."):
+        c = [x for x in _pred if x["source_doc"] in _qd and x["fiscal_period"] == per and x["unit"] != "text" and _re.search(line_re, x["line_item"]) and _re.search(sec_re, x["section"])]
+        if not c: return None
+        own = [x for x in c if x["source_doc"].endswith(per)]
+        return float(sorted(own or c, key=lambda x: _qd.index(x["source_doc"]))[0]["value"])
+    _qr = {q: _qp(r"^(Revenue - Transportation|Total - Transportation)$", q) for q in _q}
+    _qrec = {q: (_qp(r"^Transportation$", q, r"Supplemental Revenue Disclosure - Recurr") or _qp(r"^Recurring - Transportation$", q)) for q in _q}
+    _qe = {q: _qp(r"^(Adjusted EBITDA - Transportation|Transportation Adjusted EBITDA)$", q) for q in _q}
+    _qo = {q: _qp(r"^Total - Transportation organic growth", q) for q in _q}
+    _qro = {q: _qp(r"^Recurring - Transportation organic growth", q) for q in _q}
+    _rows = [["Revenue, $m [D]"] + [_fmt(_qr[q]) for q in _q],
+             ["  of which recurring, $m [D]"] + [_fmt(_qrec[q]) for q in _q],
+             ["Organic growth, total [D]"] + [("—" if _qo[q] is None else f"{_qo[q]:.0f}%") for q in _q],
+             ["Organic growth, recurring [D]"] + [("—" if _qro[q] is None else f"{_qro[q]:.0f}%") for q in _q],
+             ["Adj. EBITDA, $m [D]"] + [_fmt(_qe[q]) for q in _q],
+             ["Adj. EBITDA margin [C]"] + [("—" if not (_qe[q] and _qr[q]) else f"{_qe[q]/_qr[q]*100:.1f}%") for q in _q]]
+    b.table(["Quarter"] + [q.replace("-FY", " FY") for q in _q], _rows, widths=[1.7] + [0.71] * 7, size=7.5, num_cols=list(range(1, 8)),
+            caption="Exhibit 8.8 — IHS Markit Transportation by quarter, Q1 FY2020 – Q3 FY2021",
+            source="Source: IHS Markit 10-Q Q2/Q3 FY2021, 8-K Q2 FY2021, Q2/Q3 FY2021 decks (rounded where only deck figures exist). Quartr holds no earlier quarterly segment data; implied Q4 FY2021 = $351m revenue / $161m Adj. EBITDA [C].")
+    b.bullets([
+        "**Recurring revenue was ~76–79% of Transportation** in FY2020–21 [C]; Transportation had no recurring-variable revenue [D].",
+        "**COVID trough was one quarter:** Q2 FY2020 total organic −16% (recurring −10%, non-recurring −31%) [D-deck], then +39% in Q2 FY2021 on the easy comparison [D].",
+        "**Margin expanded through the downturn:** Q2 FY2020 41.8% → Q2 FY2021 49.6% [D]; FY2020 44.7% vs FY2019 41.8% [D].",
+    ])
     b.p("Open reconciliation items: {{TC: bridge of IHS-era Transportation margin (47.6% FY21) to carve-out ~40% by scope, allocations and definition}}; "
         "{{TC: EDGAR XBRL cross-check of ~8 headline items for every period (sec.gov blocked)}}.")
 

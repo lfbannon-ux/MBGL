@@ -73,3 +73,28 @@ The full list is on the Accounting Notes tab (33 rows).
 - `scripts/`: canon_primary.py, build_workbook.py, verify_workbook.py
 - `transcripts/`: quote banks, index.csv, TARGETS_TIMELINE.md
 - `analysis/`: D1–D10, D5, QUALITATIVE, K_session_tables
+
+## IHS Markit segment history (added 2026-10-07)
+
+The model now has a **Segment History** tab with three eras side by side, each as originally reported, and growth computed only within an era.
+- **A. IHS Markit Transportation, FY2014–21 (Nov FYE):** revenue, organic/acquisitive/FX bridge, recurring organic growth, Adj. EBITDA and margin, incremental margin, share of IHS Markit revenue, segment assets and goodwill.
+- **B. S&P Global Mobility, FY2022–25:** revenue by type and region, operating profit, amortization, D&A, capex, assets.
+- **C. Carve-out, FY2023–25:** linked to the IS tab, with a reconciliation to the S&P Global segment.
+- **D. IHS Markit quarterly, Q1 FY2020–Q3 FY2021:** recurring/non-recurring revenue, Adj. EBITDA, organic growth by type.
+
+**Headline figures [C, from D]:**
+
+| IHS Markit Transportation | FY2014 | FY2019 | FY2021 |
+|---|---|---|---|
+| Revenue | $663m | $1,246m | $1,354m |
+| Adj. EBITDA margin | 35.4% | 41.8% | 47.6% |
+
+- **Revenue CAGR:** 10.8% over FY14–21; 13.5% over FY14–19.
+- **Adj. EBITDA CAGR:** 15.6% over FY14–21.
+- **Organic growth:** 8–11% a year, except FY2020 at −2%.
+- **Recurring revenue:** about 76–79% of segment revenue in FY2020–21.
+
+**Coverage and checks:**
+- **Sources:** 1,000 new rows from the FY2021 10-Qs, the Q2 FY2021 8-K, the Q2/Q3 FY2021 decks and a 10-K re-sweep. `extraction/predecessor.csv` now has 1,597 rows.
+- **Workbook verification:** recalc shows 0 errors and 139 integrity checks pass (10 more than before).
+- **Research document:** Exhibits 8.7 and 8.8 added.

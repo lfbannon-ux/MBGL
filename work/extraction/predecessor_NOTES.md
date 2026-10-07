@@ -64,3 +64,92 @@ Quartr has no IHS Inc. filings. Company 6412 lists 10-Ks only from FY2016, and "
 ## Not disclosed
 - SPGI: Mobility business-line revenue, adjusted segment margin, and segment goodwill (the goodwill table was not extracted).
 - INFO: Transportation recurring/non-recurring $, D&A, capex, Automotive vs M&T $, and CARFAX standalone revenue.
+
+## IHS Markit deep extraction (2026-10-07)
+This pass appended 1,000 rows (CSV now 1,597 rows) under `statement=SEG_PRED`. Each source's comparatives stay under that source's own `source_doc`. No existing row was altered. The duplicate key is (source_doc, fiscal_period, section, line_item) and no key repeats.
+Slide values are whole $m, as printed. Slide pages are text-extractable tables, so no number was read off a chart.
+
+### Sources and pages
+| source_doc | Quartr id | Rows | Pages used |
+|---|---|---|---|
+| INFO_8K_Q2-FY2021 | 109729 | 204 | 1–2 (summary, transaction type, growth bridge), 8–9 (supplemental revenue by segment × transaction type), 11 (segment Adj. EBITDA and margin) |
+| INFO_10Q_Q2-FY2021 | 474120 | 97 | 17 (Note 2: A&D, aM), 19 (Note 3), 26 (restructuring by segment), 33–34 (Note 16), 35, 41, 43, 46 (MD&A) |
+| INFO_10Q_Q3-FY2021 | 474119 | 135 | 18 (Note 2/3), 26, 33–35 (Note 16), 36, 42, 44, 47 |
+| INFO_Slides_Q2-FY2021 | 4776 | 116 | 4 (quarterly revenue by segment: recurring and non-recurring), 5 (quarterly organic growth), 7 (quarterly Adj. EBITDA and margin) |
+| INFO_Slides_Q3-FY2021 | 3229 | 133 | 3 (guidance text), 4, 5, 7 |
+| INFO_10K_FY2021 … FY2016 | 223420/21/22/24/25/26 | 315 | Item 1 Transportation pages, Employees, MD&A transaction-type tables, FY2017 Note segment table (p82–83) |
+
+### Key new series
+- **Transportation recurring vs non-recurring revenue in $.** This is the first segment-level split. The 8-K gives Q2-FY2021, Q2-FY2020, 6M-FY2021 and 6M-FY2020 to one decimal: 261.6 + 82.5 = 344.1, and 508.2 + 147.6 = 655.8. The slides add quarterly data for Q1-FY2020 to Q3-FY2021 plus FY2020 (879 recurring + 273 non-recurring = 1,152).
+  - In the IHS Markit taxonomy, Transportation "recurring" is entirely recurring fixed. Recurring variable is 100% Financial Services.
+- **Quarterly Transportation revenue, Adj. EBITDA and margin, Q1-FY2020 to Q3-FY2021.** Source is the slides, plus 10-Q comparatives for Q2/Q3 FY2020.
+- **Quarterly Transportation organic growth by type.** Covers recurring, non-recurring and total.
+  - Q2-FY2020, Q3-FY2020, FY2020 and Q3-FY2021 sit in "Normalized" columns; the caption carries that tag.
+  - Footnote (1) gives the reported figures for Q2-FY2020 including the impact of cancelled events: non-recurring −37%, total −18%. For FY2020 they are −16% and −2%.
+- **Quarter and YTD organic/acquisitive/FX bridges:** Q2-FY2021 39/0/2, 6M-FY2021 20/0/2, Q3-FY2021 15/0/1, 9M-FY2021 18/0/2.
+- **Consolidated revenue-by-transaction-type tables, FY2014–FY2021,** for context. Section names include "(consolidated)".
+- **Item 1 KPI drift, FY2016 → FY2021:**
+
+| Item | FY2016 | FY2021 |
+|---|---|---|
+| Light-vehicle forecast coverage | more than 98% | 99% |
+| Model variants forecast | nearly 40,000 | more than 50,000 |
+| Vehicle systems/components forecast | more than 100 | more than 150 |
+| U.S. ownership records | 5bn | nearly 12bn |
+| Vehicles covered | 740m | 790m |
+| U.S. households covered | 200m | 250m |
+
+  - U.S. ownership records were 7bn from FY2017 to FY2020.
+  - CARFAX records and sources over time: 17bn/100k (FY2016), 19bn/110k (FY2017), 20bn/112k (FY2018), 23bn/112k (FY2019), 25bn/112k (FY2020), 27bn/130k (FY2021).
+  - M&T statistics and AD&S statistics (FY2016–18) were also captured.
+- **Other items:**
+  - Consolidated headcount, which has no segment split: 12,500 → 13,000 → 14,900 → 15,500 → 16,000 → 16,000.
+  - aM performance-award cost: $10m (FY2017), $54m (FY2018) and $42m (FY2019). Of an estimated $60–65m for the remaining interests, $44.7m had been recognized by 5/31/21 and $48.3m by 8/31/21.
+  - Transportation restructuring liability: $3.9m (5/31/21) and $1.6m (8/31/21).
+
+### Ties performed (all pass unless noted)
+- **8-K segment sums.** Revenue segments sum to the total for all 4 columns. Adj. EBITDA (four segments plus shared services) sums to the total for all 4 columns. Margins recompute exactly from revenue and Adj. EBITDA.
+- **8-K transaction type.** Transportation recurring + non-recurring = segment revenue in all 4 columns. Recurring fixed + variable + non-recurring = total revenue.
+- **10-Q Q3 Note 16.** Segment sums tie to the totals. Q3 also ties to the Q2 YTD figures: YTD + Q3 = 9M, both 655.8 + 347.4 = 1,003.2 and 317.4 + 167.1 = 484.5. The same holds for the prior year (540.4 + 298.9 = 839.3; 219.6 + 153.6 = 373.2).
+- **Slides.** All segment/total and recurring + non-recurring = total ties hold within ±1 (rounding to whole $m).
+  - Summing quarters to FY2020 gives revenue 1,151 vs 1,152 printed, recurring 880 vs 879, non-recurring 272 vs 273, and Adj. EBITDA 515 (exact).
+- **Implied quarters agree with the slides within rounding.** These are differences of printed figures and were not recorded:
+
+| Quarter | Implied revenue | Implied Adj. EBITDA | Slide |
+|---|---|---|---|
+| Q1-FY2020 | 297.2 | 118.0 | 297 / 118 |
+| Q4-FY2020 | 312.3 | 141.5 | 312 / 141 |
+| Q1-FY2021 | 311.7 | 146.7 | 312 / 147 |
+
+  - Q4-FY2021 is not printed anywhere on Quartr. The implied figures are 1,354.4 − 1,003.2 = 351.2 revenue and 645.0 − 484.5 = 160.5 Adj. EBITDA (derived only, not recorded).
+- **Does not tie:**
+  - The 6M-FY2021 Transportation bridge is 20 + 0 + 2 = 22 against a printed total of 21. This is printed rounding, recorded as printed.
+
+### Corrupted or garbled text
+- **Q2 slides p4:**
+  - "26222" appears for the Q1-FY2021 non-recurring block. The Financial Services value of 26 comes from the Q3 deck, and the column sum of 121 confirms it.
+  - A stray "77" sits beside the Q3-FY2020 non-recurring values. Transportation is 72, confirmed three ways: the Q3 deck prints 72, the column sum is 124, and 10-Q revenue 298.9 − recurring 227 ≈ 72.
+- **Q3 slides:** "1.152" and "1.073" are decimal-for-comma corruptions, recorded as 1,152 and 1,073. The deck also prints the typo "IHS Marklt".
+- **8-K p2:** the segment growth-bridge table is scrambled. The YTD FX figure (2) was taken from the 10-Q p41 bridge, which is cleanly ordered. Release rows hold only values that are unambiguous.
+- **8-K p9:** the caption for the "Total non-recurring revenue" row is lost in the page split. The values are recorded with a caption that says so.
+
+### Inconsistencies between documents (both kept as printed)
+- **Q4-FY2020 organic growth:** Transportation recurring is 5% in the Q2 deck and 6% in the Q3 deck. Financial Services total organic is 5% vs 6%. No other cell changed between the two decks.
+- **FY2019 recurring variable organic growth:** 4% in the tables of the FY2019 and FY2020 10-Ks, but 6% in the FY2020 10-K narrative (row captioned accordingly).
+- **A&D sale price:** "approximately $470 million" in the FY2019 10-K vs "approximately $466 million" in the FY2021 10-Qs, which is presumably the final figure.
+- **Whole-% margins in the 10-Q MD&A vs one-decimal margins in the release** are recorded as separate rows: Q2-FY2021 50% vs 49.6%, Q2-FY2020 42% vs 41.8%.
+
+### What is NOT disclosed or available
+- **Quartr coverage.** For INFO, Quartr holds only the Q2 and Q3 FY2021 10-Qs, the Q2 FY2021 8-K and the Q2/Q3 FY2021 slides, besides the six 10-Ks.
+  - There are no quarterly releases or slides before Q2-FY2021, so there is no quarterly segment data before Q1-FY2020. The slides' history starts at Q1 20.
+  - There are no Q4-FY2021 or Q1-FY2021 filings.
+- **10-Ks:**
+  - No segment-level recurring/non-recurring $ appears in any 10-K or 10-Q. Only the release and slides give it, for FY2020–Q3 FY2021.
+  - No quarterly segment table appears. The quarterly data in the FY2016/17/20 10-Ks is consolidated revenue, net income and EPS only.
+  - Segment stock-based compensation, D&A and capex are not printed.
+  - Geography by segment is not printed: the U.S./U.K./RoW table is consolidated.
+  - Automotive vs M&T vs A&D revenue is never given in $; only the automotive % of segment revenue appears.
+  - CARFAX standalone revenue, customer counts and Transportation headcount are not printed.
+- **10-Qs:** neither interim 10-Q prints segment total assets or segment goodwill.
+- **Slides:** the slides print no Transportation sub-business KPIs (automotive, CARFAX, aM, recall, maritime). The commentary appears only as MD&A narrative.
+- **Guidance:** guidance is consolidated only.

@@ -71,7 +71,7 @@ Price per rooftop, location counts over time, ARPU and churn are **not disclosed
 - Layers 1–4 have risen over the last decade.
 - Layer 7 has fallen, which helps entrants *process* data but not *obtain* it.
 - The binding constraint is access, not processing. So barriers have **risen on balance** for the VHR franchise.
-- For B2B planning, barriers are **flat to falling**: GlobalData and Experian already offer "low-cost alternative[s]", and AI lowers forecasting labour costs.
+- For B2B planning, barriers are **flat to falling**: management concedes unnamed "low-cost alternative[s]" in planning (LaFeir, Investor Day; no firm named — GlobalData/Experian were named only by analysts), and AI lowers forecasting labour costs.
 
 ### 3.2 Failed or weak entrants and challengers
 
@@ -80,7 +80,7 @@ Price per rooftop, location counts over time, ARPU and churn are **not disclosed
 | Dealer antitrust suit (~469 dealers, 2013) | Challenged CARFAX exclusive arrangements; CARFAX won summary judgment 2016-09-30; appealed; new complaint Jan-2017 | Exclusivity in contribution and distribution survived a coordinated legal attack. The final outcome is not in the sources [gap]. | [D] INFO16 p.80 |
 | Experian AutoCheck | Long-standing #2 VHR. Management's framing implies it is the alternative a dealer could "put in front of" a consumer ("brand Z") | Data parity on title and auction records is not enough without consumer pull | [IR] / [context] |
 | NMVTIS-based low-cost report providers | Government title data sold cheaply by approved providers | Title-only data is commoditised. The service and accident archive is the moat. | [context] |
-| GlobalData / LMC; Experian (registration) | Persist as "low-cost alternative[s]" in planning and B2B | B2B is contestable at the low end. MBGL competes on breadth plus analysts. | [IR] |
+| GlobalData / LMC; Experian (registration) — named by analysts only | Management concedes unnamed "low-cost alternative[s]" in planning | B2B is contestable at the low end. MBGL competes on breadth plus analysts. | [IR] |
 | MBGL's own Listings (launched 2014) | After 12 years it is still the "newest of the four" with <10% of a $3bn+ market | The CARFAX brand does **not** carry over automatically into adjacent categories with entrenched incumbents | [IR] / [C] |
 | MBGL Europe (Spain, Italy, Poland; Germany Jul-2026) | Consumer-first entry; "strong double-digit" growth but transactional revenue missed in Q2-26 | Shows what it costs MBGL itself to rebuild the network from zero abroad. That is the same barrier an entrant faces in the US. | [IR] |
 

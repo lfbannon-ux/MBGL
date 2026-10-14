@@ -1,0 +1,11 @@
+# Full-read spec — competitive advantage & the AI age (S&P Global / IHS Markit transcripts)
+Purpose: an earlier pass relied on keyword hits. This pass must READ EVERY PARAGRAPH of each assigned transcript, start to finish, prepared remarks and Q&A.
+Do NOT use keyword search to decide what to read. If a transcript is too large to return inline, page through it with fromTimestamp / nextFromTimestamp and read each page completely.
+Tools: ToolSearch "select:mcp__Quartr__read_transcript". Guard: confirm company/title/date match the assignment (record WRONG-EVENT otherwise).
+Capture two kinds of passage:
+ A. MOBILITY-SPECIFIC — anything said about the Mobility / Transportation / automotive unit, CARFAX, Polk, automotiveMastermind, Market Scan, dealers/OEM data: its competitive advantage, moat, data, brand, switching costs, competition, pricing power, retention, and anything about AI/ML/GenAI/LLMs/agents in relation to it (threat, opportunity, products, efficiency, data licensing).
+ B. PARENT AI-AGE THESIS — S&P Global's own statements on how proprietary data/benchmarks/workflow embedding fare against AI (LLMs disintermediating data vendors, data licensing to AI firms, "AI-ready data", Kensho, agents/MCP, customers building in-house). Capture these even if Mobility is not named, tagged SPGI-WIDE, because they are the parent's framework applied (or not) to Mobility. Note explicitly whether Mobility is included in/excluded from the statement.
+Per passage: tags (MOAT / DATA / BRAND / SWITCHING / COMPETITION / AI-opportunity / AI-threat / AI-product / AI-efficiency / AI-licensing / ANALYST-challenge / SPGI-WIDE), speaker (name, title; for Q&A one-line question in your words), verbatim quote (max 2 sentences, exact), detail (your paraphrase incl. all numbers), tier ([IR] management, [X] analyst), Quartr timestamp link.
+Do not save transcripts or long passages. Verify quotes verbatim.
+Output: one file per event /home/user/MBGL/work/analysis/AI_full_read/{COMPANY}_{YYYY-MM-DD}_{eventId}.md with header (event, date, paragraphs read, pages read, "read in full: yes/no") then entries; if nothing relevant, say so with paragraph count. Checkpoint per event.
+Final report < 150 words: per event, paragraphs read + entries (A/B), any not read in full.

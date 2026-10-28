@@ -414,6 +414,7 @@ pivot('Predecessor Segments', 'Predecessor segment history — S&P Global "Mobil
       rd('predecessor.csv'))
 
 exec(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'segment_history_block.py')).read())
+exec(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'summary_block.py')).read())
 
 # Acquisitions — deal-per-column
 ws = wb.create_sheet('Acquisitions')
@@ -503,7 +504,7 @@ cover = [
  ('Source limitation', 'Native filings (EDGAR, Quartr PDF CDN, Wayback) were blocked by the sandbox network policy; Quartr page text flattens tables and corrupts some digits. Unreadable cells are left blank and logged (Accounting Notes, *_NOTES.md). No XBRL cross-check was possible — verification is cross-document (Form 10 vs 10/A vs 10-Q vs 8-K vs decks).'),
  ('Conventions', 'Blank = not reported / not machine-readable; dash = reported zero. Blue = hard input as filed; black = in-sheet formula; green = cross-sheet formula. "0.0%" literal format = as-printed percentage; true % = computed ratio. Check rows marked CHECK (hidden col Z).'),
  ('Tiers', '[D] disclosed · [C] computed · [E] estimate · [IR] management verbal · [X] third party · [context] general knowledge.'),
- ('Tabs', 'Accounting Notes · IS · BS · CF · Key Metrics · Segment P&L · Segments · Revenue Detail · Adjusted Non-GAAP · Operating KPIs · notes tabs (Debt, Tax, Equity, OCI, Pension, Goodwill & Intangibles, Related Party, Leases, Commitments, Deferred Revenue) · Pro Forma · Segment History · Predecessor Segments · Acquisitions · Presentation Data · Qualitative · Caption Map'),
+ ('Tabs', 'Annual Summary (front: FY14–FY26E P&L, balance sheet, cash flow, segments) · Accounting Notes · IS · BS · CF · Key Metrics · Segment P&L · Segments · Revenue Detail · Adjusted Non-GAAP · Operating KPIs · notes tabs (Debt, Tax, Equity, OCI, Pension, Goodwill & Intangibles, Related Party, Leases, Commitments, Deferred Revenue) · Pro Forma · Segment History · Predecessor Segments · Acquisitions · Presentation Data · Qualitative · Caption Map'),
 ]
 for i, (k, v) in enumerate(cover):
     ws.cell(4 + i, 1, k).font = F_SEC
@@ -516,6 +517,7 @@ for s in wb.worksheets:
                 c.font = Font(name='Arial', size=c.font.size if c.font and c.font.size else 9, bold=c.font.bold if c.font else False,
                               italic=c.font.italic if c.font else False, color=c.font.color if c.font else None)
 an_ws = wb['Accounting Notes']; wb._sheets.remove(an_ws); wb._sheets.insert(1, an_ws)
+sum_ws = wb['Annual Summary']; wb._sheets.remove(sum_ws); wb._sheets.insert(0, sum_ws); wb.active = 0
 out = f'{W}/deliverables/MBGL_Historical_Model.xlsx'
 os.makedirs(os.path.dirname(out), exist_ok=True)
 wb.save(out)
